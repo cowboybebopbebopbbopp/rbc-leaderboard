@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T09:38:56+00:00",
+  "updated": "2026-09-20T10:38:58+00:00",
   "count": 176,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1767,
+      "value": 1769,
       "move": 0
     },
     {
@@ -395,21 +395,21 @@
     },
     {
       "rank": 66,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Руслан Иванов",
       "value": 30,
-      "move": -1
+      "move": 2
     },
     {
       "rank": 67,
-      "name": "Iodva",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 30,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 68,
-      "name": "Руслан Иванов",
-      "value": 29,
-      "move": 0
+      "name": "Iodva",
+      "value": 30,
+      "move": -1
     },
     {
       "rank": 69,
@@ -1064,7 +1064,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 196
+      "value": 193
     },
     {
       "rank": 2,
@@ -1078,13 +1078,13 @@
     },
     {
       "rank": 4,
-      "name": "Viktor",
-      "value": 54
+      "name": "Archie",
+      "value": 55
     },
     {
       "rank": 5,
-      "name": "Archie",
-      "value": 53
+      "name": "Viktor",
+      "value": 54
     },
     {
       "rank": 6,
@@ -1108,23 +1108,23 @@
     },
     {
       "rank": 10,
-      "name": "Manis Love",
-      "value": 18
-    },
-    {
-      "rank": 11,
       "name": "Синдбад Мореход",
       "value": 18
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Сергей",
       "value": 17
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 16
+    },
+    {
+      "rank": 13,
+      "name": "Manis Love",
+      "value": 15
     },
     {
       "rank": 14,
@@ -1163,32 +1163,32 @@
     },
     {
       "rank": 21,
-      "name": "Юрий",
-      "value": 8
+      "name": "Руслан Иванов",
+      "value": 9
     },
     {
       "rank": 22,
-      "name": "Aся",
+      "name": "Юрий",
       "value": 8
     },
     {
       "rank": 23,
-      "name": "Руслан Иванов",
-      "value": 8
-    },
-    {
-      "rank": 24,
       "name": "ᴦоᴧод",
       "value": 8
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Юрий",
       "value": 7
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "SPM",
+      "value": 7
+    },
+    {
+      "rank": 26,
+      "name": "Aся",
       "value": 7
     },
     {
@@ -1203,37 +1203,37 @@
     },
     {
       "rank": 29,
-      "name": "🤗",
-      "value": 7
-    },
-    {
-      "rank": 30,
       "name": "lefkorosos",
       "value": 7
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Kirill",
       "value": 6
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Sergey СЕО",
       "value": 6
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "iDiklonius",
       "value": 6
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Александр",
       "value": 6
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Sergey",
+      "value": 6
+    },
+    {
+      "rank": 35,
+      "name": "🤗",
       "value": 6
     },
     {
@@ -1288,27 +1288,27 @@
     },
     {
       "rank": 46,
-      "name": "Marat Miheev",
-      "value": 3
-    },
-    {
-      "rank": 47,
       "name": "🏴‍☠️",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Artem Khomenko",
+      "value": 2
+    },
+    {
+      "rank": 50,
+      "name": "Sviat",
       "value": 2
     }
   ],
@@ -1331,7 +1331,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 15
+      "value": 17
     },
     {
       "rank": 5,
@@ -1351,7 +1351,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 9
+      "value": 8
     },
     {
       "rank": 9,
@@ -1380,22 +1380,22 @@
     },
     {
       "rank": 14,
-      "name": "LlirikMK",
+      "name": "Руслан Иванов",
       "value": 6
     },
     {
       "rank": 15,
-      "name": "Sergey",
+      "name": "LlirikMK",
       "value": 6
     },
     {
       "rank": 16,
-      "name": "terminal lucidity",
-      "value": 5
+      "name": "Sergey",
+      "value": 6
     },
     {
       "rank": 17,
-      "name": "Руслан Иванов",
+      "name": "terminal lucidity",
       "value": 5
     },
     {
