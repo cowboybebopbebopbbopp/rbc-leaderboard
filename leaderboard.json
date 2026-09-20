@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T17:39:09+00:00",
+  "updated": "2026-09-20T18:39:10+00:00",
   "count": 176,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1218,
+      "value": 1219,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 467,
+      "value": 468,
       "move": 0
     },
     {
@@ -1203,22 +1203,22 @@
     },
     {
       "rank": 29,
-      "name": "lefkorosos",
+      "name": "iDiklonius",
       "value": 7
     },
     {
       "rank": 30,
+      "name": "lefkorosos",
+      "value": 7
+    },
+    {
+      "rank": 31,
       "name": "Kirill",
       "value": 6
     },
     {
-      "rank": 31,
-      "name": "Sergey СЕО",
-      "value": 6
-    },
-    {
       "rank": 32,
-      "name": "iDiklonius",
+      "name": "Sergey СЕО",
       "value": 6
     },
     {
@@ -1321,7 +1321,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 3,
@@ -1395,13 +1395,13 @@
     },
     {
       "rank": 17,
-      "name": "Sergey",
+      "name": "iDiklonius",
       "value": 6
     },
     {
       "rank": 18,
-      "name": "iDiklonius",
-      "value": 5
+      "name": "Sergey",
+      "value": 6
     },
     {
       "rank": 19,
@@ -1465,62 +1465,62 @@
     },
     {
       "rank": 31,
-      "name": "***",
-      "value": 2
-    },
-    {
-      "rank": 32,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Денис Сергеевич",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Анастасия",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Andrey",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "X888",
+      "value": 1
+    },
+    {
+      "rank": 42,
+      "name": "***",
       "value": 1
     },
     {
