@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T16:39:07+00:00",
+  "updated": "2026-09-20T17:39:09+00:00",
   "count": 176,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1824,
+      "value": 1826,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1215,
+      "value": 1218,
       "move": 0
     },
     {
@@ -251,15 +251,15 @@
     },
     {
       "rank": 42,
-      "name": "shagron2",
-      "value": 100,
-      "move": 0
+      "name": "Vitaliy",
+      "value": 102,
+      "move": 1
     },
     {
       "rank": 43,
-      "name": "Vitaliy",
+      "name": "shagron2",
       "value": 100,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 44,
@@ -282,26 +282,26 @@
     {
       "rank": 47,
       "name": "Сергей",
-      "value": 87,
+      "value": 88,
       "move": 1
     },
     {
       "rank": 48,
-      "name": "Max",
+      "name": "terminal lucidity",
       "value": 86,
-      "move": -1
+      "move": 2
     },
     {
       "rank": 49,
-      "name": "Павел Корчагин",
+      "name": "Max",
       "value": 86,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 50,
-      "name": "terminal lucidity",
-      "value": 84,
-      "move": 0
+      "name": "Павел Корчагин",
+      "value": 86,
+      "move": -1
     },
     {
       "rank": 51,
@@ -372,7 +372,7 @@
     {
       "rank": 62,
       "name": "LlirikMK",
-      "value": 38,
+      "value": 39,
       "move": 0
     },
     {
@@ -641,33 +641,33 @@
     },
     {
       "rank": 107,
-      "name": "Sila",
-      "value": 4,
-      "move": -2
+      "name": "Станислав Баев",
+      "value": 5,
+      "move": null
     },
     {
       "rank": 108,
-      "name": "xv",
+      "name": "Sila",
       "value": 4,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 109,
-      "name": "Виталий",
+      "name": "xv",
       "value": 4,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 110,
-      "name": "Slawik",
+      "name": "Виталий",
       "value": 4,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 111,
-      "name": "Станислав Баев",
+      "name": "Slawik",
       "value": 4,
-      "move": null
+      "move": -3
     },
     {
       "rank": 112,
@@ -1069,7 +1069,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 117
+      "value": 119
     },
     {
       "rank": 3,
@@ -1089,12 +1089,12 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 29
+      "value": 31
     },
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 25
+      "value": 27
     },
     {
       "rank": 8,
@@ -1114,7 +1114,7 @@
     {
       "rank": 11,
       "name": "Сергей",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 12,
@@ -1138,22 +1138,22 @@
     },
     {
       "rank": 16,
-      "name": ".",
+      "name": "terminal lucidity",
       "value": 12
     },
     {
       "rank": 17,
-      "name": "DenisNazarov",
-      "value": 10
+      "name": ".",
+      "value": 12
     },
     {
       "rank": 18,
-      "name": "terminal lucidity",
-      "value": 10
+      "name": "LlirikMK",
+      "value": 11
     },
     {
       "rank": 19,
-      "name": "LlirikMK",
+      "name": "DenisNazarov",
       "value": 10
     },
     {
@@ -1273,22 +1273,22 @@
     },
     {
       "rank": 43,
-      "name": "Safe",
+      "name": "Станислав Баев",
       "value": 4
     },
     {
       "rank": 44,
+      "name": "Safe",
+      "value": 4
+    },
+    {
+      "rank": 45,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 45,
-      "name": "Виталий",
-      "value": 3
-    },
-    {
       "rank": 46,
-      "name": "Станислав Баев",
+      "name": "Виталий",
       "value": 3
     },
     {
@@ -1321,7 +1321,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 31
+      "value": 34
     },
     {
       "rank": 3,
@@ -1335,68 +1335,68 @@
     },
     {
       "rank": 5,
+      "name": "Vitaliy",
+      "value": 12
+    },
+    {
+      "rank": 6,
+      "name": "🅾🅻🅶🅰",
+      "value": 12
+    },
+    {
+      "rank": 7,
       "name": "A.",
       "value": 10
     },
     {
-      "rank": 6,
-      "name": "Vitaliy",
-      "value": 10
-    },
-    {
-      "rank": 7,
-      "name": "🅾🅻🅶🅰",
-      "value": 10
-    },
-    {
       "rank": 8,
-      "name": "Zero-sum Gamer",
+      "name": "Сергей",
       "value": 8
     },
     {
       "rank": 9,
+      "name": "Zero-sum Gamer",
+      "value": 8
+    },
+    {
+      "rank": 10,
       "name": "Юрий",
       "value": 7
     },
     {
-      "rank": 10,
-      "name": "Сергей",
-      "value": 7
-    },
-    {
       "rank": 11,
-      "name": "lefkorosos",
+      "name": "terminal lucidity",
       "value": 7
     },
     {
       "rank": 12,
-      "name": "@wavesscalper",
+      "name": "LlirikMK",
       "value": 7
     },
     {
       "rank": 13,
+      "name": "lefkorosos",
+      "value": 7
+    },
+    {
+      "rank": 14,
+      "name": "@wavesscalper",
+      "value": 7
+    },
+    {
+      "rank": 15,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 16,
       "name": "Руслан Иванов",
       "value": 6
     },
     {
-      "rank": 15,
-      "name": "LlirikMK",
-      "value": 6
-    },
-    {
-      "rank": 16,
+      "rank": 17,
       "name": "Sergey",
       "value": 6
-    },
-    {
-      "rank": 17,
-      "name": "terminal lucidity",
-      "value": 5
     },
     {
       "rank": 18,
@@ -1421,7 +1421,7 @@
     {
       "rank": 22,
       "name": "Станислав Баев",
-      "value": 3
+      "value": 4
     },
     {
       "rank": 23,
