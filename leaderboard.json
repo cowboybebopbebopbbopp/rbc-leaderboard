@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T18:39:10+00:00",
+  "updated": "2026-09-20T19:39:12+00:00",
   "count": 176,
   "has_movement": true,
   "all": [
@@ -1520,21 +1520,16 @@
     },
     {
       "rank": 42,
-      "name": "***",
-      "value": 1
-    },
-    {
-      "rank": 43,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Marina",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Ponemonec",
       "value": 1
     }
