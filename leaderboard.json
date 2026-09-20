@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T13:39:02+00:00",
+  "updated": "2026-09-20T14:39:04+00:00",
   "count": 176,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4293,
+      "value": 4294,
       "move": 0
     },
     {
@@ -1064,7 +1064,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 194
+      "value": 195
     },
     {
       "rank": 2,
@@ -1074,7 +1074,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 62
+      "value": 60
     },
     {
       "rank": 4,
@@ -1099,7 +1099,7 @@
     {
       "rank": 8,
       "name": "A.",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 9,
@@ -1316,7 +1316,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 61
+      "value": 62
     },
     {
       "rank": 2,
@@ -1430,52 +1430,52 @@
     },
     {
       "rank": 24,
-      "name": "ᴦоᴧод",
-      "value": 3
-    },
-    {
-      "rank": 25,
       "name": ".",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Milutin",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Александр",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "***",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Денис Сергеевич",
+      "value": 2
+    },
+    {
+      "rank": 33,
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
