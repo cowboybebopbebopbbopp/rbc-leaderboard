@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T11:38:59+00:00",
+  "updated": "2026-09-20T12:39:00+00:00",
   "count": 176,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4291,
+      "value": 4292,
       "move": 0
     },
     {
@@ -521,27 +521,27 @@
     },
     {
       "rank": 87,
-      "name": "Роман",
-      "value": 9,
-      "move": 7
+      "name": "Евгений",
+      "value": 10,
+      "move": 5
     },
     {
       "rank": 88,
-      "name": "***",
+      "name": "Роман",
       "value": 9,
-      "move": -2
+      "move": 6
     },
     {
       "rank": 89,
-      "name": "Demius",
+      "name": "***",
       "value": 9,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 90,
-      "name": "Евгений",
+      "name": "Demius",
       "value": 9,
-      "move": 2
+      "move": -3
     },
     {
       "rank": 91,
@@ -1089,7 +1089,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 7,
@@ -1293,22 +1293,22 @@
     },
     {
       "rank": 47,
-      "name": "🏴‍☠️",
+      "name": "Евгений",
       "value": 3
     },
     {
       "rank": 48,
+      "name": "🏴‍☠️",
+      "value": 3
+    },
+    {
+      "rank": 49,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 49,
-      "name": "Artem Khomenko",
-      "value": 2
-    },
-    {
       "rank": 50,
-      "name": "Sviat",
+      "name": "Artem Khomenko",
       "value": 2
     }
   ],
@@ -1316,7 +1316,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 59
+      "value": 60
     },
     {
       "rank": 2,
@@ -1325,13 +1325,13 @@
     },
     {
       "rank": 3,
-      "name": "Viktor",
+      "name": "Archie",
       "value": 18
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 18
+      "name": "Viktor",
+      "value": 17
     },
     {
       "rank": 5,
@@ -1355,22 +1355,22 @@
     },
     {
       "rank": 9,
-      "name": "@wavesscalper",
-      "value": 8
-    },
-    {
-      "rank": 10,
       "name": "Юрий",
       "value": 7
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Сергей",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "lefkorosos",
+      "value": 7
+    },
+    {
+      "rank": 12,
+      "name": "@wavesscalper",
       "value": 7
     },
     {
@@ -1425,27 +1425,27 @@
     },
     {
       "rank": 23,
-      "name": "ᴦоᴧод",
+      "name": "Евгений",
       "value": 3
     },
     {
       "rank": 24,
-      "name": ".",
+      "name": "ᴦоᴧод",
       "value": 3
     },
     {
       "rank": 25,
+      "name": ".",
+      "value": 3
+    },
+    {
+      "rank": 26,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 26,
-      "name": "Milutin",
-      "value": 2
-    },
-    {
       "rank": 27,
-      "name": "SPM",
+      "name": "Milutin",
       "value": 2
     },
     {
@@ -1460,76 +1460,71 @@
     },
     {
       "rank": 30,
-      "name": "Евгений",
-      "value": 2
-    },
-    {
-      "rank": 31,
       "name": "Александр",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "***",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Денис Сергеевич",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Анастасия",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Andrey",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Ponemonec",
       "value": 1
     }
