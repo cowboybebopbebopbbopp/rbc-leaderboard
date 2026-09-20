@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T12:39:00+00:00",
+  "updated": "2026-09-20T13:39:02+00:00",
   "count": 176,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4292,
+      "value": 4293,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 649,
+      "value": 650,
       "move": 0
     },
     {
@@ -1064,12 +1064,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 193
+      "value": 194
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 119
+      "value": 117
     },
     {
       "rank": 3,
@@ -1118,13 +1118,13 @@
     },
     {
       "rank": 12,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Князь Владимир С",
       "value": 16
     },
     {
       "rank": 13,
-      "name": "Manis Love",
-      "value": 15
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 16
     },
     {
       "rank": 14,
@@ -1133,8 +1133,8 @@
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
-      "value": 15
+      "name": "Manis Love",
+      "value": 14
     },
     {
       "rank": 16,
@@ -1233,17 +1233,17 @@
     },
     {
       "rank": 35,
-      "name": "🤗",
-      "value": 6
-    },
-    {
-      "rank": 36,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "-",
+      "value": 5
+    },
+    {
+      "rank": 37,
+      "name": "🤗",
       "value": 5
     },
     {
@@ -1316,7 +1316,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 60
+      "value": 61
     },
     {
       "rank": 2,
@@ -1405,17 +1405,17 @@
     },
     {
       "rank": 19,
+      "name": "Князь Владимир С",
+      "value": 5
+    },
+    {
+      "rank": 20,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 20,
-      "name": "PiratesOfMining",
-      "value": 4
-    },
-    {
       "rank": 21,
-      "name": "Князь Владимир С",
+      "name": "PiratesOfMining",
       "value": 4
     },
     {
