@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T06:39:32+00:00",
+  "updated": "2026-09-21T07:39:33+00:00",
   "count": 178,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1221,
+      "value": 1222,
       "move": 0
     },
     {
@@ -192,7 +192,7 @@
     {
       "rank": 32,
       "name": ".",
-      "value": 142,
+      "value": 143,
       "move": 0
     },
     {
@@ -1081,7 +1081,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 118
+      "value": 119
     },
     {
       "rank": 3,
@@ -1110,32 +1110,32 @@
     },
     {
       "rank": 8,
-      "name": "A.",
-      "value": 20
-    },
-    {
-      "rank": 9,
       "name": "@wavesscalper",
       "value": 20
     },
     {
-      "rank": 10,
-      "name": "Синдбад Мореход",
-      "value": 18
+      "rank": 9,
+      "name": "A.",
+      "value": 19
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Сергей",
       "value": 17
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Князь Владимир С",
       "value": 16
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Jekago |РБК Крипто, мод.",
+      "value": 16
+    },
+    {
+      "rank": 13,
+      "name": "Синдбад Мореход",
       "value": 16
     },
     {
@@ -1155,12 +1155,12 @@
     },
     {
       "rank": 17,
-      "name": "terminal lucidity",
-      "value": 12
+      "name": ".",
+      "value": 13
     },
     {
       "rank": 18,
-      "name": ".",
+      "name": "terminal lucidity",
       "value": 12
     },
     {
@@ -1333,7 +1333,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 37
+      "value": 36
     },
     {
       "rank": 3,
@@ -1422,27 +1422,27 @@
     },
     {
       "rank": 20,
-      "name": "Юрий",
-      "value": 4
-    },
-    {
-      "rank": 21,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Станислав Баев",
       "value": 4
     },
     {
+      "rank": 22,
+      "name": ".",
+      "value": 4
+    },
+    {
       "rank": 23,
-      "name": "Евгений",
+      "name": "Юрий",
       "value": 3
     },
     {
       "rank": 24,
-      "name": ".",
+      "name": "Евгений",
       "value": 3
     },
     {
