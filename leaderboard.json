@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T18:39:58+00:00",
+  "updated": "2026-09-21T19:40:00+00:00",
   "count": 179,
   "has_movement": true,
   "all": [
@@ -42,13 +42,13 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 995,
+      "value": 996,
       "move": 0
     },
     {
       "rank": 8,
       "name": "PiratesOfMining",
-      "value": 913,
+      "value": 915,
       "move": 0
     },
     {
@@ -1102,7 +1102,7 @@
     {
       "rank": 5,
       "name": "Viktor",
-      "value": 50
+      "value": 51
     },
     {
       "rank": 6,
@@ -1191,87 +1191,87 @@
     },
     {
       "rank": 23,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 8
-    },
-    {
-      "rank": 24,
       "name": "lefkorosos",
       "value": 8
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "ᴦоᴧод",
       "value": 8
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "SPM",
       "value": 7
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Aся",
       "value": 7
     },
     {
+      "rank": 27,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 7
+    },
+    {
       "rank": 28,
-      "name": "Aleksey",
+      "name": "PiratesOfMining",
       "value": 7
     },
     {
       "rank": 29,
-      "name": "Анастасия",
+      "name": "Aleksey",
       "value": 7
     },
     {
       "rank": 30,
-      "name": "🤗",
+      "name": "Анастасия",
       "value": 7
     },
     {
       "rank": 31,
+      "name": "🤗",
+      "value": 7
+    },
+    {
+      "rank": 32,
       "name": "Kirill",
       "value": 6
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Руслан Иванов",
       "value": 6
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Sergey СЕО",
       "value": 6
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Александр",
       "value": 6
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Max",
       "value": 6
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 38,
-      "name": "-",
-      "value": 5
-    },
-    {
       "rank": 39,
-      "name": "PiratesOfMining",
+      "name": "-",
       "value": 5
     },
     {
@@ -1344,12 +1344,12 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 5,
@@ -1403,33 +1403,33 @@
     },
     {
       "rank": 15,
-      "name": "Zero-sum Gamer",
+      "name": "PiratesOfMining",
       "value": 7
     },
     {
       "rank": 16,
+      "name": "Zero-sum Gamer",
+      "value": 7
+    },
+    {
+      "rank": 17,
       "name": "Руслан Иванов",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "@wavesscalper",
       "value": 6
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": ".",
       "value": 6
-    },
-    {
-      "rank": 20,
-      "name": "PiratesOfMining",
-      "value": 5
     },
     {
       "rank": 21,
