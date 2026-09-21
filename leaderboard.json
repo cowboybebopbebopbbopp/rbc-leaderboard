@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T11:39:42+00:00",
+  "updated": "2026-09-21T12:39:45+00:00",
   "count": 178,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4306,
+      "value": 4307,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 470,
+      "value": 471,
       "move": 0
     },
     {
@@ -162,7 +162,7 @@
     {
       "rank": 27,
       "name": "Manis Love",
-      "value": 192,
+      "value": 193,
       "move": 0
     },
     {
@@ -294,7 +294,7 @@
     {
       "rank": 49,
       "name": "terminal lucidity",
-      "value": 86,
+      "value": 87,
       "move": 1
     },
     {
@@ -1076,7 +1076,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 202
+      "value": 203
     },
     {
       "rank": 2,
@@ -1115,17 +1115,17 @@
     },
     {
       "rank": 9,
-      "name": "@wavesscalper",
-      "value": 20
-    },
-    {
-      "rank": 10,
       "name": "LlirikMK",
       "value": 18
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Сергей",
+      "value": 17
+    },
+    {
+      "rank": 11,
+      "name": "@wavesscalper",
       "value": 17
     },
     {
@@ -1145,23 +1145,23 @@
     },
     {
       "rank": 15,
-      "name": "L G",
+      "name": "Manis Love",
       "value": 15
     },
     {
       "rank": 16,
-      "name": "Manis Love",
-      "value": 14
+      "name": "L G",
+      "value": 15
     },
     {
       "rank": 17,
-      "name": ".",
+      "name": "terminal lucidity",
       "value": 13
     },
     {
       "rank": 18,
-      "name": "terminal lucidity",
-      "value": 12
+      "name": ".",
+      "value": 13
     },
     {
       "rank": 19,
@@ -1170,67 +1170,67 @@
     },
     {
       "rank": 20,
-      "name": "Юрий",
-      "value": 9
+      "name": "iDiklonius",
+      "value": 10
     },
     {
       "rank": 21,
-      "name": "Руслан Иванов",
+      "name": "Юрий",
       "value": 9
     },
     {
       "rank": 22,
-      "name": "iDiklonius",
-      "value": 9
-    },
-    {
-      "rank": 23,
       "name": "Юрий",
       "value": 8
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Aся",
       "value": 8
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "lefkorosos",
       "value": 8
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "ᴦоᴧод",
       "value": 8
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "SPM",
       "value": 7
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Aleksey",
       "value": 7
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Анастасия",
       "value": 7
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "🤗",
       "value": 7
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Kirill",
+      "value": 6
+    },
+    {
+      "rank": 32,
+      "name": "Руслан Иванов",
       "value": 6
     },
     {
@@ -1372,33 +1372,33 @@
     },
     {
       "rank": 10,
-      "name": "Сергей",
-      "value": 8
+      "name": "iDiklonius",
+      "value": 9
     },
     {
       "rank": 11,
-      "name": "iDiklonius",
+      "name": "terminal lucidity",
       "value": 8
     },
     {
       "rank": 12,
-      "name": "lefkorosos",
+      "name": "Сергей",
       "value": 8
     },
     {
       "rank": 13,
-      "name": "terminal lucidity",
-      "value": 7
+      "name": "lefkorosos",
+      "value": 8
     },
     {
       "rank": 14,
-      "name": "Zero-sum Gamer",
+      "name": "Manis Love",
       "value": 7
     },
     {
       "rank": 15,
-      "name": "Manis Love",
-      "value": 6
+      "name": "Zero-sum Gamer",
+      "value": 7
     },
     {
       "rank": 16,
@@ -1432,17 +1432,17 @@
     },
     {
       "rank": 22,
-      "name": "Max",
-      "value": 4
-    },
-    {
-      "rank": 23,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Юрий",
+      "value": 3
+    },
+    {
+      "rank": 24,
+      "name": "Max",
       "value": 3
     },
     {
