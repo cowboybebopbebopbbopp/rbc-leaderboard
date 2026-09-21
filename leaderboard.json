@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T14:39:49+00:00",
+  "updated": "2026-09-21T15:39:52+00:00",
   "count": 178,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4308,
+      "value": 4310,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1226,
+      "value": 1228,
       "move": 0
     },
     {
@@ -192,7 +192,7 @@
     {
       "rank": 32,
       "name": ".",
-      "value": 143,
+      "value": 144,
       "move": 0
     },
     {
@@ -281,21 +281,21 @@
     },
     {
       "rank": 47,
-      "name": "Sergey СЕО",
-      "value": 88,
-      "move": -1
+      "name": "Сергей",
+      "value": 89,
+      "move": 0
     },
     {
       "rank": 48,
-      "name": "terminal lucidity",
+      "name": "Sergey СЕО",
       "value": 88,
-      "move": 2
+      "move": -2
     },
     {
       "rank": 49,
-      "name": "Сергей",
+      "name": "terminal lucidity",
       "value": 88,
-      "move": -2
+      "move": 1
     },
     {
       "rank": 50,
@@ -1076,12 +1076,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 204
+      "value": 206
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 123
+      "value": 124
     },
     {
       "rank": 3,
@@ -1115,13 +1115,13 @@
     },
     {
       "rank": 9,
-      "name": "LlirikMK",
+      "name": "Сергей",
       "value": 18
     },
     {
       "rank": 10,
-      "name": "Сергей",
-      "value": 17
+      "name": "LlirikMK",
+      "value": 18
     },
     {
       "rank": 11,
@@ -1161,7 +1161,7 @@
     {
       "rank": 18,
       "name": ".",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 19,
@@ -1328,12 +1328,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 72
+      "value": 74
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 38
+      "value": 40
     },
     {
       "rank": 3,
@@ -1377,12 +1377,12 @@
     },
     {
       "rank": 11,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 9
     },
     {
       "rank": 12,
-      "name": "Сергей",
+      "name": "iDiklonius",
       "value": 8
     },
     {
@@ -1422,17 +1422,17 @@
     },
     {
       "rank": 20,
+      "name": ".",
+      "value": 5
+    },
+    {
+      "rank": 21,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 21,
-      "name": "Станислав Баев",
-      "value": 4
-    },
-    {
       "rank": 22,
-      "name": ".",
+      "name": "Станислав Баев",
       "value": 4
     },
     {
