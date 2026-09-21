@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T22:40:05+00:00",
+  "updated": "2026-09-21T23:40:07+00:00",
   "count": 179,
   "has_movement": true,
   "all": [
@@ -1141,17 +1141,17 @@
     },
     {
       "rank": 13,
-      "name": "Синдбад Мореход",
-      "value": 16
-    },
-    {
-      "rank": 14,
       "name": "Manis Love",
       "value": 15
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "L G",
+      "value": 15
+    },
+    {
+      "rank": 15,
+      "name": "Синдбад Мореход",
       "value": 15
     },
     {
