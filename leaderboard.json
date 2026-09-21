@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T15:39:52+00:00",
+  "updated": "2026-09-21T16:39:55+00:00",
   "count": 178,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1228,
+      "value": 1230,
       "move": 0
     },
     {
@@ -192,7 +192,7 @@
     {
       "rank": 32,
       "name": ".",
-      "value": 144,
+      "value": 145,
       "move": 0
     },
     {
@@ -755,171 +755,171 @@
     },
     {
       "rank": 126,
-      "name": "dg",
+      "name": "Lubo",
       "value": 2,
-      "move": -2
+      "move": 23
     },
     {
       "rank": 127,
-      "name": "Юрий",
+      "name": "dg",
       "value": 2,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 128,
-      "name": "Arewoe",
+      "name": "Юрий",
       "value": 2,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 129,
-      "name": "Мон Ами",
+      "name": "Arewoe",
       "value": 2,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 130,
-      "name": "Ольга",
+      "name": "Мон Ами",
       "value": 2,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 131,
-      "name": "Jeffrey",
+      "name": "Ольга",
       "value": 2,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 132,
-      "name": "Marina",
+      "name": "Jeffrey",
       "value": 2,
-      "move": 32
+      "move": -3
     },
     {
       "rank": 133,
-      "name": "AK",
+      "name": "Marina",
       "value": 2,
-      "move": -3
+      "move": 31
     },
     {
       "rank": 134,
-      "name": "Nikita",
+      "name": "AK",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 135,
-      "name": "Дмитрий",
+      "name": "Nikita",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 136,
+      "name": "Дмитрий",
+      "value": 2,
+      "move": -4
+    },
+    {
+      "rank": 137,
       "name": "ц",
       "value": 2,
       "move": null
     },
     {
-      "rank": 137,
+      "rank": 138,
       "name": "⁤",
       "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 138,
-      "name": "Андрей Грубий",
-      "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 139,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 140,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 141,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 142,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 143,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 144,
-      "name": "Артём",
+      "name": "Александр",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 145,
-      "name": "Mikhail Strovsky (PhD)",
+      "name": "Артём",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 146,
-      "name": "Арина Белова",
+      "name": "Mikhail Strovsky (PhD)",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 147,
-      "name": "A M",
+      "name": "Арина Белова",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 148,
-      "name": "Аslan Beispekov",
+      "name": "A M",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 149,
-      "name": "Лада",
+      "name": "Аslan Beispekov",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 150,
-      "name": "Djoni Wik",
+      "name": "Лада",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 151,
-      "name": "ЮРА",
+      "name": "Djoni Wik",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 152,
-      "name": "Игорь",
+      "name": "ЮРА",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 153,
-      "name": "Lubo",
+      "name": "Игорь",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 154,
@@ -1081,7 +1081,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 124
+      "value": 126
     },
     {
       "rank": 3,
@@ -1125,42 +1125,42 @@
     },
     {
       "rank": 11,
-      "name": "@wavesscalper",
-      "value": 17
-    },
-    {
-      "rank": 12,
       "name": "Князь Владимир С",
       "value": 16
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 16
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Синдбад Мореход",
       "value": 16
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "L G",
       "value": 15
     },
     {
+      "rank": 15,
+      "name": "@wavesscalper",
+      "value": 15
+    },
+    {
       "rank": 16,
+      "name": ".",
+      "value": 15
+    },
+    {
+      "rank": 17,
       "name": "Manis Love",
       "value": 14
     },
     {
-      "rank": 17,
-      "name": "terminal lucidity",
-      "value": 14
-    },
-    {
       "rank": 18,
-      "name": ".",
+      "name": "terminal lucidity",
       "value": 14
     },
     {
@@ -1328,12 +1328,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 74
+      "value": 73
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 40
+      "value": 42
     },
     {
       "rank": 3,
@@ -1417,12 +1417,12 @@
     },
     {
       "rank": 19,
-      "name": "Князь Владимир С",
-      "value": 5
+      "name": ".",
+      "value": 6
     },
     {
       "rank": 20,
-      "name": ".",
+      "name": "Князь Владимир С",
       "value": 5
     },
     {
@@ -1547,16 +1547,21 @@
     },
     {
       "rank": 45,
-      "name": "Marina",
+      "name": "Lubo",
       "value": 1
     },
     {
       "rank": 46,
-      "name": "Ponemonec",
+      "name": "Marina",
       "value": 1
     },
     {
       "rank": 47,
+      "name": "Ponemonec",
+      "value": 1
+    },
+    {
+      "rank": 48,
       "name": "Safe",
       "value": 1
     }
