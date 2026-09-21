@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T20:40:02+00:00",
+  "updated": "2026-09-21T21:40:04+00:00",
   "count": 179,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "PiratesOfMining",
-      "value": 917,
+      "value": 919,
       "move": 0
     },
     {
@@ -162,7 +162,7 @@
     {
       "rank": 27,
       "name": "Manis Love",
-      "value": 193,
+      "value": 194,
       "move": 0
     },
     {
@@ -1146,23 +1146,23 @@
     },
     {
       "rank": 14,
-      "name": "L G",
+      "name": "Manis Love",
       "value": 15
     },
     {
       "rank": 15,
-      "name": "@wavesscalper",
+      "name": "L G",
       "value": 15
     },
     {
       "rank": 16,
-      "name": ".",
+      "name": "@wavesscalper",
       "value": 15
     },
     {
       "rank": 17,
-      "name": "Manis Love",
-      "value": 14
+      "name": ".",
+      "value": 15
     },
     {
       "rank": 18,
@@ -1171,27 +1171,27 @@
     },
     {
       "rank": 19,
+      "name": "PiratesOfMining",
+      "value": 11
+    },
+    {
+      "rank": 20,
       "name": "DenisNazarov",
       "value": 10
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "iDiklonius",
       "value": 10
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Юрий",
       "value": 9
     },
     {
-      "rank": 22,
-      "name": "SPM",
-      "value": 9
-    },
-    {
       "rank": 23,
-      "name": "PiratesOfMining",
+      "name": "SPM",
       "value": 9
     },
     {
@@ -1373,17 +1373,17 @@
     },
     {
       "rank": 9,
+      "name": "PiratesOfMining",
+      "value": 11
+    },
+    {
+      "rank": 10,
       "name": "Юрий",
       "value": 9
     },
     {
-      "rank": 10,
-      "name": "terminal lucidity",
-      "value": 9
-    },
-    {
       "rank": 11,
-      "name": "PiratesOfMining",
+      "name": "terminal lucidity",
       "value": 9
     },
     {
@@ -1393,18 +1393,18 @@
     },
     {
       "rank": 13,
-      "name": "iDiklonius",
+      "name": "Manis Love",
       "value": 8
     },
     {
       "rank": 14,
-      "name": "lefkorosos",
+      "name": "iDiklonius",
       "value": 8
     },
     {
       "rank": 15,
-      "name": "Manis Love",
-      "value": 7
+      "name": "lefkorosos",
+      "value": 8
     },
     {
       "rank": 16,
