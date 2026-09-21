@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T05:39:30+00:00",
+  "updated": "2026-09-21T06:39:32+00:00",
   "count": 178,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4295,
+      "value": 4296,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1220,
+      "value": 1221,
       "move": 0
     },
     {
@@ -629,15 +629,15 @@
     },
     {
       "rank": 105,
-      "name": "Капибара",
-      "value": 5,
-      "move": -1
+      "name": "Safe",
+      "value": 6,
+      "move": 0
     },
     {
       "rank": 106,
-      "name": "Safe",
+      "name": "Капибара",
       "value": 5,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 107,
@@ -1076,12 +1076,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 192
+      "value": 193
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 120
+      "value": 118
     },
     {
       "rank": 3,
@@ -1265,32 +1265,32 @@
     },
     {
       "rank": 39,
+      "name": "Safe",
+      "value": 5
+    },
+    {
+      "rank": 40,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
-      "rank": 43,
-      "name": "Станислав Баев",
-      "value": 4
-    },
-    {
       "rank": 44,
-      "name": "Safe",
+      "name": "Станислав Баев",
       "value": 4
     },
     {
@@ -1328,12 +1328,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 63
+      "value": 64
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 3,
@@ -1343,7 +1343,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 5,
@@ -1543,6 +1543,11 @@
     {
       "rank": 44,
       "name": "Ponemonec",
+      "value": 1
+    },
+    {
+      "rank": 45,
+      "name": "Safe",
       "value": 1
     }
   ]
