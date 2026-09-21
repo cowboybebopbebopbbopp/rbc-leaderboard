@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T04:39:27+00:00",
+  "updated": "2026-09-21T05:39:30+00:00",
   "count": 178,
   "has_movement": true,
   "all": [
@@ -372,7 +372,7 @@
     {
       "rank": 62,
       "name": "LlirikMK",
-      "value": 40,
+      "value": 41,
       "move": 0
     },
     {
@@ -1096,7 +1096,7 @@
     {
       "rank": 5,
       "name": "Viktor",
-      "value": 51
+      "value": 49
     },
     {
       "rank": 6,
@@ -1150,12 +1150,12 @@
     },
     {
       "rank": 16,
-      "name": "terminal lucidity",
-      "value": 12
+      "name": "LlirikMK",
+      "value": 13
     },
     {
       "rank": 17,
-      "name": "LlirikMK",
+      "name": "terminal lucidity",
       "value": 12
     },
     {
@@ -1362,17 +1362,17 @@
     },
     {
       "rank": 8,
+      "name": "LlirikMK",
+      "value": 9
+    },
+    {
+      "rank": 9,
       "name": "Юрий",
       "value": 8
     },
     {
-      "rank": 9,
-      "name": "Сергей",
-      "value": 8
-    },
-    {
       "rank": 10,
-      "name": "LlirikMK",
+      "name": "Сергей",
       "value": 8
     },
     {
