@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T07:39:33+00:00",
+  "updated": "2026-09-21T08:39:36+00:00",
   "count": 178,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4296,
+      "value": 4297,
       "move": 0
     },
     {
@@ -365,15 +365,15 @@
     },
     {
       "rank": 61,
-      "name": "Bazylev Nickolai",
-      "value": 41,
-      "move": 0
+      "name": "LlirikMK",
+      "value": 42,
+      "move": 1
     },
     {
       "rank": 62,
-      "name": "LlirikMK",
+      "name": "Bazylev Nickolai",
       "value": 41,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 63,
@@ -533,27 +533,27 @@
     },
     {
       "rank": 89,
-      "name": "Роман",
-      "value": 9,
-      "move": -2
+      "name": "Юрий",
+      "value": 10,
+      "move": 14
     },
     {
       "rank": 90,
-      "name": "***",
+      "name": "Роман",
       "value": 9,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 91,
-      "name": "Demius",
+      "name": "***",
       "value": 9,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 92,
-      "name": "Юрий",
+      "name": "Demius",
       "value": 9,
-      "move": 11
+      "move": -3
     },
     {
       "rank": 93,
@@ -1076,7 +1076,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 193
+      "value": 194
     },
     {
       "rank": 2,
@@ -1116,7 +1116,7 @@
     {
       "rank": 9,
       "name": "A.",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 10,
@@ -1151,7 +1151,7 @@
     {
       "rank": 16,
       "name": "LlirikMK",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 17,
@@ -1170,13 +1170,13 @@
     },
     {
       "rank": 20,
-      "name": "Руслан Иванов",
+      "name": "Юрий",
       "value": 9
     },
     {
       "rank": 21,
-      "name": "Юрий",
-      "value": 8
+      "name": "Руслан Иванов",
+      "value": 9
     },
     {
       "rank": 22,
@@ -1328,7 +1328,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 64
+      "value": 65
     },
     {
       "rank": 2,
@@ -1363,12 +1363,12 @@
     {
       "rank": 8,
       "name": "LlirikMK",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 9,
       "name": "Юрий",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 10,
