@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T12:39:45+00:00",
+  "updated": "2026-09-21T13:39:47+00:00",
   "count": 178,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4307,
+      "value": 4308,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1224,
+      "value": 1225,
       "move": 0
     },
     {
@@ -287,15 +287,15 @@
     },
     {
       "rank": 48,
-      "name": "Сергей",
+      "name": "terminal lucidity",
       "value": 88,
-      "move": -1
+      "move": 2
     },
     {
       "rank": 49,
-      "name": "terminal lucidity",
-      "value": 87,
-      "move": 1
+      "name": "Сергей",
+      "value": 88,
+      "move": -2
     },
     {
       "rank": 50,
@@ -1076,12 +1076,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 203
+      "value": 204
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 121
+      "value": 122
     },
     {
       "rank": 3,
@@ -1145,18 +1145,18 @@
     },
     {
       "rank": 15,
-      "name": "Manis Love",
-      "value": 15
-    },
-    {
-      "rank": 16,
       "name": "L G",
       "value": 15
     },
     {
+      "rank": 16,
+      "name": "Manis Love",
+      "value": 14
+    },
+    {
       "rank": 17,
       "name": "terminal lucidity",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 18,
@@ -1328,12 +1328,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 71
+      "value": 72
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 3,
@@ -1372,13 +1372,13 @@
     },
     {
       "rank": 10,
-      "name": "iDiklonius",
+      "name": "terminal lucidity",
       "value": 9
     },
     {
       "rank": 11,
-      "name": "terminal lucidity",
-      "value": 8
+      "name": "iDiklonius",
+      "value": 9
     },
     {
       "rank": 12,
