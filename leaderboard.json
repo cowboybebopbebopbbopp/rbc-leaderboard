@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T02:40:13+00:00",
-  "count": 179,
+  "updated": "2026-09-22T03:40:15+00:00",
+  "count": 180,
   "has_movement": true,
   "all": [
     {
@@ -1076,6 +1076,12 @@
       "name": "Jaime Mcker",
       "value": 1,
       "move": -3
+    },
+    {
+      "rank": 180,
+      "name": "Alissa Her",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
