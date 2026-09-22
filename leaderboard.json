@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T07:40:21+00:00",
+  "updated": "2026-09-22T08:40:23+00:00",
   "count": 181,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4311,
+      "value": 4312,
       "move": 0
     },
     {
@@ -312,7 +312,7 @@
     {
       "rank": 52,
       "name": "Серхио Ле'Трас",
-      "value": 73,
+      "value": 75,
       "move": 0
     },
     {
@@ -1094,17 +1094,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 207
+      "value": 208
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 126
+      "value": 124
     },
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 59
+      "value": 58
     },
     {
       "rank": 4,
@@ -1253,62 +1253,62 @@
     },
     {
       "rank": 33,
-      "name": "Руслан Иванов",
+      "name": "Серхио Ле'Трас",
       "value": 6
     },
     {
       "rank": 34,
-      "name": "Sergey СЕО",
+      "name": "Руслан Иванов",
       "value": 6
     },
     {
       "rank": 35,
-      "name": "Александр",
+      "name": "Sergey СЕО",
       "value": 6
     },
     {
       "rank": 36,
-      "name": "Sergey",
+      "name": "Александр",
       "value": 6
     },
     {
       "rank": 37,
-      "name": "Max",
+      "name": "Sergey",
       "value": 6
     },
     {
       "rank": 38,
+      "name": "Max",
+      "value": 6
+    },
+    {
+      "rank": 39,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Ponemonec",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Safe",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 43,
-      "name": "Константин",
-      "value": 4
-    },
-    {
       "rank": 44,
-      "name": "Серхио Ле'Трас",
+      "name": "Константин",
       "value": 4
     },
     {
@@ -1346,7 +1346,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 72
+      "value": 73
     },
     {
       "rank": 2,
@@ -1360,12 +1360,12 @@
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 14
+      "name": "Vitaliy",
+      "value": 13
     },
     {
       "rank": 5,
-      "name": "Vitaliy",
+      "name": "Archie",
       "value": 13
     },
     {
@@ -1450,37 +1450,37 @@
     },
     {
       "rank": 22,
-      "name": "Станислав Баев",
+      "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
       "rank": 23,
-      "name": "Max",
+      "name": "Станислав Баев",
       "value": 4
     },
     {
       "rank": 24,
+      "name": "Max",
+      "value": 4
+    },
+    {
+      "rank": 25,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "SPM",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 27,
-      "name": "Юрий",
-      "value": 2
-    },
-    {
       "rank": 28,
-      "name": "Серхио Ле'Трас",
+      "name": "Юрий",
       "value": 2
     },
     {
