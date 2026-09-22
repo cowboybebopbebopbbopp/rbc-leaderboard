@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T22:41:22+00:00",
+  "updated": "2026-09-22T23:41:24+00:00",
   "count": 182,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1772,
+      "value": 1773,
       "move": 0
     },
     {
@@ -1109,13 +1109,13 @@
     },
     {
       "rank": 3,
-      "name": "Zero-sum Gamer",
+      "name": "Archie",
       "value": 58
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 57
+      "name": "Zero-sum Gamer",
+      "value": 58
     },
     {
       "rank": 5,
@@ -1357,7 +1357,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 3,
@@ -1366,13 +1366,13 @@
     },
     {
       "rank": 4,
-      "name": "LlirikMK",
+      "name": "Archie",
       "value": 14
     },
     {
       "rank": 5,
-      "name": "Archie",
-      "value": 13
+      "name": "LlirikMK",
+      "value": 14
     },
     {
       "rank": 6,
