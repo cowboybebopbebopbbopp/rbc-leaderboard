@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T01:40:11+00:00",
+  "updated": "2026-09-22T02:40:13+00:00",
   "count": 179,
   "has_movement": true,
   "all": [
@@ -1393,18 +1393,18 @@
     },
     {
       "rank": 13,
-      "name": "Manis Love",
-      "value": 8
-    },
-    {
-      "rank": 14,
       "name": "iDiklonius",
       "value": 8
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "lefkorosos",
       "value": 8
+    },
+    {
+      "rank": 15,
+      "name": "Manis Love",
+      "value": 7
     },
     {
       "rank": 16,
