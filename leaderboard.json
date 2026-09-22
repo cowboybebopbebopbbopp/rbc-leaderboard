@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T13:40:35+00:00",
+  "updated": "2026-09-22T14:40:39+00:00",
   "count": 182,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4318,
+      "value": 4319,
       "move": 0
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 212
+      "value": 213
     },
     {
       "rank": 2,
@@ -1352,7 +1352,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 77
+      "value": 78
     },
     {
       "rank": 2,
@@ -1391,38 +1391,38 @@
     },
     {
       "rank": 9,
-      "name": "Юрий",
-      "value": 9
-    },
-    {
-      "rank": 10,
       "name": "A.",
       "value": 9
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Manis Love",
       "value": 9
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "terminal lucidity",
       "value": 9
     },
     {
-      "rank": 13,
-      "name": "PiratesOfMining",
-      "value": 8
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "name": "iDiklonius",
       "value": 8
     },
     {
-      "rank": 15,
+      "rank": 13,
       "name": "lefkorosos",
       "value": 8
+    },
+    {
+      "rank": 14,
+      "name": "Юрий",
+      "value": 7
+    },
+    {
+      "rank": 15,
+      "name": "PiratesOfMining",
+      "value": 7
     },
     {
       "rank": 16,
