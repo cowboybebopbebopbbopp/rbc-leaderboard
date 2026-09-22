@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T05:40:18+00:00",
+  "updated": "2026-09-22T06:40:19+00:00",
   "count": 181,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 997,
+      "value": 998,
       "move": 0
     },
     {
@@ -275,15 +275,15 @@
     },
     {
       "rank": 46,
-      "name": "Vlad",
+      "name": "Сергей",
       "value": 90,
-      "move": -1
+      "move": 1
     },
     {
       "rank": 47,
-      "name": "Сергей",
-      "value": 89,
-      "move": 0
+      "name": "Vlad",
+      "value": 90,
+      "move": -2
     },
     {
       "rank": 48,
@@ -1114,12 +1114,12 @@
     {
       "rank": 5,
       "name": "Viktor",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 7,
@@ -1134,7 +1134,7 @@
     {
       "rank": 9,
       "name": "Сергей",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 10,
@@ -1356,7 +1356,7 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 4,
@@ -1385,7 +1385,7 @@
     },
     {
       "rank": 9,
-      "name": "A.",
+      "name": "Сергей",
       "value": 10
     },
     {
@@ -1395,17 +1395,17 @@
     },
     {
       "rank": 11,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 9
     },
     {
       "rank": 12,
-      "name": "terminal lucidity",
+      "name": "Manis Love",
       "value": 9
     },
     {
       "rank": 13,
-      "name": "Сергей",
+      "name": "terminal lucidity",
       "value": 9
     },
     {
@@ -1420,17 +1420,17 @@
     },
     {
       "rank": 16,
-      "name": "Zero-sum Gamer",
-      "value": 7
-    },
-    {
-      "rank": 17,
       "name": "Руслан Иванов",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Sergey",
+      "value": 6
+    },
+    {
+      "rank": 18,
+      "name": "Zero-sum Gamer",
       "value": 6
     },
     {
