@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T10:40:28+00:00",
+  "updated": "2026-09-22T11:40:30+00:00",
   "count": 181,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4313,
+      "value": 4314,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1230,
+      "value": 1231,
       "move": 0
     },
     {
@@ -312,7 +312,7 @@
     {
       "rank": 52,
       "name": "Серхио Ле'Трас",
-      "value": 76,
+      "value": 77,
       "move": 0
     },
     {
@@ -1094,12 +1094,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 208
+      "value": 209
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 124
+      "value": 125
     },
     {
       "rank": 3,
@@ -1213,32 +1213,32 @@
     },
     {
       "rank": 25,
-      "name": "lefkorosos",
+      "name": "Серхио Ле'Трас",
       "value": 8
     },
     {
       "rank": 26,
-      "name": "ᴦоᴧод",
+      "name": "lefkorosos",
       "value": 8
     },
     {
       "rank": 27,
+      "name": "ᴦоᴧод",
+      "value": 8
+    },
+    {
+      "rank": 28,
       "name": "Aся",
       "value": 7
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 7
     },
     {
-      "rank": 29,
-      "name": "Aleksey",
-      "value": 7
-    },
-    {
       "rank": 30,
-      "name": "Серхио Ле'Трас",
+      "name": "Aleksey",
       "value": 7
     },
     {
@@ -1351,7 +1351,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 40
+      "value": 41
     },
     {
       "rank": 3,
@@ -1420,28 +1420,28 @@
     },
     {
       "rank": 16,
-      "name": "Руслан Иванов",
+      "name": "Серхио Ле'Трас",
       "value": 6
     },
     {
       "rank": 17,
-      "name": "Sergey",
+      "name": "Руслан Иванов",
       "value": 6
     },
     {
       "rank": 18,
-      "name": "@wavesscalper",
+      "name": "Sergey",
       "value": 6
     },
     {
       "rank": 19,
-      "name": ".",
+      "name": "@wavesscalper",
       "value": 6
     },
     {
       "rank": 20,
-      "name": "Серхио Ле'Трас",
-      "value": 5
+      "name": ".",
+      "value": 6
     },
     {
       "rank": 21,
