@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T19:41:00+00:00",
+  "updated": "2026-09-22T20:41:02+00:00",
   "count": 182,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1771,
+      "value": 1772,
       "move": 0
     },
     {
@@ -1115,7 +1115,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 56
+      "value": 57
     },
     {
       "rank": 5,
@@ -1190,7 +1190,7 @@
     {
       "rank": 19,
       "name": "Синдбад Мореход",
-      "value": 13
+      "value": 11
     },
     {
       "rank": 20,
@@ -1357,7 +1357,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 36
+      "value": 35
     },
     {
       "rank": 3,
@@ -1372,7 +1372,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 6,
@@ -1561,42 +1561,42 @@
     },
     {
       "rank": 43,
-      "name": "Константин",
-      "value": 1
-    },
-    {
-      "rank": 44,
       "name": "Andrey",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Lubo",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Marina",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Ponemonec",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Stepan",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Safe",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Alissa Her",
       "value": 1
     }
   ]
