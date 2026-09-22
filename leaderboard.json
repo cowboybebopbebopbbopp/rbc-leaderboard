@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T08:40:23+00:00",
+  "updated": "2026-09-22T09:40:26+00:00",
   "count": 181,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4312,
+      "value": 4313,
       "move": 0
     },
     {
@@ -312,7 +312,7 @@
     {
       "rank": 52,
       "name": "Серхио Ле'Трас",
-      "value": 75,
+      "value": 76,
       "move": 0
     },
     {
@@ -360,7 +360,7 @@
     {
       "rank": 60,
       "name": "LlirikMK",
-      "value": 46,
+      "value": 47,
       "move": 2
     },
     {
@@ -1094,7 +1094,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 208
+      "value": 209
     },
     {
       "rank": 2,
@@ -1139,7 +1139,7 @@
     {
       "rank": 10,
       "name": "LlirikMK",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 11,
@@ -1238,22 +1238,22 @@
     },
     {
       "rank": 30,
-      "name": "Анастасия",
+      "name": "Серхио Ле'Трас",
       "value": 7
     },
     {
       "rank": 31,
-      "name": "🤗",
+      "name": "Анастасия",
       "value": 7
     },
     {
       "rank": 32,
-      "name": "Kirill",
-      "value": 6
+      "name": "🤗",
+      "value": 7
     },
     {
       "rank": 33,
-      "name": "Серхио Ле'Трас",
+      "name": "Kirill",
       "value": 6
     },
     {
@@ -1346,7 +1346,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 73
+      "value": 74
     },
     {
       "rank": 2,
@@ -1360,8 +1360,8 @@
     },
     {
       "rank": 4,
-      "name": "Vitaliy",
-      "value": 13
+      "name": "LlirikMK",
+      "value": 14
     },
     {
       "rank": 5,
@@ -1370,18 +1370,18 @@
     },
     {
       "rank": 6,
-      "name": "LlirikMK",
-      "value": 13
-    },
-    {
-      "rank": 7,
       "name": "🅾🅻🅶🅰",
       "value": 13
     },
     {
+      "rank": 7,
+      "name": "Vitaliy",
+      "value": 11
+    },
+    {
       "rank": 8,
       "name": "PiratesOfMining",
-      "value": 11
+      "value": 10
     },
     {
       "rank": 9,
@@ -1445,13 +1445,13 @@
     },
     {
       "rank": 21,
-      "name": "Князь Владимир С",
+      "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
       "rank": 22,
-      "name": "Серхио Ле'Трас",
-      "value": 4
+      "name": "Князь Владимир С",
+      "value": 5
     },
     {
       "rank": 23,
