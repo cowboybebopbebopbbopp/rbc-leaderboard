@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T17:40:45+00:00",
+  "updated": "2026-09-22T18:40:59+00:00",
   "count": 182,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "PiratesOfMining",
-      "value": 920,
+      "value": 921,
       "move": 0
     },
     {
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 740,
+      "value": 741,
       "move": 0
     },
     {
@@ -1139,12 +1139,12 @@
     },
     {
       "rank": 9,
-      "name": "Сергей",
-      "value": 19
+      "name": "L G",
+      "value": 20
     },
     {
       "rank": 10,
-      "name": "L G",
+      "name": "Сергей",
       "value": 19
     },
     {
@@ -1190,7 +1190,7 @@
     {
       "rank": 19,
       "name": "PiratesOfMining",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 20,
@@ -1357,7 +1357,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 39
+      "value": 38
     },
     {
       "rank": 3,
@@ -1371,13 +1371,13 @@
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 13
+      "name": "Archie",
+      "value": 12
     },
     {
       "rank": 6,
-      "name": "Archie",
-      "value": 12
+      "name": "🅾🅻🅶🅰",
+      "value": 11
     },
     {
       "rank": 7,
@@ -1407,7 +1407,7 @@
     {
       "rank": 12,
       "name": "PiratesOfMining",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 13,
@@ -1451,13 +1451,13 @@
     },
     {
       "rank": 21,
-      "name": "Князь Владимир С",
+      "name": "L G",
       "value": 5
     },
     {
       "rank": 22,
-      "name": "L G",
-      "value": 4
+      "name": "Князь Владимир С",
+      "value": 5
     },
     {
       "rank": 23,
@@ -1546,57 +1546,57 @@
     },
     {
       "rank": 40,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 1
-    },
-    {
-      "rank": 41,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Анастасия",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Andrey",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Lubo",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Marina",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Ponemonec",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Stepan",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Safe",
       "value": 1
     }
   ]
