@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T00:58:16+00:00",
+  "updated": "2026-09-22T01:40:11+00:00",
   "count": 179,
   "has_movement": true,
   "all": [
@@ -1136,17 +1136,17 @@
     },
     {
       "rank": 12,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 16
-    },
-    {
-      "rank": 13,
       "name": "Manis Love",
       "value": 15
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "L G",
+      "value": 15
+    },
+    {
+      "rank": 14,
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 15
     },
     {
