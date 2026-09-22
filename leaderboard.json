@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T20:41:02+00:00",
+  "updated": "2026-09-22T21:41:04+00:00",
   "count": 182,
   "has_movement": true,
   "all": [
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 741,
+      "value": 742,
       "move": 0
     },
     {
@@ -90,7 +90,7 @@
     {
       "rank": 15,
       "name": "Olga Goncharova",
-      "value": 601,
+      "value": 602,
       "move": 0
     },
     {
@@ -1134,12 +1134,12 @@
     },
     {
       "rank": 8,
-      "name": "A.",
-      "value": 20
+      "name": "L G",
+      "value": 21
     },
     {
       "rank": 9,
-      "name": "L G",
+      "name": "A.",
       "value": 20
     },
     {
@@ -1431,23 +1431,23 @@
     },
     {
       "rank": 17,
-      "name": "Sergey",
+      "name": "L G",
       "value": 6
     },
     {
       "rank": 18,
-      "name": "@wavesscalper",
+      "name": "Sergey",
       "value": 6
     },
     {
       "rank": 19,
-      "name": ".",
+      "name": "@wavesscalper",
       "value": 6
     },
     {
       "rank": 20,
-      "name": "L G",
-      "value": 5
+      "name": ".",
+      "value": 6
     },
     {
       "rank": 21,
@@ -1536,47 +1536,47 @@
     },
     {
       "rank": 38,
-      "name": "Алексей",
-      "value": 1
-    },
-    {
-      "rank": 39,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Анастасия",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Andrey",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Lubo",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Marina",
+      "value": 1
+    },
+    {
+      "rank": 46,
+      "name": "Olga Goncharova",
       "value": 1
     },
     {
