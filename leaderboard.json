@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T09:40:26+00:00",
+  "updated": "2026-09-22T10:40:28+00:00",
   "count": 181,
   "has_movement": true,
   "all": [
@@ -1094,7 +1094,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 209
+      "value": 208
     },
     {
       "rank": 2,
@@ -1163,22 +1163,22 @@
     },
     {
       "rank": 15,
-      "name": "Синдбад Мореход",
-      "value": 15
-    },
-    {
-      "rank": 16,
       "name": "@wavesscalper",
       "value": 15
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": ".",
       "value": 15
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "terminal lucidity",
+      "value": 14
+    },
+    {
+      "rank": 18,
+      "name": "Синдбад Мореход",
       "value": 14
     },
     {
@@ -1380,32 +1380,32 @@
     },
     {
       "rank": 8,
-      "name": "PiratesOfMining",
-      "value": 10
-    },
-    {
-      "rank": 9,
       "name": "Сергей",
       "value": 10
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Юрий",
       "value": 9
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "A.",
       "value": 9
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Manis Love",
       "value": 9
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "terminal lucidity",
+      "value": 9
+    },
+    {
+      "rank": 13,
+      "name": "PiratesOfMining",
       "value": 9
     },
     {
@@ -1430,32 +1430,32 @@
     },
     {
       "rank": 18,
-      "name": "Zero-sum Gamer",
-      "value": 6
-    },
-    {
-      "rank": 19,
       "name": "@wavesscalper",
       "value": 6
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": ".",
       "value": 6
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Князь Владимир С",
       "value": 5
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Станислав Баев",
+      "value": 4
+    },
+    {
+      "rank": 23,
+      "name": "Zero-sum Gamer",
       "value": 4
     },
     {
