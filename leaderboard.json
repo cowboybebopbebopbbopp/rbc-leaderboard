@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T03:41:41+00:00",
+  "updated": "2026-09-23T04:41:43+00:00",
   "count": 183,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1827,
+      "value": 1829,
       "move": 0
     },
     {
@@ -126,7 +126,7 @@
     {
       "rank": 21,
       "name": "🤗",
-      "value": 302,
+      "value": 303,
       "move": 0
     },
     {
@@ -269,15 +269,15 @@
     },
     {
       "rank": 45,
-      "name": "Max",
-      "value": 90,
-      "move": 0
+      "name": "Сергей",
+      "value": 91,
+      "move": 2
     },
     {
       "rank": 46,
-      "name": "Сергей",
+      "name": "Max",
       "value": 90,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 47,
@@ -1131,7 +1131,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 31
+      "value": 33
     },
     {
       "rank": 7,
@@ -1151,7 +1151,7 @@
     {
       "rank": 10,
       "name": "Сергей",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 11,
@@ -1230,42 +1230,42 @@
     },
     {
       "rank": 26,
-      "name": "lefkorosos",
+      "name": "🤗",
       "value": 8
     },
     {
       "rank": 27,
-      "name": "ᴦоᴧод",
+      "name": "lefkorosos",
       "value": 8
     },
     {
       "rank": 28,
+      "name": "ᴦоᴧод",
+      "value": 8
+    },
+    {
+      "rank": 29,
       "name": "Aся",
       "value": 7
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 7
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Aleksey",
       "value": 7
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Kirill",
       "value": 7
     },
     {
-      "rank": 32,
-      "name": "Анастасия",
-      "value": 7
-    },
-    {
       "rank": 33,
-      "name": "🤗",
+      "name": "Анастасия",
       "value": 7
     },
     {
@@ -1383,7 +1383,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 11
+      "value": 13
     },
     {
       "rank": 7,
@@ -1413,7 +1413,7 @@
     {
       "rank": 12,
       "name": "Сергей",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 13,
@@ -1487,47 +1487,47 @@
     },
     {
       "rank": 27,
+      "name": "🤗",
+      "value": 3
+    },
+    {
+      "rank": 28,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Turchyn Gennadii",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "ц",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Dede",
       "value": 2
     },
     {
-      "rank": 34,
-      "name": "Александр",
-      "value": 2
-    },
-    {
       "rank": 35,
-      "name": "🤗",
+      "name": "Александр",
       "value": 2
     },
     {
