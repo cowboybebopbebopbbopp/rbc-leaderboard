@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T00:58:34+00:00",
+  "updated": "2026-09-23T01:41:28+00:00",
   "count": 182,
   "has_movement": true,
   "all": [
@@ -557,51 +557,51 @@
     },
     {
       "rank": 93,
-      "name": "lefkorosos",
+      "name": "Dede",
       "value": 9,
-      "move": 0
+      "move": 9
     },
     {
       "rank": 94,
-      "name": "Sergey",
+      "name": "lefkorosos",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 95,
-      "name": "Юрий",
-      "value": 8,
-      "move": 0
+      "name": "Sergey",
+      "value": 9,
+      "move": -1
     },
     {
       "rank": 96,
-      "name": "xxx",
+      "name": "Юрий",
       "value": 8,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 97,
-      "name": "Kirill",
+      "name": "xxx",
       "value": 8,
-      "move": 4
+      "move": -1
     },
     {
       "rank": 98,
-      "name": "Aleksey",
+      "name": "Kirill",
       "value": 8,
-      "move": -1
+      "move": 3
     },
     {
       "rank": 99,
-      "name": "Анастасия",
+      "name": "Aleksey",
       "value": 8,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 100,
-      "name": "Dede",
+      "name": "Анастасия",
       "value": 8,
-      "move": 2
+      "move": -2
     },
     {
       "rank": 101,
@@ -1511,27 +1511,27 @@
     },
     {
       "rank": 33,
-      "name": "Александр",
+      "name": "Dede",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "🤗",
+      "name": "Александр",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "Роман",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Денис Сергеевич",
+      "name": "Роман",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "ᴦоᴧод",
+      "name": "Денис Сергеевич",
       "value": 2
     },
     {
@@ -1556,22 +1556,22 @@
     },
     {
       "rank": 42,
-      "name": "Dede",
-      "value": 1
-    },
-    {
-      "rank": 43,
       "name": "Andrey",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Lubo",
+      "value": 1
+    },
+    {
+      "rank": 45,
+      "name": "ᴦоᴧод",
       "value": 1
     },
     {
