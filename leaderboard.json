@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T10:41:53+00:00",
+  "updated": "2026-09-23T11:41:53+00:00",
   "count": 183,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4330,
+      "value": 4331,
       "move": 0
     },
     {
@@ -378,7 +378,7 @@
     {
       "rank": 63,
       "name": "A.",
-      "value": 36,
+      "value": 38,
       "move": 0
     },
     {
@@ -1140,18 +1140,18 @@
     },
     {
       "rank": 8,
+      "name": "A.",
+      "value": 22
+    },
+    {
+      "rank": 9,
       "name": "Сергей",
       "value": 21
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "L G",
       "value": 21
-    },
-    {
-      "rank": 10,
-      "name": "A.",
-      "value": 20
     },
     {
       "rank": 11,
@@ -1358,12 +1358,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 81
+      "value": 80
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 3,
@@ -1378,7 +1378,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 6,
@@ -1387,23 +1387,23 @@
     },
     {
       "rank": 7,
+      "name": "A.",
+      "value": 11
+    },
+    {
+      "rank": 8,
       "name": "Manis Love",
       "value": 10
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Vitaliy",
       "value": 10
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Сергей",
       "value": 10
-    },
-    {
-      "rank": 10,
-      "name": "A.",
-      "value": 9
     },
     {
       "rank": 11,
@@ -1422,12 +1422,12 @@
     },
     {
       "rank": 14,
-      "name": "iDiklonius",
-      "value": 8
+      "name": "Юрий",
+      "value": 7
     },
     {
       "rank": 15,
-      "name": "Юрий",
+      "name": "iDiklonius",
       "value": 7
     },
     {
