@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T14:41:53+00:00",
+  "updated": "2026-09-23T15:41:53+00:00",
   "count": 183,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 826,
+      "value": 828,
       "move": 0
     },
     {
@@ -306,7 +306,7 @@
     {
       "rank": 51,
       "name": "Серхио Ле'Трас",
-      "value": 79,
+      "value": 82,
       "move": 1
     },
     {
@@ -1131,7 +1131,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 37
+      "value": 36
     },
     {
       "rank": 7,
@@ -1166,7 +1166,7 @@
     {
       "rank": 13,
       "name": "Синдбад Мореход",
-      "value": 16
+      "value": 18
     },
     {
       "rank": 14,
@@ -1195,27 +1195,27 @@
     },
     {
       "rank": 19,
+      "name": "Серхио Ле'Трас",
+      "value": 13
+    },
+    {
+      "rank": 20,
       "name": "SPM",
       "value": 12
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "@wavesscalper",
       "value": 11
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "DenisNazarov",
       "value": 10
     },
     {
-      "rank": 22,
-      "name": "Aся",
-      "value": 10
-    },
-    {
       "rank": 23,
-      "name": "Серхио Ле'Трас",
+      "name": "Aся",
       "value": 10
     },
     {
@@ -1358,12 +1358,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 80
+      "value": 77
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 3,
@@ -1392,33 +1392,33 @@
     },
     {
       "rank": 8,
+      "name": "Серхио Ле'Трас",
+      "value": 11
+    },
+    {
+      "rank": 9,
       "name": "Manis Love",
       "value": 10
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Vitaliy",
       "value": 10
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Сергей",
       "value": 10
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "terminal lucidity",
       "value": 9
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "PiratesOfMining",
       "value": 9
-    },
-    {
-      "rank": 13,
-      "name": "Серхио Ле'Трас",
-      "value": 8
     },
     {
       "rank": 14,
@@ -1432,7 +1432,7 @@
     },
     {
       "rank": 16,
-      "name": "lefkorosos",
+      "name": "Синдбад Мореход",
       "value": 7
     },
     {
@@ -1447,27 +1447,27 @@
     },
     {
       "rank": 19,
-      "name": ".",
+      "name": "lefkorosos",
       "value": 6
     },
     {
       "rank": 20,
+      "name": ".",
+      "value": 6
+    },
+    {
+      "rank": 21,
       "name": "SPM",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Aся",
       "value": 5
     },
     {
-      "rank": 22,
-      "name": "Руслан Иванов",
-      "value": 5
-    },
-    {
       "rank": 23,
-      "name": "Синдбад Мореход",
+      "name": "Руслан Иванов",
       "value": 5
     },
     {
