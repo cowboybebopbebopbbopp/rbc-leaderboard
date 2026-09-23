@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T04:41:43+00:00",
+  "updated": "2026-09-23T05:41:45+00:00",
   "count": 183,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1829,
+      "value": 1832,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1773,
+      "value": 1775,
       "move": 0
     },
     {
@@ -1116,7 +1116,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 58
+      "value": 60
     },
     {
       "rank": 4,
@@ -1131,7 +1131,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 33
+      "value": 36
     },
     {
       "rank": 7,
@@ -1373,17 +1373,17 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 14
+      "value": 16
     },
     {
       "rank": 5,
-      "name": "LlirikMK",
-      "value": 14
+      "name": "🅾🅻🅶🅰",
+      "value": 16
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
-      "value": 13
+      "name": "LlirikMK",
+      "value": 14
     },
     {
       "rank": 7,
@@ -1462,27 +1462,27 @@
     },
     {
       "rank": 22,
-      "name": "Князь Владимир С",
-      "value": 5
-    },
-    {
-      "rank": 23,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Zero-sum Gamer",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Max",
       "value": 4
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "SPM",
+      "value": 3
+    },
+    {
+      "rank": 26,
+      "name": "Князь Владимир С",
       "value": 3
     },
     {
