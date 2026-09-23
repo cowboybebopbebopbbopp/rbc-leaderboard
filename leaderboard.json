@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T16:41:54+00:00",
-  "count": 183,
+  "updated": "2026-09-23T17:41:54+00:00",
+  "count": 184,
   "has_movement": true,
   "all": [
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 471,
+      "value": 472,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": "Юрий",
-      "value": 159,
+      "value": 160,
       "move": 0
     },
     {
@@ -306,7 +306,7 @@
     {
       "rank": 51,
       "name": "Серхио Ле'Трас",
-      "value": 82,
+      "value": 83,
       "move": 1
     },
     {
@@ -1100,6 +1100,12 @@
       "name": "Милана Кондрашова",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 184,
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -1190,12 +1196,12 @@
     },
     {
       "rank": 18,
-      "name": "PiratesOfMining",
-      "value": 13
+      "name": "Серхио Ле'Трас",
+      "value": 14
     },
     {
       "rank": 19,
-      "name": "Серхио Ле'Трас",
+      "name": "PiratesOfMining",
       "value": 13
     },
     {
@@ -1205,28 +1211,28 @@
     },
     {
       "rank": 21,
-      "name": "@wavesscalper",
+      "name": "iDiklonius",
       "value": 11
     },
     {
       "rank": 22,
-      "name": "DenisNazarov",
-      "value": 10
+      "name": "@wavesscalper",
+      "value": 11
     },
     {
       "rank": 23,
-      "name": "Aся",
+      "name": "Юрий",
       "value": 10
     },
     {
       "rank": 24,
-      "name": "iDiklonius",
+      "name": "DenisNazarov",
       "value": 10
     },
     {
       "rank": 25,
-      "name": "Юрий",
-      "value": 9
+      "name": "Aся",
+      "value": 10
     },
     {
       "rank": 26,
@@ -1368,7 +1374,7 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 4,
@@ -1387,12 +1393,12 @@
     },
     {
       "rank": 7,
-      "name": "A.",
-      "value": 11
+      "name": "Серхио Ле'Трас",
+      "value": 12
     },
     {
       "rank": 8,
-      "name": "Серхио Ле'Трас",
+      "name": "A.",
       "value": 11
     },
     {
@@ -1422,17 +1428,17 @@
     },
     {
       "rank": 14,
-      "name": "Синдбад Мореход",
+      "name": "iDiklonius",
       "value": 8
     },
     {
       "rank": 15,
-      "name": "Юрий",
-      "value": 7
+      "name": "Синдбад Мореход",
+      "value": 8
     },
     {
       "rank": 16,
-      "name": "iDiklonius",
+      "name": "Юрий",
       "value": 7
     },
     {
@@ -1472,28 +1478,28 @@
     },
     {
       "rank": 24,
-      "name": "Станислав Баев",
+      "name": "Юрий",
       "value": 4
     },
     {
       "rank": 25,
-      "name": "Zero-sum Gamer",
+      "name": "Станислав Баев",
       "value": 4
     },
     {
       "rank": 26,
-      "name": "@wavesscalper",
+      "name": "Zero-sum Gamer",
       "value": 4
     },
     {
       "rank": 27,
-      "name": "Max",
+      "name": "@wavesscalper",
       "value": 4
     },
     {
       "rank": 28,
-      "name": "Юрий",
-      "value": 3
+      "name": "Max",
+      "value": 4
     },
     {
       "rank": 29,
