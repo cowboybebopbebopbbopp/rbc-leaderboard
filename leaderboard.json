@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T15:41:53+00:00",
+  "updated": "2026-09-23T16:41:54+00:00",
   "count": 183,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4332,
+      "value": 4333,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1775,
+      "value": 1777,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 828,
+      "value": 829,
       "move": 0
     },
     {
@@ -1106,17 +1106,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 220
+      "value": 221
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 124
+      "value": 123
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 60
+      "value": 62
     },
     {
       "rank": 4,
@@ -1160,12 +1160,12 @@
     },
     {
       "rank": 12,
-      "name": "Manis Love",
-      "value": 18
+      "name": "Синдбад Мореход",
+      "value": 19
     },
     {
       "rank": 13,
-      "name": "Синдбад Мореход",
+      "name": "Manis Love",
       "value": 18
     },
     {
@@ -1358,7 +1358,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 77
+      "value": 78
     },
     {
       "rank": 2,
@@ -1372,13 +1372,13 @@
     },
     {
       "rank": 4,
-      "name": "🅾🅻🅶🅰",
-      "value": 15
+      "name": "Archie",
+      "value": 16
     },
     {
       "rank": 5,
-      "name": "Archie",
-      "value": 14
+      "name": "🅾🅻🅶🅰",
+      "value": 15
     },
     {
       "rank": 6,
@@ -1422,17 +1422,17 @@
     },
     {
       "rank": 14,
+      "name": "Синдбад Мореход",
+      "value": 8
+    },
+    {
+      "rank": 15,
       "name": "Юрий",
       "value": 7
     },
     {
-      "rank": 15,
-      "name": "iDiklonius",
-      "value": 7
-    },
-    {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "iDiklonius",
       "value": 7
     },
     {
