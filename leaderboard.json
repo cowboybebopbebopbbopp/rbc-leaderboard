@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T05:41:45+00:00",
+  "updated": "2026-09-23T06:41:46+00:00",
   "count": 183,
   "has_movement": true,
   "all": [
@@ -18,13 +18,13 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1832,
+      "value": 1833,
       "move": 0
     },
     {
       "rank": 4,
       "name": "Aся",
-      "value": 1782,
+      "value": 1783,
       "move": 0
     },
     {
@@ -527,39 +527,39 @@
     },
     {
       "rank": 88,
-      "name": "Евгений",
+      "name": "Dede",
       "value": 10,
-      "move": 0
+      "move": 14
     },
     {
       "rank": 89,
-      "name": "Юрий",
+      "name": "Евгений",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 90,
-      "name": "Роман",
-      "value": 9,
-      "move": 0
+      "name": "Юрий",
+      "value": 10,
+      "move": -1
     },
     {
       "rank": 91,
-      "name": "***",
+      "name": "Роман",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 92,
-      "name": "Demius",
+      "name": "***",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 93,
-      "name": "Dede",
+      "name": "Demius",
       "value": 9,
-      "move": 9
+      "move": -1
     },
     {
       "rank": 94,
@@ -1121,7 +1121,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 58
+      "value": 56
     },
     {
       "rank": 5,
@@ -1131,7 +1131,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 7,
@@ -1225,28 +1225,28 @@
     },
     {
       "rank": 25,
-      "name": "Серхио Ле'Трас",
+      "name": "Aся",
       "value": 8
     },
     {
       "rank": 26,
-      "name": "🤗",
+      "name": "Серхио Ле'Трас",
       "value": 8
     },
     {
       "rank": 27,
-      "name": "lefkorosos",
+      "name": "🤗",
       "value": 8
     },
     {
       "rank": 28,
-      "name": "ᴦоᴧод",
+      "name": "lefkorosos",
       "value": 8
     },
     {
       "rank": 29,
-      "name": "Aся",
-      "value": 7
+      "name": "ᴦоᴧод",
+      "value": 8
     },
     {
       "rank": 30,
@@ -1345,13 +1345,13 @@
     },
     {
       "rank": 49,
-      "name": "🏴‍☠️",
+      "name": "Dede",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "Sergey",
-      "value": 2
+      "name": "🏴‍☠️",
+      "value": 3
     }
   ],
   "week": [
@@ -1372,12 +1372,12 @@
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 16
+      "name": "🅾🅻🅶🅰",
+      "value": 17
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
+      "name": "Archie",
       "value": 16
     },
     {
@@ -1487,63 +1487,63 @@
     },
     {
       "rank": 27,
-      "name": "🤗",
+      "name": "Dede",
       "value": 3
     },
     {
       "rank": 28,
+      "name": "🤗",
+      "value": 3
+    },
+    {
+      "rank": 29,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 31,
-      "name": "Turchyn Gennadii",
-      "value": 2
-    },
-    {
       "rank": 32,
-      "name": "Евгений",
+      "name": "Aся",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "ц",
+      "name": "Turchyn Gennadii",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Dede",
+      "name": "Евгений",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "Александр",
+      "name": "ц",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Роман",
+      "name": "Александр",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "Денис Сергеевич",
+      "name": "Роман",
       "value": 2
     },
     {
       "rank": 38,
-      "name": "Aся",
-      "value": 1
+      "name": "Денис Сергеевич",
+      "value": 2
     },
     {
       "rank": 39,
