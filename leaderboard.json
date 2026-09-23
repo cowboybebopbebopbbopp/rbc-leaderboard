@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T07:41:48+00:00",
+  "updated": "2026-09-23T08:41:50+00:00",
   "count": 183,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4323,
+      "value": 4325,
       "move": 0
     },
     {
@@ -1106,7 +1106,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 217
+      "value": 219
     },
     {
       "rank": 2,
@@ -1185,13 +1185,13 @@
     },
     {
       "rank": 17,
-      "name": "@wavesscalper",
-      "value": 14
+      "name": "PiratesOfMining",
+      "value": 13
     },
     {
       "rank": 18,
-      "name": "PiratesOfMining",
-      "value": 13
+      "name": "@wavesscalper",
+      "value": 12
     },
     {
       "rank": 19,
@@ -1358,7 +1358,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 76
+      "value": 78
     },
     {
       "rank": 2,
