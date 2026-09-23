@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T09:41:53+00:00",
+  "updated": "2026-09-23T10:41:53+00:00",
   "count": 183,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4329,
+      "value": 4330,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": "Юрий",
-      "value": 158,
+      "value": 159,
       "move": 0
     },
     {
@@ -1106,7 +1106,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 223
+      "value": 224
     },
     {
       "rank": 2,
@@ -1225,13 +1225,13 @@
     },
     {
       "rank": 25,
-      "name": "Aся",
+      "name": "Юрий",
       "value": 9
     },
     {
       "rank": 26,
-      "name": "Юрий",
-      "value": 8
+      "name": "Aся",
+      "value": 9
     },
     {
       "rank": 27,
@@ -1358,7 +1358,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 80
+      "value": 81
     },
     {
       "rank": 2,
@@ -1457,22 +1457,22 @@
     },
     {
       "rank": 21,
-      "name": "@wavesscalper",
-      "value": 5
-    },
-    {
-      "rank": 22,
       "name": "Aся",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Zero-sum Gamer",
+      "value": 4
+    },
+    {
+      "rank": 24,
+      "name": "@wavesscalper",
       "value": 4
     },
     {
@@ -1487,32 +1487,32 @@
     },
     {
       "rank": 27,
-      "name": "Князь Владимир С",
+      "name": "Юрий",
       "value": 3
     },
     {
       "rank": 28,
-      "name": "Dede",
+      "name": "Князь Владимир С",
       "value": 3
     },
     {
       "rank": 29,
-      "name": "🤗",
+      "name": "Dede",
       "value": 3
     },
     {
       "rank": 30,
+      "name": "🤗",
+      "value": 3
+    },
+    {
+      "rank": 31,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 31,
-      "name": "Константин",
-      "value": 2
-    },
-    {
       "rank": 32,
-      "name": "Юрий",
+      "name": "Константин",
       "value": 2
     },
     {
