@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T15:16:28+00:00",
+  "updated": "2026-09-24T16:16:31+00:00",
   "count": 185,
   "has_movement": true,
   "all": [
@@ -1118,12 +1118,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 233
+      "value": 231
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 117
+      "value": 115
     },
     {
       "rank": 3,
@@ -1434,28 +1434,28 @@
     },
     {
       "rank": 14,
-      "name": "Сергей",
-      "value": 8
-    },
-    {
-      "rank": 15,
       "name": "Руслан Иванов",
       "value": 8
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "iDiklonius",
       "value": 8
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Синдбад Мореход",
       "value": 8
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Юрий",
       "value": 7
+    },
+    {
+      "rank": 18,
+      "name": "Сергей",
+      "value": 6
     },
     {
       "rank": 19,
@@ -1584,37 +1584,37 @@
     },
     {
       "rank": 44,
-      "name": "Sergey",
-      "value": 1
-    },
-    {
-      "rank": 45,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Andrey",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Lubo",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "ᴦоᴧод",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Marina",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Olga Goncharova",
       "value": 1
     }
   ]
