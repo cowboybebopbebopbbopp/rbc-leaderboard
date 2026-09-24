@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T06:41:54+00:00",
+  "updated": "2026-09-24T07:41:54+00:00",
   "count": 185,
   "has_movement": true,
   "all": [
@@ -425,15 +425,15 @@
     },
     {
       "rank": 71,
-      "name": "Константин",
+      "name": "SPM",
       "value": 23,
-      "move": 0
+      "move": 5
     },
     {
       "rank": 72,
-      "name": "SPM",
-      "value": 22,
-      "move": 4
+      "name": "Константин",
+      "value": 23,
+      "move": -1
     },
     {
       "rank": 73,
@@ -1197,13 +1197,13 @@
     },
     {
       "rank": 17,
-      "name": "terminal lucidity",
+      "name": "SPM",
       "value": 14
     },
     {
       "rank": 18,
-      "name": "SPM",
-      "value": 13
+      "name": "terminal lucidity",
+      "value": 14
     },
     {
       "rank": 19,
@@ -1375,7 +1375,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 29
+      "value": 28
     },
     {
       "rank": 3,
@@ -1429,27 +1429,27 @@
     },
     {
       "rank": 13,
-      "name": "terminal lucidity",
+      "name": "SPM",
       "value": 8
     },
     {
       "rank": 14,
-      "name": "iDiklonius",
+      "name": "terminal lucidity",
       "value": 8
     },
     {
       "rank": 15,
-      "name": "Синдбад Мореход",
+      "name": "iDiklonius",
       "value": 8
     },
     {
       "rank": 16,
-      "name": "Юрий",
-      "value": 7
+      "name": "Синдбад Мореход",
+      "value": 8
     },
     {
       "rank": 17,
-      "name": "SPM",
+      "name": "Юрий",
       "value": 7
     },
     {
@@ -1469,22 +1469,22 @@
     },
     {
       "rank": 21,
-      "name": "lefkorosos",
-      "value": 6
-    },
-    {
-      "rank": 22,
       "name": ".",
       "value": 6
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Aся",
       "value": 5
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 5
+    },
+    {
+      "rank": 24,
+      "name": "lefkorosos",
       "value": 5
     },
     {
@@ -1504,72 +1504,72 @@
     },
     {
       "rank": 28,
-      "name": "Zero-sum Gamer",
-      "value": 4
-    },
-    {
-      "rank": 29,
       "name": "@wavesscalper",
       "value": 4
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Max",
       "value": 4
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Анастасия",
       "value": 3
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Артем",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Turchyn Gennadii",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "ц",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Роман",
+      "value": 2
+    },
+    {
+      "rank": 41,
+      "name": "Zero-sum Gamer",
       "value": 2
     },
     {
