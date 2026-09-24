@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T12:16:28+00:00",
+  "updated": "2026-09-24T13:16:28+00:00",
   "count": 185,
   "has_movement": true,
   "all": [
@@ -383,15 +383,15 @@
     },
     {
       "rank": 64,
-      "name": "🇲akⓈ",
+      "name": "Руслан Иванов",
       "value": 33,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 65,
-      "name": "Руслан Иванов",
-      "value": 32,
-      "move": 1
+      "name": "🇲akⓈ",
+      "value": 33,
+      "move": -1
     },
     {
       "rank": 66,
@@ -1123,7 +1123,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 120
+      "value": 118
     },
     {
       "rank": 3,
@@ -1252,13 +1252,13 @@
     },
     {
       "rank": 28,
-      "name": "🤗",
+      "name": "Руслан Иванов",
       "value": 9
     },
     {
       "rank": 29,
-      "name": "Руслан Иванов",
-      "value": 8
+      "name": "🤗",
+      "value": 9
     },
     {
       "rank": 30,
@@ -1439,22 +1439,22 @@
     },
     {
       "rank": 15,
-      "name": "iDiklonius",
+      "name": "Руслан Иванов",
       "value": 8
     },
     {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "iDiklonius",
       "value": 8
     },
     {
       "rank": 17,
-      "name": "Юрий",
-      "value": 7
+      "name": "Синдбад Мореход",
+      "value": 8
     },
     {
       "rank": 18,
-      "name": "Руслан Иванов",
+      "name": "Юрий",
       "value": 7
     },
     {
