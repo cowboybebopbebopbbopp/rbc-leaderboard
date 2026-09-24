@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T01:41:54+00:00",
+  "updated": "2026-09-24T02:41:54+00:00",
   "count": 185,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1778,
+      "value": 1779,
       "move": 0
     },
     {
@@ -635,33 +635,33 @@
     },
     {
       "rank": 106,
-      "name": "Капибара",
-      "value": 5,
-      "move": 0
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 6,
+      "move": null
     },
     {
       "rank": 107,
-      "name": "Don Michele Corleone",
+      "name": "Капибара",
       "value": 5,
-      "move": 8
+      "move": -1
     },
     {
       "rank": 108,
-      "name": "AnTon",
+      "name": "Don Michele Corleone",
       "value": 5,
-      "move": -1
+      "move": 7
     },
     {
       "rank": 109,
-      "name": "Станислав Баев",
+      "name": "AnTon",
       "value": 5,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 110,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Станислав Баев",
       "value": 5,
-      "move": null
+      "move": -2
     },
     {
       "rank": 111,
@@ -1128,7 +1128,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 62
+      "value": 63
     },
     {
       "rank": 4,
@@ -1317,32 +1317,32 @@
     },
     {
       "rank": 41,
-      "name": "Ponemonec",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
       "rank": 42,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 5
     },
     {
       "rank": 43,
+      "name": "Safe",
+      "value": 5
+    },
+    {
+      "rank": 44,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 45,
-      "name": "Станислав Баев",
-      "value": 4
-    },
-    {
       "rank": 46,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Станислав Баев",
       "value": 4
     },
     {
@@ -1379,12 +1379,12 @@
     },
     {
       "rank": 3,
-      "name": "Viktor",
-      "value": 17
+      "name": "Archie",
+      "value": 18
     },
     {
       "rank": 4,
-      "name": "Archie",
+      "name": "Viktor",
       "value": 17
     },
     {
@@ -1484,17 +1484,17 @@
     },
     {
       "rank": 24,
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 5
+    },
+    {
+      "rank": 25,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 25,
-      "name": "Станислав Баев",
-      "value": 4
-    },
-    {
       "rank": 26,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Станислав Баев",
       "value": 4
     },
     {
