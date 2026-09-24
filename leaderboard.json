@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T05:41:55+00:00",
+  "updated": "2026-09-24T06:41:54+00:00",
   "count": 185,
   "has_movement": true,
   "all": [
@@ -527,45 +527,45 @@
     },
     {
       "rank": 88,
-      "name": "Dede",
+      "name": "Анастасия",
       "value": 10,
-      "move": 12
+      "move": 11
     },
     {
       "rank": 89,
-      "name": "Евгений",
+      "name": "Dede",
       "value": 10,
-      "move": -1
+      "move": 11
     },
     {
       "rank": 90,
-      "name": "Юрий",
+      "name": "Евгений",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 91,
-      "name": "Роман",
-      "value": 9,
-      "move": -1
+      "name": "Юрий",
+      "value": 10,
+      "move": -2
     },
     {
       "rank": 92,
-      "name": "***",
+      "name": "Роман",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 93,
-      "name": "Demius",
+      "name": "***",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 94,
-      "name": "Анастасия",
+      "name": "Demius",
       "value": 9,
-      "move": 5
+      "move": -2
     },
     {
       "rank": 95,
@@ -1123,7 +1123,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 121
+      "value": 120
     },
     {
       "rank": 3,
@@ -1247,13 +1247,13 @@
     },
     {
       "rank": 27,
-      "name": "🤗",
+      "name": "Анастасия",
       "value": 9
     },
     {
       "rank": 28,
-      "name": "Анастасия",
-      "value": 8
+      "name": "🤗",
+      "value": 9
     },
     {
       "rank": 29,
@@ -1524,17 +1524,17 @@
     },
     {
       "rank": 32,
-      "name": "Dede",
+      "name": "Анастасия",
       "value": 3
     },
     {
       "rank": 33,
-      "name": "Sergey",
-      "value": 2
+      "name": "Dede",
+      "value": 3
     },
     {
       "rank": 34,
-      "name": "Анастасия",
+      "name": "Sergey",
       "value": 2
     },
     {
