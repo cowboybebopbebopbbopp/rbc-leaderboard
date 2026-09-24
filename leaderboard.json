@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T03:41:54+00:00",
+  "updated": "2026-09-24T04:41:54+00:00",
   "count": 185,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1833,
+      "value": 1834,
       "move": 0
     },
     {
@@ -168,7 +168,7 @@
     {
       "rank": 28,
       "name": "Константин",
-      "value": 168,
+      "value": 169,
       "move": 0
     },
     {
@@ -353,15 +353,15 @@
     },
     {
       "rank": 59,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 47,
-      "move": 0
+      "name": "LlirikMK",
+      "value": 48,
+      "move": 1
     },
     {
       "rank": 60,
-      "name": "LlirikMK",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 47,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 61,
@@ -1143,7 +1143,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 7,
@@ -1168,7 +1168,7 @@
     {
       "rank": 11,
       "name": "LlirikMK",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 12,
@@ -1312,32 +1312,32 @@
     },
     {
       "rank": 40,
-      "name": "-",
+      "name": "Константин",
       "value": 5
     },
     {
       "rank": 41,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "-",
       "value": 5
     },
     {
       "rank": 42,
-      "name": "Ponemonec",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
       "rank": 43,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 5
     },
     {
       "rank": 44,
-      "name": "Milutin",
-      "value": 4
+      "name": "Safe",
+      "value": 5
     },
     {
       "rank": 45,
-      "name": "Константин",
+      "name": "Milutin",
       "value": 4
     },
     {
@@ -1389,23 +1389,23 @@
     },
     {
       "rank": 5,
-      "name": "Серхио Ле'Трас",
-      "value": 14
+      "name": "🅾🅻🅶🅰",
+      "value": 15
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
+      "name": "Серхио Ле'Трас",
       "value": 14
     },
     {
       "rank": 7,
       "name": "LlirikMK",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 8,
       "name": "A.",
-      "value": 11
+      "value": 10
     },
     {
       "rank": 9,
@@ -1519,7 +1519,7 @@
     },
     {
       "rank": 31,
-      "name": "Князь Владимир С",
+      "name": "Константин",
       "value": 3
     },
     {
@@ -1534,17 +1534,17 @@
     },
     {
       "rank": 34,
-      "name": "Константин",
-      "value": 2
-    },
-    {
-      "rank": 35,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Артем",
+      "value": 2
+    },
+    {
+      "rank": 36,
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
