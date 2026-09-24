@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T07:41:54+00:00",
+  "updated": "2026-09-24T08:41:54+00:00",
   "count": 185,
   "has_movement": true,
   "all": [
@@ -1232,17 +1232,17 @@
     },
     {
       "rank": 24,
-      "name": "DenisNazarov",
-      "value": 10
-    },
-    {
-      "rank": 25,
       "name": "Aся",
       "value": 10
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Юрий",
+      "value": 9
+    },
+    {
+      "rank": 26,
+      "name": "DenisNazarov",
       "value": 9
     },
     {
@@ -1400,7 +1400,7 @@
     {
       "rank": 7,
       "name": "LlirikMK",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 8,
