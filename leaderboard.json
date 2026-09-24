@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T14:16:28+00:00",
+  "updated": "2026-09-24T15:16:28+00:00",
   "count": 185,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4348,
+      "value": 4349,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1232,
+      "value": 1233,
       "move": 0
     },
     {
@@ -1370,12 +1370,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 80
+      "value": 78
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 3,
@@ -1529,63 +1529,63 @@
     },
     {
       "rank": 33,
-      "name": "Sergey",
-      "value": 2
-    },
-    {
-      "rank": 34,
       "name": "Артем",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Turchyn Gennadii",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "ц",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Zero-sum Gamer",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Денис Сергеевич",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Stepan",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Don Michele Corleone",
       "value": 2
+    },
+    {
+      "rank": 44,
+      "name": "Sergey",
+      "value": 1
     },
     {
       "rank": 45,
