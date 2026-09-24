@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T21:16:58+00:00",
+  "updated": "2026-09-24T22:17:03+00:00",
   "count": 187,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1779,
+      "value": 1780,
       "move": 0
     },
     {
@@ -617,15 +617,15 @@
     },
     {
       "rank": 103,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": 0
+      "name": "Ponemonec",
+      "value": 7,
+      "move": 1
     },
     {
       "rank": 104,
-      "name": "Ponemonec",
+      "name": "Александр Николаев",
       "value": 6,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 105,
@@ -1140,7 +1140,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 62
+      "value": 63
     },
     {
       "rank": 4,
@@ -1319,27 +1319,27 @@
     },
     {
       "rank": 39,
+      "name": "Ponemonec",
+      "value": 6
+    },
+    {
+      "rank": 40,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Константин",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 42,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
-      "value": 5
-    },
-    {
       "rank": 43,
-      "name": "Ponemonec",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
@@ -1387,12 +1387,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 35
+      "value": 33
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 4,
@@ -1586,47 +1586,47 @@
     },
     {
       "rank": 42,
-      "name": "Stepan",
+      "name": "Ponemonec",
       "value": 2
     },
     {
       "rank": 43,
-      "name": "Don Michele Corleone",
+      "name": "Stepan",
       "value": 2
     },
     {
       "rank": 44,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 45,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Andrey",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Lubo",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "ᴦоᴧод",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "Marina",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "Olga Goncharova",
+      "name": "Marina",
       "value": 1
     }
   ]
