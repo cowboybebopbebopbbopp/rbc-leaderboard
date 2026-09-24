@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T16:16:31+00:00",
+  "updated": "2026-09-24T17:16:36+00:00",
   "count": 185,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1233,
+      "value": 1238,
       "move": 0
     },
     {
@@ -1123,7 +1123,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 115
+      "value": 120
     },
     {
       "rank": 3,
@@ -1375,7 +1375,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 30
+      "value": 35
     },
     {
       "rank": 3,
