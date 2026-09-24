@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T19:16:47+00:00",
-  "count": 186,
+  "updated": "2026-09-24T20:16:53+00:00",
+  "count": 187,
   "has_movement": true,
   "all": [
     {
@@ -384,7 +384,7 @@
     {
       "rank": 64,
       "name": "Руслан Иванов",
-      "value": 33,
+      "value": 34,
       "move": 2
     },
     {
@@ -1118,6 +1118,12 @@
       "name": "Y. Yastrebov",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 187,
+      "name": "vitaliy",
+      "value": 0,
+      "move": null
     }
   ],
   "month": [
@@ -1219,7 +1225,7 @@
     {
       "rank": 20,
       "name": ".",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 21,
@@ -1238,27 +1244,27 @@
     },
     {
       "rank": 24,
+      "name": "Руслан Иванов",
+      "value": 10
+    },
+    {
+      "rank": 25,
       "name": "Юрий",
       "value": 9
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "DenisNazarov",
       "value": 9
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Aся",
       "value": 9
     },
     {
-      "rank": 27,
-      "name": "Анастасия",
-      "value": 9
-    },
-    {
       "rank": 28,
-      "name": "Руслан Иванов",
+      "name": "Анастасия",
       "value": 9
     },
     {
@@ -1425,22 +1431,22 @@
     },
     {
       "rank": 11,
+      "name": "Руслан Иванов",
+      "value": 9
+    },
+    {
+      "rank": 12,
       "name": "SPM",
       "value": 8
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "A.",
       "value": 8
     },
     {
-      "rank": 13,
-      "name": "terminal lucidity",
-      "value": 8
-    },
-    {
       "rank": 14,
-      "name": "Руслан Иванов",
+      "name": "terminal lucidity",
       "value": 8
     },
     {
