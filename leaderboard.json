@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T00:41:54+00:00",
+  "updated": "2026-09-24T00:58:55+00:00",
   "count": 185,
   "has_movement": true,
   "all": [
@@ -689,63 +689,63 @@
     },
     {
       "rank": 115,
-      "name": "Ilya",
-      "value": 3,
-      "move": -2
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 4,
+      "move": null
     },
     {
       "rank": 116,
+      "name": "Ilya",
+      "value": 3,
+      "move": -3
+    },
+    {
+      "rank": 117,
       "name": "Samurai_1",
+      "value": 3,
+      "move": -3
+    },
+    {
+      "rank": 118,
+      "name": "Sviat",
       "value": 3,
       "move": -2
     },
     {
-      "rank": 117,
-      "name": "Sviat",
-      "value": 3,
-      "move": -1
-    },
-    {
-      "rank": 118,
+      "rank": 119,
       "name": "1",
       "value": 3,
-      "move": -1
-    },
-    {
-      "rank": 119,
-      "name": "Neztor",
-      "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 120,
-      "name": "Максим",
+      "name": "Neztor",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 121,
-      "name": "Денис Сергеевич",
+      "name": "Максим",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 122,
-      "name": "ц",
+      "name": "Денис Сергеевич",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 123,
-      "name": "Stepan",
+      "name": "ц",
       "value": 3,
-      "move": 17
+      "move": -2
     },
     {
       "rank": 124,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Stepan",
       "value": 3,
-      "move": null
+      "move": 16
     },
     {
       "rank": 125,
@@ -1357,12 +1357,12 @@
     },
     {
       "rank": 49,
-      "name": "Dede",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "🏴‍☠️",
+      "name": "Dede",
       "value": 3
     }
   ],
@@ -1519,42 +1519,42 @@
     },
     {
       "rank": 31,
-      "name": "Dede",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 3
     },
     {
       "rank": 32,
+      "name": "Dede",
+      "value": 3
+    },
+    {
+      "rank": 33,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Артем",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Turchyn Gennadii",
       "value": 2
     },
     {
-      "rank": 37,
-      "name": "Евгений",
-      "value": 2
-    },
-    {
       "rank": 38,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Евгений",
       "value": 2
     },
     {
