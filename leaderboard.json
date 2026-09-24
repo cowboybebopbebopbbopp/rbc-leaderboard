@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T13:16:28+00:00",
+  "updated": "2026-09-24T14:16:28+00:00",
   "count": 185,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4346,
+      "value": 4348,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1231,
+      "value": 1232,
       "move": 0
     },
     {
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Vitaliy",
-      "value": 104,
+      "value": 105,
       "move": 0
     },
     {
@@ -1123,12 +1123,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 118
+      "value": 117
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 63
+      "value": 62
     },
     {
       "rank": 4,
@@ -1148,12 +1148,12 @@
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 8,
       "name": "A.",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 9,
@@ -1370,12 +1370,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 81
+      "value": 80
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 3,
@@ -1409,12 +1409,12 @@
     },
     {
       "rank": 9,
-      "name": "A.",
-      "value": 9
+      "name": "Vitaliy",
+      "value": 10
     },
     {
       "rank": 10,
-      "name": "Vitaliy",
+      "name": "A.",
       "value": 9
     },
     {
