@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T18:16:42+00:00",
-  "count": 185,
+  "updated": "2026-09-24T19:16:47+00:00",
+  "count": 186,
   "has_movement": true,
   "all": [
     {
@@ -1110,6 +1110,12 @@
     {
       "rank": 185,
       "name": "Милана Кондрашова",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 186,
+      "name": "Y. Yastrebov",
       "value": 1,
       "move": null
     }
