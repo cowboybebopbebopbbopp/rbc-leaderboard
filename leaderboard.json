@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T11:18:22+00:00",
+  "updated": "2026-09-25T12:18:28+00:00",
   "count": 189,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4357,
+      "value": 4358,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1781,
+      "value": 1782,
       "move": 0
     },
     {
@@ -353,15 +353,15 @@
     },
     {
       "rank": 59,
-      "name": "LlirikMK",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 48,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 60,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 47,
-      "move": -1
+      "name": "LlirikMK",
+      "value": 48,
+      "move": 0
     },
     {
       "rank": 61,
@@ -1142,7 +1142,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 230
+      "value": 231
     },
     {
       "rank": 2,
@@ -1152,7 +1152,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 61
+      "value": 62
     },
     {
       "rank": 4,
@@ -1286,18 +1286,18 @@
     },
     {
       "rank": 30,
-      "name": "lefkorosos",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
       "rank": 31,
-      "name": "ᴦоᴧод",
+      "name": "lefkorosos",
       "value": 8
     },
     {
       "rank": 32,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 7
+      "name": "ᴦоᴧод",
+      "value": 8
     },
     {
       "rank": 33,
@@ -1394,7 +1394,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 81
+      "value": 82
     },
     {
       "rank": 2,
@@ -1404,7 +1404,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 4,
@@ -1618,27 +1618,27 @@
     },
     {
       "rank": 46,
-      "name": "Kirill",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
       "rank": 47,
-      "name": "Andrey",
+      "name": "Kirill",
       "value": 1
     },
     {
       "rank": 48,
-      "name": "X888",
+      "name": "Andrey",
       "value": 1
     },
     {
       "rank": 49,
-      "name": "Zero-sum Gamer",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "Lubo",
+      "name": "Zero-sum Gamer",
       "value": 1
     }
   ]
