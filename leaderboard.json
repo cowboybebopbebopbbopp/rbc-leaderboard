@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T21:19:19+00:00",
+  "updated": "2026-09-25T22:19:24+00:00",
   "count": 191,
   "has_movement": true,
   "all": [
@@ -198,7 +198,7 @@
     {
       "rank": 33,
       "name": "Александр",
-      "value": 136,
+      "value": 139,
       "move": 0
     },
     {
@@ -1278,52 +1278,52 @@
     },
     {
       "rank": 26,
+      "name": "Александр",
+      "value": 10
+    },
+    {
+      "rank": 27,
       "name": "Юрий",
       "value": 9
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "DenisNazarov",
       "value": 9
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Анастасия",
       "value": 9
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "🤗",
       "value": 9
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "lefkorosos",
       "value": 8
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "ᴦоᴧод",
       "value": 8
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Aleksey",
       "value": 7
     },
     {
-      "rank": 34,
-      "name": "Kirill",
-      "value": 7
-    },
-    {
       "rank": 35,
-      "name": "Александр",
+      "name": "Kirill",
       "value": 7
     },
     {
@@ -1445,42 +1445,42 @@
     },
     {
       "rank": 9,
-      "name": "Manis Love",
-      "value": 9
-    },
-    {
-      "rank": 10,
       "name": "Vitaliy",
       "value": 9
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "iDiklonius",
       "value": 9
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Синдбад Мореход",
       "value": 9
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "A.",
       "value": 8
     },
     {
-      "rank": 15,
-      "name": "terminal lucidity",
+      "rank": 14,
+      "name": "Manis Love",
       "value": 8
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Юрий",
+      "value": 7
+    },
+    {
+      "rank": 16,
+      "name": "terminal lucidity",
       "value": 7
     },
     {
@@ -1535,117 +1535,117 @@
     },
     {
       "rank": 27,
-      "name": "🤗",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 28,
-      "name": "Max",
+      "name": "🤗",
       "value": 4
     },
     {
       "rank": 29,
+      "name": "Max",
+      "value": 4
+    },
+    {
+      "rank": 30,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Анастасия",
       "value": 3
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "@wavesscalper",
       "value": 3
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Артем",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Turchyn Gennadii",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "ц",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Денис Сергеевич",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Stepan",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 48,
-      "name": "Князь Владимир С",
-      "value": 1
-    },
-    {
       "rank": 49,
-      "name": "Александр",
+      "name": "Князь Владимир С",
       "value": 1
     },
     {
