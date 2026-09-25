@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T00:17:14+00:00",
+  "updated": "2026-09-25T00:48:12+00:00",
   "count": 187,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1239,
+      "value": 1241,
       "move": 0
     },
     {
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "Алексей",
-      "value": 211,
+      "value": 213,
       "move": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 120
+      "value": 122
     },
     {
       "rank": 3,
@@ -1359,22 +1359,22 @@
     },
     {
       "rank": 47,
-      "name": "Slawik",
+      "name": "Алексей",
       "value": 3
     },
     {
       "rank": 48,
-      "name": "Виталий",
+      "name": "Slawik",
       "value": 3
     },
     {
       "rank": 49,
-      "name": "Евгений",
+      "name": "Виталий",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "Dede",
+      "name": "Евгений",
       "value": 3
     }
   ],
@@ -1387,7 +1387,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 34
+      "value": 36
     },
     {
       "rank": 3,
@@ -1541,92 +1541,92 @@
     },
     {
       "rank": 33,
-      "name": "Артем",
+      "name": "Алексей",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Князь Владимир С",
+      "name": "Артем",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "Turchyn Gennadii",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Евгений",
+      "name": "Turchyn Gennadii",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "ц",
+      "name": "Евгений",
       "value": 2
     },
     {
       "rank": 38,
-      "name": "Max⚡️",
+      "name": "ц",
       "value": 2
     },
     {
       "rank": 39,
-      "name": "Роман",
+      "name": "Max⚡️",
       "value": 2
     },
     {
       "rank": 40,
-      "name": "Zero-sum Gamer",
+      "name": "Роман",
       "value": 2
     },
     {
       "rank": 41,
-      "name": "Денис Сергеевич",
+      "name": "Zero-sum Gamer",
       "value": 2
     },
     {
       "rank": 42,
-      "name": "Ponemonec",
+      "name": "Денис Сергеевич",
       "value": 2
     },
     {
       "rank": 43,
-      "name": "Stepan",
+      "name": "Ponemonec",
       "value": 2
     },
     {
       "rank": 44,
-      "name": "Don Michele Corleone",
+      "name": "Stepan",
       "value": 2
     },
     {
       "rank": 45,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 46,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Andrey",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Lubo",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "Marina",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "Olga Goncharova",
+      "name": "Marina",
       "value": 1
     }
   ]
