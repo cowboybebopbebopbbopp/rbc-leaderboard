@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T12:18:28+00:00",
+  "updated": "2026-09-25T13:18:34+00:00",
   "count": 189,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4358,
+      "value": 4359,
       "move": 0
     },
     {
@@ -420,7 +420,7 @@
     {
       "rank": 70,
       "name": "SPM",
-      "value": 26,
+      "value": 27,
       "move": 2
     },
     {
@@ -1142,7 +1142,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 231
+      "value": 232
     },
     {
       "rank": 2,
@@ -1201,13 +1201,13 @@
     },
     {
       "rank": 13,
-      "name": "Manis Love",
+      "name": "SPM",
       "value": 18
     },
     {
       "rank": 14,
-      "name": "SPM",
-      "value": 17
+      "name": "Manis Love",
+      "value": 18
     },
     {
       "rank": 15,
@@ -1394,7 +1394,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 82
+      "value": 83
     },
     {
       "rank": 2,
@@ -1424,7 +1424,7 @@
     {
       "rank": 7,
       "name": "SPM",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 8,
@@ -1563,67 +1563,67 @@
     },
     {
       "rank": 35,
-      "name": "Князь Владимир С",
-      "value": 2
-    },
-    {
-      "rank": 36,
       "name": "Turchyn Gennadii",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "ц",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Денис Сергеевич",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Stepan",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Kirill",
+      "value": 1
+    },
+    {
+      "rank": 47,
+      "name": "Князь Владимир С",
       "value": 1
     },
     {
@@ -1638,7 +1638,7 @@
     },
     {
       "rank": 50,
-      "name": "Zero-sum Gamer",
+      "name": "Lubo",
       "value": 1
     }
   ]
