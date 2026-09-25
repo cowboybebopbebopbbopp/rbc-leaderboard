@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T06:17:46+00:00",
+  "updated": "2026-09-25T07:17:51+00:00",
   "count": 187,
   "has_movement": true,
   "all": [
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Vitaliy",
-      "value": 105,
+      "value": 106,
       "move": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 8,
@@ -1387,7 +1387,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 3,
@@ -1416,12 +1416,12 @@
     },
     {
       "rank": 8,
-      "name": "Manis Love",
-      "value": 10
+      "name": "Vitaliy",
+      "value": 11
     },
     {
       "rank": 9,
-      "name": "Vitaliy",
+      "name": "Manis Love",
       "value": 10
     },
     {
@@ -1581,47 +1581,47 @@
     },
     {
       "rank": 41,
-      "name": "Zero-sum Gamer",
-      "value": 2
-    },
-    {
-      "rank": 42,
       "name": "Денис Сергеевич",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Stepan",
       "value": 2
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Andrey",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "X888",
+      "value": 1
+    },
+    {
+      "rank": 49,
+      "name": "Zero-sum Gamer",
       "value": 1
     },
     {
