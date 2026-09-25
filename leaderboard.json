@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T08:17:57+00:00",
+  "updated": "2026-09-25T09:18:02+00:00",
   "count": 188,
   "has_movement": true,
   "all": [
@@ -1136,7 +1136,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 234
+      "value": 227
     },
     {
       "rank": 2,
@@ -1150,13 +1150,13 @@
     },
     {
       "rank": 4,
-      "name": "Viktor",
+      "name": "Zero-sum Gamer",
       "value": 53
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
-      "value": 53
+      "name": "Viktor",
+      "value": 52
     },
     {
       "rank": 6,
@@ -1388,7 +1388,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 80
+      "value": 78
     },
     {
       "rank": 2,
