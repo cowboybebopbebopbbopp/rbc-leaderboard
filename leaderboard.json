@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T07:17:51+00:00",
-  "count": 187,
+  "updated": "2026-09-25T08:17:57+00:00",
+  "count": 188,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4352,
+      "value": 4353,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 472,
+      "value": 473,
       "move": 0
     },
     {
@@ -1121,6 +1121,12 @@
     },
     {
       "rank": 187,
+      "name": "Аркаша",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 188,
       "name": "vitaliy",
       "value": 0,
       "move": null
@@ -1130,7 +1136,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 233
+      "value": 234
     },
     {
       "rank": 2,
@@ -1140,7 +1146,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 61
+      "value": 60
     },
     {
       "rank": 4,
@@ -1219,22 +1225,22 @@
     },
     {
       "rank": 19,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "iDiklonius",
       "value": 12
     },
     {
       "rank": 20,
-      "name": ".",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 12
     },
     {
       "rank": 21,
-      "name": "Юрий",
-      "value": 11
+      "name": ".",
+      "value": 12
     },
     {
       "rank": 22,
-      "name": "iDiklonius",
+      "name": "Юрий",
       "value": 11
     },
     {
@@ -1392,7 +1398,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 4,
@@ -1441,17 +1447,17 @@
     },
     {
       "rank": 13,
+      "name": "iDiklonius",
+      "value": 9
+    },
+    {
+      "rank": 14,
       "name": "SPM",
       "value": 8
     },
     {
-      "rank": 14,
-      "name": "A.",
-      "value": 8
-    },
-    {
       "rank": 15,
-      "name": "iDiklonius",
+      "name": "A.",
       "value": 8
     },
     {
