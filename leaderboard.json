@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T20:19:14+00:00",
+  "updated": "2026-09-25T21:19:19+00:00",
   "count": 191,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 829,
+      "value": 830,
       "move": 0
     },
     {
@@ -198,7 +198,7 @@
     {
       "rank": 33,
       "name": "Александр",
-      "value": 135,
+      "value": 136,
       "move": 0
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "rank": 12,
       "name": "Синдбад Мореход",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 13,
@@ -1233,12 +1233,12 @@
     },
     {
       "rank": 17,
-      "name": "Князь Владимир С",
-      "value": 15
+      "name": "PiratesOfMining",
+      "value": 13
     },
     {
       "rank": 18,
-      "name": "PiratesOfMining",
+      "name": "Князь Владимир С",
       "value": 13
     },
     {
@@ -1323,12 +1323,12 @@
     },
     {
       "rank": 35,
-      "name": "Sergey СЕО",
-      "value": 6
+      "name": "Александр",
+      "value": 7
     },
     {
       "rank": 36,
-      "name": "Александр",
+      "name": "Sergey СЕО",
       "value": 6
     },
     {
@@ -1406,7 +1406,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 77
+      "value": 76
     },
     {
       "rank": 2,
@@ -1465,17 +1465,17 @@
     },
     {
       "rank": 13,
+      "name": "Синдбад Мореход",
+      "value": 9
+    },
+    {
+      "rank": 14,
       "name": "A.",
       "value": 8
     },
     {
-      "rank": 14,
-      "name": "terminal lucidity",
-      "value": 8
-    },
-    {
       "rank": 15,
-      "name": "Синдбад Мореход",
+      "name": "terminal lucidity",
       "value": 8
     },
     {
@@ -1645,12 +1645,12 @@
     },
     {
       "rank": 49,
-      "name": "Lubo",
+      "name": "Александр",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "Алина",
+      "name": "Lubo",
       "value": 1
     }
   ]
