@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T13:18:34+00:00",
+  "updated": "2026-09-25T14:18:39+00:00",
   "count": 189,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4359,
+      "value": 4360,
       "move": 0
     },
     {
@@ -1142,12 +1142,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 232
+      "value": 233
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 123
+      "value": 122
     },
     {
       "rank": 3,
@@ -1394,7 +1394,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 83
+      "value": 82
     },
     {
       "rank": 2,
@@ -1443,27 +1443,27 @@
     },
     {
       "rank": 11,
-      "name": "terminal lucidity",
-      "value": 9
-    },
-    {
-      "rank": 12,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Руслан Иванов",
       "value": 9
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "iDiklonius",
       "value": 9
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "A.",
+      "value": 8
+    },
+    {
+      "rank": 15,
+      "name": "terminal lucidity",
       "value": 8
     },
     {
