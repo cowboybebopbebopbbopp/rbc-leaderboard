@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T03:17:31+00:00",
+  "updated": "2026-09-25T04:17:36+00:00",
   "count": 187,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4350,
+      "value": 4351,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1241,
+      "value": 1242,
       "move": 0
     },
     {
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "Алексей",
-      "value": 213,
+      "value": 215,
       "move": 0
     },
     {
@@ -287,15 +287,15 @@
     },
     {
       "rank": 48,
-      "name": "Sergey СЕО",
-      "value": 88,
-      "move": 0
+      "name": "terminal lucidity",
+      "value": 89,
+      "move": 1
     },
     {
       "rank": 49,
-      "name": "terminal lucidity",
+      "name": "Sergey СЕО",
       "value": 88,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 50,
@@ -1130,7 +1130,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 232
+      "value": 233
     },
     {
       "rank": 2,
@@ -1199,17 +1199,17 @@
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
+      "name": "terminal lucidity",
       "value": 15
     },
     {
       "rank": 16,
-      "name": "SPM",
-      "value": 14
+      "name": "Князь Владимир С",
+      "value": 15
     },
     {
       "rank": 17,
-      "name": "terminal lucidity",
+      "name": "SPM",
       "value": 14
     },
     {
@@ -1329,38 +1329,38 @@
     },
     {
       "rank": 41,
-      "name": "Константин",
+      "name": "Алексей",
       "value": 5
     },
     {
       "rank": 42,
-      "name": "-",
+      "name": "Константин",
       "value": 5
     },
     {
       "rank": 43,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "-",
       "value": 5
     },
     {
       "rank": 44,
-      "name": "Safe",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
       "rank": 45,
+      "name": "Safe",
+      "value": 5
+    },
+    {
+      "rank": 46,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Станислав Баев",
       "value": 4
-    },
-    {
-      "rank": 47,
-      "name": "Алексей",
-      "value": 3
     },
     {
       "rank": 48,
@@ -1382,12 +1382,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 78
+      "value": 79
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 3,
@@ -1402,7 +1402,7 @@
     {
       "rank": 5,
       "name": "🅾🅻🅶🅰",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 6,
@@ -1426,27 +1426,27 @@
     },
     {
       "rank": 10,
-      "name": "PiratesOfMining",
+      "name": "terminal lucidity",
       "value": 9
     },
     {
       "rank": 11,
-      "name": "Руслан Иванов",
+      "name": "PiratesOfMining",
       "value": 9
     },
     {
       "rank": 12,
+      "name": "Руслан Иванов",
+      "value": 9
+    },
+    {
+      "rank": 13,
       "name": "SPM",
       "value": 8
     },
     {
-      "rank": 13,
-      "name": "A.",
-      "value": 8
-    },
-    {
       "rank": 14,
-      "name": "terminal lucidity",
+      "name": "A.",
       "value": 8
     },
     {
@@ -1501,48 +1501,48 @@
     },
     {
       "rank": 25,
-      "name": "Юрий",
+      "name": "Алексей",
       "value": 4
     },
     {
       "rank": 26,
-      "name": "Станислав Баев",
+      "name": "Юрий",
       "value": 4
     },
     {
       "rank": 27,
-      "name": "🤗",
+      "name": "Станислав Баев",
       "value": 4
     },
     {
       "rank": 28,
-      "name": "Max",
+      "name": "🤗",
       "value": 4
     },
     {
       "rank": 29,
+      "name": "Max",
+      "value": 4
+    },
+    {
+      "rank": 30,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Анастасия",
       "value": 3
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "@wavesscalper",
       "value": 3
-    },
-    {
-      "rank": 33,
-      "name": "Алексей",
-      "value": 2
     },
     {
       "rank": 34,
