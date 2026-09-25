@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T10:18:17+00:00",
+  "updated": "2026-09-25T11:18:22+00:00",
   "count": 189,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4355,
+      "value": 4357,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1780,
+      "value": 1781,
       "move": 0
     },
     {
@@ -419,15 +419,15 @@
     },
     {
       "rank": 70,
-      "name": "Lina",
-      "value": 24,
-      "move": 0
+      "name": "SPM",
+      "value": 26,
+      "move": 2
     },
     {
       "rank": 71,
-      "name": "SPM",
+      "name": "Lina",
       "value": 24,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 72,
@@ -1142,7 +1142,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 228
+      "value": 230
     },
     {
       "rank": 2,
@@ -1152,7 +1152,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 60
+      "value": 61
     },
     {
       "rank": 4,
@@ -1167,12 +1167,12 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 31
+      "value": 30
     },
     {
       "rank": 8,
@@ -1206,13 +1206,13 @@
     },
     {
       "rank": 14,
-      "name": "Серхио Ле'Трас",
-      "value": 16
+      "name": "SPM",
+      "value": 17
     },
     {
       "rank": 15,
-      "name": "SPM",
-      "value": 15
+      "name": "Серхио Ле'Трас",
+      "value": 16
     },
     {
       "rank": 16,
@@ -1394,7 +1394,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 79
+      "value": 81
     },
     {
       "rank": 2,
@@ -1404,7 +1404,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 4,
@@ -1423,23 +1423,23 @@
     },
     {
       "rank": 7,
-      "name": "Vitaliy",
+      "name": "SPM",
       "value": 11
     },
     {
       "rank": 8,
-      "name": "LlirikMK",
+      "name": "Vitaliy",
       "value": 11
     },
     {
       "rank": 9,
-      "name": "Manis Love",
-      "value": 10
+      "name": "LlirikMK",
+      "value": 11
     },
     {
       "rank": 10,
-      "name": "SPM",
-      "value": 9
+      "name": "Manis Love",
+      "value": 10
     },
     {
       "rank": 11,
