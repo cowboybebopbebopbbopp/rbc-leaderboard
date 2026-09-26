@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T03:19:51+00:00",
+  "updated": "2026-09-26T04:19:57+00:00",
   "count": 192,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1782,
+      "value": 1783,
       "move": 0
     },
     {
@@ -456,7 +456,7 @@
     {
       "rank": 76,
       "name": "Максим",
-      "value": 19,
+      "value": 20,
       "move": null
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 233
+      "value": 231
     },
     {
       "rank": 2,
@@ -1170,7 +1170,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 62
+      "value": 63
     },
     {
       "rank": 4,
@@ -1254,32 +1254,32 @@
     },
     {
       "rank": 20,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 12
-    },
-    {
-      "rank": 21,
       "name": ".",
       "value": 12
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Юрий",
       "value": 11
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Руслан Иванов",
       "value": 11
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "@wavesscalper",
       "value": 11
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Aся",
+      "value": 10
+    },
+    {
+      "rank": 25,
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 10
     },
     {
@@ -1422,7 +1422,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 4,
@@ -1481,12 +1481,12 @@
     },
     {
       "rank": 15,
-      "name": "Руслан Иванов",
-      "value": 8
+      "name": "Юрий",
+      "value": 7
     },
     {
       "rank": 16,
-      "name": "Юрий",
+      "name": "Руслан Иванов",
       "value": 7
     },
     {
@@ -1651,12 +1651,12 @@
     },
     {
       "rank": 49,
-      "name": "lefkorosos",
+      "name": "Максим",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "Lubo",
+      "name": "lefkorosos",
       "value": 1
     }
   ]
