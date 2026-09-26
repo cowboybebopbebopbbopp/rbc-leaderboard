@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T20:21:24+00:00",
+  "updated": "2026-09-26T21:21:30+00:00",
   "count": 193,
   "has_movement": true,
   "all": [
@@ -390,7 +390,7 @@
     {
       "rank": 65,
       "name": "Roman Polyakov",
-      "value": 35,
+      "value": 36,
       "move": null
     },
     {
@@ -1423,7 +1423,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 37
+      "value": 36
     },
     {
       "rank": 3,
@@ -1517,32 +1517,32 @@
     },
     {
       "rank": 21,
-      "name": "Sergey",
-      "value": 5
-    },
-    {
-      "rank": 22,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Александр",
+      "value": 4
+    },
+    {
+      "rank": 26,
+      "name": "Sergey",
       "value": 4
     },
     {
@@ -1577,53 +1577,53 @@
     },
     {
       "rank": 33,
-      "name": "Aleksey",
+      "name": "Roman Polyakov",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Анастасия",
+      "name": "Aleksey",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "Артем",
+      "name": "Анастасия",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Turchyn Gennadii",
+      "name": "Артем",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "Евгений",
+      "name": "Turchyn Gennadii",
       "value": 2
     },
     {
       "rank": 38,
-      "name": "ц",
+      "name": "Евгений",
       "value": 2
     },
     {
       "rank": 39,
-      "name": "Max⚡️",
+      "name": "ц",
       "value": 2
     },
     {
       "rank": 40,
-      "name": "Stepan",
+      "name": "Max⚡️",
       "value": 2
     },
     {
       "rank": 41,
-      "name": "Don Michele Corleone",
+      "name": "Stepan",
       "value": 2
     },
     {
       "rank": 42,
-      "name": "Roman Polyakov",
-      "value": 1
+      "name": "Don Michele Corleone",
+      "value": 2
     },
     {
       "rank": 43,
