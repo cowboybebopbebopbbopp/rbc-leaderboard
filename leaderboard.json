@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T19:21:19+00:00",
+  "updated": "2026-09-26T20:21:24+00:00",
   "count": 193,
   "has_movement": true,
   "all": [
@@ -240,7 +240,7 @@
     {
       "rank": 40,
       "name": "Vitaliy",
-      "value": 110,
+      "value": 111,
       "move": 2
     },
     {
@@ -1190,13 +1190,13 @@
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
+      "name": "Vitaliy",
       "value": 35
     },
     {
       "rank": 7,
-      "name": "Vitaliy",
-      "value": 34
+      "name": "🅾🅻🅶🅰",
+      "value": 35
     },
     {
       "rank": 8,
@@ -1437,23 +1437,23 @@
     },
     {
       "rank": 5,
-      "name": "Серхио Ле'Трас",
+      "name": "Vitaliy",
       "value": 12
     },
     {
       "rank": 6,
-      "name": "LlirikMK",
+      "name": "Серхио Ле'Трас",
       "value": 12
     },
     {
       "rank": 7,
-      "name": "Синдбад Мореход",
+      "name": "LlirikMK",
       "value": 12
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
-      "value": 11
+      "name": "Синдбад Мореход",
+      "value": 12
     },
     {
       "rank": 9,
@@ -1502,28 +1502,28 @@
     },
     {
       "rank": 18,
-      "name": "Sergey",
-      "value": 6
-    },
-    {
-      "rank": 19,
-      "name": "Юрий",
-      "value": 5
-    },
-    {
-      "rank": 20,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 19,
       "name": "Сергей",
       "value": 5
     },
     {
-      "rank": 22,
+      "rank": 20,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
+    },
+    {
+      "rank": 21,
+      "name": "Sergey",
+      "value": 5
+    },
+    {
+      "rank": 22,
+      "name": "Юрий",
+      "value": 4
     },
     {
       "rank": 23,
@@ -1612,57 +1612,57 @@
     },
     {
       "rank": 40,
-      "name": "Ponemonec",
-      "value": 2
-    },
-    {
-      "rank": 41,
       "name": "Stepan",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "lefkorosos",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Lubo",
       "value": 1
     }
   ]
