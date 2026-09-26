@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T01:19:40+00:00",
+  "updated": "2026-09-26T02:19:46+00:00",
   "count": 191,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 830,
+      "value": 833,
       "move": 0
     },
     {
@@ -275,21 +275,21 @@
     },
     {
       "rank": 46,
-      "name": "Max",
+      "name": "terminal lucidity",
       "value": 90,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 47,
-      "name": "Vlad",
+      "name": "Max",
       "value": 90,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 48,
-      "name": "terminal lucidity",
-      "value": 89,
-      "move": 1
+      "name": "Vlad",
+      "value": 90,
+      "move": -1
     },
     {
       "rank": 49,
@@ -1188,27 +1188,27 @@
     },
     {
       "rank": 8,
+      "name": "Синдбад Мореход",
+      "value": 23
+    },
+    {
+      "rank": 9,
       "name": "A.",
       "value": 21
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Сергей",
       "value": 21
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "L G",
       "value": 21
     },
     {
-      "rank": 11,
-      "name": "LlirikMK",
-      "value": 20
-    },
-    {
       "rank": 12,
-      "name": "Синдбад Мореход",
+      "name": "LlirikMK",
       "value": 20
     },
     {
@@ -1223,13 +1223,13 @@
     },
     {
       "rank": 15,
-      "name": "Серхио Ле'Трас",
+      "name": "terminal lucidity",
       "value": 16
     },
     {
       "rank": 16,
-      "name": "terminal lucidity",
-      "value": 15
+      "name": "Серхио Ле'Трас",
+      "value": 16
     },
     {
       "rank": 17,
@@ -1435,32 +1435,32 @@
     },
     {
       "rank": 7,
+      "name": "Синдбад Мореход",
+      "value": 12
+    },
+    {
+      "rank": 8,
       "name": "LlirikMK",
       "value": 11
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "🅾🅻🅶🅰",
       "value": 11
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Vitaliy",
       "value": 9
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 11,
-      "name": "iDiklonius",
-      "value": 9
-    },
-    {
       "rank": 12,
-      "name": "Синдбад Мореход",
+      "name": "iDiklonius",
       "value": 9
     },
     {
@@ -1485,12 +1485,12 @@
     },
     {
       "rank": 17,
-      "name": "Aся",
-      "value": 6
+      "name": "terminal lucidity",
+      "value": 7
     },
     {
       "rank": 18,
-      "name": "terminal lucidity",
+      "name": "Aся",
       "value": 6
     },
     {
@@ -1565,87 +1565,87 @@
     },
     {
       "rank": 33,
-      "name": "lefkorosos",
-      "value": 3
-    },
-    {
-      "rank": 34,
       "name": "@wavesscalper",
       "value": 3
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Артем",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Turchyn Gennadii",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "ц",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Денис Сергеевич",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Stepan",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Князь Владимир С",
+      "value": 1
+    },
+    {
+      "rank": 49,
+      "name": "lefkorosos",
       "value": 1
     },
     {
