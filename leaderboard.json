@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T07:20:13+00:00",
+  "updated": "2026-09-26T08:20:19+00:00",
   "count": 192,
   "has_movement": true,
   "all": [
@@ -413,15 +413,15 @@
     },
     {
       "rank": 69,
-      "name": "Мое имя Максим",
+      "name": "SPM",
       "value": 28,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 70,
-      "name": "SPM",
-      "value": 27,
-      "move": 1
+      "name": "Мое имя Максим",
+      "value": 28,
+      "move": -1
     },
     {
       "rank": 71,
@@ -581,39 +581,39 @@
     },
     {
       "rank": 97,
-      "name": "lefkorosos",
+      "name": "Aleksey",
       "value": 9,
-      "move": -2
+      "move": 3
     },
     {
       "rank": 98,
-      "name": "Sergey",
+      "name": "lefkorosos",
       "value": 9,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 99,
-      "name": "Юрий",
-      "value": 8,
-      "move": -2
+      "name": "Sergey",
+      "value": 9,
+      "move": -3
     },
     {
       "rank": 100,
-      "name": "xxx",
+      "name": "Юрий",
       "value": 8,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 101,
-      "name": "Kirill",
+      "name": "xxx",
       "value": 8,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 102,
-      "name": "Aleksey",
+      "name": "Kirill",
       "value": 8,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 103,
@@ -1170,7 +1170,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 64
+      "value": 63
     },
     {
       "rank": 4,
@@ -1220,7 +1220,7 @@
     {
       "rank": 13,
       "name": "SPM",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 14,
@@ -1244,13 +1244,13 @@
     },
     {
       "rank": 18,
-      "name": "iDiklonius",
+      "name": "Князь Владимир С",
       "value": 13
     },
     {
       "rank": 19,
-      "name": "Князь Владимир С",
-      "value": 13
+      "name": "iDiklonius",
+      "value": 12
     },
     {
       "rank": 20,
@@ -1314,18 +1314,18 @@
     },
     {
       "rank": 32,
-      "name": "lefkorosos",
+      "name": "Aleksey",
       "value": 8
     },
     {
       "rank": 33,
-      "name": "ᴦоᴧод",
+      "name": "lefkorosos",
       "value": 8
     },
     {
       "rank": 34,
-      "name": "Aleksey",
-      "value": 7
+      "name": "ᴦоᴧод",
+      "value": 8
     },
     {
       "rank": 35,
@@ -1422,7 +1422,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 4,
@@ -1437,7 +1437,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 7,
@@ -1481,32 +1481,32 @@
     },
     {
       "rank": 15,
-      "name": "Руслан Иванов",
-      "value": 7
-    },
-    {
-      "rank": 16,
       "name": "Юрий",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Aся",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "terminal lucidity",
       "value": 6
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Сергей",
       "value": 6
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "L G",
+      "value": 6
+    },
+    {
+      "rank": 20,
+      "name": "Руслан Иванов",
       "value": 6
     },
     {
@@ -1641,22 +1641,22 @@
     },
     {
       "rank": 47,
-      "name": "Kirill",
+      "name": "Aleksey",
       "value": 1
     },
     {
       "rank": 48,
-      "name": "Князь Владимир С",
+      "name": "Kirill",
       "value": 1
     },
     {
       "rank": 49,
-      "name": "Vlad",
+      "name": "Князь Владимир С",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "Максим",
+      "name": "Vlad",
       "value": 1
     }
   ]
