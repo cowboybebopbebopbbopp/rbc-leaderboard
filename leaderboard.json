@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T09:20:24+00:00",
+  "updated": "2026-09-26T10:20:29+00:00",
   "count": 192,
   "has_movement": true,
   "all": [
@@ -539,51 +539,51 @@
     },
     {
       "rank": 90,
-      "name": "Анастасия",
+      "name": "Aleksey",
       "value": 10,
-      "move": -2
+      "move": 10
     },
     {
       "rank": 91,
-      "name": "Dede",
+      "name": "Анастасия",
       "value": 10,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 92,
-      "name": "Евгений",
+      "name": "Dede",
       "value": 10,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 93,
-      "name": "Юрий",
+      "name": "Евгений",
       "value": 10,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 94,
-      "name": "Роман",
-      "value": 9,
-      "move": -2
+      "name": "Юрий",
+      "value": 10,
+      "move": -3
     },
     {
       "rank": 95,
-      "name": "***",
+      "name": "Роман",
       "value": 9,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 96,
-      "name": "Demius",
+      "name": "***",
       "value": 9,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 97,
-      "name": "Aleksey",
+      "name": "Demius",
       "value": 9,
-      "move": 3
+      "move": -3
     },
     {
       "rank": 98,
@@ -1180,7 +1180,7 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 50
+      "value": 49
     },
     {
       "rank": 6,
@@ -1299,22 +1299,22 @@
     },
     {
       "rank": 29,
-      "name": "Анастасия",
+      "name": "Aleksey",
       "value": 9
     },
     {
       "rank": 30,
-      "name": "🤗",
+      "name": "Анастасия",
       "value": 9
     },
     {
       "rank": 31,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 8
+      "name": "🤗",
+      "value": 9
     },
     {
       "rank": 32,
-      "name": "Aleksey",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
@@ -1412,7 +1412,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 77
+      "value": 76
     },
     {
       "rank": 2,
@@ -1576,72 +1576,72 @@
     },
     {
       "rank": 34,
-      "name": "Артем",
+      "name": "Aleksey",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "Turchyn Gennadii",
+      "name": "Артем",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Евгений",
+      "name": "Turchyn Gennadii",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "ц",
+      "name": "Евгений",
       "value": 2
     },
     {
       "rank": 38,
-      "name": "Max⚡️",
+      "name": "ц",
       "value": 2
     },
     {
       "rank": 39,
-      "name": "Роман",
+      "name": "Max⚡️",
       "value": 2
     },
     {
       "rank": 40,
-      "name": "Денис Сергеевич",
+      "name": "Роман",
       "value": 2
     },
     {
       "rank": 41,
-      "name": "Marina",
+      "name": "Денис Сергеевич",
       "value": 2
     },
     {
       "rank": 42,
-      "name": "Ponemonec",
+      "name": "Marina",
       "value": 2
     },
     {
       "rank": 43,
-      "name": "Stepan",
+      "name": "Ponemonec",
       "value": 2
     },
     {
       "rank": 44,
-      "name": "Don Michele Corleone",
+      "name": "Stepan",
       "value": 2
     },
     {
       "rank": 45,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 46,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 46,
-      "name": "AnTon",
-      "value": 1
-    },
-    {
       "rank": 47,
-      "name": "Aleksey",
+      "name": "AnTon",
       "value": 1
     },
     {
