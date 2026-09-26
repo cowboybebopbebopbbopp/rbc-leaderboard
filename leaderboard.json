@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T17:21:08+00:00",
+  "updated": "2026-09-26T18:21:13+00:00",
   "count": 193,
   "has_movement": true,
   "all": [
@@ -390,7 +390,7 @@
     {
       "rank": 65,
       "name": "Roman Polyakov",
-      "value": 34,
+      "value": 35,
       "move": null
     },
     {
@@ -1452,13 +1452,13 @@
     },
     {
       "rank": 8,
-      "name": "Viktor",
+      "name": "🅾🅻🅶🅰",
       "value": 11
     },
     {
       "rank": 9,
-      "name": "🅾🅻🅶🅰",
-      "value": 11
+      "name": "Viktor",
+      "value": 10
     },
     {
       "rank": 10,
@@ -1627,42 +1627,42 @@
     },
     {
       "rank": 43,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Roman Polyakov",
       "value": 1
     },
     {
       "rank": 44,
-      "name": "AnTon",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
       "rank": 45,
-      "name": "Kirill",
+      "name": "AnTon",
       "value": 1
     },
     {
       "rank": 46,
-      "name": "Князь Владимир С",
+      "name": "Kirill",
       "value": 1
     },
     {
       "rank": 47,
-      "name": "Vlad",
+      "name": "Князь Владимир С",
       "value": 1
     },
     {
       "rank": 48,
-      "name": "Максим",
+      "name": "Vlad",
       "value": 1
     },
     {
       "rank": 49,
-      "name": "lefkorosos",
+      "name": "Максим",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "Lubo",
+      "name": "lefkorosos",
       "value": 1
     }
   ]
