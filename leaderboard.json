@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T10:20:29+00:00",
+  "updated": "2026-09-26T11:20:35+00:00",
   "count": 192,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4362,
+      "value": 4363,
       "move": 0
     },
     {
@@ -353,15 +353,15 @@
     },
     {
       "rank": 59,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 48,
-      "move": 1
+      "name": "LlirikMK",
+      "value": 49,
+      "move": 0
     },
     {
       "rank": 60,
-      "name": "LlirikMK",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 48,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 61,
@@ -1160,7 +1160,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 229
+      "value": 230
     },
     {
       "rank": 2,
@@ -1170,7 +1170,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 61
+      "value": 60
     },
     {
       "rank": 4,
@@ -1199,22 +1199,22 @@
     },
     {
       "rank": 9,
-      "name": "A.",
-      "value": 21
-    },
-    {
-      "rank": 10,
       "name": "Сергей",
       "value": 21
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "L G",
       "value": 21
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "LlirikMK",
+      "value": 21
+    },
+    {
+      "rank": 12,
+      "name": "A.",
       "value": 20
     },
     {
@@ -1412,7 +1412,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 76
+      "value": 77
     },
     {
       "rank": 2,
@@ -1441,13 +1441,13 @@
     },
     {
       "rank": 7,
-      "name": "Синдбад Мореход",
+      "name": "LlirikMK",
       "value": 12
     },
     {
       "rank": 8,
-      "name": "LlirikMK",
-      "value": 11
+      "name": "Синдбад Мореход",
+      "value": 12
     },
     {
       "rank": 9,
