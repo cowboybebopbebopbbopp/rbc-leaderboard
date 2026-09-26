@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T11:20:35+00:00",
+  "updated": "2026-09-26T12:20:40+00:00",
   "count": 192,
   "has_movement": true,
   "all": [
@@ -1466,17 +1466,17 @@
     },
     {
       "rank": 12,
-      "name": "iDiklonius",
-      "value": 9
-    },
-    {
-      "rank": 13,
       "name": "A.",
       "value": 8
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Manis Love",
+      "value": 8
+    },
+    {
+      "rank": 14,
+      "name": "iDiklonius",
       "value": 8
     },
     {
@@ -1571,47 +1571,47 @@
     },
     {
       "rank": 33,
-      "name": "@wavesscalper",
-      "value": 3
-    },
-    {
-      "rank": 34,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Артем",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Turchyn Gennadii",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "ц",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Денис Сергеевич",
+      "value": 2
+    },
+    {
+      "rank": 41,
+      "name": "@wavesscalper",
       "value": 2
     },
     {
