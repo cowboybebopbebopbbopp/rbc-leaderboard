@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T14:20:51+00:00",
+  "updated": "2026-09-26T15:20:57+00:00",
   "count": 192,
   "has_movement": true,
   "all": [
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Vitaliy",
-      "value": 106,
+      "value": 107,
       "move": 0
     },
     {
@@ -1165,12 +1165,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 121
+      "value": 120
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 60
+      "value": 59
     },
     {
       "rank": 4,
@@ -1190,7 +1190,7 @@
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 8,
@@ -1417,7 +1417,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 3,
@@ -1431,23 +1431,23 @@
     },
     {
       "rank": 5,
-      "name": "Viktor",
-      "value": 13
-    },
-    {
-      "rank": 6,
       "name": "Серхио Ле'Трас",
       "value": 12
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "LlirikMK",
       "value": 12
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Синдбад Мореход",
       "value": 12
+    },
+    {
+      "rank": 8,
+      "name": "Viktor",
+      "value": 11
     },
     {
       "rank": 9,
@@ -1466,58 +1466,58 @@
     },
     {
       "rank": 12,
-      "name": "A.",
-      "value": 8
-    },
-    {
-      "rank": 13,
-      "name": "Manis Love",
-      "value": 7
-    },
-    {
-      "rank": 14,
       "name": "Руслан Иванов",
       "value": 7
     },
     {
-      "rank": 15,
+      "rank": 13,
       "name": "iDiklonius",
       "value": 7
     },
     {
-      "rank": 16,
+      "rank": 14,
       "name": ".",
       "value": 7
     },
     {
-      "rank": 17,
+      "rank": 15,
       "name": "Юрий",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 16,
       "name": "Aся",
       "value": 6
     },
     {
-      "rank": 19,
+      "rank": 17,
       "name": "terminal lucidity",
       "value": 6
     },
     {
-      "rank": 20,
+      "rank": 18,
       "name": "Сергей",
       "value": 6
     },
     {
-      "rank": 21,
+      "rank": 19,
       "name": "L G",
       "value": 6
     },
     {
-      "rank": 22,
+      "rank": 20,
       "name": "Sergey",
       "value": 6
+    },
+    {
+      "rank": 21,
+      "name": "A.",
+      "value": 5
+    },
+    {
+      "rank": 22,
+      "name": "Manis Love",
+      "value": 5
     },
     {
       "rank": 23,
@@ -1606,57 +1606,57 @@
     },
     {
       "rank": 40,
-      "name": "Денис Сергеевич",
-      "value": 2
-    },
-    {
-      "rank": 41,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Stepan",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "lefkorosos",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Lubo",
       "value": 1
     }
   ]
