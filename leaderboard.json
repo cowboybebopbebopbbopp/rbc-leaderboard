@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T05:20:02+00:00",
+  "updated": "2026-09-26T06:20:08+00:00",
   "count": 192,
   "has_movement": true,
   "all": [
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 473,
+      "value": 474,
       "move": 0
     },
     {
@@ -275,21 +275,21 @@
     },
     {
       "rank": 46,
-      "name": "terminal lucidity",
-      "value": 90,
-      "move": 3
+      "name": "Vlad",
+      "value": 91,
+      "move": 1
     },
     {
       "rank": 47,
-      "name": "Max",
+      "name": "terminal lucidity",
       "value": 90,
-      "move": -1
+      "move": 2
     },
     {
       "rank": 48,
-      "name": "Vlad",
+      "name": "Max",
       "value": 90,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 49,
@@ -1160,7 +1160,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 231
+      "value": 229
     },
     {
       "rank": 2,
@@ -1244,13 +1244,13 @@
     },
     {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "iDiklonius",
       "value": 13
     },
     {
       "rank": 19,
-      "name": "iDiklonius",
-      "value": 12
+      "name": "Князь Владимир С",
+      "value": 13
     },
     {
       "rank": 20,
@@ -1427,7 +1427,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 5,
@@ -1651,12 +1651,12 @@
     },
     {
       "rank": 49,
-      "name": "Максим",
+      "name": "Vlad",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "lefkorosos",
+      "name": "Максим",
       "value": 1
     }
   ]
