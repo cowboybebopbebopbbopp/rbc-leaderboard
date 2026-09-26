@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T21:21:30+00:00",
+  "updated": "2026-09-26T22:21:31+00:00",
   "count": 193,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1784,
+      "value": 1785,
       "move": 0
     },
     {
@@ -539,39 +539,39 @@
     },
     {
       "rank": 90,
-      "name": "Олег",
-      "value": 10,
-      "move": -3
+      "name": "Юрий",
+      "value": 11,
+      "move": 1
     },
     {
       "rank": 91,
-      "name": "Aleksey",
+      "name": "Олег",
       "value": 10,
-      "move": 9
+      "move": -4
     },
     {
       "rank": 92,
-      "name": "Анастасия",
+      "name": "Aleksey",
       "value": 10,
-      "move": -4
+      "move": 8
     },
     {
       "rank": 93,
-      "name": "Dede",
+      "name": "Анастасия",
       "value": 10,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 94,
-      "name": "Евгений",
+      "name": "Dede",
       "value": 10,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 95,
-      "name": "Юрий",
+      "name": "Евгений",
       "value": 10,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 96,
@@ -1176,7 +1176,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 59
+      "value": 60
     },
     {
       "rank": 4,
@@ -1280,23 +1280,23 @@
     },
     {
       "rank": 24,
-      "name": "Aся",
+      "name": "Юрий",
       "value": 10
     },
     {
       "rank": 25,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Aся",
       "value": 10
     },
     {
       "rank": 26,
-      "name": "Александр",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 10
     },
     {
       "rank": 27,
-      "name": "Юрий",
-      "value": 9
+      "name": "Александр",
+      "value": 10
     },
     {
       "rank": 28,
@@ -1428,7 +1428,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 4,
@@ -1462,13 +1462,13 @@
     },
     {
       "rank": 10,
-      "name": "Viktor",
-      "value": 10
+      "name": "PiratesOfMining",
+      "value": 9
     },
     {
       "rank": 11,
-      "name": "PiratesOfMining",
-      "value": 9
+      "name": "Viktor",
+      "value": 8
     },
     {
       "rank": 12,
@@ -1502,23 +1502,23 @@
     },
     {
       "rank": 18,
-      "name": "Manis Love",
+      "name": "Юрий",
       "value": 5
     },
     {
       "rank": 19,
-      "name": "Сергей",
+      "name": "Manis Love",
       "value": 5
     },
     {
       "rank": 20,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Сергей",
       "value": 5
     },
     {
       "rank": 21,
-      "name": "Юрий",
-      "value": 4
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 5
     },
     {
       "rank": 22,
