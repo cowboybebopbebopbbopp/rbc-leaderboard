@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T16:31:57+00:00",
+  "updated": "2026-09-27T17:31:59+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 654,
+      "value": 655,
       "move": 0
     },
     {
@@ -443,27 +443,27 @@
     },
     {
       "rank": 74,
-      "name": "Толян",
-      "value": 21,
-      "move": -1
+      "name": "Юрий",
+      "value": 22,
+      "move": 18
     },
     {
       "rank": 75,
-      "name": "Претор",
+      "name": "Толян",
       "value": 21,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 76,
-      "name": "ilya Kalashnikov",
-      "value": 20,
-      "move": -1
+      "name": "Претор",
+      "value": 21,
+      "move": -2
     },
     {
       "rank": 77,
-      "name": "Юрий",
+      "name": "ilya Kalashnikov",
       "value": 20,
-      "move": 15
+      "move": -2
     },
     {
       "rank": 78,
@@ -1224,12 +1224,12 @@
     {
       "rank": 9,
       "name": "Синдбад Мореход",
-      "value": 24
+      "value": 23
     },
     {
       "rank": 10,
-      "name": "LlirikMK",
-      "value": 22
+      "name": "Юрий",
+      "value": 21
     },
     {
       "rank": 11,
@@ -1243,13 +1243,13 @@
     },
     {
       "rank": 13,
-      "name": "Manis Love",
-      "value": 20
+      "name": "LlirikMK",
+      "value": 21
     },
     {
       "rank": 14,
-      "name": "Юрий",
-      "value": 19
+      "name": "Manis Love",
+      "value": 20
     },
     {
       "rank": 15,
@@ -1259,7 +1259,7 @@
     {
       "rank": 16,
       "name": "Князь Владимир С",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 17,
@@ -1333,28 +1333,28 @@
     },
     {
       "rank": 31,
-      "name": "DenisNazarov",
-      "value": 8
-    },
-    {
-      "rank": 32,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "X888",
       "value": 8
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "lefkorosos",
       "value": 8
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "ᴦоᴧод",
       "value": 8
+    },
+    {
+      "rank": 35,
+      "name": "DenisNazarov",
+      "value": 7
     },
     {
       "rank": 36,
@@ -1441,7 +1441,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 32
+      "value": 29
     },
     {
       "rank": 3,
@@ -1455,42 +1455,42 @@
     },
     {
       "rank": 5,
+      "name": "Юрий",
+      "value": 14
+    },
+    {
+      "rank": 6,
       "name": "Синдбад Мореход",
       "value": 13
     },
     {
-      "rank": 6,
-      "name": "Юрий",
-      "value": 12
-    },
-    {
       "rank": 7,
-      "name": "Vitaliy",
-      "value": 12
-    },
-    {
-      "rank": 8,
       "name": "Серхио Ле'Трас",
       "value": 12
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "LlirikMK",
-      "value": 12
-    },
-    {
-      "rank": 10,
-      "name": "🅾🅻🅶🅰",
       "value": 11
     },
     {
-      "rank": 11,
+      "rank": 9,
       "name": "Aся",
       "value": 9
     },
     {
-      "rank": 12,
+      "rank": 10,
+      "name": "Vitaliy",
+      "value": 9
+    },
+    {
+      "rank": 11,
       "name": "PiratesOfMining",
+      "value": 9
+    },
+    {
+      "rank": 12,
+      "name": "🅾🅻🅶🅰",
       "value": 9
     },
     {
@@ -1530,7 +1530,7 @@
     },
     {
       "rank": 20,
-      "name": "Сергей",
+      "name": "Князь Владимир С",
       "value": 5
     },
     {
@@ -1560,7 +1560,7 @@
     },
     {
       "rank": 26,
-      "name": "Князь Владимир С",
+      "name": "Сергей",
       "value": 4
     },
     {
@@ -1660,27 +1660,27 @@
     },
     {
       "rank": 46,
-      "name": "Станислав Баев",
-      "value": 1
-    },
-    {
-      "rank": 47,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Lubo",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Алина",
       "value": 1
     }
   ]
