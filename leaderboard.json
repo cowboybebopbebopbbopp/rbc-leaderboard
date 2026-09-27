@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T13:31:52+00:00",
+  "updated": "2026-09-27T14:31:53+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -461,27 +461,27 @@
     },
     {
       "rank": 77,
+      "name": "Юрий",
+      "value": 20,
+      "move": 15
+    },
+    {
+      "rank": 78,
       "name": "Максим",
       "value": 20,
       "move": null
     },
     {
-      "rank": 78,
+      "rank": 79,
       "name": "X888",
       "value": 19,
-      "move": 8
-    },
-    {
-      "rank": 79,
-      "name": "Vladimir Magrin",
-      "value": 18,
-      "move": -3
+      "move": 7
     },
     {
       "rank": 80,
-      "name": "Юрий",
+      "name": "Vladimir Magrin",
       "value": 18,
-      "move": 12
+      "move": -4
     },
     {
       "rank": 81,
@@ -1189,12 +1189,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 119
+      "value": 117
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 69
+      "value": 68
     },
     {
       "rank": 4,
@@ -1243,18 +1243,18 @@
     },
     {
       "rank": 13,
-      "name": "A.",
+      "name": "Юрий",
       "value": 19
     },
     {
       "rank": 14,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 19
     },
     {
       "rank": 15,
-      "name": "Юрий",
-      "value": 17
+      "name": "Manis Love",
+      "value": 19
     },
     {
       "rank": 16,
@@ -1436,7 +1436,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 73
+      "value": 72
     },
     {
       "rank": 2,
@@ -1460,28 +1460,28 @@
     },
     {
       "rank": 6,
-      "name": "Vitaliy",
+      "name": "Юрий",
       "value": 12
     },
     {
       "rank": 7,
-      "name": "Серхио Ле'Трас",
+      "name": "Vitaliy",
       "value": 12
     },
     {
       "rank": 8,
-      "name": "LlirikMK",
+      "name": "Серхио Ле'Трас",
       "value": 12
     },
     {
       "rank": 9,
-      "name": "🅾🅻🅶🅰",
-      "value": 11
+      "name": "LlirikMK",
+      "value": 12
     },
     {
       "rank": 10,
-      "name": "Юрий",
-      "value": 10
+      "name": "🅾🅻🅶🅰",
+      "value": 11
     },
     {
       "rank": 11,
