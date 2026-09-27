@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T03:31:52+00:00",
+  "updated": "2026-09-27T04:31:54+00:00",
   "count": 194,
   "has_movement": true,
   "all": [
@@ -540,7 +540,7 @@
     {
       "rank": 90,
       "name": "Юрий",
-      "value": 11,
+      "value": 12,
       "move": 2
     },
     {
@@ -1226,12 +1226,12 @@
     },
     {
       "rank": 12,
-      "name": "A.",
-      "value": 20
+      "name": "SPM",
+      "value": 19
     },
     {
       "rank": 13,
-      "name": "SPM",
+      "name": "A.",
       "value": 19
     },
     {
@@ -1261,17 +1261,17 @@
     },
     {
       "rank": 19,
-      "name": ".",
-      "value": 13
-    },
-    {
-      "rank": 20,
       "name": "Руслан Иванов",
       "value": 12
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "iDiklonius",
+      "value": 12
+    },
+    {
+      "rank": 21,
+      "name": ".",
       "value": 12
     },
     {
@@ -1281,13 +1281,13 @@
     },
     {
       "rank": 23,
-      "name": "@wavesscalper",
+      "name": "Юрий",
       "value": 11
     },
     {
       "rank": 24,
-      "name": "Юрий",
-      "value": 10
+      "name": "@wavesscalper",
+      "value": 11
     },
     {
       "rank": 25,
@@ -1508,23 +1508,23 @@
     },
     {
       "rank": 18,
-      "name": "Manis Love",
+      "name": "Юрий",
       "value": 5
     },
     {
       "rank": 19,
-      "name": "Сергей",
+      "name": "Manis Love",
       "value": 5
     },
     {
       "rank": 20,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Сергей",
       "value": 5
     },
     {
       "rank": 21,
-      "name": "Юрий",
-      "value": 4
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 5
     },
     {
       "rank": 22,
@@ -1538,32 +1538,32 @@
     },
     {
       "rank": 24,
-      "name": "Станислав Баев",
-      "value": 4
-    },
-    {
-      "rank": 25,
       "name": "Александр",
       "value": 4
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "🤗",
       "value": 4
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Max",
       "value": 4
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Юрий",
+      "value": 3
+    },
+    {
+      "rank": 29,
+      "name": "Станислав Баев",
       "value": 3
     },
     {
