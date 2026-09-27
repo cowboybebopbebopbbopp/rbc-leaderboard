@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T08:32:00+00:00",
+  "updated": "2026-09-27T09:32:01+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 894,
+      "value": 895,
       "move": 0
     },
     {
@@ -1184,7 +1184,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 230
+      "value": 229
     },
     {
       "rank": 2,
@@ -1199,7 +1199,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 5,
@@ -1214,7 +1214,7 @@
     {
       "rank": 7,
       "name": "🅾🅻🅶🅰",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 8,
@@ -1436,7 +1436,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 73
+      "value": 72
     },
     {
       "rank": 2,
@@ -1620,62 +1620,62 @@
     },
     {
       "rank": 38,
-      "name": "Stepan",
+      "name": "Zero-sum Gamer",
       "value": 2
     },
     {
       "rank": 39,
-      "name": "Don Michele Corleone",
+      "name": "Stepan",
       "value": 2
     },
     {
       "rank": 40,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 41,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Станислав Баев",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 48,
-      "name": "lefkorosos",
-      "value": 1
-    },
-    {
       "rank": 49,
-      "name": "Zero-sum Gamer",
+      "name": "lefkorosos",
       "value": 1
     },
     {
