@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T15:31:56+00:00",
+  "updated": "2026-09-27T16:31:57+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1789,
+      "value": 1790,
       "move": -1
     },
     {
@@ -162,7 +162,7 @@
     {
       "rank": 27,
       "name": "Manis Love",
-      "value": 198,
+      "value": 199,
       "move": 0
     },
     {
@@ -1189,7 +1189,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 116
+      "value": 115
     },
     {
       "rank": 3,
@@ -1243,17 +1243,17 @@
     },
     {
       "rank": 13,
+      "name": "Manis Love",
+      "value": 20
+    },
+    {
+      "rank": 14,
       "name": "Юрий",
       "value": 19
     },
     {
-      "rank": 14,
-      "name": "A.",
-      "value": 19
-    },
-    {
       "rank": 15,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 19
     },
     {
@@ -1273,23 +1273,23 @@
     },
     {
       "rank": 19,
-      "name": "PiratesOfMining",
+      "name": "Aся",
       "value": 13
     },
     {
       "rank": 20,
-      "name": "Руслан Иванов",
+      "name": "PiratesOfMining",
       "value": 13
     },
     {
       "rank": 21,
-      "name": ".",
+      "name": "Руслан Иванов",
       "value": 13
     },
     {
       "rank": 22,
-      "name": "Aся",
-      "value": 12
+      "name": ".",
+      "value": 13
     },
     {
       "rank": 23,
@@ -1485,38 +1485,38 @@
     },
     {
       "rank": 11,
-      "name": "PiratesOfMining",
+      "name": "Aся",
       "value": 9
     },
     {
       "rank": 12,
+      "name": "PiratesOfMining",
+      "value": 9
+    },
+    {
+      "rank": 13,
       "name": "Viktor",
       "value": 8
     },
     {
-      "rank": 13,
-      "name": "Aся",
-      "value": 8
-    },
-    {
       "rank": 14,
-      "name": "Руслан Иванов",
+      "name": "Manis Love",
       "value": 7
     },
     {
       "rank": 15,
-      "name": "iDiklonius",
+      "name": "Руслан Иванов",
       "value": 7
     },
     {
       "rank": 16,
-      "name": "X888",
+      "name": "iDiklonius",
       "value": 7
     },
     {
       "rank": 17,
-      "name": "Manis Love",
-      "value": 6
+      "name": "X888",
+      "value": 7
     },
     {
       "rank": 18,
