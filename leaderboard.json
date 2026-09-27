@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T11:32:04+00:00",
+  "updated": "2026-09-27T12:31:50+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 833,
+      "value": 834,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 652,
+      "value": 654,
       "move": 0
     },
     {
@@ -719,69 +719,69 @@
     },
     {
       "rank": 120,
-      "name": "Ilya",
-      "value": 3,
-      "move": -3
+      "name": "Simany",
+      "value": 4,
+      "move": null
     },
     {
       "rank": 121,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 122,
-      "name": "Sviat",
+      "name": "Samurai_1",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 123,
+      "name": "Sviat",
+      "value": 3,
+      "move": -4
+    },
+    {
+      "rank": 124,
       "name": "1",
+      "value": 3,
+      "move": -4
+    },
+    {
+      "rank": 125,
+      "name": "Neztor",
       "value": 3,
       "move": -3
     },
     {
-      "rank": 124,
-      "name": "Neztor",
-      "value": 3,
-      "move": -2
-    },
-    {
-      "rank": 125,
+      "rank": 126,
       "name": "Максим",
       "value": 3,
-      "move": -2
-    },
-    {
-      "rank": 126,
-      "name": "Денис Сергеевич",
-      "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 127,
-      "name": "ц",
+      "name": "Денис Сергеевич",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 128,
-      "name": "Stepan",
+      "name": "ц",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 129,
-      "name": "Max⚡️",
+      "name": "Stepan",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 130,
-      "name": "Simany",
+      "name": "Max⚡️",
       "value": 3,
-      "move": null
+      "move": -3
     },
     {
       "rank": 131,
@@ -1224,7 +1224,7 @@
     {
       "rank": 9,
       "name": "Синдбад Мореход",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 10,
@@ -1253,18 +1253,18 @@
     },
     {
       "rank": 15,
+      "name": "Князь Владимир С",
+      "value": 17
+    },
+    {
+      "rank": 16,
       "name": "terminal lucidity",
       "value": 16
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Серхио Ле'Трас",
       "value": 16
-    },
-    {
-      "rank": 17,
-      "name": "Князь Владимир С",
-      "value": 15
     },
     {
       "rank": 18,
@@ -1436,7 +1436,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 75
+      "value": 74
     },
     {
       "rank": 2,
@@ -1455,22 +1455,22 @@
     },
     {
       "rank": 5,
+      "name": "Синдбад Мореход",
+      "value": 13
+    },
+    {
+      "rank": 6,
       "name": "Vitaliy",
       "value": 12
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Серхио Ле'Трас",
       "value": 12
     },
     {
-      "rank": 7,
-      "name": "LlirikMK",
-      "value": 12
-    },
-    {
       "rank": 8,
-      "name": "Синдбад Мореход",
+      "name": "LlirikMK",
       "value": 12
     },
     {
@@ -1535,47 +1535,47 @@
     },
     {
       "rank": 21,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Князь Владимир С",
       "value": 5
     },
     {
       "rank": 22,
-      "name": "Александр",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
       "rank": 23,
-      "name": ".",
+      "name": "Александр",
       "value": 5
     },
     {
       "rank": 24,
+      "name": ".",
+      "value": 5
+    },
+    {
+      "rank": 25,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "🤗",
       "value": 4
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Max",
       "value": 4
     },
     {
-      "rank": 28,
-      "name": "Юрий",
-      "value": 3
-    },
-    {
       "rank": 29,
-      "name": "Князь Владимир С",
+      "name": "Юрий",
       "value": 3
     },
     {
@@ -1590,8 +1590,8 @@
     },
     {
       "rank": 32,
-      "name": "Константин",
-      "value": 2
+      "name": "Simany",
+      "value": 3
     },
     {
       "rank": 33,
@@ -1640,13 +1640,13 @@
     },
     {
       "rank": 42,
-      "name": "Simany",
+      "name": "Don Michele Corleone",
       "value": 2
     },
     {
       "rank": 43,
-      "name": "Don Michele Corleone",
-      "value": 2
+      "name": "Константин",
+      "value": 1
     },
     {
       "rank": 44,
@@ -1670,17 +1670,17 @@
     },
     {
       "rank": 48,
-      "name": "Евгений",
-      "value": 1
-    },
-    {
-      "rank": 49,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Максим",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "lefkorosos",
       "value": 1
     }
   ]
