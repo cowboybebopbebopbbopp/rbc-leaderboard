@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T04:31:54+00:00",
-  "count": 194,
+  "updated": "2026-09-27T05:31:55+00:00",
+  "count": 195,
   "has_movement": true,
   "all": [
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1787,
+      "value": 1788,
       "move": 1
     },
     {
@@ -1157,15 +1157,21 @@
     },
     {
       "rank": 193,
-      "name": "vitaliy",
-      "value": 0,
-      "move": -2
+      "name": "Ксения Комарова",
+      "value": 1,
+      "move": null
     },
     {
       "rank": 194,
-      "name": "Ксения Комарова",
-      "value": 0,
+      "name": "Vlas",
+      "value": 1,
       "move": null
+    },
+    {
+      "rank": 195,
+      "name": "vitaliy",
+      "value": 0,
+      "move": -4
     }
   ],
   "month": [
@@ -1182,7 +1188,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 62
+      "value": 63
     },
     {
       "rank": 4,
@@ -1434,7 +1440,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 4,
