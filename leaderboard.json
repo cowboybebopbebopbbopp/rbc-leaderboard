@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T00:48:42+00:00",
+  "updated": "2026-09-27T01:21:37+00:00",
   "count": 193,
   "has_movement": true,
   "all": [
@@ -1502,23 +1502,23 @@
     },
     {
       "rank": 18,
-      "name": "Юрий",
-      "value": 5
-    },
-    {
-      "rank": 19,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Сергей",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
+    },
+    {
+      "rank": 21,
+      "name": "Юрий",
+      "value": 4
     },
     {
       "rank": 22,
