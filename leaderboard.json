@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T17:31:59+00:00",
+  "updated": "2026-09-27T18:32:01+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -444,7 +444,7 @@
     {
       "rank": 74,
       "name": "Юрий",
-      "value": 22,
+      "value": 23,
       "move": 18
     },
     {
@@ -1229,7 +1229,7 @@
     {
       "rank": 10,
       "name": "Юрий",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 11,
@@ -1243,12 +1243,12 @@
     },
     {
       "rank": 13,
-      "name": "LlirikMK",
-      "value": 21
+      "name": "Manis Love",
+      "value": 20
     },
     {
       "rank": 14,
-      "name": "Manis Love",
+      "name": "LlirikMK",
       "value": 20
     },
     {
@@ -1441,7 +1441,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 29
+      "value": 27
     },
     {
       "rank": 3,
@@ -1456,7 +1456,7 @@
     {
       "rank": 5,
       "name": "Юрий",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 6,
@@ -1510,52 +1510,52 @@
     },
     {
       "rank": 16,
-      "name": "iDiklonius",
-      "value": 7
-    },
-    {
-      "rank": 17,
       "name": "X888",
       "value": 7
     },
     {
-      "rank": 18,
-      "name": "terminal lucidity",
-      "value": 6
-    },
-    {
-      "rank": 19,
+      "rank": 17,
       "name": "L G",
       "value": 6
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "name": "iDiklonius",
+      "value": 6
+    },
+    {
+      "rank": 19,
       "name": "Князь Владимир С",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Александр",
       "value": 5
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": ".",
       "value": 5
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "A.",
+      "value": 4
+    },
+    {
+      "rank": 25,
+      "name": "terminal lucidity",
       "value": 4
     },
     {
