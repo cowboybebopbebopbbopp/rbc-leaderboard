@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T14:31:53+00:00",
+  "updated": "2026-09-27T15:31:56+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -1189,7 +1189,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 117
+      "value": 116
     },
     {
       "rank": 3,
@@ -1209,7 +1209,7 @@
     {
       "rank": 6,
       "name": "Vitaliy",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 7,
@@ -1585,102 +1585,102 @@
     },
     {
       "rank": 31,
-      "name": "Marina",
-      "value": 3
-    },
-    {
-      "rank": 32,
       "name": "Simany",
       "value": 3
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Roman Polyakov",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Артем",
       "value": 2
     },
     {
-      "rank": 37,
-      "name": "Turchyn Gennadii",
-      "value": 2
-    },
-    {
-      "rank": 38,
+      "rank": 36,
       "name": "ц",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 37,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 38,
       "name": "Zero-sum Gamer",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 39,
+      "name": "Marina",
+      "value": 2
+    },
+    {
+      "rank": 40,
       "name": "Stepan",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Станислав Баев",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "lefkorosos",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Lubo",
       "value": 1
     }
   ]
