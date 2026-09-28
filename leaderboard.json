@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T09:32:39+00:00",
+  "updated": "2026-09-28T10:32:41+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4368,
+      "value": 4369,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1247,
+      "value": 1248,
       "move": 0
     },
     {
@@ -299,15 +299,15 @@
     },
     {
       "rank": 50,
-      "name": "Павел Корчагин",
+      "name": "Серхио Ле'Трас",
       "value": 86,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 51,
-      "name": "Серхио Ле'Трас",
-      "value": 85,
-      "move": 0
+      "name": "Павел Корчагин",
+      "value": 86,
+      "move": -1
     },
     {
       "rank": 52,
@@ -1184,12 +1184,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 229
+      "value": 230
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 115
+      "value": 116
     },
     {
       "rank": 3,
@@ -1218,12 +1218,12 @@
     },
     {
       "rank": 8,
-      "name": "SPM",
-      "value": 25
+      "name": "Юрий",
+      "value": 24
     },
     {
       "rank": 9,
-      "name": "Юрий",
+      "name": "SPM",
       "value": 24
     },
     {
@@ -1263,12 +1263,12 @@
     },
     {
       "rank": 17,
-      "name": "terminal lucidity",
-      "value": 16
+      "name": "Серхио Ле'Трас",
+      "value": 17
     },
     {
       "rank": 18,
-      "name": "Серхио Ле'Трас",
+      "name": "terminal lucidity",
       "value": 16
     },
     {
@@ -1338,22 +1338,22 @@
     },
     {
       "rank": 32,
-      "name": "🤗",
-      "value": 8
-    },
-    {
-      "rank": 33,
       "name": "lefkorosos",
       "value": 8
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "ᴦоᴧод",
       "value": 8
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Kirill",
+      "value": 7
+    },
+    {
+      "rank": 35,
+      "name": "🤗",
       "value": 7
     },
     {
@@ -1436,7 +1436,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 68
+      "value": 66
     },
     {
       "rank": 2,
@@ -1446,7 +1446,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 4,
@@ -1460,18 +1460,18 @@
     },
     {
       "rank": 6,
-      "name": "Синдбад Мореход",
+      "name": "Серхио Ле'Трас",
       "value": 13
     },
     {
       "rank": 7,
-      "name": "Серхио Ле'Трас",
-      "value": 12
+      "name": "Синдбад Мореход",
+      "value": 13
     },
     {
       "rank": 8,
       "name": "Aся",
-      "value": 10
+      "value": 9
     },
     {
       "rank": 9,
@@ -1496,7 +1496,7 @@
     {
       "rank": 13,
       "name": "Viktor",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 14,
@@ -1520,12 +1520,12 @@
     },
     {
       "rank": 18,
-      "name": "LlirikMK",
-      "value": 6
+      "name": "Князь Владимир С",
+      "value": 5
     },
     {
       "rank": 19,
-      "name": "Князь Владимир С",
+      "name": "LlirikMK",
       "value": 5
     },
     {
