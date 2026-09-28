@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T20:32:59+00:00",
+  "updated": "2026-09-28T21:33:00+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -1451,7 +1451,7 @@
     {
       "rank": 4,
       "name": "SPM",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 5,
@@ -1500,18 +1500,18 @@
     },
     {
       "rank": 14,
-      "name": "Manis Love",
-      "value": 6
-    },
-    {
-      "rank": 15,
       "name": "L G",
       "value": 6
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "LlirikMK",
       "value": 6
+    },
+    {
+      "rank": 16,
+      "name": "Manis Love",
+      "value": 5
     },
     {
       "rank": 17,
@@ -1535,57 +1535,57 @@
     },
     {
       "rank": 21,
-      "name": "PiratesOfMining",
-      "value": 4
-    },
-    {
-      "rank": 22,
       "name": "Анастасия",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Simany",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Roman Polyakov",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "terminal lucidity",
+      "value": 2
+    },
+    {
+      "rank": 31,
+      "name": "PiratesOfMining",
       "value": 2
     },
     {
