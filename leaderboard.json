@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T16:32:52+00:00",
+  "updated": "2026-09-28T17:32:54+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1248,
+      "value": 1249,
       "move": 0
     },
     {
@@ -1184,22 +1184,22 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 234
+      "value": 233
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 115
+      "value": 116
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 70
+      "value": 69
     },
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 54
+      "value": 53
     },
     {
       "rank": 5,
@@ -1451,7 +1451,7 @@
     {
       "rank": 4,
       "name": "a l",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 5,
@@ -1470,22 +1470,22 @@
     },
     {
       "rank": 8,
-      "name": "🅾🅻🅶🅰",
-      "value": 10
-    },
-    {
-      "rank": 9,
       "name": "Aся",
       "value": 9
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Руслан Иванов",
+      "value": 9
+    },
+    {
+      "rank": 11,
+      "name": "🅾🅻🅶🅰",
       "value": 9
     },
     {
