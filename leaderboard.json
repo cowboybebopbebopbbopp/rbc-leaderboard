@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T17:32:54+00:00",
+  "updated": "2026-09-28T18:32:55+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4373,
+      "value": 4375,
       "move": 0
     },
     {
@@ -1184,7 +1184,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 233
+      "value": 235
     },
     {
       "rank": 2,
@@ -1436,7 +1436,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 63
+      "value": 65
     },
     {
       "rank": 2,
@@ -1475,22 +1475,22 @@
     },
     {
       "rank": 9,
-      "name": "PiratesOfMining",
-      "value": 9
-    },
-    {
-      "rank": 10,
       "name": "Руслан Иванов",
       "value": 9
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "🅾🅻🅶🅰",
       "value": 9
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Vitaliy",
+      "value": 8
+    },
+    {
+      "rank": 12,
+      "name": "PiratesOfMining",
       "value": 8
     },
     {
@@ -1665,22 +1665,22 @@
     },
     {
       "rank": 47,
-      "name": "Max",
-      "value": 1
-    },
-    {
-      "rank": 48,
       "name": "Алина",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Olga Goncharova",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Ponemonec",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Ксения Комарова",
       "value": 1
     }
   ]
