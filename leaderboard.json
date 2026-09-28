@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T19:32:57+00:00",
+  "updated": "2026-09-28T20:32:59+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -1445,12 +1445,12 @@
     },
     {
       "rank": 3,
-      "name": "SPM",
-      "value": 20
+      "name": "a l",
+      "value": 19
     },
     {
       "rank": 4,
-      "name": "a l",
+      "name": "SPM",
       "value": 19
     },
     {
@@ -1490,52 +1490,52 @@
     },
     {
       "rank": 12,
-      "name": "PiratesOfMining",
-      "value": 7
-    },
-    {
-      "rank": 13,
       "name": "X888",
       "value": 7
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Viktor",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "L G",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "LlirikMK",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Александр",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Алексей",
+      "value": 4
+    },
+    {
+      "rank": 21,
+      "name": "PiratesOfMining",
       "value": 4
     },
     {
