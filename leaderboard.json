@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T01:32:12+00:00",
+  "updated": "2026-09-28T02:32:14+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -1328,17 +1328,17 @@
     },
     {
       "rank": 30,
-      "name": "🤗",
-      "value": 9
-    },
-    {
-      "rank": 31,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "X888",
+      "value": 8
+    },
+    {
+      "rank": 32,
+      "name": "🤗",
       "value": 8
     },
     {
