@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T11:32:43+00:00",
+  "updated": "2026-09-28T12:32:44+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4369,
+      "value": 4370,
       "move": 0
     },
     {
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "LlirikMK",
-      "value": 51,
+      "value": 52,
       "move": 2
     },
     {
@@ -1184,7 +1184,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 230
+      "value": 231
     },
     {
       "rank": 2,
@@ -1218,27 +1218,27 @@
     },
     {
       "rank": 8,
-      "name": "SPM",
-      "value": 25
-    },
-    {
-      "rank": 9,
       "name": "Юрий",
       "value": 24
     },
     {
+      "rank": 9,
+      "name": "SPM",
+      "value": 24
+    },
+    {
       "rank": 10,
-      "name": "Синдбад Мореход",
+      "name": "LlirikMK",
       "value": 22
     },
     {
       "rank": 11,
-      "name": "L G",
-      "value": 21
+      "name": "Синдбад Мореход",
+      "value": 22
     },
     {
       "rank": 12,
-      "name": "LlirikMK",
+      "name": "L G",
       "value": 21
     },
     {
@@ -1475,23 +1475,23 @@
     },
     {
       "rank": 9,
-      "name": "Vitaliy",
-      "value": 9
-    },
-    {
-      "rank": 10,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Руслан Иванов",
       "value": 9
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "🅾🅻🅶🅰",
       "value": 9
+    },
+    {
+      "rank": 12,
+      "name": "Vitaliy",
+      "value": 8
     },
     {
       "rank": 13,
@@ -1500,13 +1500,13 @@
     },
     {
       "rank": 14,
-      "name": "Manis Love",
+      "name": "X888",
       "value": 7
     },
     {
       "rank": 15,
-      "name": "X888",
-      "value": 7
+      "name": "Manis Love",
+      "value": 6
     },
     {
       "rank": 16,
@@ -1515,12 +1515,12 @@
     },
     {
       "rank": 17,
-      "name": "Князь Владимир С",
-      "value": 5
+      "name": "LlirikMK",
+      "value": 6
     },
     {
       "rank": 18,
-      "name": "LlirikMK",
+      "name": "Князь Владимир С",
       "value": 5
     },
     {
@@ -1540,37 +1540,37 @@
     },
     {
       "rank": 22,
-      "name": "terminal lucidity",
-      "value": 4
-    },
-    {
-      "rank": 23,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Анастасия",
       "value": 4
     },
     {
-      "rank": 25,
-      "name": "iDiklonius",
-      "value": 4
-    },
-    {
-      "rank": 26,
+      "rank": 24,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 27,
+      "rank": 25,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 26,
       "name": "A.",
+      "value": 3
+    },
+    {
+      "rank": 27,
+      "name": "terminal lucidity",
+      "value": 3
+    },
+    {
+      "rank": 28,
+      "name": "iDiklonius",
       "value": 3
     },
     {
