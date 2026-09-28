@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T18:32:55+00:00",
+  "updated": "2026-09-28T19:32:57+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4375,
+      "value": 4376,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1797,
+      "value": 1798,
       "move": 1
     },
     {
@@ -156,7 +156,7 @@
     {
       "rank": 26,
       "name": "DenisNazarov",
-      "value": 208,
+      "value": 209,
       "move": 0
     },
     {
@@ -240,7 +240,7 @@
     {
       "rank": 40,
       "name": "Vitaliy",
-      "value": 111,
+      "value": 113,
       "move": 0
     },
     {
@@ -347,21 +347,21 @@
     },
     {
       "rank": 58,
-      "name": "Sergei IVANOV",
-      "value": 49,
-      "move": -1
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 50,
+      "move": 2
     },
     {
       "rank": 59,
-      "name": "I",
+      "name": "Sergei IVANOV",
       "value": 49,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 60,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "I",
       "value": 49,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 61,
@@ -432,7 +432,7 @@
     {
       "rank": 72,
       "name": "Юрий",
-      "value": 25,
+      "value": 26,
       "move": 18
     },
     {
@@ -1184,17 +1184,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 235
+      "value": 236
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 116
+      "value": 114
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 69
+      "value": 70
     },
     {
       "rank": 4,
@@ -1209,7 +1209,7 @@
     {
       "rank": 6,
       "name": "Vitaliy",
-      "value": 34
+      "value": 36
     },
     {
       "rank": 7,
@@ -1219,7 +1219,7 @@
     {
       "rank": 8,
       "name": "Юрий",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 9,
@@ -1318,13 +1318,13 @@
     },
     {
       "rank": 28,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 10
     },
     {
       "rank": 29,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 9
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 10
     },
     {
       "rank": 30,
@@ -1348,18 +1348,18 @@
     },
     {
       "rank": 34,
-      "name": "Kirill",
+      "name": "DenisNazarov",
       "value": 7
     },
     {
       "rank": 35,
-      "name": "🤗",
+      "name": "Kirill",
       "value": 7
     },
     {
       "rank": 36,
-      "name": "DenisNazarov",
-      "value": 6
+      "name": "🤗",
+      "value": 7
     },
     {
       "rank": 37,
@@ -1436,12 +1436,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 65
+      "value": 66
     },
     {
       "rank": 2,
       "name": "Archie",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 3,
@@ -1455,13 +1455,13 @@
     },
     {
       "rank": 5,
-      "name": "Серхио Ле'Трас",
+      "name": "Юрий",
       "value": 16
     },
     {
       "rank": 6,
-      "name": "Юрий",
-      "value": 15
+      "name": "Серхио Ле'Трас",
+      "value": 16
     },
     {
       "rank": 7,
@@ -1470,38 +1470,38 @@
     },
     {
       "rank": 8,
+      "name": "Vitaliy",
+      "value": 10
+    },
+    {
+      "rank": 9,
       "name": "Aся",
       "value": 9
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Руслан Иванов",
       "value": 9
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "🅾🅻🅶🅰",
       "value": 9
     },
     {
-      "rank": 11,
-      "name": "Vitaliy",
-      "value": 8
-    },
-    {
       "rank": 12,
       "name": "PiratesOfMining",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 13,
-      "name": "Viktor",
+      "name": "X888",
       "value": 7
     },
     {
       "rank": 14,
-      "name": "X888",
-      "value": 7
+      "name": "Viktor",
+      "value": 6
     },
     {
       "rank": 15,
@@ -1555,32 +1555,32 @@
     },
     {
       "rank": 25,
-      "name": "Сергей",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "Dede",
+      "name": "iDiklonius",
       "value": 3
     },
     {
       "rank": 28,
-      "name": "Simany",
+      "name": "Dede",
       "value": 3
     },
     {
       "rank": 29,
-      "name": "Roman Polyakov",
-      "value": 2
+      "name": "Simany",
+      "value": 3
     },
     {
       "rank": 30,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Roman Polyakov",
       "value": 2
     },
     {
@@ -1640,47 +1640,47 @@
     },
     {
       "rank": 42,
-      "name": "AnTon",
+      "name": "DenisNazarov",
       "value": 1
     },
     {
       "rank": 43,
-      "name": "Kirill",
+      "name": "AnTon",
       "value": 1
     },
     {
       "rank": 44,
-      "name": "ц",
+      "name": "Kirill",
       "value": 1
     },
     {
       "rank": 45,
-      "name": "Vlad",
+      "name": "ц",
       "value": 1
     },
     {
       "rank": 46,
-      "name": "Максим",
+      "name": "Vlad",
       "value": 1
     },
     {
       "rank": 47,
-      "name": "Алина",
+      "name": "Максим",
       "value": 1
     },
     {
       "rank": 48,
-      "name": "Olga Goncharova",
+      "name": "Алина",
       "value": 1
     },
     {
       "rank": 49,
-      "name": "Ponemonec",
+      "name": "Olga Goncharova",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "Ксения Комарова",
+      "name": "Ponemonec",
       "value": 1
     }
   ]
