@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T14:36:09+00:00",
+  "updated": "2026-09-29T15:36:36+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -1189,7 +1189,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 119
+      "value": 118
     },
     {
       "rank": 3,
@@ -1199,7 +1199,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 53
+      "value": 52
     },
     {
       "rank": 5,
@@ -1436,7 +1436,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 62
+      "value": 60
     },
     {
       "rank": 2,
@@ -1540,32 +1540,32 @@
     },
     {
       "rank": 22,
-      "name": "L G",
-      "value": 4
-    },
-    {
-      "rank": 23,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 3
+    },
+    {
+      "rank": 27,
+      "name": "L G",
       "value": 3
     },
     {
@@ -1630,52 +1630,52 @@
     },
     {
       "rank": 40,
-      "name": "Stepan",
-      "value": 2
-    },
-    {
-      "rank": 41,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Алина",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Olga Goncharova",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Ponemonec",
+      "value": 1
+    },
+    {
+      "rank": 49,
+      "name": "Stepan",
       "value": 1
     },
     {
