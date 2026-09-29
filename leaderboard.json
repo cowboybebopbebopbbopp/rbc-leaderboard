@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T02:33:16+00:00",
+  "updated": "2026-09-29T03:33:18+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "LlirikMK",
-      "value": 52,
+      "value": 53,
       "move": 0
     },
     {
@@ -1229,7 +1229,7 @@
     {
       "rank": 10,
       "name": "LlirikMK",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 11,
@@ -1490,17 +1490,17 @@
     },
     {
       "rank": 12,
-      "name": "X888",
+      "name": "LlirikMK",
       "value": 7
     },
     {
       "rank": 13,
-      "name": "L G",
-      "value": 6
+      "name": "X888",
+      "value": 7
     },
     {
       "rank": 14,
-      "name": "LlirikMK",
+      "name": "L G",
       "value": 6
     },
     {
