@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T16:36:37+00:00",
+  "updated": "2026-09-29T17:36:39+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -269,15 +269,15 @@
     },
     {
       "rank": 45,
-      "name": "Сергей",
-      "value": 92,
-      "move": 0
+      "name": "Серхио Ле'Трас",
+      "value": 93,
+      "move": 6
     },
     {
       "rank": 46,
-      "name": "Серхио Ле'Трас",
-      "value": 91,
-      "move": 5
+      "name": "Сергей",
+      "value": 92,
+      "move": -1
     },
     {
       "rank": 47,
@@ -1228,13 +1228,13 @@
     },
     {
       "rank": 10,
-      "name": "LlirikMK",
-      "value": 23
+      "name": "Серхио Ле'Трас",
+      "value": 24
     },
     {
       "rank": 11,
-      "name": "Серхио Ле'Трас",
-      "value": 22
+      "name": "LlirikMK",
+      "value": 23
     },
     {
       "rank": 12,
@@ -1461,7 +1461,7 @@
     {
       "rank": 6,
       "name": "Серхио Ле'Трас",
-      "value": 14
+      "value": 16
     },
     {
       "rank": 7,
@@ -1590,62 +1590,62 @@
     },
     {
       "rank": 32,
-      "name": "PiratesOfMining",
-      "value": 2
-    },
-    {
-      "rank": 33,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Артем",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "AnTon",
+      "value": 1
+    },
+    {
+      "rank": 43,
+      "name": "PiratesOfMining",
       "value": 1
     },
     {
