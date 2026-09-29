@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T06:33:23+00:00",
+  "updated": "2026-09-29T07:33:24+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -1298,23 +1298,23 @@
     },
     {
       "rank": 24,
-      "name": "Юрий",
-      "value": 11
-    },
-    {
-      "rank": 25,
       "name": "Анастасия",
       "value": 11
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Александр",
       "value": 11
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "@wavesscalper",
       "value": 11
+    },
+    {
+      "rank": 27,
+      "name": "Юрий",
+      "value": 10
     },
     {
       "rank": 28,
@@ -1555,42 +1555,42 @@
     },
     {
       "rank": 25,
-      "name": "Сергей",
-      "value": 3
-    },
-    {
-      "rank": 26,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Simany",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Roman Polyakov",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "PiratesOfMining",
+      "value": 2
+    },
+    {
+      "rank": 32,
+      "name": "Сергей",
       "value": 2
     },
     {
