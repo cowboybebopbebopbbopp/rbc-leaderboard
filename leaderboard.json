@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T13:33:34+00:00",
+  "updated": "2026-09-29T14:36:09+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1252,
+      "value": 1255,
       "move": 0
     },
     {
@@ -126,7 +126,7 @@
     {
       "rank": 21,
       "name": "🤗",
-      "value": 305,
+      "value": 307,
       "move": 0
     },
     {
@@ -396,7 +396,7 @@
     {
       "rank": 66,
       "name": "SPM",
-      "value": 35,
+      "value": 36,
       "move": 0
     },
     {
@@ -1189,7 +1189,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 116
+      "value": 119
     },
     {
       "rank": 3,
@@ -1224,7 +1224,7 @@
     {
       "rank": 9,
       "name": "SPM",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 10,
@@ -1328,17 +1328,17 @@
     },
     {
       "rank": 30,
+      "name": "🤗",
+      "value": 10
+    },
+    {
+      "rank": 31,
       "name": "Aleksey",
       "value": 9
     },
     {
-      "rank": 31,
-      "name": "X888",
-      "value": 8
-    },
-    {
       "rank": 32,
-      "name": "🤗",
+      "name": "X888",
       "value": 8
     },
     {
@@ -1436,7 +1436,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 63
+      "value": 62
     },
     {
       "rank": 2,
@@ -1446,12 +1446,12 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 21
+      "value": 24
     },
     {
       "rank": 4,
       "name": "SPM",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 5,
@@ -1515,67 +1515,67 @@
     },
     {
       "rank": 17,
-      "name": "Zero-sum Gamer",
+      "name": "🤗",
       "value": 5
     },
     {
       "rank": 18,
+      "name": "Zero-sum Gamer",
+      "value": 5
+    },
+    {
+      "rank": 19,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Анастасия",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "L G",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 28,
-      "name": "Dede",
-      "value": 3
-    },
-    {
       "rank": 29,
-      "name": "🤗",
+      "name": "Dede",
       "value": 3
     },
     {
