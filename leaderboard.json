@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T17:36:39+00:00",
+  "updated": "2026-09-29T18:36:42+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 655,
+      "value": 656,
       "move": 0
     },
     {
@@ -126,7 +126,7 @@
     {
       "rank": 21,
       "name": "🤗",
-      "value": 307,
+      "value": 308,
       "move": 0
     },
     {
@@ -425,15 +425,15 @@
     },
     {
       "rank": 71,
-      "name": "Мое имя Максим",
+      "name": "Юрий",
       "value": 28,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 72,
-      "name": "Юрий",
-      "value": 26,
-      "move": 2
+      "name": "Мое имя Максим",
+      "value": 28,
+      "move": -1
     },
     {
       "rank": 73,
@@ -1219,7 +1219,7 @@
     {
       "rank": 8,
       "name": "Юрий",
-      "value": 25
+      "value": 27
     },
     {
       "rank": 9,
@@ -1264,7 +1264,7 @@
     {
       "rank": 17,
       "name": "Князь Владимир С",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 18,
@@ -1308,27 +1308,27 @@
     },
     {
       "rank": 26,
-      "name": "@wavesscalper",
+      "name": "🤗",
       "value": 11
     },
     {
       "rank": 27,
+      "name": "@wavesscalper",
+      "value": 11
+    },
+    {
+      "rank": 28,
       "name": "Юрий",
       "value": 10
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 10
     },
     {
-      "rank": 29,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 10
-    },
-    {
       "rank": 30,
-      "name": "🤗",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 10
     },
     {
@@ -1456,7 +1456,7 @@
     {
       "rank": 5,
       "name": "Юрий",
-      "value": 16
+      "value": 18
     },
     {
       "rank": 6,
@@ -1495,27 +1495,27 @@
     },
     {
       "rank": 13,
-      "name": "LlirikMK",
+      "name": "Князь Владимир С",
       "value": 6
     },
     {
       "rank": 14,
-      "name": "Князь Владимир С",
-      "value": 5
+      "name": "LlirikMK",
+      "value": 6
     },
     {
       "rank": 15,
+      "name": "🤗",
+      "value": 6
+    },
+    {
+      "rank": 16,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
-      "rank": 16,
-      "name": "Александр",
-      "value": 5
-    },
-    {
       "rank": 17,
-      "name": "🤗",
+      "name": "Александр",
       "value": 5
     },
     {
@@ -1600,86 +1600,81 @@
     },
     {
       "rank": 34,
-      "name": "L G",
-      "value": 2
-    },
-    {
-      "rank": 35,
       "name": "Артем",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 43,
-      "name": "PiratesOfMining",
+      "rank": 42,
+      "name": "L G",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Алина",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Olga Goncharova",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Ponemonec",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Stepan",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Ксения Комарова",
       "value": 1
     }
