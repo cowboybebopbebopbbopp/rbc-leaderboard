@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T08:33:26+00:00",
+  "updated": "2026-09-29T09:33:28+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4378,
+      "value": 4379,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 896,
+      "value": 897,
       "move": 0
     },
     {
@@ -390,7 +390,7 @@
     {
       "rank": 65,
       "name": "Roman Polyakov",
-      "value": 36,
+      "value": 37,
       "move": 0
     },
     {
@@ -1184,7 +1184,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 238
+      "value": 239
     },
     {
       "rank": 2,
@@ -1204,7 +1204,7 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 6,
@@ -1423,12 +1423,12 @@
     },
     {
       "rank": 49,
-      "name": "Slawik",
+      "name": "Roman Polyakov",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "Евгений",
+      "name": "Slawik",
       "value": 3
     }
   ],
@@ -1436,7 +1436,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 67
+      "value": 66
     },
     {
       "rank": 2,
@@ -1461,7 +1461,7 @@
     {
       "rank": 6,
       "name": "Серхио Ле'Трас",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 7,
@@ -1490,17 +1490,17 @@
     },
     {
       "rank": 12,
-      "name": "LlirikMK",
-      "value": 7
-    },
-    {
-      "rank": 13,
       "name": "X888",
       "value": 7
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "L G",
+      "value": 6
+    },
+    {
+      "rank": 14,
+      "name": "LlirikMK",
       "value": 6
     },
     {
@@ -1535,53 +1535,53 @@
     },
     {
       "rank": 21,
-      "name": "Юрий",
-      "value": 3
+      "name": "Zero-sum Gamer",
+      "value": 4
     },
     {
       "rank": 22,
-      "name": "A.",
+      "name": "Roman Polyakov",
       "value": 3
     },
     {
       "rank": 23,
-      "name": "Manis Love",
+      "name": "Юрий",
       "value": 3
     },
     {
       "rank": 24,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "A.",
       "value": 3
     },
     {
       "rank": 25,
-      "name": "iDiklonius",
+      "name": "Manis Love",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "Dede",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "Zero-sum Gamer",
+      "name": "iDiklonius",
       "value": 3
     },
     {
       "rank": 28,
-      "name": "ilya Kalashnikov",
+      "name": "Dede",
       "value": 3
     },
     {
       "rank": 29,
-      "name": "Simany",
+      "name": "ilya Kalashnikov",
       "value": 3
     },
     {
       "rank": 30,
-      "name": "Roman Polyakov",
-      "value": 2
+      "name": "Simany",
+      "value": 3
     },
     {
       "rank": 31,
