@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T03:33:18+00:00",
+  "updated": "2026-09-29T04:33:19+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1249,
+      "value": 1251,
       "move": 0
     },
     {
@@ -443,27 +443,27 @@
     },
     {
       "rank": 74,
-      "name": "Константин",
+      "name": "ilya Kalashnikov",
       "value": 23,
-      "move": -1
+      "move": 3
     },
     {
       "rank": 75,
-      "name": "Толян",
-      "value": 21,
-      "move": 0
+      "name": "Константин",
+      "value": 23,
+      "move": -2
     },
     {
       "rank": 76,
-      "name": "Претор",
+      "name": "Толян",
       "value": 21,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 77,
-      "name": "ilya Kalashnikov",
-      "value": 20,
-      "move": 0
+      "name": "Претор",
+      "value": 21,
+      "move": -1
     },
     {
       "rank": 78,
@@ -1189,7 +1189,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 113
+      "value": 115
     },
     {
       "rank": 3,
@@ -1436,7 +1436,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 67
+      "value": 66
     },
     {
       "rank": 2,
@@ -1446,7 +1446,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 19
+      "value": 21
     },
     {
       "rank": 4,
@@ -1510,42 +1510,42 @@
     },
     {
       "rank": 16,
-      "name": "Manis Love",
-      "value": 5
-    },
-    {
-      "rank": 17,
       "name": "Князь Владимир С",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Александр",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Анастасия",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "A.",
+      "value": 3
+    },
+    {
+      "rank": 23,
+      "name": "Manis Love",
       "value": 3
     },
     {
@@ -1570,117 +1570,117 @@
     },
     {
       "rank": 28,
-      "name": "Simany",
+      "name": "ilya Kalashnikov",
       "value": 3
     },
     {
       "rank": 29,
+      "name": "Simany",
+      "value": 3
+    },
+    {
+      "rank": 30,
       "name": "Roman Polyakov",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Артем",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Zero-sum Gamer",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Stepan",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Алина",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Olga Goncharova",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "Ponemonec",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "Ксения Комарова",
+      "name": "Ponemonec",
       "value": 1
     }
   ]
