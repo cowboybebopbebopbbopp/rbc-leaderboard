@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T12:33:33+00:00",
+  "updated": "2026-09-29T13:33:34+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1798,
+      "value": 1799,
       "move": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 70
+      "value": 71
     },
     {
       "rank": 4,
@@ -1436,12 +1436,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 67
+      "value": 63
     },
     {
       "rank": 2,
       "name": "Archie",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 3,
@@ -1495,47 +1495,47 @@
     },
     {
       "rank": 13,
-      "name": "L G",
-      "value": 6
-    },
-    {
-      "rank": 14,
       "name": "LlirikMK",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Князь Владимир С",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Александр",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Zero-sum Gamer",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Анастасия",
+      "value": 4
+    },
+    {
+      "rank": 21,
+      "name": "L G",
       "value": 4
     },
     {
@@ -1655,32 +1655,32 @@
     },
     {
       "rank": 45,
-      "name": "Kirill",
-      "value": 1
-    },
-    {
-      "rank": 46,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Алина",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Olga Goncharova",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Ponemonec",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Ксения Комарова",
       "value": 1
     }
   ]
