@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T20:36:44+00:00",
+  "updated": "2026-09-29T21:36:46+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -1640,41 +1640,31 @@
     },
     {
       "rank": 42,
-      "name": "L G",
-      "value": 1
-    },
-    {
-      "rank": 43,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Алина",
       "value": 1
     },
     {
-      "rank": 46,
-      "name": "Olga Goncharova",
-      "value": 1
-    },
-    {
-      "rank": 47,
+      "rank": 45,
       "name": "Ponemonec",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 46,
       "name": "Stepan",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 47,
       "name": "Ксения Комарова",
       "value": 1
     }
