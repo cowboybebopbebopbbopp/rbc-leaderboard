@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T15:36:36+00:00",
+  "updated": "2026-09-29T16:36:37+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -1254,7 +1254,7 @@
     {
       "rank": 15,
       "name": "Manis Love",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 16,
@@ -1436,7 +1436,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 60
+      "value": 58
     },
     {
       "rank": 2,
@@ -1565,47 +1565,47 @@
     },
     {
       "rank": 27,
-      "name": "L G",
-      "value": 3
-    },
-    {
-      "rank": 28,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Simany",
       "value": 3
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Aleksey",
+      "value": 2
+    },
+    {
+      "rank": 35,
+      "name": "L G",
       "value": 2
     },
     {
