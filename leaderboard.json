@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T00:36:51+00:00",
+  "updated": "2026-09-30T01:36:53+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -1333,32 +1333,32 @@
     },
     {
       "rank": 31,
-      "name": "Александр",
-      "value": 8
-    },
-    {
-      "rank": 32,
       "name": "X888",
       "value": 8
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "lefkorosos",
       "value": 8
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "ᴦоᴧод",
       "value": 8
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Kirill",
+      "value": 7
+    },
+    {
+      "rank": 36,
+      "name": "Александр",
       "value": 7
     },
     {
@@ -1600,47 +1600,47 @@
     },
     {
       "rank": 34,
-      "name": "Dede",
-      "value": 2
-    },
-    {
-      "rank": 35,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Vlad",
+      "value": 1
+    },
+    {
+      "rank": 42,
+      "name": "Dede",
       "value": 1
     },
     {
