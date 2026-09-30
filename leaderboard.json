@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T19:37:12+00:00",
+  "updated": "2026-09-30T20:37:12+00:00",
   "count": 197,
   "has_movement": true,
   "all": [
@@ -1210,7 +1210,7 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 6,
@@ -1442,7 +1442,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 56
+      "value": 54
     },
     {
       "rank": 2,
@@ -1466,12 +1466,12 @@
     },
     {
       "rank": 6,
-      "name": "Серхио Ле'Трас",
-      "value": 11
+      "name": "Vitaliy",
+      "value": 10
     },
     {
       "rank": 7,
-      "name": "Vitaliy",
+      "name": "Серхио Ле'Трас",
       "value": 10
     },
     {
@@ -1511,52 +1511,52 @@
     },
     {
       "rank": 15,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
-      "value": 5
-    },
-    {
-      "rank": 16,
       "name": "Александр",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Синдбад Мореход",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 20,
-      "name": "Анастасия",
-      "value": 4
-    },
-    {
-      "rank": 21,
+      "rank": 19,
       "name": "🤗",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 20,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 21,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 22,
+      "name": "Анастасия",
+      "value": 3
+    },
+    {
+      "rank": 23,
       "name": "🅾🅻🅶🅰",
+      "value": 3
+    },
+    {
+      "rank": 24,
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 3
     },
     {
@@ -1631,26 +1631,21 @@
     },
     {
       "rank": 39,
-      "name": "Max⚡️",
-      "value": 1
-    },
-    {
-      "rank": 40,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Алина",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Y. Yastrebov",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Ксения Комарова",
       "value": 1
     }
