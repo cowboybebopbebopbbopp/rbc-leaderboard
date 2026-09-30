@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T03:36:58+00:00",
-  "count": 196,
+  "updated": "2026-09-30T04:36:59+00:00",
+  "count": 197,
   "has_movement": true,
   "all": [
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1255,
+      "value": 1257,
       "move": 0
     },
     {
@@ -1175,9 +1175,15 @@
     },
     {
       "rank": 196,
+      "name": "Juana Mein",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 197,
       "name": "vitaliy",
       "value": 0,
-      "move": 0
+      "move": -1
     }
   ],
   "month": [
@@ -1189,7 +1195,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 118
+      "value": 120
     },
     {
       "rank": 3,
@@ -1440,13 +1446,13 @@
     },
     {
       "rank": 2,
-      "name": "Archie",
+      "name": "a l",
       "value": 26
     },
     {
       "rank": 3,
-      "name": "a l",
-      "value": 24
+      "name": "Archie",
+      "value": 26
     },
     {
       "rank": 4,
@@ -1486,7 +1492,7 @@
     {
       "rank": 11,
       "name": "🅾🅻🅶🅰",
-      "value": 9
+      "value": 7
     },
     {
       "rank": 12,
@@ -1505,17 +1511,17 @@
     },
     {
       "rank": 15,
-      "name": "🤗",
-      "value": 6
-    },
-    {
-      "rank": 16,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Александр",
+      "value": 5
+    },
+    {
+      "rank": 17,
+      "name": "🤗",
       "value": 5
     },
     {
@@ -1585,52 +1591,52 @@
     },
     {
       "rank": 31,
-      "name": "Сергей",
-      "value": 2
-    },
-    {
-      "rank": 32,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Артем",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "AnTon",
+      "value": 1
+    },
+    {
+      "rank": 40,
+      "name": "Сергей",
       "value": 1
     },
     {
