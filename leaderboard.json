@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T13:37:12+00:00",
+  "updated": "2026-09-30T14:37:11+00:00",
   "count": 197,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1799,
+      "value": 1800,
       "move": 0
     },
     {
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "LlirikMK",
-      "value": 53,
+      "value": 54,
       "move": 0
     },
     {
@@ -1200,7 +1200,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 71
+      "value": 72
     },
     {
       "rank": 4,
@@ -1240,7 +1240,7 @@
     {
       "rank": 11,
       "name": "LlirikMK",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 12,
@@ -1419,22 +1419,22 @@
     },
     {
       "rank": 47,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 4
-    },
-    {
-      "rank": 48,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Евгений",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 3
     }
   ],
@@ -1442,7 +1442,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 2,
@@ -1452,7 +1452,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 4,
@@ -1462,7 +1462,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 18
+      "value": 16
     },
     {
       "rank": 6,
@@ -1491,17 +1491,17 @@
     },
     {
       "rank": 11,
-      "name": "X888",
+      "name": "LlirikMK",
       "value": 7
     },
     {
       "rank": 12,
-      "name": "Князь Владимир С",
-      "value": 6
+      "name": "X888",
+      "value": 7
     },
     {
       "rank": 13,
-      "name": "LlirikMK",
+      "name": "Князь Владимир С",
       "value": 6
     },
     {
@@ -1596,61 +1596,56 @@
     },
     {
       "rank": 32,
-      "name": "Артем",
-      "value": 2
-    },
-    {
-      "rank": 33,
       "name": "Max⚡️",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Алина",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Ксения Комарова",
       "value": 1
     }
