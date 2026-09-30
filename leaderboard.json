@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T23:36:49+00:00",
+  "updated": "2026-09-30T00:34:03+00:00",
   "count": 196,
   "has_movement": true,
   "all": [
@@ -271,7 +271,7 @@
       "rank": 45,
       "name": "Серхио Ле'Трас",
       "value": 93,
-      "move": 6
+      "move": 4
     },
     {
       "rank": 46,
@@ -301,13 +301,13 @@
       "rank": 50,
       "name": "Sergey СЕО",
       "value": 88,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 51,
       "name": "Павел Корчагин",
       "value": 86,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 52,
@@ -349,19 +349,19 @@
       "rank": 58,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 50,
-      "move": 2
+      "move": 0
     },
     {
       "rank": 59,
       "name": "Sergei IVANOV",
       "value": 49,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 60,
       "name": "I",
       "value": 49,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 61,
@@ -427,7 +427,7 @@
       "rank": 71,
       "name": "Юрий",
       "value": 28,
-      "move": 3
+      "move": 1
     },
     {
       "rank": 72,
@@ -439,7 +439,7 @@
       "rank": 73,
       "name": "Lina",
       "value": 24,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 74,
@@ -451,7 +451,7 @@
       "rank": 75,
       "name": "Константин",
       "value": 23,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 76,
@@ -547,19 +547,19 @@
       "rank": 91,
       "name": "Анастасия",
       "value": 12,
-      "move": 2
+      "move": 0
     },
     {
       "rank": 92,
       "name": "Олег",
       "value": 10,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 93,
       "name": "Aleksey",
       "value": 10,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 94,
@@ -1441,7 +1441,7 @@
     {
       "rank": 2,
       "name": "Archie",
-      "value": 27
+      "value": 26
     },
     {
       "rank": 3,
@@ -1450,12 +1450,12 @@
     },
     {
       "rank": 4,
-      "name": "SPM",
-      "value": 19
+      "name": "Юрий",
+      "value": 18
     },
     {
       "rank": 5,
-      "name": "Юрий",
+      "name": "SPM",
       "value": 18
     },
     {
@@ -1570,37 +1570,37 @@
     },
     {
       "rank": 28,
-      "name": "Dede",
-      "value": 3
-    },
-    {
-      "rank": 29,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Simany",
       "value": 3
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Артем",
+      "value": 2
+    },
+    {
+      "rank": 34,
+      "name": "Dede",
       "value": 2
     },
     {
