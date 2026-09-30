@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T12:37:11+00:00",
+  "updated": "2026-09-30T13:37:12+00:00",
   "count": 197,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4386,
+      "value": 4387,
       "move": 0
     },
     {
@@ -162,7 +162,7 @@
     {
       "rank": 27,
       "name": "Manis Love",
-      "value": 199,
+      "value": 201,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": "Юрий",
-      "value": 161,
+      "value": 162,
       "move": 0
     },
     {
@@ -372,7 +372,7 @@
     {
       "rank": 62,
       "name": "Руслан Иванов",
-      "value": 41,
+      "value": 42,
       "move": 1
     },
     {
@@ -1190,7 +1190,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 244
+      "value": 245
     },
     {
       "rank": 2,
@@ -1249,18 +1249,18 @@
     },
     {
       "rank": 13,
-      "name": "L G",
+      "name": "Manis Love",
       "value": 21
     },
     {
       "rank": 14,
-      "name": "A.",
-      "value": 20
+      "name": "L G",
+      "value": 21
     },
     {
       "rank": 15,
-      "name": "Manis Love",
-      "value": 19
+      "name": "A.",
+      "value": 20
     },
     {
       "rank": 16,
@@ -1275,7 +1275,7 @@
     {
       "rank": 18,
       "name": "Руслан Иванов",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 19,
@@ -1304,23 +1304,23 @@
     },
     {
       "rank": 24,
-      "name": "Анастасия",
+      "name": "Юрий",
       "value": 11
     },
     {
       "rank": 25,
-      "name": "🤗",
+      "name": "Анастасия",
       "value": 11
     },
     {
       "rank": 26,
-      "name": "@wavesscalper",
+      "name": "🤗",
       "value": 11
     },
     {
       "rank": 27,
-      "name": "Юрий",
-      "value": 10
+      "name": "@wavesscalper",
+      "value": 11
     },
     {
       "rank": 28,
@@ -1442,7 +1442,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 55
+      "value": 56
     },
     {
       "rank": 2,
@@ -1472,7 +1472,7 @@
     {
       "rank": 7,
       "name": "Руслан Иванов",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 8,
@@ -1481,13 +1481,13 @@
     },
     {
       "rank": 9,
-      "name": "Синдбад Мореход",
+      "name": "Zero-sum Gamer",
       "value": 9
     },
     {
       "rank": 10,
-      "name": "Zero-sum Gamer",
-      "value": 9
+      "name": "Синдбад Мореход",
+      "value": 8
     },
     {
       "rank": 11,
@@ -1536,48 +1536,48 @@
     },
     {
       "rank": 20,
-      "name": "Анастасия",
+      "name": "Manis Love",
       "value": 4
     },
     {
       "rank": 21,
+      "name": "Анастасия",
+      "value": 4
+    },
+    {
+      "rank": 22,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 22,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 3
-    },
-    {
       "rank": 23,
-      "name": "iDiklonius",
+      "name": "Юрий",
       "value": 3
     },
     {
       "rank": 24,
-      "name": "🅾🅻🅶🅰",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
       "rank": 25,
-      "name": "ilya Kalashnikov",
+      "name": "iDiklonius",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "Simany",
+      "name": "🅾🅻🅶🅰",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "Юрий",
-      "value": 2
+      "name": "ilya Kalashnikov",
+      "value": 3
     },
     {
       "rank": 28,
-      "name": "Manis Love",
-      "value": 2
+      "name": "Simany",
+      "value": 3
     },
     {
       "rank": 29,
@@ -1651,11 +1651,6 @@
     },
     {
       "rank": 43,
-      "name": "Stepan",
-      "value": 1
-    },
-    {
-      "rank": 44,
       "name": "Ксения Комарова",
       "value": 1
     }
