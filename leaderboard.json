@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T04:36:59+00:00",
+  "updated": "2026-09-30T05:37:01+00:00",
   "count": 197,
   "has_movement": true,
   "all": [
@@ -1389,33 +1389,33 @@
     },
     {
       "rank": 41,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 5
-    },
-    {
-      "rank": 42,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Константин",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Safe",
       "value": 5
+    },
+    {
+      "rank": 46,
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 4
     },
     {
       "rank": 47,
@@ -1452,7 +1452,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 26
+      "value": 24
     },
     {
       "rank": 4,
@@ -1491,23 +1491,23 @@
     },
     {
       "rank": 11,
-      "name": "🅾🅻🅶🅰",
-      "value": 7
-    },
-    {
-      "rank": 12,
       "name": "X888",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Князь Владимир С",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "LlirikMK",
       "value": 6
+    },
+    {
+      "rank": 14,
+      "name": "🅾🅻🅶🅰",
+      "value": 5
     },
     {
       "rank": 15,
