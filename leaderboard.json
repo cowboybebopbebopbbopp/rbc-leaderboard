@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T05:37:01+00:00",
+  "updated": "2026-09-30T06:37:03+00:00",
   "count": 197,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 898,
+      "value": 900,
       "move": 0
     },
     {
@@ -623,21 +623,21 @@
     },
     {
       "rank": 104,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": 0
+      "name": "Ponemonec",
+      "value": 8,
+      "move": 2
     },
     {
       "rank": 105,
-      "name": "Daniil",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 106,
-      "name": "Ponemonec",
+      "name": "Daniil",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 107,
@@ -1210,7 +1210,7 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 47
+      "value": 46
     },
     {
       "rank": 6,
@@ -1369,22 +1369,22 @@
     },
     {
       "rank": 37,
+      "name": "Ponemonec",
+      "value": 7
+    },
+    {
+      "rank": 38,
       "name": "Sergey СЕО",
       "value": 6
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 39,
-      "name": "Max",
-      "value": 6
-    },
-    {
       "rank": 40,
-      "name": "Ponemonec",
+      "name": "Max",
       "value": 6
     },
     {
@@ -1496,18 +1496,18 @@
     },
     {
       "rank": 12,
+      "name": "Zero-sum Gamer",
+      "value": 7
+    },
+    {
+      "rank": 13,
       "name": "Князь Владимир С",
       "value": 6
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "LlirikMK",
       "value": 6
-    },
-    {
-      "rank": 14,
-      "name": "🅾🅻🅶🅰",
-      "value": 5
     },
     {
       "rank": 15,
@@ -1526,52 +1526,52 @@
     },
     {
       "rank": 18,
-      "name": "Zero-sum Gamer",
-      "value": 5
-    },
-    {
-      "rank": 19,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Анастасия",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "iDiklonius",
+      "value": 3
+    },
+    {
+      "rank": 27,
+      "name": "🅾🅻🅶🅰",
       "value": 3
     },
     {
@@ -1611,42 +1611,42 @@
     },
     {
       "rank": 35,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Don Michele Corleone",
+      "name": ".",
       "value": 2
     },
     {
       "rank": 37,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 38,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 41,
-      "name": "Vlad",
-      "value": 1
-    },
-    {
       "rank": 42,
-      "name": "Dede",
+      "name": "Vlad",
       "value": 1
     },
     {
@@ -1661,16 +1661,11 @@
     },
     {
       "rank": 45,
-      "name": "Ponemonec",
-      "value": 1
-    },
-    {
-      "rank": 46,
       "name": "Stepan",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Ксения Комарова",
       "value": 1
     }
