@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T11:37:11+00:00",
+  "updated": "2026-09-30T12:37:11+00:00",
   "count": 197,
   "has_movement": true,
   "all": [
@@ -371,15 +371,15 @@
     },
     {
       "rank": 62,
-      "name": "Bazylev Nickolai",
+      "name": "Руслан Иванов",
       "value": 41,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 63,
-      "name": "Руслан Иванов",
-      "value": 40,
-      "move": 0
+      "name": "Bazylev Nickolai",
+      "value": 41,
+      "move": -1
     },
     {
       "rank": 64,
@@ -1274,12 +1274,12 @@
     },
     {
       "rank": 18,
-      "name": "terminal lucidity",
-      "value": 16
+      "name": "Руслан Иванов",
+      "value": 17
     },
     {
       "rank": 19,
-      "name": "Руслан Иванов",
+      "name": "terminal lucidity",
       "value": 16
     },
     {
@@ -1329,97 +1329,97 @@
     },
     {
       "rank": 29,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 10
-    },
-    {
-      "rank": 30,
       "name": "Aleksey",
       "value": 9
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "DenisNazarov",
       "value": 8
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "X888",
       "value": 8
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "lefkorosos",
       "value": 8
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "ᴦоᴧод",
       "value": 8
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Kirill",
       "value": 7
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Александр",
       "value": 7
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Ponemonec",
       "value": 7
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Sergey СЕО",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Max",
       "value": 6
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Константин",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Safe",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Станислав Баев",
+      "value": 4
+    },
+    {
+      "rank": 47,
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
@@ -1471,8 +1471,8 @@
     },
     {
       "rank": 7,
-      "name": "Синдбад Мореход",
-      "value": 13
+      "name": "Руслан Иванов",
+      "value": 11
     },
     {
       "rank": 8,
@@ -1481,8 +1481,8 @@
     },
     {
       "rank": 9,
-      "name": "Руслан Иванов",
-      "value": 10
+      "name": "Синдбад Мореход",
+      "value": 9
     },
     {
       "rank": 10,
@@ -1496,18 +1496,18 @@
     },
     {
       "rank": 12,
-      "name": "Aся",
-      "value": 6
-    },
-    {
-      "rank": 13,
       "name": "Князь Владимир С",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "LlirikMK",
       "value": 6
+    },
+    {
+      "rank": 14,
+      "name": "Aся",
+      "value": 5
     },
     {
       "rank": 15,
