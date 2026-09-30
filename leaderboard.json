@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T16:37:12+00:00",
+  "updated": "2026-09-30T17:37:12+00:00",
   "count": 197,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1800,
+      "value": 1801,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1257,
+      "value": 1258,
       "move": 0
     },
     {
@@ -1195,12 +1195,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 118
+      "value": 119
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 72
+      "value": 73
     },
     {
       "rank": 4,
@@ -1447,12 +1447,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 26
+      "value": 27
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 4,
@@ -1466,13 +1466,13 @@
     },
     {
       "rank": 6,
-      "name": "Серхио Ле'Трас",
+      "name": "Руслан Иванов",
       "value": 12
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
-      "value": 12
+      "name": "Серхио Ле'Трас",
+      "value": 11
     },
     {
       "rank": 8,
@@ -1551,47 +1551,47 @@
     },
     {
       "rank": 23,
-      "name": "Юрий",
-      "value": 3
-    },
-    {
-      "rank": 24,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 25,
-      "name": "iDiklonius",
-      "value": 3
-    },
-    {
-      "rank": 26,
+      "rank": 24,
       "name": "🅾🅻🅶🅰",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 25,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 26,
       "name": "Simany",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 27,
+      "name": "Юрий",
+      "value": 2
+    },
+    {
+      "rank": 28,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Aleksey",
+      "value": 2
+    },
+    {
+      "rank": 31,
+      "name": "iDiklonius",
       "value": 2
     },
     {
