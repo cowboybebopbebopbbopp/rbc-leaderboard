@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T04:37:12+00:00",
+  "updated": "2026-10-01T05:37:13+00:00",
   "count": 199,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 834,
+      "value": 835,
       "move": 0
     },
     {
@@ -1256,12 +1256,12 @@
     },
     {
       "rank": 12,
-      "name": "Manis Love",
-      "value": 22
+      "name": "Синдбад Мореход",
+      "value": 23
     },
     {
       "rank": 13,
-      "name": "Синдбад Мореход",
+      "name": "Manis Love",
       "value": 22
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
       "rank": 50,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Dede",
       "value": 3
     }
   ],
@@ -1523,22 +1523,22 @@
     },
     {
       "rank": 15,
+      "name": "Синдбад Мореход",
+      "value": 6
+    },
+    {
+      "rank": 16,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Aся",
       "value": 5
     },
     {
-      "rank": 17,
-      "name": "Александр",
-      "value": 5
-    },
-    {
       "rank": 18,
-      "name": "Синдбад Мореход",
+      "name": "Александр",
       "value": 5
     },
     {
