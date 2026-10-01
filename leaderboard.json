@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T05:37:13+00:00",
+  "updated": "2026-10-01T06:37:13+00:00",
   "count": 199,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1836,
+      "value": 1840,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1260,
+      "value": 1262,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 656,
+      "value": 657,
       "move": 0
     },
     {
@@ -384,7 +384,7 @@
     {
       "rank": 64,
       "name": "A.",
-      "value": 39,
+      "value": 40,
       "move": 0
     },
     {
@@ -1207,7 +1207,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 121
+      "value": 123
     },
     {
       "rank": 3,
@@ -1222,17 +1222,17 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 45
+      "value": 43
     },
     {
       "rank": 6,
-      "name": "Vitaliy",
-      "value": 37
+      "name": "🅾🅻🅶🅰",
+      "value": 38
     },
     {
       "rank": 7,
-      "name": "🅾🅻🅶🅰",
-      "value": 34
+      "name": "Vitaliy",
+      "value": 37
     },
     {
       "rank": 8,
@@ -1266,13 +1266,13 @@
     },
     {
       "rank": 14,
-      "name": "L G",
+      "name": "A.",
       "value": 21
     },
     {
       "rank": 15,
-      "name": "A.",
-      "value": 20
+      "name": "L G",
+      "value": 21
     },
     {
       "rank": 16,
@@ -1282,7 +1282,7 @@
     {
       "rank": 17,
       "name": "Князь Владимир С",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 18,
@@ -1459,7 +1459,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 29
+      "value": 31
     },
     {
       "rank": 3,
@@ -1498,17 +1498,17 @@
     },
     {
       "rank": 10,
-      "name": "X888",
+      "name": "Князь Владимир С",
       "value": 7
     },
     {
       "rank": 11,
-      "name": "terminal lucidity",
-      "value": 6
+      "name": "X888",
+      "value": 7
     },
     {
       "rank": 12,
-      "name": "Князь Владимир С",
+      "name": "terminal lucidity",
       "value": 6
     },
     {
@@ -1518,57 +1518,57 @@
     },
     {
       "rank": 14,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "🅾🅻🅶🅰",
       "value": 6
     },
     {
       "rank": 15,
-      "name": "Синдбад Мореход",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 6
     },
     {
       "rank": 16,
+      "name": "Синдбад Мореход",
+      "value": 6
+    },
+    {
+      "rank": 17,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Aся",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Александр",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "🤗",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 23,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 3
-    },
-    {
       "rank": 24,
-      "name": "Анастасия",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
@@ -1588,43 +1588,43 @@
     },
     {
       "rank": 28,
-      "name": "DenisNazarov",
+      "name": "A.",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "Aleksey",
+      "name": "DenisNazarov",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "iDiklonius",
+      "name": "Aleksey",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "🅾🅻🅶🅰",
+      "name": "Анастасия",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Marina",
+      "name": "iDiklonius",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Ponemonec",
+      "name": "Marina",
       "value": 2
     },
     {
       "rank": 34,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "A.",
-      "value": 1
+      "name": ".",
+      "value": 2
     },
     {
       "rank": 36,
