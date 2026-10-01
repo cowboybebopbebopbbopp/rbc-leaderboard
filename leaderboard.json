@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T19:37:20+00:00",
+  "updated": "2026-10-01T20:37:21+00:00",
   "count": 201,
   "has_movement": true,
   "all": [
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 312,
+      "value": 313,
       "move": 1
     },
     {
@@ -390,7 +390,7 @@
     {
       "rank": 65,
       "name": "SPM",
-      "value": 38,
+      "value": 39,
       "move": 1
     },
     {
@@ -1254,7 +1254,7 @@
     {
       "rank": 9,
       "name": "SPM",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 10,
@@ -1283,18 +1283,18 @@
     },
     {
       "rank": 15,
-      "name": "L G",
-      "value": 21
-    },
-    {
-      "rank": 16,
       "name": "terminal lucidity",
       "value": 20
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Князь Владимир С",
       "value": 20
+    },
+    {
+      "rank": 17,
+      "name": "L G",
+      "value": 19
     },
     {
       "rank": 18,
@@ -1309,7 +1309,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 21,
@@ -1486,7 +1486,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 6,
@@ -1505,12 +1505,12 @@
     },
     {
       "rank": 9,
-      "name": "Руслан Иванов",
+      "name": "🤗",
       "value": 9
     },
     {
       "rank": 10,
-      "name": "🤗",
+      "name": "Руслан Иванов",
       "value": 8
     },
     {
