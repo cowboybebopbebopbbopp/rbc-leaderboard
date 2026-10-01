@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T06:37:13+00:00",
+  "updated": "2026-10-01T07:37:13+00:00",
   "count": 199,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1840,
+      "value": 1841,
       "move": 0
     },
     {
@@ -126,7 +126,7 @@
     {
       "rank": 21,
       "name": "🤗",
-      "value": 308,
+      "value": 309,
       "move": 0
     },
     {
@@ -389,15 +389,15 @@
     },
     {
       "rank": 65,
-      "name": "Roman Polyakov",
+      "name": "SPM",
       "value": 37,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 66,
-      "name": "SPM",
-      "value": 36,
-      "move": 0
+      "name": "Roman Polyakov",
+      "value": 37,
+      "move": -1
     },
     {
       "rank": 67,
@@ -1207,7 +1207,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 123
+      "value": 122
     },
     {
       "rank": 3,
@@ -1227,7 +1227,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 7,
@@ -1242,7 +1242,7 @@
     {
       "rank": 9,
       "name": "SPM",
-      "value": 25
+      "value": 26
     },
     {
       "rank": 10,
@@ -1316,22 +1316,22 @@
     },
     {
       "rank": 24,
+      "name": "🤗",
+      "value": 12
+    },
+    {
+      "rank": 25,
       "name": "Юрий",
       "value": 11
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Анастасия",
       "value": 11
     },
     {
-      "rank": 26,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
-      "value": 11
-    },
-    {
       "rank": 27,
-      "name": "🤗",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
@@ -1503,22 +1503,22 @@
     },
     {
       "rank": 11,
-      "name": "X888",
+      "name": "🅾🅻🅶🅰",
       "value": 7
     },
     {
       "rank": 12,
+      "name": "X888",
+      "value": 7
+    },
+    {
+      "rank": 13,
       "name": "terminal lucidity",
       "value": 6
     },
     {
-      "rank": 13,
-      "name": "LlirikMK",
-      "value": 6
-    },
-    {
       "rank": 14,
-      "name": "🅾🅻🅶🅰",
+      "name": "LlirikMK",
       "value": 6
     },
     {
@@ -1548,17 +1548,17 @@
     },
     {
       "rank": 20,
+      "name": "🤗",
+      "value": 5
+    },
+    {
+      "rank": 21,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 21,
-      "name": "Viktor",
-      "value": 4
-    },
-    {
       "rank": 22,
-      "name": "🤗",
+      "name": "Viktor",
       "value": 4
     },
     {
