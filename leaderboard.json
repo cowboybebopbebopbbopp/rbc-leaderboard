@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T14:37:18+00:00",
+  "updated": "2026-10-01T15:37:19+00:00",
   "count": 199,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4393,
+      "value": 4394,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 902,
+      "value": 903,
       "move": 0
     },
     {
@@ -1202,7 +1202,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 239
+      "value": 240
     },
     {
       "rank": 2,
@@ -1222,7 +1222,7 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 6,
@@ -1459,7 +1459,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 3,
@@ -1483,17 +1483,17 @@
     },
     {
       "rank": 7,
+      "name": "Zero-sum Gamer",
+      "value": 10
+    },
+    {
+      "rank": 8,
       "name": "Серхио Ле'Трас",
       "value": 9
     },
     {
-      "rank": 8,
-      "name": "Руслан Иванов",
-      "value": 9
-    },
-    {
       "rank": 9,
-      "name": "Zero-sum Gamer",
+      "name": "Руслан Иванов",
       "value": 9
     },
     {
