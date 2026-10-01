@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T18:37:20+00:00",
-  "count": 200,
+  "updated": "2026-10-01T19:37:20+00:00",
+  "count": 201,
   "has_movement": true,
   "all": [
     {
@@ -119,15 +119,15 @@
     },
     {
       "rank": 20,
-      "name": "byk0t!?",
+      "name": "🤗",
       "value": 312,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 21,
-      "name": "🤗",
-      "value": 310,
-      "move": 0
+      "name": "byk0t!?",
+      "value": 312,
+      "move": -1
     },
     {
       "rank": 22,
@@ -1199,9 +1199,15 @@
     },
     {
       "rank": 200,
+      "name": "Макаров",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 201,
       "name": "vitaliy",
       "value": 0,
-      "move": -4
+      "move": -5
     }
   ],
   "month": [
@@ -1302,17 +1308,17 @@
     },
     {
       "rank": 20,
+      "name": "🤗",
+      "value": 15
+    },
+    {
+      "rank": 21,
       "name": "Aся",
       "value": 14
     },
     {
-      "rank": 21,
-      "name": "PiratesOfMining",
-      "value": 13
-    },
-    {
       "rank": 22,
-      "name": "🤗",
+      "name": "PiratesOfMining",
       "value": 13
     },
     {
@@ -1504,37 +1510,37 @@
     },
     {
       "rank": 10,
+      "name": "🤗",
+      "value": 8
+    },
+    {
+      "rank": 11,
       "name": "Князь Владимир С",
       "value": 7
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "🅾🅻🅶🅰",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "X888",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "terminal lucidity",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "LlirikMK",
       "value": 6
     },
     {
-      "rank": 15,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
-      "value": 6
-    },
-    {
       "rank": 16,
-      "name": "🤗",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 6
     },
     {
