@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T15:37:19+00:00",
+  "updated": "2026-10-01T16:37:19+00:00",
   "count": 199,
   "has_movement": true,
   "all": [
@@ -156,7 +156,7 @@
     {
       "rank": 26,
       "name": "DenisNazarov",
-      "value": 210,
+      "value": 211,
       "move": 0
     },
     {
@@ -1202,7 +1202,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 240
+      "value": 239
     },
     {
       "rank": 2,
@@ -1366,23 +1366,23 @@
     },
     {
       "rank": 34,
-      "name": "Kirill",
+      "name": "DenisNazarov",
       "value": 7
     },
     {
       "rank": 35,
-      "name": "Александр",
+      "name": "Kirill",
       "value": 7
     },
     {
       "rank": 36,
-      "name": "Ponemonec",
+      "name": "Александр",
       "value": 7
     },
     {
       "rank": 37,
-      "name": "DenisNazarov",
-      "value": 6
+      "name": "Ponemonec",
+      "value": 7
     },
     {
       "rank": 38,
@@ -1568,32 +1568,32 @@
     },
     {
       "rank": 24,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "DenisNazarov",
       "value": 3
     },
     {
       "rank": 25,
-      "name": "ilya Kalashnikov",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "Simany",
+      "name": "ilya Kalashnikov",
       "value": 3
     },
     {
       "rank": 27,
+      "name": "Simany",
+      "value": 3
+    },
+    {
+      "rank": 28,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 28,
-      "name": "A.",
-      "value": 2
-    },
-    {
       "rank": 29,
-      "name": "DenisNazarov",
+      "name": "A.",
       "value": 2
     },
     {
