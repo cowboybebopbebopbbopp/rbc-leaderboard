@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T12:37:17+00:00",
+  "updated": "2026-10-01T13:37:18+00:00",
   "count": 199,
   "has_movement": true,
   "all": [
@@ -126,7 +126,7 @@
     {
       "rank": 21,
       "name": "🤗",
-      "value": 309,
+      "value": 310,
       "move": 0
     },
     {
@@ -240,7 +240,7 @@
     {
       "rank": 40,
       "name": "Vitaliy",
-      "value": 115,
+      "value": 116,
       "move": 0
     },
     {
@@ -1202,7 +1202,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 236
+      "value": 235
     },
     {
       "rank": 2,
@@ -1212,7 +1212,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 73
+      "value": 72
     },
     {
       "rank": 4,
@@ -1232,7 +1232,7 @@
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 8,
@@ -1306,17 +1306,17 @@
     },
     {
       "rank": 22,
-      "name": ".",
+      "name": "🤗",
       "value": 13
     },
     {
       "rank": 23,
-      "name": "iDiklonius",
-      "value": 12
+      "name": ".",
+      "value": 13
     },
     {
       "rank": 24,
-      "name": "🤗",
+      "name": "iDiklonius",
       "value": 12
     },
     {
@@ -1366,23 +1366,23 @@
     },
     {
       "rank": 34,
-      "name": "DenisNazarov",
-      "value": 7
-    },
-    {
-      "rank": 35,
       "name": "Kirill",
       "value": 7
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Александр",
       "value": 7
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Ponemonec",
       "value": 7
+    },
+    {
+      "rank": 37,
+      "name": "DenisNazarov",
+      "value": 6
     },
     {
       "rank": 38,
@@ -1479,7 +1479,7 @@
     {
       "rank": 6,
       "name": "Vitaliy",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 7,
@@ -1528,27 +1528,27 @@
     },
     {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "🤗",
       "value": 6
     },
     {
       "rank": 17,
+      "name": "Синдбад Мореход",
+      "value": 6
+    },
+    {
+      "rank": 18,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Aся",
       "value": 5
     },
     {
-      "rank": 19,
-      "name": "Александр",
-      "value": 5
-    },
-    {
       "rank": 20,
-      "name": "🤗",
+      "name": "Александр",
       "value": 5
     },
     {
