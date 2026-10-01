@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T23:37:12+00:00",
+  "updated": "2026-10-01T00:34:16+00:00",
   "count": 198,
   "has_movement": true,
   "all": [
@@ -271,31 +271,31 @@
       "rank": 45,
       "name": "Серхио Ле'Трас",
       "value": 94,
-      "move": 4
+      "move": 0
     },
     {
       "rank": 46,
       "name": "terminal lucidity",
-      "value": 92,
-      "move": 1
+      "value": 93,
+      "move": 2
     },
     {
       "rank": 47,
       "name": "Сергей",
       "value": 92,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 48,
       "name": "Vlad",
       "value": 91,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 49,
       "name": "Max",
       "value": 90,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 50,
@@ -427,13 +427,13 @@
       "rank": 71,
       "name": "Юрий",
       "value": 28,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 72,
       "name": "Мое имя Максим",
       "value": 28,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 73,
@@ -445,25 +445,25 @@
       "rank": 74,
       "name": "ilya Kalashnikov",
       "value": 23,
-      "move": 3
+      "move": 0
     },
     {
       "rank": 75,
       "name": "Константин",
       "value": 23,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 76,
       "name": "Толян",
       "value": 21,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 77,
       "name": "Претор",
       "value": 21,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 78,
@@ -1270,18 +1270,18 @@
     },
     {
       "rank": 16,
-      "name": "Сергей",
+      "name": "terminal lucidity",
       "value": 19
     },
     {
       "rank": 17,
-      "name": "Князь Владимир С",
+      "name": "Сергей",
       "value": 19
     },
     {
       "rank": 18,
-      "name": "terminal lucidity",
-      "value": 18
+      "name": "Князь Владимир С",
+      "value": 19
     },
     {
       "rank": 19,
@@ -1522,27 +1522,27 @@
     },
     {
       "rank": 16,
-      "name": "Александр",
+      "name": "terminal lucidity",
       "value": 5
     },
     {
       "rank": 17,
-      "name": "Синдбад Мореход",
+      "name": "Александр",
       "value": 5
     },
     {
       "rank": 18,
+      "name": "Синдбад Мореход",
+      "value": 5
+    },
+    {
+      "rank": 19,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 19,
-      "name": "Viktor",
-      "value": 4
-    },
-    {
       "rank": 20,
-      "name": "terminal lucidity",
+      "name": "Viktor",
       "value": 4
     },
     {
