@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:37:21+00:00",
+  "updated": "2026-10-01T21:37:21+00:00",
   "count": 201,
   "has_movement": true,
   "all": [
@@ -372,7 +372,7 @@
     {
       "rank": 62,
       "name": "Руслан Иванов",
-      "value": 42,
+      "value": 43,
       "move": 1
     },
     {
@@ -390,7 +390,7 @@
     {
       "rank": 65,
       "name": "SPM",
-      "value": 39,
+      "value": 40,
       "move": 1
     },
     {
@@ -1254,7 +1254,7 @@
     {
       "rank": 9,
       "name": "SPM",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 10,
@@ -1293,7 +1293,7 @@
     },
     {
       "rank": 17,
-      "name": "L G",
+      "name": "Руслан Иванов",
       "value": 19
     },
     {
@@ -1303,8 +1303,8 @@
     },
     {
       "rank": 19,
-      "name": "Руслан Иванов",
-      "value": 18
+      "name": "L G",
+      "value": 17
     },
     {
       "rank": 20,
@@ -1471,7 +1471,7 @@
     {
       "rank": 2,
       "name": "Archie",
-      "value": 28
+      "value": 27
     },
     {
       "rank": 3,
@@ -1486,7 +1486,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 6,
@@ -1505,13 +1505,13 @@
     },
     {
       "rank": 9,
-      "name": "🤗",
+      "name": "Руслан Иванов",
       "value": 9
     },
     {
       "rank": 10,
-      "name": "Руслан Иванов",
-      "value": 8
+      "name": "🤗",
+      "value": 9
     },
     {
       "rank": 11,
@@ -1630,37 +1630,37 @@
     },
     {
       "rank": 34,
-      "name": "Ponemonec",
-      "value": 2
-    },
-    {
-      "rank": 35,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Алина",
+      "value": 1
+    },
+    {
+      "rank": 40,
+      "name": "Ponemonec",
       "value": 1
     },
     {
