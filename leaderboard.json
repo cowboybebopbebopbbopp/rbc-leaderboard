@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T04:37:45+00:00",
-  "count": 202,
+  "updated": "2026-10-02T05:37:46+00:00",
+  "count": 203,
   "has_movement": true,
   "all": [
     {
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4395,
+      "value": 4397,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1842,
+      "value": 1844,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1263,
+      "value": 1264,
       "move": 0
     },
     {
@@ -228,7 +228,7 @@
     {
       "rank": 38,
       "name": "Vitaliy",
-      "value": 117,
+      "value": 118,
       "move": 2
     },
     {
@@ -1211,21 +1211,27 @@
     },
     {
       "rank": 202,
+      "name": "Petr Vasenkov",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 203,
       "name": "vitaliy",
       "value": 0,
-      "move": -4
+      "move": -5
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 239
+      "value": 241
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 122
+      "value": 123
     },
     {
       "rank": 3,
@@ -1239,18 +1245,18 @@
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
-      "value": 43
+      "name": "🅾🅻🅶🅰",
+      "value": 42
     },
     {
       "rank": 6,
-      "name": "Vitaliy",
-      "value": 40
+      "name": "Zero-sum Gamer",
+      "value": 42
     },
     {
       "rank": 7,
-      "name": "🅾🅻🅶🅰",
-      "value": 40
+      "name": "Vitaliy",
+      "value": 41
     },
     {
       "rank": 8,
@@ -1309,17 +1315,17 @@
     },
     {
       "rank": 19,
-      "name": "L G",
-      "value": 17
-    },
-    {
-      "rank": 20,
       "name": "🤗",
       "value": 16
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Aся",
+      "value": 14
+    },
+    {
+      "rank": 21,
+      "name": "L G",
       "value": 14
     },
     {
@@ -1472,7 +1478,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 2,
@@ -1481,12 +1487,12 @@
     },
     {
       "rank": 3,
-      "name": "Юрий",
-      "value": 20
+      "name": "a l",
+      "value": 21
     },
     {
       "rank": 4,
-      "name": "a l",
+      "name": "Юрий",
       "value": 20
     },
     {
@@ -1497,7 +1503,7 @@
     {
       "rank": 6,
       "name": "Vitaliy",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 7,
@@ -1516,17 +1522,17 @@
     },
     {
       "rank": 10,
-      "name": "🤗",
+      "name": "🅾🅻🅶🅰",
       "value": 9
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
-      "value": 7
+      "name": "🤗",
+      "value": 9
     },
     {
       "rank": 12,
-      "name": "🅾🅻🅶🅰",
+      "name": "Князь Владимир С",
       "value": 7
     },
     {
@@ -1606,57 +1612,57 @@
     },
     {
       "rank": 28,
-      "name": "Юрий",
-      "value": 2
-    },
-    {
-      "rank": 29,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 32,
-      "name": "Marina",
-      "value": 2
-    },
-    {
-      "rank": 33,
+      "rank": 31,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 32,
+      "name": "Юрий",
+      "value": 1
+    },
+    {
+      "rank": 33,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Алина",
+      "value": 1
+    },
+    {
+      "rank": 38,
+      "name": "Marina",
       "value": 1
     },
     {
