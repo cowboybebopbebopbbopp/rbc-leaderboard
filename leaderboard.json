@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T09:37:48+00:00",
+  "updated": "2026-10-02T10:37:48+00:00",
   "count": 205,
   "has_movement": true,
   "all": [
@@ -1238,7 +1238,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 238
+      "value": 236
     },
     {
       "rank": 2,
@@ -1248,7 +1248,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 78
+      "value": 77
     },
     {
       "rank": 4,
@@ -1303,7 +1303,7 @@
     {
       "rank": 14,
       "name": "Синдбад Мореход",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 15,
@@ -1490,16 +1490,16 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 41
     },
     {
       "rank": 2,
-      "name": "Archie",
-      "value": 27
+      "name": "a l",
+      "value": 26
     },
     {
       "rank": 3,
-      "name": "a l",
+      "name": "Archie",
       "value": 26
     },
     {
@@ -1510,7 +1510,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 6,
@@ -1574,27 +1574,27 @@
     },
     {
       "rank": 18,
-      "name": "Aся",
-      "value": 5
-    },
-    {
-      "rank": 19,
       "name": "terminal lucidity",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Александр",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "DenisNazarov",
+      "value": 4
+    },
+    {
+      "rank": 22,
+      "name": "Aся",
       "value": 4
     },
     {
