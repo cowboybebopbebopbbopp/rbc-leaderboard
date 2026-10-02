@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T21:37:52+00:00",
+  "updated": "2026-10-02T22:37:53+00:00",
   "count": 206,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4404,
+      "value": 4406,
       "move": 0
     },
     {
@@ -1244,7 +1244,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 240
+      "value": 242
     },
     {
       "rank": 2,
@@ -1496,7 +1496,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 45
     },
     {
       "rank": 2,
@@ -1615,67 +1615,67 @@
     },
     {
       "rank": 25,
-      "name": "Александр",
-      "value": 3
-    },
-    {
-      "rank": 26,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Simany",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Vlad",
+      "value": 1
+    },
+    {
+      "rank": 37,
+      "name": "Александр",
       "value": 1
     },
     {
