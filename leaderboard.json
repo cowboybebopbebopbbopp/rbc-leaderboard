@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T14:37:50+00:00",
+  "updated": "2026-10-02T15:37:50+00:00",
   "count": 206,
   "has_movement": true,
   "all": [
@@ -533,27 +533,27 @@
     },
     {
       "rank": 89,
-      "name": "ki6ers",
+      "name": "lefkorosos",
       "value": 13,
-      "move": 0
+      "move": 11
     },
     {
       "rank": 90,
-      "name": "Pike",
-      "value": 12,
-      "move": 0
+      "name": "ki6ers",
+      "value": 13,
+      "move": -1
     },
     {
       "rank": 91,
-      "name": "Анастасия",
+      "name": "Pike",
       "value": 12,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 92,
-      "name": "lefkorosos",
+      "name": "Анастасия",
       "value": 12,
-      "move": 8
+      "move": -1
     },
     {
       "rank": 93,
@@ -1358,27 +1358,27 @@
     },
     {
       "rank": 24,
+      "name": "lefkorosos",
+      "value": 12
+    },
+    {
+      "rank": 25,
       "name": "Юрий",
       "value": 11
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Анастасия",
       "value": 11
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "L G",
       "value": 11
     },
     {
-      "rank": 27,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
-      "value": 11
-    },
-    {
       "rank": 28,
-      "name": "lefkorosos",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
@@ -1605,17 +1605,17 @@
     },
     {
       "rank": 23,
+      "name": "lefkorosos",
+      "value": 4
+    },
+    {
+      "rank": 24,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 24,
-      "name": "A.",
-      "value": 3
-    },
-    {
       "rank": 25,
-      "name": "lefkorosos",
+      "name": "A.",
       "value": 3
     },
     {
