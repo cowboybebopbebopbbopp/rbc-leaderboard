@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T08:37:47+00:00",
+  "updated": "2026-10-02T09:37:48+00:00",
   "count": 205,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4397,
+      "value": 4398,
       "move": 0
     },
     {
@@ -653,15 +653,15 @@
     },
     {
       "rank": 109,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": -1
+      "name": "Homelander",
+      "value": 7,
+      "move": 0
     },
     {
       "rank": 110,
-      "name": "Safe",
+      "name": "Александр Николаев",
       "value": 6,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 111,
@@ -1422,17 +1422,17 @@
     },
     {
       "rank": 38,
-      "name": "Sergey СЕО",
-      "value": 6
-    },
-    {
-      "rank": 39,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Max",
+      "value": 6
+    },
+    {
+      "rank": 40,
+      "name": "Safe",
       "value": 6
     },
     {
@@ -1452,37 +1452,37 @@
     },
     {
       "rank": 44,
-      "name": "Safe",
-      "value": 5
-    },
-    {
-      "rank": 45,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Евгений",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Dede",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "ilya Kalashnikov",
       "value": 3
     }
   ],
@@ -1490,7 +1490,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 2,
@@ -1694,6 +1694,11 @@
     },
     {
       "rank": 42,
+      "name": "Homelander",
+      "value": 1
+    },
+    {
+      "rank": 43,
       "name": "Ксения Комарова",
       "value": 1
     }
