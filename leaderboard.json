@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T12:37:49+00:00",
+  "updated": "2026-10-02T13:37:49+00:00",
   "count": 205,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4400,
+      "value": 4403,
       "move": 0
     },
     {
@@ -551,57 +551,57 @@
     },
     {
       "rank": 92,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "lefkorosos",
       "value": 12,
-      "move": 0
+      "move": 8
     },
     {
       "rank": 93,
-      "name": "Олег",
-      "value": 10,
-      "move": 0
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 12,
+      "move": -1
     },
     {
       "rank": 94,
-      "name": "Aleksey",
+      "name": "Олег",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 95,
-      "name": "Dede",
+      "name": "Aleksey",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 96,
-      "name": "Евгений",
+      "name": "Dede",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 97,
-      "name": "Роман",
-      "value": 9,
-      "move": 0
+      "name": "Евгений",
+      "value": 10,
+      "move": -1
     },
     {
       "rank": 98,
-      "name": "***",
+      "name": "Роман",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 99,
-      "name": "Demius",
+      "name": "***",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 100,
-      "name": "lefkorosos",
+      "name": "Demius",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 101,
@@ -1238,7 +1238,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 237
+      "value": 240
     },
     {
       "rank": 2,
@@ -1248,7 +1248,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 76
+      "value": 75
     },
     {
       "rank": 4,
@@ -1372,32 +1372,32 @@
     },
     {
       "rank": 28,
-      "name": "@wavesscalper",
+      "name": "lefkorosos",
       "value": 11
     },
     {
       "rank": 29,
+      "name": "@wavesscalper",
+      "value": 11
+    },
+    {
+      "rank": 30,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 10
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Aleksey",
       "value": 9
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "DenisNazarov",
       "value": 8
     },
     {
-      "rank": 32,
-      "name": "X888",
-      "value": 8
-    },
-    {
       "rank": 33,
-      "name": "lefkorosos",
+      "name": "X888",
       "value": 8
     },
     {
@@ -1490,7 +1490,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
@@ -1609,101 +1609,106 @@
     },
     {
       "rank": 25,
-      "name": "ilya Kalashnikov",
+      "name": "lefkorosos",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "Simany",
+      "name": "ilya Kalashnikov",
       "value": 3
     },
     {
       "rank": 27,
+      "name": "Simany",
+      "value": 3
+    },
+    {
+      "rank": 28,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Алина",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Marina",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Ponemonec",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Артемий Жданов",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Y. Yastrebov",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Ксения Комарова",
       "value": 1
     }
