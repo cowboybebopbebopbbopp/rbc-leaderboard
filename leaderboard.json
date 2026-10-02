@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T00:37:44+00:00",
+  "updated": "2026-10-02T01:37:44+00:00",
   "count": 202,
   "has_movement": true,
   "all": [
@@ -1482,7 +1482,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 4,
@@ -1571,38 +1571,38 @@
     },
     {
       "rank": 21,
-      "name": "Алексей",
-      "value": 4
-    },
-    {
-      "rank": 22,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Simany",
       "value": 3
+    },
+    {
+      "rank": 27,
+      "name": "Алексей",
+      "value": 2
     },
     {
       "rank": 28,
