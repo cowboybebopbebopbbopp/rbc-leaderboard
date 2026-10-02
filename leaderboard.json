@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T16:37:51+00:00",
+  "updated": "2026-10-02T17:37:51+00:00",
   "count": 206,
   "has_movement": true,
   "all": [
@@ -569,75 +569,75 @@
     },
     {
       "rank": 95,
-      "name": "Aleksey",
+      "name": "Ponemonec",
       "value": 10,
-      "move": -1
+      "move": 10
     },
     {
       "rank": 96,
-      "name": "Dede",
+      "name": "Aleksey",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 97,
-      "name": "Евгений",
+      "name": "Dede",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 98,
-      "name": "Роман",
-      "value": 9,
-      "move": -1
+      "name": "Евгений",
+      "value": 10,
+      "move": -2
     },
     {
       "rank": 99,
-      "name": "***",
+      "name": "Роман",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 100,
+      "name": "***",
+      "value": 9,
+      "move": -2
+    },
+    {
+      "rank": 101,
       "name": "Demius",
+      "value": 9,
+      "move": -2
+    },
+    {
+      "rank": 102,
+      "name": "Sergey",
       "value": 9,
       "move": -1
     },
     {
-      "rank": 101,
-      "name": "Sergey",
-      "value": 9,
-      "move": 0
-    },
-    {
-      "rank": 102,
+      "rank": 103,
       "name": "Snowflake ❄️",
       "value": 9,
       "move": null
     },
     {
-      "rank": 103,
+      "rank": 104,
       "name": "Юрий",
       "value": 8,
-      "move": -1
-    },
-    {
-      "rank": 104,
-      "name": "xxx",
-      "value": 8,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 105,
-      "name": "Kirill",
+      "name": "xxx",
       "value": 8,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 106,
-      "name": "Ponemonec",
+      "name": "Kirill",
       "value": 8,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 107,
@@ -1398,32 +1398,32 @@
     },
     {
       "rank": 32,
+      "name": "Ponemonec",
+      "value": 9
+    },
+    {
+      "rank": 33,
       "name": "DenisNazarov",
       "value": 8
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "X888",
       "value": 8
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "ᴦоᴧод",
       "value": 8
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Kirill",
       "value": 7
     },
     {
-      "rank": 36,
-      "name": "Александр",
-      "value": 7
-    },
-    {
       "rank": 37,
-      "name": "Ponemonec",
+      "name": "Александр",
       "value": 7
     },
     {
@@ -1625,42 +1625,42 @@
     },
     {
       "rank": 27,
-      "name": "Simany",
+      "name": "Ponemonec",
       "value": 3
     },
     {
       "rank": 28,
+      "name": "Simany",
+      "value": 3
+    },
+    {
+      "rank": 29,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 33,
-      "name": "Pavel",
-      "value": 1
-    },
-    {
       "rank": 34,
-      "name": "AnTon",
+      "name": "Pavel",
       "value": 1
     },
     {
@@ -1695,26 +1695,21 @@
     },
     {
       "rank": 41,
-      "name": "Ponemonec",
-      "value": 1
-    },
-    {
-      "rank": 42,
       "name": "Артемий Жданов",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Y. Yastrebov",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Ксения Комарова",
       "value": 1
     }
