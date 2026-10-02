@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T06:37:46+00:00",
+  "updated": "2026-10-02T07:37:47+00:00",
   "count": 204,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1266,
+      "value": 1269,
       "move": 0
     },
     {
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 313,
+      "value": 314,
       "move": 1
     },
     {
@@ -1237,7 +1237,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 125
+      "value": 128
     },
     {
       "rank": 3,
@@ -1286,17 +1286,17 @@
     },
     {
       "rank": 12,
-      "name": "Синдбад Мореход",
-      "value": 23
-    },
-    {
-      "rank": 13,
       "name": "A.",
       "value": 22
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Manis Love",
+      "value": 22
+    },
+    {
+      "rank": 14,
+      "name": "Синдбад Мореход",
       "value": 22
     },
     {
@@ -1322,7 +1322,7 @@
     {
       "rank": 19,
       "name": "🤗",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 20,
@@ -1331,12 +1331,12 @@
     },
     {
       "rank": 21,
-      "name": "L G",
-      "value": 14
+      "name": "PiratesOfMining",
+      "value": 13
     },
     {
       "rank": 22,
-      "name": "PiratesOfMining",
+      "name": "L G",
       "value": 13
     },
     {
@@ -1494,7 +1494,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 23
+      "value": 26
     },
     {
       "rank": 4,
@@ -1513,27 +1513,27 @@
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
+      "name": "🤗",
       "value": 10
     },
     {
       "rank": 8,
+      "name": "Zero-sum Gamer",
+      "value": 10
+    },
+    {
+      "rank": 9,
       "name": "Серхио Ле'Трас",
       "value": 9
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Руслан Иванов",
       "value": 9
     },
     {
-      "rank": 10,
-      "name": "🅾🅻🅶🅰",
-      "value": 9
-    },
-    {
       "rank": 11,
-      "name": "🤗",
+      "name": "🅾🅻🅶🅰",
       "value": 9
     },
     {
