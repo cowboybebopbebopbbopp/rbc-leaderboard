@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T16:22:12+00:00",
-  "count": 207,
+  "updated": "2026-10-03T17:22:17+00:00",
+  "count": 208,
   "has_movement": true,
   "all": [
     {
@@ -1241,9 +1241,15 @@
     },
     {
       "rank": 207,
+      "name": "Олег Галицин",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 208,
       "name": "vitaliy",
       "value": 0,
-      "move": -5
+      "move": -6
     }
   ],
   "month": [
