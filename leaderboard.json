@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:37:54+00:00",
+  "updated": "2026-10-03T01:37:54+00:00",
   "count": 206,
   "has_movement": true,
   "all": [
@@ -1540,13 +1540,13 @@
     },
     {
       "rank": 10,
-      "name": "Руслан Иванов",
+      "name": "🅾🅻🅶🅰",
       "value": 9
     },
     {
       "rank": 11,
-      "name": "🅾🅻🅶🅰",
-      "value": 9
+      "name": "Руслан Иванов",
+      "value": 8
     },
     {
       "rank": 12,
@@ -1575,58 +1575,58 @@
     },
     {
       "rank": 17,
-      "name": "terminal lucidity",
-      "value": 5
-    },
-    {
-      "rank": 18,
       "name": "Синдбад Мореход",
       "value": 5
     },
     {
-      "rank": 19,
-      "name": "Viktor",
-      "value": 4
-    },
-    {
-      "rank": 20,
+      "rank": 18,
       "name": "DenisNazarov",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 19,
       "name": "Aся",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 20,
+      "name": "terminal lucidity",
+      "value": 4
+    },
+    {
+      "rank": 21,
       "name": "lefkorosos",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Simany",
       "value": 3
+    },
+    {
+      "rank": 27,
+      "name": "Viktor",
+      "value": 2
     },
     {
       "rank": 28,
