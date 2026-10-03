@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T08:37:57+00:00",
+  "updated": "2026-10-03T09:37:57+00:00",
   "count": 206,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1810,
+      "value": 1812,
       "move": 0
     },
     {
@@ -156,7 +156,7 @@
     {
       "rank": 26,
       "name": "DenisNazarov",
-      "value": 212,
+      "value": 213,
       "move": 0
     },
     {
@@ -1254,7 +1254,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 75
+      "value": 77
     },
     {
       "rank": 4,
@@ -1393,18 +1393,18 @@
     },
     {
       "rank": 31,
-      "name": "Aleksey",
+      "name": "DenisNazarov",
       "value": 9
     },
     {
       "rank": 32,
-      "name": "Ponemonec",
+      "name": "Aleksey",
       "value": 9
     },
     {
       "rank": 33,
-      "name": "DenisNazarov",
-      "value": 8
+      "name": "Ponemonec",
+      "value": 9
     },
     {
       "rank": 34,
@@ -1500,12 +1500,12 @@
     },
     {
       "rank": 2,
-      "name": "a l",
-      "value": 26
+      "name": "Archie",
+      "value": 28
     },
     {
       "rank": 3,
-      "name": "Archie",
+      "name": "a l",
       "value": 26
     },
     {
@@ -1576,7 +1576,7 @@
     {
       "rank": 17,
       "name": "DenisNazarov",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 18,
@@ -1655,41 +1655,36 @@
     },
     {
       "rank": 33,
-      "name": "Aleksey",
-      "value": 1
-    },
-    {
-      "rank": 34,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Александр",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Marina",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Артемий Жданов",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Y. Yastrebov",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Ксения Комарова",
       "value": 1
     }
