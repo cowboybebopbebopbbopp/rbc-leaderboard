@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T15:22:06+00:00",
+  "updated": "2026-10-03T16:22:12+00:00",
   "count": 207,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1815,
+      "value": 1816,
       "move": 0
     },
     {
@@ -1260,7 +1260,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 79
+      "value": 80
     },
     {
       "rank": 4,
@@ -1507,7 +1507,7 @@
     {
       "rank": 2,
       "name": "Archie",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 3,
@@ -1641,51 +1641,46 @@
     },
     {
       "rank": 29,
-      "name": "Viktor",
-      "value": 1
-    },
-    {
-      "rank": 30,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Александр",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": ".",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Артемий Жданов",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Y. Yastrebov",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Ксения Комарова",
       "value": 1
     }
