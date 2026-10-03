@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T11:37:58+00:00",
+  "updated": "2026-10-03T12:37:58+00:00",
   "count": 207,
   "has_movement": true,
   "all": [
@@ -1250,12 +1250,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 237
+      "value": 234
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 130
+      "value": 129
     },
     {
       "rank": 3,
@@ -1280,7 +1280,7 @@
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 41
+      "value": 40
     },
     {
       "rank": 8,
@@ -1552,7 +1552,7 @@
     {
       "rank": 11,
       "name": "Руслан Иванов",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 12,
