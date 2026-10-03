@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T04:37:55+00:00",
+  "updated": "2026-10-03T05:37:56+00:00",
   "count": 206,
   "has_movement": true,
   "all": [
@@ -1670,36 +1670,31 @@
     },
     {
       "rank": 36,
-      "name": "Vlad",
-      "value": 1
-    },
-    {
-      "rank": 37,
       "name": "Александр",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Marina",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Артемий Жданов",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Y. Yastrebov",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Ксения Комарова",
       "value": 1
     }
