@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T09:37:57+00:00",
+  "updated": "2026-10-03T10:37:57+00:00",
   "count": 206,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1844,
+      "value": 1845,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1791,
+      "value": 1793,
       "move": 0
     },
     {
@@ -1244,12 +1244,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 242
+      "value": 241
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 131
+      "value": 130
     },
     {
       "rank": 3,
@@ -1263,12 +1263,12 @@
     },
     {
       "rank": 5,
-      "name": "Vitaliy",
-      "value": 42
+      "name": "🅾🅻🅶🅰",
+      "value": 43
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
+      "name": "Vitaliy",
       "value": 42
     },
     {
@@ -1339,7 +1339,7 @@
     {
       "rank": 20,
       "name": "Aся",
-      "value": 14
+      "value": 16
     },
     {
       "rank": 21,
@@ -1496,7 +1496,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 2,
@@ -1525,22 +1525,22 @@
     },
     {
       "rank": 7,
-      "name": "🤗",
+      "name": "🅾🅻🅶🅰",
       "value": 10
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
+      "name": "🤗",
       "value": 10
     },
     {
       "rank": 9,
-      "name": "Серхио Ле'Трас",
-      "value": 9
+      "name": "Zero-sum Gamer",
+      "value": 10
     },
     {
       "rank": 10,
-      "name": "🅾🅻🅶🅰",
+      "name": "Серхио Ле'Трас",
       "value": 9
     },
     {
@@ -1560,28 +1560,28 @@
     },
     {
       "rank": 14,
-      "name": "LlirikMK",
+      "name": "Aся",
       "value": 6
     },
     {
       "rank": 15,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "LlirikMK",
       "value": 6
     },
     {
       "rank": 16,
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 6
+    },
+    {
+      "rank": 17,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "DenisNazarov",
       "value": 5
-    },
-    {
-      "rank": 18,
-      "name": "Aся",
-      "value": 4
     },
     {
       "rank": 19,
