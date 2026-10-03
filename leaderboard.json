@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T20:22:55+00:00",
+  "updated": "2026-10-03T21:23:00+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -1346,17 +1346,17 @@
     },
     {
       "rank": 18,
-      "name": "Сергей",
-      "value": 17
-    },
-    {
-      "rank": 19,
       "name": "🤗",
       "value": 17
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Aся",
+      "value": 16
+    },
+    {
+      "rank": 20,
+      "name": "Сергей",
       "value": 16
     },
     {
@@ -1633,23 +1633,23 @@
     },
     {
       "rank": 25,
-      "name": "Roman Polyakov",
-      "value": 2
-    },
-    {
-      "rank": 26,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Синдбад Мореход",
       "value": 2
+    },
+    {
+      "rank": 28,
+      "name": "Roman Polyakov",
+      "value": 1
     },
     {
       "rank": 29,
