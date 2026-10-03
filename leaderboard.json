@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T17:22:17+00:00",
-  "count": 208,
+  "updated": "2026-10-03T18:22:23+00:00",
+  "count": 209,
   "has_movement": true,
   "all": [
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1272,
+      "value": 1273,
       "move": 0
     },
     {
@@ -390,7 +390,7 @@
     {
       "rank": 65,
       "name": "SPM",
-      "value": 40,
+      "value": 41,
       "move": 0
     },
     {
@@ -1247,21 +1247,27 @@
     },
     {
       "rank": 208,
+      "name": "🤗.",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 209,
       "name": "vitaliy",
       "value": 0,
-      "move": -6
+      "move": -7
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 234
+      "value": 232
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 125
+      "value": 126
     },
     {
       "rank": 3,
@@ -1281,7 +1287,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 42
+      "value": 41
     },
     {
       "rank": 7,
@@ -1290,12 +1296,12 @@
     },
     {
       "rank": 8,
-      "name": "Юрий",
-      "value": 29
+      "name": "SPM",
+      "value": 30
     },
     {
       "rank": 9,
-      "name": "SPM",
+      "name": "Юрий",
       "value": 29
     },
     {
@@ -1518,7 +1524,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 26
+      "value": 27
     },
     {
       "rank": 4,
@@ -1528,7 +1534,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 6,
@@ -1607,28 +1613,28 @@
     },
     {
       "rank": 21,
-      "name": "Roman Polyakov",
-      "value": 3
-    },
-    {
-      "rank": 22,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Simany",
       "value": 3
+    },
+    {
+      "rank": 25,
+      "name": "Roman Polyakov",
+      "value": 2
     },
     {
       "rank": 26,
