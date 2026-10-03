@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T14:22:01+00:00",
+  "updated": "2026-10-03T15:22:06+00:00",
   "count": 207,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1813,
+      "value": 1815,
       "move": 0
     },
     {
@@ -1260,7 +1260,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 78
+      "value": 79
     },
     {
       "rank": 4,
@@ -1305,17 +1305,17 @@
     {
       "rank": 12,
       "name": "A.",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 13,
-      "name": "Manis Love",
-      "value": 22
+      "name": "Синдбад Мореход",
+      "value": 21
     },
     {
       "rank": 14,
-      "name": "Синдбад Мореход",
-      "value": 21
+      "name": "Manis Love",
+      "value": 20
     },
     {
       "rank": 15,
@@ -1404,13 +1404,13 @@
     },
     {
       "rank": 32,
-      "name": "Aleksey",
+      "name": "Ponemonec",
       "value": 9
     },
     {
       "rank": 33,
-      "name": "Ponemonec",
-      "value": 9
+      "name": "Aleksey",
+      "value": 8
     },
     {
       "rank": 34,
@@ -1507,7 +1507,7 @@
     {
       "rank": 2,
       "name": "Archie",
-      "value": 29
+      "value": 31
     },
     {
       "rank": 3,
@@ -1521,12 +1521,12 @@
     },
     {
       "rank": 5,
-      "name": "Vitaliy",
-      "value": 13
+      "name": "SPM",
+      "value": 12
     },
     {
       "rank": 6,
-      "name": "SPM",
+      "name": "Vitaliy",
       "value": 12
     },
     {
