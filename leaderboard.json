@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T10:37:57+00:00",
-  "count": 206,
+  "updated": "2026-10-03T11:37:58+00:00",
+  "count": 207,
   "has_movement": true,
   "all": [
     {
@@ -12,19 +12,19 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4406,
+      "value": 4407,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1845,
+      "value": 1846,
       "move": 0
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1812,
+      "value": 1813,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 903,
+      "value": 904,
       "move": 0
     },
     {
@@ -1235,16 +1235,22 @@
     },
     {
       "rank": 206,
+      "name": "Владислав Косицин",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 207,
       "name": "vitaliy",
       "value": 0,
-      "move": -4
+      "move": -5
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 241
+      "value": 237
     },
     {
       "rank": 2,
@@ -1254,7 +1260,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 77
+      "value": 78
     },
     {
       "rank": 4,
@@ -1263,18 +1269,18 @@
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 43
+      "name": "Vitaliy",
+      "value": 42
     },
     {
       "rank": 6,
-      "name": "Vitaliy",
+      "name": "🅾🅻🅶🅰",
       "value": 42
     },
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 40
+      "value": 41
     },
     {
       "rank": 8,
@@ -1313,18 +1319,18 @@
     },
     {
       "rank": 15,
-      "name": "terminal lucidity",
-      "value": 20
-    },
-    {
-      "rank": 16,
       "name": "Князь Владимир С",
       "value": 20
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Руслан Иванов",
       "value": 19
+    },
+    {
+      "rank": 17,
+      "name": "terminal lucidity",
+      "value": 18
     },
     {
       "rank": 18,
@@ -1496,12 +1502,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 2,
       "name": "Archie",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 3,
@@ -1526,16 +1532,16 @@
     {
       "rank": 7,
       "name": "🅾🅻🅶🅰",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 8,
-      "name": "🤗",
-      "value": 10
+      "name": "Zero-sum Gamer",
+      "value": 11
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
+      "name": "🤗",
       "value": 10
     },
     {
@@ -1565,22 +1571,22 @@
     },
     {
       "rank": 15,
-      "name": "LlirikMK",
-      "value": 6
-    },
-    {
-      "rank": 16,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "DenisNazarov",
+      "value": 5
+    },
+    {
+      "rank": 18,
+      "name": "LlirikMK",
       "value": 5
     },
     {
