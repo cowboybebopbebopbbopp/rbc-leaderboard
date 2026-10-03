@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T12:37:58+00:00",
+  "updated": "2026-10-03T13:37:59+00:00",
   "count": 207,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4407,
+      "value": 4408,
       "move": 0
     },
     {
@@ -1255,7 +1255,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 129
+      "value": 126
     },
     {
       "rank": 3,
@@ -1265,7 +1265,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 50
+      "value": 49
     },
     {
       "rank": 5,
@@ -1502,7 +1502,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 2,
@@ -1641,56 +1641,51 @@
     },
     {
       "rank": 29,
-      "name": ".",
-      "value": 2
-    },
-    {
-      "rank": 30,
       "name": "Viktor",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Александр",
       "value": 1
     },
     {
-      "rank": 35,
-      "name": "Marina",
+      "rank": 34,
+      "name": ".",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Артемий Жданов",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Y. Yastrebov",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Ксения Комарова",
       "value": 1
     }
