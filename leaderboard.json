@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T15:23:32+00:00",
+  "updated": "2026-10-04T16:23:33+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -1583,27 +1583,27 @@
     },
     {
       "rank": 15,
-      "name": "Manis Love",
-      "value": 4
-    },
-    {
-      "rank": 16,
-      "name": "Aся",
-      "value": 4
-    },
-    {
-      "rank": 17,
       "name": "terminal lucidity",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 16,
       "name": "lefkorosos",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 17,
       "name": "A.",
+      "value": 3
+    },
+    {
+      "rank": 18,
+      "name": "Manis Love",
+      "value": 3
+    },
+    {
+      "rank": 19,
+      "name": "Aся",
       "value": 3
     },
     {
