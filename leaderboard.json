@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T21:23:42+00:00",
+  "updated": "2026-10-04T22:23:44+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 316,
+      "value": 317,
       "move": 0
     },
     {
@@ -162,7 +162,7 @@
     {
       "rank": 27,
       "name": "Manis Love",
-      "value": 202,
+      "value": 203,
       "move": 0
     },
     {
@@ -198,7 +198,7 @@
     {
       "rank": 33,
       "name": "Александр",
-      "value": 141,
+      "value": 142,
       "move": 0
     },
     {
@@ -1316,7 +1316,7 @@
     },
     {
       "rank": 12,
-      "name": "A.",
+      "name": "Manis Love",
       "value": 20
     },
     {
@@ -1336,13 +1336,13 @@
     },
     {
       "rank": 16,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 19
     },
     {
       "rank": 17,
       "name": "🤗",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 18,
@@ -1416,13 +1416,13 @@
     },
     {
       "rank": 32,
-      "name": "Ponemonec",
+      "name": "Александр",
       "value": 9
     },
     {
       "rank": 33,
-      "name": "Александр",
-      "value": 8
+      "name": "Ponemonec",
+      "value": 9
     },
     {
       "rank": 34,
@@ -1524,7 +1524,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 23
+      "value": 22
     },
     {
       "rank": 4,
@@ -1533,13 +1533,13 @@
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
+      "name": "🤗",
       "value": 13
     },
     {
       "rank": 6,
-      "name": "🤗",
-      "value": 12
+      "name": "Zero-sum Gamer",
+      "value": 13
     },
     {
       "rank": 7,
@@ -1583,22 +1583,22 @@
     },
     {
       "rank": 15,
-      "name": "terminal lucidity",
+      "name": "Manis Love",
       "value": 4
     },
     {
       "rank": 16,
-      "name": "lefkorosos",
+      "name": "terminal lucidity",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "A.",
-      "value": 3
+      "name": "lefkorosos",
+      "value": 4
     },
     {
       "rank": 18,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 3
     },
     {
@@ -1633,27 +1633,27 @@
     },
     {
       "rank": 25,
+      "name": "Александр",
+      "value": 2
+    },
+    {
+      "rank": 26,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 28,
-      "name": "Константин",
-      "value": 1
-    },
-    {
       "rank": 29,
-      "name": "Александр",
+      "name": "Константин",
       "value": 1
     },
     {
