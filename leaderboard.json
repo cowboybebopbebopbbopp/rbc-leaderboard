@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T17:23:35+00:00",
+  "updated": "2026-10-04T18:23:37+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1274,
+      "value": 1277,
       "move": 0
     },
     {
@@ -1267,7 +1267,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 125
+      "value": 128
     },
     {
       "rank": 3,
@@ -1341,12 +1341,12 @@
     },
     {
       "rank": 17,
-      "name": "🤗",
-      "value": 17
+      "name": "terminal lucidity",
+      "value": 16
     },
     {
       "rank": 18,
-      "name": "terminal lucidity",
+      "name": "🤗",
       "value": 16
     },
     {
@@ -1519,7 +1519,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 28
+      "value": 31
     },
     {
       "rank": 3,
@@ -1553,13 +1553,13 @@
     },
     {
       "rank": 9,
-      "name": "Юрий",
+      "name": "Vitaliy",
       "value": 8
     },
     {
       "rank": 10,
-      "name": "Vitaliy",
-      "value": 8
+      "name": "Юрий",
+      "value": 7
     },
     {
       "rank": 11,
