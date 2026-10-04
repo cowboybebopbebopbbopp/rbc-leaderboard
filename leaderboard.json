@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T08:23:20+00:00",
+  "updated": "2026-10-04T09:23:22+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -1342,7 +1342,7 @@
     {
       "rank": 17,
       "name": "terminal lucidity",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 18,
@@ -1421,18 +1421,18 @@
     },
     {
       "rank": 33,
-      "name": "Aleksey",
-      "value": 8
-    },
-    {
-      "rank": 34,
       "name": "X888",
       "value": 8
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "ᴦоᴧод",
       "value": 8
+    },
+    {
+      "rank": 35,
+      "name": "Aleksey",
+      "value": 7
     },
     {
       "rank": 36,
@@ -1548,12 +1548,12 @@
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
-      "value": 10
+      "name": "Серхио Ле'Трас",
+      "value": 9
     },
     {
       "rank": 9,
-      "name": "Серхио Ле'Трас",
+      "name": "Zero-sum Gamer",
       "value": 9
     },
     {
