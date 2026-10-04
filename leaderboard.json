@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T22:23:44+00:00",
+  "updated": "2026-10-04T23:23:45+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -162,7 +162,7 @@
     {
       "rank": 27,
       "name": "Manis Love",
-      "value": 203,
+      "value": 204,
       "move": 0
     },
     {
@@ -1317,7 +1317,7 @@
     {
       "rank": 12,
       "name": "Manis Love",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 13,
@@ -1573,18 +1573,18 @@
     },
     {
       "rank": 13,
-      "name": "DenisNazarov",
+      "name": "Manis Love",
       "value": 5
     },
     {
       "rank": 14,
-      "name": "LlirikMK",
+      "name": "DenisNazarov",
       "value": 5
     },
     {
       "rank": 15,
-      "name": "Manis Love",
-      "value": 4
+      "name": "LlirikMK",
+      "value": 5
     },
     {
       "rank": 16,
