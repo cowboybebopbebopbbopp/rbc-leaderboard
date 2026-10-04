@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T18:23:37+00:00",
+  "updated": "2026-10-04T19:23:38+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -1277,7 +1277,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 5,
@@ -1538,13 +1538,13 @@
     },
     {
       "rank": 6,
-      "name": "SPM",
+      "name": "🤗",
       "value": 10
     },
     {
       "rank": 7,
-      "name": "🤗",
-      "value": 10
+      "name": "SPM",
+      "value": 9
     },
     {
       "rank": 8,
@@ -1564,7 +1564,7 @@
     {
       "rank": 11,
       "name": "Руслан Иванов",
-      "value": 7
+      "value": 6
     },
     {
       "rank": 12,
