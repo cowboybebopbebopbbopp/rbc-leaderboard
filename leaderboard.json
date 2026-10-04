@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T20:23:40+00:00",
+  "updated": "2026-10-04T21:23:42+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4408,
+      "value": 4409,
       "move": 0
     },
     {
@@ -198,7 +198,7 @@
     {
       "rank": 33,
       "name": "Александр",
-      "value": 140,
+      "value": 141,
       "move": 0
     },
     {
@@ -1262,7 +1262,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 225
+      "value": 226
     },
     {
       "rank": 2,
@@ -1421,27 +1421,27 @@
     },
     {
       "rank": 33,
-      "name": "X888",
+      "name": "Александр",
       "value": 8
     },
     {
       "rank": 34,
-      "name": "ᴦоᴧод",
+      "name": "X888",
       "value": 8
     },
     {
       "rank": 35,
+      "name": "ᴦоᴧод",
+      "value": 8
+    },
+    {
+      "rank": 36,
       "name": "Aleksey",
       "value": 7
     },
     {
-      "rank": 36,
-      "name": "Kirill",
-      "value": 7
-    },
-    {
       "rank": 37,
-      "name": "Александр",
+      "name": "Kirill",
       "value": 7
     },
     {
@@ -1514,7 +1514,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
@@ -1653,31 +1653,36 @@
     },
     {
       "rank": 29,
-      "name": "А В",
+      "name": "Александр",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "Синдбад Мореход",
+      "name": "А В",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "Артемий Жданов",
+      "name": "Синдбад Мореход",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Y. Yastrebov",
+      "name": "Артемий Жданов",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Homelander",
+      "name": "Y. Yastrebov",
       "value": 1
     },
     {
       "rank": 34,
+      "name": "Homelander",
+      "value": 1
+    },
+    {
+      "rank": 35,
       "name": "Petr Vasenkov",
       "value": 1
     }
