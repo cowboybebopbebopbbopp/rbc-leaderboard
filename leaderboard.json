@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T10:23:23+00:00",
+  "updated": "2026-10-04T11:23:25+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -1262,7 +1262,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 230
+      "value": 229
     },
     {
       "rank": 2,
@@ -1272,12 +1272,12 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 79
+      "value": 78
     },
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 47
+      "value": 46
     },
     {
       "rank": 5,
@@ -1341,13 +1341,13 @@
     },
     {
       "rank": 17,
-      "name": "terminal lucidity",
+      "name": "🤗",
       "value": 17
     },
     {
       "rank": 18,
-      "name": "🤗",
-      "value": 17
+      "name": "terminal lucidity",
+      "value": 16
     },
     {
       "rank": 19,
@@ -1514,7 +1514,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 2,
@@ -1524,12 +1524,12 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 26
+      "value": 23
     },
     {
       "rank": 4,
       "name": "Юрий",
-      "value": 18
+      "value": 15
     },
     {
       "rank": 5,
@@ -1543,13 +1543,13 @@
     },
     {
       "rank": 7,
-      "name": "SPM",
+      "name": "🤗",
       "value": 10
     },
     {
       "rank": 8,
-      "name": "🤗",
-      "value": 10
+      "name": "SPM",
+      "value": 9
     },
     {
       "rank": 9,
@@ -1568,22 +1568,22 @@
     },
     {
       "rank": 12,
-      "name": "Князь Владимир С",
-      "value": 7
-    },
-    {
-      "rank": 13,
-      "name": "Aся",
-      "value": 6
-    },
-    {
-      "rank": 14,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 13,
       "name": "DenisNazarov",
+      "value": 5
+    },
+    {
+      "rank": 14,
+      "name": "Aся",
+      "value": 5
+    },
+    {
+      "rank": 15,
+      "name": "Князь Владимир С",
       "value": 5
     },
     {
@@ -1603,86 +1603,81 @@
     },
     {
       "rank": 19,
-      "name": "X888",
-      "value": 4
-    },
-    {
-      "rank": 20,
       "name": "lefkorosos",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Артемий Жданов",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Y. Yastrebov",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Simany",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Petr Vasenkov",
       "value": 1
     }
