@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T07:23:18+00:00",
+  "updated": "2026-10-04T08:23:20+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -1272,7 +1272,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 80
+      "value": 79
     },
     {
       "rank": 4,
@@ -1292,7 +1292,7 @@
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 8,
@@ -1351,13 +1351,13 @@
     },
     {
       "rank": 19,
-      "name": "Aся",
-      "value": 16
+      "name": "Сергей",
+      "value": 15
     },
     {
       "rank": 20,
-      "name": "Сергей",
-      "value": 15
+      "name": "Aся",
+      "value": 14
     },
     {
       "rank": 21,
@@ -1518,13 +1518,13 @@
     },
     {
       "rank": 2,
-      "name": "Archie",
-      "value": 29
+      "name": "a l",
+      "value": 28
     },
     {
       "rank": 3,
-      "name": "a l",
-      "value": 28
+      "name": "Archie",
+      "value": 27
     },
     {
       "rank": 4,
@@ -1543,12 +1543,12 @@
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
-      "value": 11
+      "name": "🤗",
+      "value": 10
     },
     {
       "rank": 8,
-      "name": "🤗",
+      "name": "Zero-sum Gamer",
       "value": 10
     },
     {
@@ -1628,22 +1628,22 @@
     },
     {
       "rank": 24,
-      "name": "Simany",
-      "value": 3
-    },
-    {
-      "rank": 25,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Синдбад Мореход",
+      "value": 2
+    },
+    {
+      "rank": 27,
+      "name": "Simany",
       "value": 2
     },
     {
