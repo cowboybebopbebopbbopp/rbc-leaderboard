@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T11:23:25+00:00",
+  "updated": "2026-10-04T12:23:27+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 907,
+      "value": 908,
       "move": 0
     },
     {
@@ -378,7 +378,7 @@
     {
       "rank": 63,
       "name": "SPM",
-      "value": 42,
+      "value": 43,
       "move": 2
     },
     {
@@ -1262,7 +1262,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 229
+      "value": 228
     },
     {
       "rank": 2,
@@ -1292,12 +1292,12 @@
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 40
+      "value": 41
     },
     {
       "rank": 8,
       "name": "SPM",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 9,
@@ -1539,17 +1539,17 @@
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 7,
-      "name": "🤗",
+      "name": "SPM",
       "value": 10
     },
     {
       "rank": 8,
-      "name": "SPM",
-      "value": 9
+      "name": "🤗",
+      "value": 10
     },
     {
       "rank": 9,
@@ -1578,37 +1578,37 @@
     },
     {
       "rank": 14,
-      "name": "Aся",
-      "value": 5
-    },
-    {
-      "rank": 15,
-      "name": "Князь Владимир С",
-      "value": 5
-    },
-    {
-      "rank": 16,
       "name": "LlirikMK",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 15,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "name": "Aся",
+      "value": 4
+    },
+    {
+      "rank": 17,
       "name": "terminal lucidity",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "lefkorosos",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "A.",
+      "value": 3
+    },
+    {
+      "rank": 20,
+      "name": "Князь Владимир С",
       "value": 3
     },
     {
@@ -1633,27 +1633,27 @@
     },
     {
       "rank": 25,
-      "name": "Синдбад Мореход",
-      "value": 2
-    },
-    {
-      "rank": 26,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Константин",
+      "value": 1
+    },
+    {
+      "rank": 29,
+      "name": "Синдбад Мореход",
       "value": 1
     },
     {
@@ -1673,11 +1673,6 @@
     },
     {
       "rank": 33,
-      "name": "Simany",
-      "value": 1
-    },
-    {
-      "rank": 34,
       "name": "Petr Vasenkov",
       "value": 1
     }
