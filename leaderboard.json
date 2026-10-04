@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T19:23:38+00:00",
+  "updated": "2026-10-04T20:23:40+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 314,
+      "value": 316,
       "move": 0
     },
     {
@@ -1341,12 +1341,12 @@
     },
     {
       "rank": 17,
-      "name": "terminal lucidity",
-      "value": 16
+      "name": "🤗",
+      "value": 17
     },
     {
       "rank": 18,
-      "name": "🤗",
+      "name": "terminal lucidity",
       "value": 16
     },
     {
@@ -1539,7 +1539,7 @@
     {
       "rank": 6,
       "name": "🤗",
-      "value": 10
+      "value": 12
     },
     {
       "rank": 7,
