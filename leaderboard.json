@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T13:23:28+00:00",
+  "updated": "2026-10-04T14:23:30+00:00",
   "count": 209,
   "has_movement": true,
   "all": [
@@ -1262,7 +1262,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 228
+      "value": 225
     },
     {
       "rank": 2,
@@ -1287,7 +1287,7 @@
     {
       "rank": 6,
       "name": "Vitaliy",
-      "value": 42
+      "value": 41
     },
     {
       "rank": 7,
@@ -1312,17 +1312,17 @@
     {
       "rank": 11,
       "name": "Серхио Ле'Трас",
-      "value": 24
+      "value": 23
     },
     {
       "rank": 12,
-      "name": "A.",
+      "name": "Синдбад Мореход",
       "value": 21
     },
     {
       "rank": 13,
-      "name": "Синдбад Мореход",
-      "value": 21
+      "name": "A.",
+      "value": 20
     },
     {
       "rank": 14,
@@ -1539,7 +1539,7 @@
     {
       "rank": 6,
       "name": "Юрий",
-      "value": 12
+      "value": 10
     },
     {
       "rank": 7,
