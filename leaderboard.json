@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T03:23:52+00:00",
+  "updated": "2026-10-05T04:23:54+00:00",
   "count": 210,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4409,
+      "value": 4410,
       "move": 0
     },
     {
@@ -1268,7 +1268,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 226
+      "value": 227
     },
     {
       "rank": 2,
@@ -1353,7 +1353,7 @@
     {
       "rank": 18,
       "name": "terminal lucidity",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 19,
@@ -1520,7 +1520,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 2,
@@ -1609,18 +1609,18 @@
     },
     {
       "rank": 19,
-      "name": "Aся",
-      "value": 3
-    },
-    {
-      "rank": 20,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Ponemonec",
       "value": 3
+    },
+    {
+      "rank": 21,
+      "name": "Aся",
+      "value": 2
     },
     {
       "rank": 22,
