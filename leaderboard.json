@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T13:24:10+00:00",
+  "updated": "2026-10-05T14:24:11+00:00",
   "count": 210,
   "has_movement": true,
   "all": [
@@ -1417,18 +1417,18 @@
     },
     {
       "rank": 31,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 9
-    },
-    {
-      "rank": 32,
       "name": "Александр",
       "value": 9
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Ponemonec",
       "value": 9
+    },
+    {
+      "rank": 33,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 8
     },
     {
       "rank": 34,
@@ -1492,27 +1492,27 @@
     },
     {
       "rank": 46,
-      "name": "Slawik",
-      "value": 3
-    },
-    {
-      "rank": 47,
       "name": "Aleksey",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Евгений",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "ilya Kalashnikov",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "Marina",
       "value": 3
     }
   ],
