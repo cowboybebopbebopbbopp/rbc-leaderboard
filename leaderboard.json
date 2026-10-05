@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T04:23:54+00:00",
+  "updated": "2026-10-05T05:23:56+00:00",
   "count": 210,
   "has_movement": true,
   "all": [
@@ -288,7 +288,7 @@
     {
       "rank": 48,
       "name": "Сергей",
-      "value": 92,
+      "value": 93,
       "move": -1
     },
     {
@@ -1357,12 +1357,12 @@
     },
     {
       "rank": 19,
-      "name": "Aся",
-      "value": 14
+      "name": "Сергей",
+      "value": 15
     },
     {
       "rank": 20,
-      "name": "Сергей",
+      "name": "Aся",
       "value": 14
     },
     {
@@ -1525,12 +1525,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 4,
@@ -1659,36 +1659,41 @@
     },
     {
       "rank": 29,
-      "name": "Константин",
+      "name": "Сергей",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "А В",
+      "name": "Константин",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "Синдбад Мореход",
+      "name": "А В",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Артемий Жданов",
+      "name": "Синдбад Мореход",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Y. Yastrebov",
+      "name": "Артемий Жданов",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Homelander",
+      "name": "Y. Yastrebov",
       "value": 1
     },
     {
       "rank": 35,
+      "name": "Homelander",
+      "value": 1
+    },
+    {
+      "rank": 36,
       "name": "Petr Vasenkov",
       "value": 1
     }
