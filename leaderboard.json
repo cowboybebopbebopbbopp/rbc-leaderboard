@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T17:24:17+00:00",
+  "updated": "2026-10-05T18:24:19+00:00",
   "count": 210,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4424,
+      "value": 4425,
       "move": 0
     },
     {
@@ -359,27 +359,27 @@
     },
     {
       "rank": 60,
-      "name": "Sergei IVANOV",
+      "name": "Руслан Иванов",
       "value": 49,
-      "move": -1
+      "move": 1
     },
     {
       "rank": 61,
-      "name": "I",
+      "name": "Sergei IVANOV",
       "value": 49,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 62,
-      "name": "SPM",
+      "name": "I",
       "value": 49,
-      "move": 3
+      "move": -2
     },
     {
       "rank": 63,
-      "name": "Руслан Иванов",
-      "value": 46,
-      "move": -2
+      "name": "SPM",
+      "value": 49,
+      "move": 2
     },
     {
       "rank": 64,
@@ -1268,7 +1268,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 238
+      "value": 239
     },
     {
       "rank": 2,
@@ -1312,18 +1312,18 @@
     },
     {
       "rank": 10,
-      "name": "LlirikMK",
+      "name": "Руслан Иванов",
       "value": 25
     },
     {
       "rank": 11,
-      "name": "Серхио Ле'Трас",
-      "value": 23
+      "name": "LlirikMK",
+      "value": 25
     },
     {
       "rank": 12,
-      "name": "Руслан Иванов",
-      "value": 22
+      "name": "Серхио Ле'Трас",
+      "value": 23
     },
     {
       "rank": 13,
@@ -1520,7 +1520,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 51
+      "value": 50
     },
     {
       "rank": 2,
@@ -1554,13 +1554,13 @@
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
-      "value": 8
+      "name": "Руслан Иванов",
+      "value": 10
     },
     {
       "rank": 9,
-      "name": "Руслан Иванов",
-      "value": 7
+      "name": "Vitaliy",
+      "value": 8
     },
     {
       "rank": 10,
