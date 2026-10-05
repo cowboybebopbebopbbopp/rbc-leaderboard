@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T05:23:56+00:00",
+  "updated": "2026-10-05T06:23:57+00:00",
   "count": 210,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4410,
+      "value": 4411,
       "move": 0
     },
     {
@@ -1268,7 +1268,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 227
+      "value": 228
     },
     {
       "rank": 2,
@@ -1520,7 +1520,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 2,
@@ -1569,22 +1569,22 @@
     },
     {
       "rank": 11,
-      "name": "Руслан Иванов",
-      "value": 6
-    },
-    {
-      "rank": 12,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 6
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "DenisNazarov",
+      "value": 5
+    },
+    {
+      "rank": 14,
+      "name": "Руслан Иванов",
       "value": 5
     },
     {
