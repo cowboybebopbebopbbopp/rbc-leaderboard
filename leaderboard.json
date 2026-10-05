@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T14:24:11+00:00",
+  "updated": "2026-10-05T15:24:13+00:00",
   "count": 210,
   "has_movement": true,
   "all": [
@@ -1520,7 +1520,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 51
+      "value": 50
     },
     {
       "rank": 2,
@@ -1559,32 +1559,32 @@
     },
     {
       "rank": 9,
-      "name": "Серхио Ле'Трас",
-      "value": 7
-    },
-    {
-      "rank": 10,
       "name": "Руслан Иванов",
       "value": 6
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 6
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Юрий",
       "value": 5
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "DenisNazarov",
+      "value": 5
+    },
+    {
+      "rank": 14,
+      "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
@@ -1624,32 +1624,32 @@
     },
     {
       "rank": 22,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 2
-    },
-    {
-      "rank": 23,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Александр",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Pavel",
+      "value": 1
+    },
+    {
+      "rank": 27,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
