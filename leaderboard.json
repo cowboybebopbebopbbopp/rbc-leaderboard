@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T19:24:21+00:00",
+  "updated": "2026-10-05T20:24:23+00:00",
   "count": 210,
   "has_movement": true,
   "all": [
@@ -1268,7 +1268,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 239
+      "value": 238
     },
     {
       "rank": 2,
@@ -1492,27 +1492,27 @@
     },
     {
       "rank": 46,
-      "name": "Aleksey",
-      "value": 3
-    },
-    {
-      "rank": 47,
       "name": "Евгений",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Marina",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "Simany",
       "value": 3
     }
   ],
