@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T08:24:01+00:00",
+  "updated": "2026-10-05T09:24:03+00:00",
   "count": 210,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4412,
+      "value": 4416,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1279,
+      "value": 1280,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 909,
+      "value": 910,
       "move": 0
     },
     {
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 320,
+      "value": 321,
       "move": 0
     },
     {
@@ -1268,12 +1268,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 229
+      "value": 233
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 130
+      "value": 131
     },
     {
       "rank": 3,
@@ -1293,12 +1293,12 @@
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 40
+      "value": 39
     },
     {
       "rank": 8,
@@ -1322,17 +1322,17 @@
     },
     {
       "rank": 12,
+      "name": "🤗",
+      "value": 22
+    },
+    {
+      "rank": 13,
       "name": "Manis Love",
       "value": 21
     },
     {
-      "rank": 13,
-      "name": "Руслан Иванов",
-      "value": 21
-    },
-    {
       "rank": 14,
-      "name": "🤗",
+      "name": "Руслан Иванов",
       "value": 21
     },
     {
@@ -1520,12 +1520,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 48
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 3,
@@ -1535,12 +1535,12 @@
     {
       "rank": 4,
       "name": "🤗",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 6,
@@ -1589,12 +1589,12 @@
     },
     {
       "rank": 15,
-      "name": "LlirikMK",
-      "value": 5
+      "name": "terminal lucidity",
+      "value": 4
     },
     {
       "rank": 16,
-      "name": "terminal lucidity",
+      "name": "LlirikMK",
       "value": 4
     },
     {
