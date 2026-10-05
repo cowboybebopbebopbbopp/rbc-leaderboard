@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T12:24:08+00:00",
+  "updated": "2026-10-05T13:24:10+00:00",
   "count": 210,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1281,
+      "value": 1282,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 910,
+      "value": 912,
       "move": 0
     },
     {
@@ -1273,7 +1273,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 132
+      "value": 133
     },
     {
       "rank": 3,
@@ -1282,17 +1282,17 @@
     },
     {
       "rank": 4,
+      "name": "Zero-sum Gamer",
+      "value": 45
+    },
+    {
+      "rank": 5,
       "name": "Viktor",
       "value": 43
     },
     {
-      "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 43
-    },
-    {
       "rank": 6,
-      "name": "Zero-sum Gamer",
+      "name": "🅾🅻🅶🅰",
       "value": 43
     },
     {
@@ -1525,7 +1525,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 33
+      "value": 34
     },
     {
       "rank": 3,
@@ -1540,7 +1540,7 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 15
+      "value": 17
     },
     {
       "rank": 6,
@@ -1594,13 +1594,13 @@
     },
     {
       "rank": 16,
-      "name": "LlirikMK",
+      "name": "lefkorosos",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "lefkorosos",
-      "value": 4
+      "name": "LlirikMK",
+      "value": 3
     },
     {
       "rank": 18,
