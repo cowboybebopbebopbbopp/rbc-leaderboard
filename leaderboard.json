@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T07:23:59+00:00",
+  "updated": "2026-10-05T08:24:01+00:00",
   "count": 210,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4411,
+      "value": 4412,
       "move": 0
     },
     {
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 319,
+      "value": 320,
       "move": 0
     },
     {
@@ -371,15 +371,15 @@
     },
     {
       "rank": 62,
-      "name": "Руслан Иванов",
-      "value": 45,
-      "move": -1
+      "name": "SPM",
+      "value": 46,
+      "move": 3
     },
     {
       "rank": 63,
-      "name": "SPM",
+      "name": "Руслан Иванов",
       "value": 45,
-      "move": 2
+      "move": -2
     },
     {
       "rank": 64,
@@ -1268,7 +1268,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 228
+      "value": 229
     },
     {
       "rank": 2,
@@ -1303,7 +1303,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 9,
@@ -1332,12 +1332,12 @@
     },
     {
       "rank": 14,
-      "name": "Князь Владимир С",
-      "value": 20
+      "name": "🤗",
+      "value": 21
     },
     {
       "rank": 15,
-      "name": "🤗",
+      "name": "Князь Владимир С",
       "value": 20
     },
     {
@@ -1482,22 +1482,22 @@
     },
     {
       "rank": 44,
-      "name": "Aleksey",
-      "value": 4
-    },
-    {
-      "rank": 45,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Slawik",
+      "value": 3
+    },
+    {
+      "rank": 47,
+      "name": "Aleksey",
       "value": 3
     },
     {
@@ -1520,7 +1520,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 44
     },
     {
       "rank": 2,
@@ -1535,7 +1535,7 @@
     {
       "rank": 4,
       "name": "🤗",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 5,
@@ -1550,7 +1550,7 @@
     {
       "rank": 7,
       "name": "SPM",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 8,
@@ -1659,41 +1659,36 @@
     },
     {
       "rank": 29,
-      "name": "Анастасия",
-      "value": 1
-    },
-    {
-      "rank": 30,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "А В",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Артемий Жданов",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Y. Yastrebov",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Petr Vasenkov",
       "value": 1
     }
