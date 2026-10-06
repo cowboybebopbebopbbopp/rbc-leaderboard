@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:46:32+00:00",
+  "updated": "2026-10-06T18:46:41+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -1289,7 +1289,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 5,
@@ -1303,12 +1303,12 @@
     },
     {
       "rank": 7,
-      "name": "Vitaliy",
-      "value": 39
+      "name": "Viktor",
+      "value": 38
     },
     {
       "rank": 8,
-      "name": "Viktor",
+      "name": "Vitaliy",
       "value": 38
     },
     {
@@ -1540,17 +1540,17 @@
     },
     {
       "rank": 4,
-      "name": "🤗",
-      "value": 15
-    },
-    {
-      "rank": 5,
       "name": "Zero-sum Gamer",
       "value": 15
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "SPM",
+      "value": 14
+    },
+    {
+      "rank": 6,
+      "name": "🤗",
       "value": 14
     },
     {
@@ -1580,47 +1580,47 @@
     },
     {
       "rank": 12,
-      "name": "Юрий",
-      "value": 4
-    },
-    {
-      "rank": 13,
       "name": "DenisNazarov",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "terminal lucidity",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Александр",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "lefkorosos",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Aся",
       "value": 3
     },
     {
-      "rank": 18,
-      "name": "Князь Владимир С",
-      "value": 3
-    },
-    {
-      "rank": 19,
+      "rank": 17,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "name": "Юрий",
+      "value": 2
+    },
+    {
+      "rank": 19,
       "name": "A.",
+      "value": 2
+    },
+    {
+      "rank": 20,
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
