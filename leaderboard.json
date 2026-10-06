@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T13:26:47+00:00",
+  "updated": "2026-10-06T14:26:48+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 321,
+      "value": 322,
       "move": 0
     },
     {
@@ -365,21 +365,21 @@
     },
     {
       "rank": 61,
-      "name": "Sergei IVANOV",
-      "value": 49,
-      "move": -1
+      "name": "SPM",
+      "value": 50,
+      "move": 3
     },
     {
       "rank": 62,
-      "name": "I",
+      "name": "Sergei IVANOV",
       "value": 49,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 63,
-      "name": "SPM",
+      "name": "I",
       "value": 49,
-      "move": 1
+      "move": -2
     },
     {
       "rank": 64,
@@ -1298,7 +1298,7 @@
     },
     {
       "rank": 6,
-      "name": "Viktor",
+      "name": "SPM",
       "value": 39
     },
     {
@@ -1308,7 +1308,7 @@
     },
     {
       "rank": 8,
-      "name": "SPM",
+      "name": "Viktor",
       "value": 38
     },
     {
@@ -1334,7 +1334,7 @@
     {
       "rank": 13,
       "name": "🤗",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 14,
@@ -1531,17 +1531,17 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 36
+      "value": 33
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 4,
       "name": "🤗",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 5,
