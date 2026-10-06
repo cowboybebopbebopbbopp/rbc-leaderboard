@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T09:25:38+00:00",
+  "updated": "2026-10-06T10:25:39+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1284,
+      "value": 1286,
       "move": 0
     },
     {
@@ -234,7 +234,7 @@
     {
       "rank": 39,
       "name": "Vitaliy",
-      "value": 119,
+      "value": 120,
       "move": 0
     },
     {
@@ -1279,7 +1279,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 135
+      "value": 137
     },
     {
       "rank": 3,
@@ -1293,22 +1293,22 @@
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 43
-    },
-    {
-      "rank": 6,
       "name": "Zero-sum Gamer",
       "value": 43
     },
     {
+      "rank": 6,
+      "name": "🅾🅻🅶🅰",
+      "value": 42
+    },
+    {
       "rank": 7,
-      "name": "SPM",
-      "value": 38
+      "name": "Vitaliy",
+      "value": 39
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
+      "name": "SPM",
       "value": 38
     },
     {
@@ -1363,12 +1363,12 @@
     },
     {
       "rank": 19,
-      "name": "Сергей",
-      "value": 15
+      "name": "Aся",
+      "value": 14
     },
     {
       "rank": 20,
-      "name": "Aся",
+      "name": "Сергей",
       "value": 14
     },
     {
@@ -1418,17 +1418,17 @@
     },
     {
       "rank": 30,
-      "name": ".",
-      "value": 10
-    },
-    {
-      "rank": 31,
       "name": "DenisNazarov",
       "value": 9
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Ponemonec",
+      "value": 9
+    },
+    {
+      "rank": 32,
+      "name": ".",
       "value": 9
     },
     {
@@ -1526,12 +1526,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 50
+      "value": 48
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 33
+      "value": 35
     },
     {
       "rank": 3,
@@ -1546,7 +1546,7 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 6,
@@ -1561,21 +1561,21 @@
     {
       "rank": 8,
       "name": "Руслан Иванов",
-      "value": 11
+      "value": 10
     },
     {
       "rank": 9,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Vitaliy",
       "value": 6
     },
     {
       "rank": 10,
-      "name": "Manis Love",
-      "value": 5
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 6
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
+      "name": "Manis Love",
       "value": 5
     },
     {
