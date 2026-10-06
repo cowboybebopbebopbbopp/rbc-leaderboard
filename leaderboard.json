@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T15:26:50+00:00",
+  "updated": "2026-10-06T16:46:20+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4430,
+      "value": 4431,
       "move": 0
     },
     {
@@ -1274,7 +1274,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 241
+      "value": 242
     },
     {
       "rank": 2,
@@ -1526,7 +1526,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 50
     },
     {
       "rank": 2,
@@ -1610,47 +1610,47 @@
     },
     {
       "rank": 18,
-      "name": "Серхио Ле'Трас",
-      "value": 3
-    },
-    {
-      "rank": 19,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "İl",
+      "value": 1
+    },
+    {
+      "rank": 26,
+      "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
