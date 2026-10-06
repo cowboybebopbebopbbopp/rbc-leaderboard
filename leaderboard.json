@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T21:47:16+00:00",
+  "updated": "2026-10-06T22:47:18+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -1344,7 +1344,7 @@
     {
       "rank": 15,
       "name": "Manis Love",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 16,
@@ -1473,53 +1473,53 @@
     },
     {
       "rank": 41,
-      "name": "-",
-      "value": 5
-    },
-    {
-      "rank": 42,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Roman Polyakov",
       "value": 3
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Евгений",
       "value": 3
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Marina",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Simany",
       "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "Sergey",
+      "value": 2
     }
   ],
   "week": [
