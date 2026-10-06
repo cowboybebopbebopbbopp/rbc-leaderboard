@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T04:24:38+00:00",
+  "updated": "2026-10-06T05:24:42+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -1393,28 +1393,28 @@
     },
     {
       "rank": 25,
-      "name": "Анастасия",
-      "value": 11
-    },
-    {
-      "rank": 26,
       "name": "L G",
       "value": 11
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Александр",
       "value": 11
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "@wavesscalper",
       "value": 11
+    },
+    {
+      "rank": 29,
+      "name": "Анастасия",
+      "value": 10
     },
     {
       "rank": 30,
