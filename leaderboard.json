@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T00:54:18+00:00",
+  "updated": "2026-10-06T01:24:33+00:00",
   "count": 210,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1283,
+      "value": 1284,
       "move": 0
     },
     {
@@ -204,7 +204,7 @@
     {
       "rank": 34,
       "name": "Александр",
-      "value": 142,
+      "value": 143,
       "move": 0
     },
     {
@@ -1273,7 +1273,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 134
+      "value": 135
     },
     {
       "rank": 3,
@@ -1407,17 +1407,17 @@
     },
     {
       "rank": 29,
-      "name": ".",
+      "name": "Александр",
       "value": 10
     },
     {
       "rank": 30,
-      "name": "DenisNazarov",
-      "value": 9
+      "name": ".",
+      "value": 10
     },
     {
       "rank": 31,
-      "name": "Александр",
+      "name": "DenisNazarov",
       "value": 9
     },
     {
@@ -1525,7 +1525,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 3,
@@ -1604,32 +1604,32 @@
     },
     {
       "rank": 18,
-      "name": "ilya Kalashnikov",
+      "name": "Александр",
       "value": 3
     },
     {
       "rank": 19,
-      "name": "Ponemonec",
+      "name": "ilya Kalashnikov",
       "value": 3
     },
     {
       "rank": 20,
+      "name": "Ponemonec",
+      "value": 3
+    },
+    {
+      "rank": 21,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 22,
-      "name": "Князь Владимир С",
-      "value": 2
-    },
-    {
       "rank": 23,
-      "name": "Александр",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
