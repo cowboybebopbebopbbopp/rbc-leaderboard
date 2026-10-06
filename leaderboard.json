@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T14:26:48+00:00",
+  "updated": "2026-10-06T15:26:50+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -12,25 +12,25 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4428,
+      "value": 4430,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1848,
+      "value": 1849,
       "move": 0
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1819,
+      "value": 1821,
       "move": 0
     },
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1793,
+      "value": 1794,
       "move": 0
     },
     {
@@ -1274,17 +1274,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 239
+      "value": 241
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 137
+      "value": 136
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 78
+      "value": 80
     },
     {
       "rank": 4,
@@ -1294,7 +1294,7 @@
     {
       "rank": 5,
       "name": "🅾🅻🅶🅰",
-      "value": 40
+      "value": 41
     },
     {
       "rank": 6,
@@ -1348,23 +1348,23 @@
     },
     {
       "rank": 16,
-      "name": "A.",
-      "value": 19
-    },
-    {
-      "rank": 17,
       "name": "Синдбад Мореход",
       "value": 19
     },
     {
+      "rank": 17,
+      "name": "A.",
+      "value": 18
+    },
+    {
       "rank": 18,
-      "name": "terminal lucidity",
+      "name": "Aся",
       "value": 15
     },
     {
       "rank": 19,
-      "name": "Aся",
-      "value": 14
+      "name": "terminal lucidity",
+      "value": 15
     },
     {
       "rank": 20,
@@ -1526,7 +1526,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 47
+      "value": 49
     },
     {
       "rank": 2,
@@ -1536,7 +1536,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 20
+      "value": 22
     },
     {
       "rank": 4,
@@ -1556,7 +1556,7 @@
     {
       "rank": 7,
       "name": "🅾🅻🅶🅰",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 8,
@@ -1605,27 +1605,27 @@
     },
     {
       "rank": 17,
-      "name": "Серхио Ле'Трас",
+      "name": "Aся",
       "value": 3
     },
     {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
       "rank": 19,
-      "name": "Ponemonec",
+      "name": "Князь Владимир С",
       "value": 3
     },
     {
       "rank": 20,
-      "name": "A.",
-      "value": 2
+      "name": "Ponemonec",
+      "value": 3
     },
     {
       "rank": 21,
-      "name": "Aся",
+      "name": "A.",
       "value": 2
     },
     {
