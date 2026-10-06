@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T01:24:33+00:00",
-  "count": 210,
+  "updated": "2026-10-06T02:24:35+00:00",
+  "count": 211,
   "has_movement": true,
   "all": [
     {
@@ -204,7 +204,7 @@
     {
       "rank": 34,
       "name": "Александр",
-      "value": 143,
+      "value": 144,
       "move": 0
     },
     {
@@ -1259,16 +1259,22 @@
     },
     {
       "rank": 210,
+      "name": "MELLSTROY Казино",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 211,
       "name": "vitaliy",
       "value": 0,
-      "move": 0
+      "move": -1
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 238
+      "value": 237
     },
     {
       "rank": 2,
@@ -1402,13 +1408,13 @@
     },
     {
       "rank": 28,
-      "name": "@wavesscalper",
+      "name": "Александр",
       "value": 11
     },
     {
       "rank": 29,
-      "name": "Александр",
-      "value": 10
+      "name": "@wavesscalper",
+      "value": 11
     },
     {
       "rank": 30,
@@ -1594,17 +1600,17 @@
     },
     {
       "rank": 16,
-      "name": "lefkorosos",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "LlirikMK",
-      "value": 3
+      "name": "lefkorosos",
+      "value": 4
     },
     {
       "rank": 18,
-      "name": "Александр",
+      "name": "LlirikMK",
       "value": 3
     },
     {
