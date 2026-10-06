@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T03:24:37+00:00",
+  "updated": "2026-10-06T04:24:38+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -1531,7 +1531,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 35
+      "value": 33
     },
     {
       "rank": 3,
@@ -1610,86 +1610,81 @@
     },
     {
       "rank": 18,
-      "name": "ilya Kalashnikov",
-      "value": 3
-    },
-    {
-      "rank": 19,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "А В",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Артемий Жданов",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Y. Yastrebov",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Petr Vasenkov",
       "value": 1
     }
