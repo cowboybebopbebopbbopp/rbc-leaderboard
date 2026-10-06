@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T08:25:34+00:00",
+  "updated": "2026-10-06T09:25:38+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1818,
+      "value": 1819,
       "move": 0
     },
     {
@@ -1274,7 +1274,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 240
+      "value": 239
     },
     {
       "rank": 2,
@@ -1284,7 +1284,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 77
+      "value": 78
     },
     {
       "rank": 4,
@@ -1536,7 +1536,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 4,
@@ -1546,7 +1546,7 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 6,
@@ -1635,61 +1635,56 @@
     },
     {
       "rank": 23,
-      "name": "Roman Polyakov",
-      "value": 1
-    },
-    {
-      "rank": 24,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "А В",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Артемий Жданов",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Y. Yastrebov",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Petr Vasenkov",
       "value": 1
     }
