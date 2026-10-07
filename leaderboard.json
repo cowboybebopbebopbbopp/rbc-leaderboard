@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-07T19:47:38+00:00",
+  "updated": "2026-10-07T20:47:53+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5776,
+      "value": 5777,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4435,
+      "value": 4438,
       "move": 0
     },
     {
@@ -156,7 +156,7 @@
     {
       "rank": 26,
       "name": "DenisNazarov",
-      "value": 213,
+      "value": 214,
       "move": 0
     },
     {
@@ -1280,7 +1280,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 238
+      "value": 240
     },
     {
       "rank": 2,
@@ -1290,7 +1290,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 85
+      "value": 84
     },
     {
       "rank": 4,
@@ -1399,28 +1399,28 @@
     },
     {
       "rank": 25,
-      "name": "L G",
-      "value": 11
-    },
-    {
-      "rank": 26,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Александр",
       "value": 11
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "@wavesscalper",
       "value": 11
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Анастасия",
       "value": 10
+    },
+    {
+      "rank": 29,
+      "name": "DenisNazarov",
+      "value": 9
     },
     {
       "rank": 30,
@@ -1434,33 +1434,33 @@
     },
     {
       "rank": 32,
-      "name": "DenisNazarov",
-      "value": 8
-    },
-    {
-      "rank": 33,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "X888",
       "value": 8
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "ᴦоᴧод",
       "value": 8
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Pavel",
       "value": 7
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Kirill",
       "value": 7
+    },
+    {
+      "rank": 37,
+      "name": "L G",
+      "value": 6
     },
     {
       "rank": 38,
@@ -1532,7 +1532,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 49
     },
     {
       "rank": 2,
@@ -1591,18 +1591,18 @@
     },
     {
       "rank": 13,
-      "name": "Александр",
+      "name": "DenisNazarov",
       "value": 4
     },
     {
       "rank": 14,
-      "name": "lefkorosos",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 15,
-      "name": "DenisNazarov",
-      "value": 3
+      "name": "lefkorosos",
+      "value": 4
     },
     {
       "rank": 16,
@@ -1676,26 +1676,31 @@
     },
     {
       "rank": 30,
-      "name": "А В",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "@wavesscalper",
+      "name": "А В",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Артемий Жданов",
+      "name": "@wavesscalper",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Homelander",
+      "name": "Артемий Жданов",
       "value": 1
     },
     {
       "rank": 34,
+      "name": "Homelander",
+      "value": 1
+    },
+    {
+      "rank": 35,
       "name": "Petr Vasenkov",
       "value": 1
     }
