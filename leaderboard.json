@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T05:47:30+00:00",
+  "updated": "2026-10-07T06:47:31+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4431,
+      "value": 4434,
       "move": 0
     },
     {
@@ -797,129 +797,129 @@
     },
     {
       "rank": 133,
-      "name": "İl",
+      "name": "Pavel",
       "value": 3,
-      "move": 70
+      "move": 19
     },
     {
       "rank": 134,
-      "name": "Roman",
+      "name": "İl",
       "value": 3,
-      "move": -1
+      "move": 69
     },
     {
       "rank": 135,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 2,
-      "move": -1
+      "name": "Roman",
+      "value": 3,
+      "move": -2
     },
     {
       "rank": 136,
-      "name": "Juli Julia",
+      "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 137,
-      "name": "ШКИПЕР #MCS",
+      "name": "Juli Julia",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 138,
-      "name": "Валерия Sweetandflow",
+      "name": "ШКИПЕР #MCS",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 139,
-      "name": "❤️",
+      "name": "Валерия Sweetandflow",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 140,
-      "name": "Lubo",
+      "name": "❤️",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 141,
-      "name": "dg",
+      "name": "Lubo",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 142,
-      "name": "Юрий",
+      "name": "dg",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 143,
-      "name": "Arewoe",
+      "name": "Юрий",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 144,
-      "name": "Мон Ами",
+      "name": "Arewoe",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 145,
-      "name": "Ольга",
+      "name": "Мон Ами",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 146,
-      "name": "Jeffrey",
+      "name": "Ольга",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 147,
-      "name": "А В",
+      "name": "Jeffrey",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 148,
-      "name": "AK",
+      "name": "А В",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 149,
-      "name": "Nikita",
+      "name": "AK",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 150,
-      "name": "Дмитрий",
+      "name": "Nikita",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 151,
-      "name": "Alissa Her",
+      "name": "Дмитрий",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 152,
-      "name": "Y. Yastrebov",
+      "name": "Alissa Her",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 153,
-      "name": "Pavel",
+      "name": "Y. Yastrebov",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 154,
@@ -1274,7 +1274,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 241
+      "value": 244
     },
     {
       "rank": 2,
@@ -1289,7 +1289,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 5,
@@ -1526,7 +1526,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 51
     },
     {
       "rank": 2,
@@ -1541,7 +1541,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 18
+      "value": 16
     },
     {
       "rank": 5,
@@ -1605,17 +1605,17 @@
     },
     {
       "rank": 17,
-      "name": "Ponemonec",
-      "value": 3
-    },
-    {
-      "rank": 18,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "A.",
+      "value": 2
+    },
+    {
+      "rank": 19,
+      "name": "Pavel",
       "value": 2
     },
     {
@@ -1640,17 +1640,17 @@
     },
     {
       "rank": 24,
+      "name": "Ponemonec",
+      "value": 2
+    },
+    {
+      "rank": 25,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 25,
-      "name": "Юрий",
-      "value": 1
-    },
-    {
       "rank": 26,
-      "name": "Pavel",
+      "name": "Юрий",
       "value": 1
     },
     {
