@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T18:47:38+00:00",
+  "updated": "2026-10-07T19:47:38+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1826,
+      "value": 1829,
       "move": 0
     },
     {
@@ -653,63 +653,63 @@
     },
     {
       "rank": 109,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": -1
+      "name": "Pavel",
+      "value": 8,
+      "move": 43
     },
     {
       "rank": 110,
-      "name": "Daniil",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 111,
-      "name": "Homelander",
+      "name": "Daniil",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 112,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": -1
+      "name": "Homelander",
+      "value": 7,
+      "move": -2
     },
     {
       "rank": 113,
-      "name": "AnTon",
+      "name": "Александр Николаев",
       "value": 6,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 114,
-      "name": "Капибара",
-      "value": 5,
-      "move": -1
+      "name": "AnTon",
+      "value": 6,
+      "move": -2
     },
     {
       "rank": 115,
-      "name": "Don Michele Corleone",
-      "value": 5,
-      "move": -1
-    },
-    {
-      "rank": 116,
-      "name": "Виталий",
-      "value": 5,
-      "move": 2
-    },
-    {
-      "rank": 117,
-      "name": "Станислав Баев",
+      "name": "Капибара",
       "value": 5,
       "move": -2
     },
     {
-      "rank": 118,
-      "name": "Pavel",
+      "rank": 116,
+      "name": "Don Michele Corleone",
       "value": 5,
-      "move": 34
+      "move": -2
+    },
+    {
+      "rank": 117,
+      "name": "Виталий",
+      "value": 5,
+      "move": 1
+    },
+    {
+      "rank": 118,
+      "name": "Станислав Баев",
+      "value": 5,
+      "move": -3
     },
     {
       "rank": 119,
@@ -1280,17 +1280,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 239
+      "value": 238
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 133
+      "value": 131
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 82
+      "value": 85
     },
     {
       "rank": 4,
@@ -1454,42 +1454,42 @@
     },
     {
       "rank": 36,
-      "name": "Kirill",
+      "name": "Pavel",
       "value": 7
     },
     {
       "rank": 37,
+      "name": "Kirill",
+      "value": 7
+    },
+    {
+      "rank": 38,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Max",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Safe",
       "value": 6
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 42,
-      "name": "Roman Polyakov",
-      "value": 4
-    },
-    {
       "rank": 43,
-      "name": "Pavel",
+      "name": "Roman Polyakov",
       "value": 4
     },
     {
@@ -1532,7 +1532,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 47
+      "value": 46
     },
     {
       "rank": 2,
@@ -1542,7 +1542,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 25
+      "value": 28
     },
     {
       "rank": 4,
@@ -1576,18 +1576,18 @@
     },
     {
       "rank": 10,
+      "name": "Pavel",
+      "value": 7
+    },
+    {
+      "rank": 11,
       "name": "terminal lucidity",
       "value": 6
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 6
-    },
-    {
-      "rank": 12,
-      "name": "Pavel",
-      "value": 4
     },
     {
       "rank": 13,
@@ -1691,16 +1691,11 @@
     },
     {
       "rank": 33,
-      "name": "Y. Yastrebov",
-      "value": 1
-    },
-    {
-      "rank": 34,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Petr Vasenkov",
       "value": 1
     }
