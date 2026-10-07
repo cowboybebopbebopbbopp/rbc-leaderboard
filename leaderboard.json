@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T08:47:34+00:00",
+  "updated": "2026-10-07T09:47:37+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -234,7 +234,7 @@
     {
       "rank": 39,
       "name": "Vitaliy",
-      "value": 123,
+      "value": 124,
       "move": 0
     },
     {
@@ -1299,7 +1299,7 @@
     {
       "rank": 6,
       "name": "Vitaliy",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 7,
@@ -1358,18 +1358,18 @@
     },
     {
       "rank": 18,
-      "name": "Aся",
-      "value": 15
-    },
-    {
-      "rank": 19,
       "name": "terminal lucidity",
       "value": 15
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Сергей",
       "value": 14
+    },
+    {
+      "rank": 20,
+      "name": "Aся",
+      "value": 13
     },
     {
       "rank": 21,
@@ -1566,7 +1566,7 @@
     {
       "rank": 9,
       "name": "Vitaliy",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 10,

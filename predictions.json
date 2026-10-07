@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T08:47:34+00:00",
+  "updated": "2026-10-07T09:47:37+00:00",
   "contests": [
     {
       "question": "Какой будет цена BTC в среду 7 октября, 12:00 МСК. Курс фиксируется по паре BTC/USDT на Binance. Ответы принимаются до 23:59 МСК субботы",
@@ -25,11 +25,67 @@
       "posted": "2026-10-01T13:10:26+00:00",
       "deadline": "2026-10-03T20:59:59+00:00",
       "target_time": "2026-10-07T09:00:00+00:00",
-      "status": "voted",
-      "winner_option": null,
-      "winner_price": null,
-      "winners": [],
-      "winner_pids": [],
+      "status": "resolved",
+      "winner_option": 3,
+      "winner_price": 83952.41,
+      "winners": [
+        "Татьяна Шелихова",
+        "Василий Т.",
+        "Vita Kravtsova",
+        "Demius",
+        "Людмила",
+        "стас",
+        "Александр",
+        "Н@t@Y",
+        "Alex Popov",
+        "Aleksey",
+        "Сергей",
+        "Валерий",
+        "V_Tolkunov",
+        "Elias Thorne",
+        "Sergey",
+        "Денис Малахов",
+        "Николай",
+        "Илья Гарасюта",
+        "North",
+        "­",
+        "Igor",
+        "Алексей",
+        "Archie",
+        "A A",
+        "Артур М",
+        "Ник",
+        "A"
+      ],
+      "winner_pids": [
+        470,
+        471,
+        445,
+        215,
+        452,
+        238,
+        202,
+        41,
+        48,
+        328,
+        31,
+        4,
+        366,
+        459,
+        94,
+        8,
+        98,
+        453,
+        479,
+        480,
+        124,
+        141,
+        61,
+        198,
+        20,
+        50,
+        219
+      ],
       "votes_by_pid": {
         "478": 4,
         "14": 4,
@@ -2212,6 +2268,16 @@
       "best_streak": 2
     },
     {
+      "pid": 366,
+      "name": "V_Tolkunov",
+      "wins": 2,
+      "games": 2,
+      "win_pct": 100,
+      "score": 0.75,
+      "streak": 2,
+      "best_streak": 2
+    },
+    {
       "pid": 389,
       "name": "vitaliy",
       "wins": 2,
@@ -2232,13 +2298,23 @@
       "best_streak": 2
     },
     {
+      "pid": 452,
+      "name": "Людмила",
+      "wins": 2,
+      "games": 2,
+      "win_pct": 100,
+      "score": 0.75,
+      "streak": 2,
+      "best_streak": 2
+    },
+    {
       "pid": 124,
       "name": "Igor",
-      "wins": 5,
-      "games": 7,
-      "win_pct": 71,
-      "score": 0.6667,
-      "streak": 0,
+      "wins": 6,
+      "games": 8,
+      "win_pct": 75,
+      "score": 0.7,
+      "streak": 1,
       "best_streak": 5
     },
     {
@@ -2792,16 +2868,6 @@
       "best_streak": 1
     },
     {
-      "pid": 366,
-      "name": "V_Tolkunov",
-      "wins": 1,
-      "games": 1,
-      "win_pct": 100,
-      "score": 0.6667,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
       "pid": 370,
       "name": "Али",
       "wins": 1,
@@ -2952,16 +3018,6 @@
       "best_streak": 1
     },
     {
-      "pid": 452,
-      "name": "Людмила",
-      "wins": 1,
-      "games": 1,
-      "win_pct": 100,
-      "score": 0.6667,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
       "pid": 462,
       "name": "Noah Brown",
       "wins": 1,
@@ -2984,6 +3040,46 @@
     {
       "pid": 467,
       "name": "Fikrat Rahimov",
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "score": 0.6667,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 470,
+      "name": "Татьяна Шелихова",
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "score": 0.6667,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 471,
+      "name": "Василий Т.",
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "score": 0.6667,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 479,
+      "name": "North",
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "score": 0.6667,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 480,
+      "name": "­",
       "wins": 1,
       "games": 1,
       "win_pct": 100,
@@ -3062,6 +3158,16 @@
       "best_streak": 1
     },
     {
+      "pid": 8,
+      "name": "Денис Малахов",
+      "wins": 6,
+      "games": 10,
+      "win_pct": 60,
+      "score": 0.5833,
+      "streak": 1,
+      "best_streak": 3
+    },
+    {
       "pid": 49,
       "name": "🤗",
       "wins": 6,
@@ -3082,34 +3188,24 @@
       "best_streak": 3
     },
     {
-      "pid": 8,
-      "name": "Денис Малахов",
-      "wins": 5,
-      "games": 9,
-      "win_pct": 56,
-      "score": 0.5455,
-      "streak": 0,
-      "best_streak": 3
+      "pid": 48,
+      "name": "Alex Popov",
+      "wins": 7,
+      "games": 13,
+      "win_pct": 54,
+      "score": 0.5333,
+      "streak": 2,
+      "best_streak": 2
     },
     {
       "pid": 52,
       "name": "Олег",
       "wins": 5,
-      "games": 9,
-      "win_pct": 56,
-      "score": 0.5455,
-      "streak": 0,
-      "best_streak": 4
-    },
-    {
-      "pid": 48,
-      "name": "Alex Popov",
-      "wins": 6,
-      "games": 12,
+      "games": 10,
       "win_pct": 50,
       "score": 0.5,
-      "streak": 1,
-      "best_streak": 2
+      "streak": 0,
+      "best_streak": 4
     },
     {
       "pid": 165,
@@ -3132,8 +3228,8 @@
       "best_streak": 2
     },
     {
-      "pid": 304,
-      "name": "İl",
+      "pid": 238,
+      "name": "стас",
       "wins": 2,
       "games": 4,
       "win_pct": 50,
@@ -3219,16 +3315,6 @@
       "win_pct": 50,
       "score": 0.5,
       "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 217,
-      "name": "Павел",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.5,
-      "streak": 1,
       "best_streak": 1
     },
     {
@@ -3362,14 +3448,34 @@
       "best_streak": 1
     },
     {
-      "pid": 19,
-      "name": "Juliya",
-      "wins": 5,
-      "games": 11,
-      "win_pct": 45,
-      "score": 0.4615,
-      "streak": 0,
-      "best_streak": 3
+      "pid": 445,
+      "name": "Vita Kravtsova",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.5,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 453,
+      "name": "Илья Гарасюта",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.5,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 459,
+      "name": "Elias Thorne",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.5,
+      "streak": 1,
+      "best_streak": 1
     },
     {
       "pid": 5,
@@ -3382,6 +3488,36 @@
       "best_streak": 1
     },
     {
+      "pid": 202,
+      "name": "Александр",
+      "wins": 3,
+      "games": 7,
+      "win_pct": 43,
+      "score": 0.4444,
+      "streak": 1,
+      "best_streak": 2
+    },
+    {
+      "pid": 31,
+      "name": "Сергей",
+      "wins": 6,
+      "games": 14,
+      "win_pct": 43,
+      "score": 0.4375,
+      "streak": 2,
+      "best_streak": 2
+    },
+    {
+      "pid": 19,
+      "name": "Juliya",
+      "wins": 5,
+      "games": 12,
+      "win_pct": 42,
+      "score": 0.4286,
+      "streak": 0,
+      "best_streak": 3
+    },
+    {
       "pid": 163,
       "name": "den",
       "wins": 2,
@@ -3392,23 +3528,23 @@
       "best_streak": 1
     },
     {
-      "pid": 211,
-      "name": "Sergey",
+      "pid": 219,
+      "name": "A",
+      "wins": 2,
+      "games": 5,
+      "win_pct": 40,
+      "score": 0.4286,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 304,
+      "name": "İl",
       "wins": 2,
       "games": 5,
       "win_pct": 40,
       "score": 0.4286,
       "streak": 0,
-      "best_streak": 2
-    },
-    {
-      "pid": 31,
-      "name": "Сергей",
-      "wins": 5,
-      "games": 13,
-      "win_pct": 38,
-      "score": 0.4,
-      "streak": 1,
       "best_streak": 1
     },
     {
@@ -3420,6 +3556,16 @@
       "score": 0.4,
       "streak": 1,
       "best_streak": 1
+    },
+    {
+      "pid": 141,
+      "name": "Алексей",
+      "wins": 3,
+      "games": 8,
+      "win_pct": 38,
+      "score": 0.4,
+      "streak": 1,
+      "best_streak": 2
     },
     {
       "pid": 173,
@@ -3492,13 +3638,23 @@
       "best_streak": 1
     },
     {
-      "pid": 238,
-      "name": "стас",
+      "pid": 217,
+      "name": "Павел",
       "wins": 1,
       "games": 3,
       "win_pct": 33,
       "score": 0.4,
       "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 328,
+      "name": "Aleksey",
+      "wins": 1,
+      "games": 3,
+      "win_pct": 33,
+      "score": 0.4,
+      "streak": 1,
       "best_streak": 1
     },
     {
@@ -3512,6 +3668,26 @@
       "best_streak": 1
     },
     {
+      "pid": 20,
+      "name": "Артур М",
+      "wins": 2,
+      "games": 6,
+      "win_pct": 33,
+      "score": 0.375,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 41,
+      "name": "Н@t@Y",
+      "wins": 2,
+      "games": 6,
+      "win_pct": 33,
+      "score": 0.375,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
       "pid": 73,
       "name": "Юрий",
       "wins": 2,
@@ -3522,8 +3698,8 @@
       "best_streak": 2
     },
     {
-      "pid": 202,
-      "name": "Александр",
+      "pid": 211,
+      "name": "Sergey",
       "wins": 2,
       "games": 6,
       "win_pct": 33,
@@ -3542,18 +3718,38 @@
       "best_streak": 1
     },
     {
+      "pid": 61,
+      "name": "Archie",
+      "wins": 4,
+      "games": 13,
+      "win_pct": 31,
+      "score": 0.3333,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
       "pid": 80,
       "name": "Оксана",
       "wins": 4,
-      "games": 12,
-      "win_pct": 33,
-      "score": 0.3571,
+      "games": 13,
+      "win_pct": 31,
+      "score": 0.3333,
       "streak": 0,
       "best_streak": 3
     },
     {
       "pid": 39,
       "name": "Василий",
+      "wins": 3,
+      "games": 10,
+      "win_pct": 30,
+      "score": 0.3333,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 98,
+      "name": "Николай",
       "wins": 3,
       "games": 10,
       "win_pct": 30,
@@ -3582,16 +3778,6 @@
       "best_streak": 2
     },
     {
-      "pid": 141,
-      "name": "Алексей",
-      "wins": 2,
-      "games": 7,
-      "win_pct": 29,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 2
-    },
-    {
       "pid": 51,
       "name": "Александра Вв",
       "wins": 1,
@@ -3602,33 +3788,13 @@
       "best_streak": 1
     },
     {
-      "pid": 219,
-      "name": "A",
+      "pid": 215,
+      "name": "Demius",
       "wins": 1,
       "games": 4,
       "win_pct": 25,
       "score": 0.3333,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 289,
-      "name": "Nikita",
-      "wins": 1,
-      "games": 4,
-      "win_pct": 25,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 344,
-      "name": "@Lida mango",
-      "wins": 1,
-      "games": 4,
-      "win_pct": 25,
-      "score": 0.3333,
-      "streak": 0,
+      "streak": 1,
       "best_streak": 1
     },
     {
@@ -4732,16 +4898,6 @@
       "best_streak": 0
     },
     {
-      "pid": 260,
-      "name": "Александр Македонский",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
       "pid": 261,
       "name": "Екатерина Лысова",
       "wins": 0,
@@ -5104,16 +5260,6 @@
     {
       "pid": 336,
       "name": "🤠",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 337,
-      "name": "Александр",
       "wins": 0,
       "games": 1,
       "win_pct": 0,
@@ -5532,16 +5678,6 @@
       "best_streak": 0
     },
     {
-      "pid": 417,
-      "name": "Yuri Sidorov",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
       "pid": 419,
       "name": "||🤫🤫🤫||",
       "wins": 0,
@@ -5762,38 +5898,8 @@
       "best_streak": 0
     },
     {
-      "pid": 442,
-      "name": "Максим Крылов",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
       "pid": 443,
       "name": "Varya.gt",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 444,
-      "name": "ꘜ Maxxx",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 445,
-      "name": "Vita Kravtsova",
       "wins": 0,
       "games": 1,
       "win_pct": 0,
@@ -5812,28 +5918,8 @@
       "best_streak": 0
     },
     {
-      "pid": 447,
-      "name": "Вика",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
       "pid": 448,
       "name": "Galia",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 449,
-      "name": "ПОЛЬЗОВАТЕЛЬ",
       "wins": 0,
       "games": 1,
       "win_pct": 0,
@@ -5854,26 +5940,6 @@
     {
       "pid": 451,
       "name": "Сергей Л",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 453,
-      "name": "Илья Гарасюта",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 454,
-      "name": "Роман Левченко",
       "wins": 0,
       "games": 1,
       "win_pct": 0,
@@ -5914,16 +5980,6 @@
     {
       "pid": 458,
       "name": "Виктор Матыцин",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 459,
-      "name": "Elias Thorne",
       "wins": 0,
       "games": 1,
       "win_pct": 0,
@@ -5982,23 +6038,83 @@
       "best_streak": 0
     },
     {
-      "pid": 66,
-      "name": "Mikhail",
-      "wins": 3,
-      "games": 11,
-      "win_pct": 27,
-      "score": 0.3077,
+      "pid": 472,
+      "name": "Roman",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
       "streak": 0,
-      "best_streak": 2
+      "best_streak": 0
     },
     {
-      "pid": 106,
-      "name": "a l",
+      "pid": 473,
+      "name": "Olesia",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 474,
+      "name": "Captain",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 475,
+      "name": "Дмитрий Павлов",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 476,
+      "name": "Мisha",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 477,
+      "name": "DG",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 478,
+      "name": "A A",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 50,
+      "name": "Ник",
       "wins": 3,
       "games": 11,
       "win_pct": 27,
       "score": 0.3077,
-      "streak": 0,
+      "streak": 1,
       "best_streak": 1
     },
     {
@@ -6012,18 +6128,8 @@
       "best_streak": 1
     },
     {
-      "pid": 182,
-      "name": "Sergey",
-      "wins": 2,
-      "games": 8,
-      "win_pct": 25,
-      "score": 0.3,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 34,
-      "name": "Manis Love",
+      "pid": 66,
+      "name": "Mikhail",
       "wins": 3,
       "games": 12,
       "win_pct": 25,
@@ -6032,8 +6138,18 @@
       "best_streak": 2
     },
     {
-      "pid": 61,
-      "name": "Archie",
+      "pid": 94,
+      "name": "Sergey",
+      "wins": 3,
+      "games": 12,
+      "win_pct": 25,
+      "score": 0.2857,
+      "streak": 2,
+      "best_streak": 2
+    },
+    {
+      "pid": 106,
+      "name": "a l",
       "wins": 3,
       "games": 12,
       "win_pct": 25,
@@ -6042,28 +6158,8 @@
       "best_streak": 1
     },
     {
-      "pid": 20,
-      "name": "Артур М",
-      "wins": 1,
-      "games": 5,
-      "win_pct": 20,
-      "score": 0.2857,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
       "pid": 37,
       "name": "Olga Troitskaya",
-      "wins": 1,
-      "games": 5,
-      "win_pct": 20,
-      "score": 0.2857,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 41,
-      "name": "Н@t@Y",
       "wins": 1,
       "games": 5,
       "win_pct": 20,
@@ -6102,48 +6198,58 @@
       "best_streak": 1
     },
     {
-      "pid": 179,
-      "name": "LlirikMK",
+      "pid": 289,
+      "name": "Nikita",
       "wins": 1,
       "games": 5,
       "win_pct": 20,
       "score": 0.2857,
-      "streak": 1,
+      "streak": 0,
       "best_streak": 1
+    },
+    {
+      "pid": 344,
+      "name": "@Lida mango",
+      "wins": 1,
+      "games": 5,
+      "win_pct": 20,
+      "score": 0.2857,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 182,
+      "name": "Sergey",
+      "wins": 2,
+      "games": 9,
+      "win_pct": 22,
+      "score": 0.2727,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 4,
+      "name": "Валерий",
+      "wins": 3,
+      "games": 13,
+      "win_pct": 23,
+      "score": 0.2667,
+      "streak": 2,
+      "best_streak": 2
+    },
+    {
+      "pid": 34,
+      "name": "Manis Love",
+      "wins": 3,
+      "games": 13,
+      "win_pct": 23,
+      "score": 0.2667,
+      "streak": 0,
+      "best_streak": 2
     },
     {
       "pid": 43,
       "name": "Алексей",
-      "wins": 2,
-      "games": 9,
-      "win_pct": 22,
-      "score": 0.2727,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 98,
-      "name": "Николай",
-      "wins": 2,
-      "games": 9,
-      "win_pct": 22,
-      "score": 0.2727,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 50,
-      "name": "Ник",
-      "wins": 2,
-      "games": 10,
-      "win_pct": 20,
-      "score": 0.25,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 78,
-      "name": "Viktor",
       "wins": 2,
       "games": 10,
       "win_pct": 20,
@@ -6164,6 +6270,16 @@
     {
       "pid": 178,
       "name": "Артем",
+      "wins": 1,
+      "games": 6,
+      "win_pct": 17,
+      "score": 0.25,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 179,
+      "name": "LlirikMK",
       "wins": 1,
       "games": 6,
       "win_pct": 17,
@@ -6332,16 +6448,6 @@
       "best_streak": 0
     },
     {
-      "pid": 206,
-      "name": "Марк Шуманский",
-      "wins": 0,
-      "games": 2,
-      "win_pct": 0,
-      "score": 0.25,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
       "pid": 227,
       "name": "xcvlz",
       "wins": 0,
@@ -6382,6 +6488,16 @@
       "best_streak": 0
     },
     {
+      "pid": 260,
+      "name": "Александр Македонский",
+      "wins": 0,
+      "games": 2,
+      "win_pct": 0,
+      "score": 0.25,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
       "pid": 311,
       "name": "Michael Price",
       "wins": 0,
@@ -6392,18 +6508,8 @@
       "best_streak": 0
     },
     {
-      "pid": 317,
-      "name": "Sergey M.",
-      "wins": 0,
-      "games": 2,
-      "win_pct": 0,
-      "score": 0.25,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 328,
-      "name": "Aleksey",
+      "pid": 337,
+      "name": "Александр",
       "wins": 0,
       "games": 2,
       "win_pct": 0,
@@ -6442,8 +6548,8 @@
       "best_streak": 0
     },
     {
-      "pid": 418,
-      "name": "Gaiardo",
+      "pid": 417,
+      "name": "Yuri Sidorov",
       "wins": 0,
       "games": 2,
       "win_pct": 0,
@@ -6452,32 +6558,62 @@
       "best_streak": 0
     },
     {
-      "pid": 94,
-      "name": "Sergey",
+      "pid": 442,
+      "name": "Максим Крылов",
+      "wins": 0,
+      "games": 2,
+      "win_pct": 0,
+      "score": 0.25,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 444,
+      "name": "ꘜ Maxxx",
+      "wins": 0,
+      "games": 2,
+      "win_pct": 0,
+      "score": 0.25,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 447,
+      "name": "Вика",
+      "wins": 0,
+      "games": 2,
+      "win_pct": 0,
+      "score": 0.25,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 449,
+      "name": "ПОЛЬЗОВАТЕЛЬ",
+      "wins": 0,
+      "games": 2,
+      "win_pct": 0,
+      "score": 0.25,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 454,
+      "name": "Роман Левченко",
+      "wins": 0,
+      "games": 2,
+      "win_pct": 0,
+      "score": 0.25,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 78,
+      "name": "Viktor",
       "wins": 2,
       "games": 11,
       "win_pct": 18,
       "score": 0.2308,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 6,
-      "name": "Pavel Maksin",
-      "wins": 1,
-      "games": 7,
-      "win_pct": 14,
-      "score": 0.2222,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 38,
-      "name": "Серхио Ле'Трас",
-      "wins": 1,
-      "games": 7,
-      "win_pct": 14,
-      "score": 0.2222,
       "streak": 0,
       "best_streak": 1
     },
@@ -6502,16 +6638,6 @@
       "best_streak": 1
     },
     {
-      "pid": 4,
-      "name": "Валерий",
-      "wins": 2,
-      "games": 12,
-      "win_pct": 17,
-      "score": 0.2143,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
       "pid": 1,
       "name": "Jekago |РБК Крипто, мод.",
       "wins": 1,
@@ -6522,14 +6648,34 @@
       "best_streak": 1
     },
     {
-      "pid": 42,
-      "name": "K12",
-      "wins": 0,
-      "games": 3,
-      "win_pct": 0,
+      "pid": 6,
+      "name": "Pavel Maksin",
+      "wins": 1,
+      "games": 8,
+      "win_pct": 12,
       "score": 0.2,
       "streak": 0,
-      "best_streak": 0
+      "best_streak": 1
+    },
+    {
+      "pid": 38,
+      "name": "Серхио Ле'Трас",
+      "wins": 1,
+      "games": 8,
+      "win_pct": 12,
+      "score": 0.2,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 198,
+      "name": "A A",
+      "wins": 1,
+      "games": 8,
+      "win_pct": 12,
+      "score": 0.2,
+      "streak": 1,
+      "best_streak": 1
     },
     {
       "pid": 105,
@@ -6572,8 +6718,18 @@
       "best_streak": 0
     },
     {
-      "pid": 215,
-      "name": "Demius",
+      "pid": 206,
+      "name": "Марк Шуманский",
+      "wins": 0,
+      "games": 3,
+      "win_pct": 0,
+      "score": 0.2,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 317,
+      "name": "Sergey M.",
       "wins": 0,
       "games": 3,
       "win_pct": 0,
@@ -6612,8 +6768,8 @@
       "best_streak": 0
     },
     {
-      "pid": 375,
-      "name": "Ponemonec",
+      "pid": 378,
+      "name": "Сергей",
       "wins": 0,
       "games": 3,
       "win_pct": 0,
@@ -6622,8 +6778,8 @@
       "best_streak": 0
     },
     {
-      "pid": 378,
-      "name": "Сергей",
+      "pid": 418,
+      "name": "Gaiardo",
       "wins": 0,
       "games": 3,
       "win_pct": 0,
@@ -6645,16 +6801,6 @@
       "pid": 99,
       "name": "Александра",
       "wins": 1,
-      "games": 9,
-      "win_pct": 11,
-      "score": 0.1818,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 138,
-      "name": "Алехандро)🍅 Белов🍅",
-      "wins": 1,
       "games": 10,
       "win_pct": 10,
       "score": 0.1667,
@@ -6662,8 +6808,8 @@
       "best_streak": 1
     },
     {
-      "pid": 70,
-      "name": "🅾🅻🅶🅰",
+      "pid": 42,
+      "name": "K12",
       "wins": 0,
       "games": 4,
       "win_pct": 0,
@@ -6692,16 +6838,6 @@
       "best_streak": 0
     },
     {
-      "pid": 237,
-      "name": "lula",
-      "wins": 0,
-      "games": 4,
-      "win_pct": 0,
-      "score": 0.1667,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
       "pid": 252,
       "name": "Dmitry",
       "wins": 0,
@@ -6712,12 +6848,32 @@
       "best_streak": 0
     },
     {
-      "pid": 9,
-      "name": "Ирина",
+      "pid": 375,
+      "name": "Ponemonec",
+      "wins": 0,
+      "games": 4,
+      "win_pct": 0,
+      "score": 0.1667,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 138,
+      "name": "Алехандро)🍅 Белов🍅",
       "wins": 1,
       "games": 11,
       "win_pct": 9,
       "score": 0.1538,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 9,
+      "name": "Ирина",
+      "wins": 1,
+      "games": 12,
+      "win_pct": 8,
+      "score": 0.1429,
       "streak": 0,
       "best_streak": 1
     },
@@ -6742,8 +6898,8 @@
       "best_streak": 0
     },
     {
-      "pid": 128,
-      "name": "Дмитрий Милюткин",
+      "pid": 70,
+      "name": "🅾🅻🅶🅰",
       "wins": 0,
       "games": 5,
       "win_pct": 0,
@@ -6754,6 +6910,16 @@
     {
       "pid": 135,
       "name": "Sergei IVANOV",
+      "wins": 0,
+      "games": 5,
+      "win_pct": 0,
+      "score": 0.1429,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 237,
+      "name": "lula",
       "wins": 0,
       "games": 5,
       "win_pct": 0,
@@ -6782,8 +6948,8 @@
       "best_streak": 0
     },
     {
-      "pid": 132,
-      "name": "Vladimir",
+      "pid": 128,
+      "name": "Дмитрий Милюткин",
       "wins": 0,
       "games": 6,
       "win_pct": 0,
@@ -6792,28 +6958,18 @@
       "best_streak": 0
     },
     {
+      "pid": 132,
+      "name": "Vladimir",
+      "wins": 0,
+      "games": 7,
+      "win_pct": 0,
+      "score": 0.1111,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
       "pid": 14,
       "name": "Rafael Zinurov",
-      "wins": 0,
-      "games": 7,
-      "win_pct": 0,
-      "score": 0.1111,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 198,
-      "name": "A A",
-      "wins": 0,
-      "games": 7,
-      "win_pct": 0,
-      "score": 0.1111,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 13,
-      "name": "AK",
       "wins": 0,
       "games": 8,
       "win_pct": 0,
@@ -6832,12 +6988,12 @@
       "best_streak": 0
     },
     {
-      "pid": 88,
-      "name": "Руслан Иванов",
+      "pid": 13,
+      "name": "AK",
       "wins": 0,
-      "games": 8,
+      "games": 9,
       "win_pct": 0,
-      "score": 0.1,
+      "score": 0.0909,
       "streak": 0,
       "best_streak": 0
     },
@@ -6854,6 +7010,16 @@
     {
       "pid": 21,
       "name": "ᴦоᴧод",
+      "wins": 0,
+      "games": 9,
+      "win_pct": 0,
+      "score": 0.0909,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 88,
+      "name": "Руслан Иванов",
       "wins": 0,
       "games": 9,
       "win_pct": 0,
