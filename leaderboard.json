@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T21:47:59+00:00",
+  "updated": "2026-10-07T22:48:05+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -1344,18 +1344,18 @@
     },
     {
       "rank": 14,
-      "name": "Князь Владимир С",
-      "value": 20
-    },
-    {
-      "rank": 15,
       "name": "Синдбад Мореход",
       "value": 20
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Manis Love",
       "value": 19
+    },
+    {
+      "rank": 16,
+      "name": "Князь Владимир С",
+      "value": 18
     },
     {
       "rank": 17,
@@ -1537,7 +1537,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 3,
@@ -1581,18 +1581,18 @@
     },
     {
       "rank": 11,
-      "name": "terminal lucidity",
-      "value": 6
+      "name": "DenisNazarov",
+      "value": 5
     },
     {
       "rank": 12,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
-      "value": 6
+      "name": "terminal lucidity",
+      "value": 5
     },
     {
       "rank": 13,
-      "name": "DenisNazarov",
-      "value": 5
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 4
     },
     {
       "rank": 14,
