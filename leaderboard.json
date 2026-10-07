@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T20:47:53+00:00",
+  "updated": "2026-10-07T21:47:59+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -149,15 +149,15 @@
     },
     {
       "rank": 25,
-      "name": "Алексей",
+      "name": "DenisNazarov",
       "value": 215,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 26,
-      "name": "DenisNazarov",
-      "value": 214,
-      "move": 0
+      "name": "Алексей",
+      "value": 215,
+      "move": -1
     },
     {
       "rank": 27,
@@ -1345,7 +1345,7 @@
     {
       "rank": 14,
       "name": "Князь Владимир С",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 15,
@@ -1414,13 +1414,13 @@
     },
     {
       "rank": 28,
-      "name": "Анастасия",
+      "name": "DenisNazarov",
       "value": 10
     },
     {
       "rank": 29,
-      "name": "DenisNazarov",
-      "value": 9
+      "name": "Анастасия",
+      "value": 10
     },
     {
       "rank": 30,
@@ -1592,7 +1592,7 @@
     {
       "rank": 13,
       "name": "DenisNazarov",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 14,
