@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T04:47:28+00:00",
+  "updated": "2026-10-07T05:47:30+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -54,13 +54,13 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 915,
+      "value": 916,
       "move": 0
     },
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 835,
+      "value": 836,
       "move": 0
     },
     {
@@ -402,7 +402,7 @@
     {
       "rank": 67,
       "name": "Roman Polyakov",
-      "value": 37,
+      "value": 38,
       "move": 0
     },
     {
@@ -689,27 +689,27 @@
     },
     {
       "rank": 115,
-      "name": "Станислав Баев",
+      "name": "Виталий",
       "value": 5,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 116,
-      "name": "Sila",
-      "value": 4,
-      "move": 0
+      "name": "Станислав Баев",
+      "value": 5,
+      "move": -1
     },
     {
       "rank": 117,
-      "name": "xv",
+      "name": "Sila",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 118,
-      "name": "Виталий",
+      "name": "xv",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 119,
@@ -1343,12 +1343,12 @@
     },
     {
       "rank": 15,
-      "name": "Manis Love",
-      "value": 19
+      "name": "Синдбад Мореход",
+      "value": 20
     },
     {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "Manis Love",
       "value": 19
     },
     {
@@ -1418,18 +1418,18 @@
     },
     {
       "rank": 30,
-      "name": "DenisNazarov",
-      "value": 9
-    },
-    {
-      "rank": 31,
       "name": "Ponemonec",
       "value": 9
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": ".",
       "value": 9
+    },
+    {
+      "rank": 32,
+      "name": "DenisNazarov",
+      "value": 8
     },
     {
       "rank": 33,
@@ -1478,7 +1478,7 @@
     },
     {
       "rank": 42,
-      "name": "Константин",
+      "name": "Roman Polyakov",
       "value": 4
     },
     {
@@ -1488,7 +1488,7 @@
     },
     {
       "rank": 44,
-      "name": "Roman Polyakov",
+      "name": "Константин",
       "value": 3
     },
     {
@@ -1541,7 +1541,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 5,
@@ -1635,61 +1635,71 @@
     },
     {
       "rank": 23,
-      "name": "Юрий",
-      "value": 1
+      "name": "Синдбад Мореход",
+      "value": 2
     },
     {
       "rank": 24,
-      "name": "Pavel",
+      "name": "Roman Polyakov",
       "value": 1
     },
     {
       "rank": 25,
-      "name": "Сергей",
+      "name": "Юрий",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "Серхио Ле'Трас",
+      "name": "Pavel",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "Константин",
+      "name": "Виталий",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "А В",
+      "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "Синдбад Мореход",
+      "name": "Константин",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "Артемий Жданов",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Y. Yastrebov",
+      "name": "А В",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Homelander",
+      "name": "Артемий Жданов",
       "value": 1
     },
     {
       "rank": 34,
+      "name": "Y. Yastrebov",
+      "value": 1
+    },
+    {
+      "rank": 35,
+      "name": "Homelander",
+      "value": 1
+    },
+    {
+      "rank": 36,
       "name": "Petr Vasenkov",
       "value": 1
     }
