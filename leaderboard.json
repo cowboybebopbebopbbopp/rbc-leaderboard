@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T17:47:38+00:00",
+  "updated": "2026-10-07T18:47:38+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1824,
+      "value": 1826,
       "move": 0
     },
     {
@@ -707,39 +707,39 @@
     },
     {
       "rank": 118,
-      "name": "Sila",
-      "value": 4,
-      "move": -2
+      "name": "Pavel",
+      "value": 5,
+      "move": 34
     },
     {
       "rank": 119,
+      "name": "Sila",
+      "value": 4,
+      "move": -3
+    },
+    {
+      "rank": 120,
       "name": "xv",
+      "value": 4,
+      "move": -3
+    },
+    {
+      "rank": 121,
+      "name": "Marina",
       "value": 4,
       "move": -2
     },
     {
-      "rank": 120,
-      "name": "Marina",
-      "value": 4,
-      "move": -1
-    },
-    {
-      "rank": 121,
+      "rank": 122,
       "name": "Slawik",
       "value": 4,
-      "move": -1
-    },
-    {
-      "rank": 122,
-      "name": "Артем",
-      "value": 4,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 123,
-      "name": "Pavel",
+      "name": "Артем",
       "value": 4,
-      "move": 29
+      "move": -2
     },
     {
       "rank": 124,
@@ -1280,7 +1280,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 240
+      "value": 239
     },
     {
       "rank": 2,
@@ -1290,7 +1290,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 80
+      "value": 82
     },
     {
       "rank": 4,
@@ -1315,7 +1315,7 @@
     {
       "rank": 8,
       "name": "Viktor",
-      "value": 34
+      "value": 33
     },
     {
       "rank": 9,
@@ -1489,17 +1489,17 @@
     },
     {
       "rank": 43,
-      "name": "Станислав Баев",
+      "name": "Pavel",
       "value": 4
     },
     {
       "rank": 44,
-      "name": "Константин",
-      "value": 3
+      "name": "Станислав Баев",
+      "value": 4
     },
     {
       "rank": 45,
-      "name": "Pavel",
+      "name": "Константин",
       "value": 3
     },
     {
@@ -1542,7 +1542,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 23
+      "value": 25
     },
     {
       "rank": 4,
@@ -1586,18 +1586,18 @@
     },
     {
       "rank": 12,
-      "name": "Александр",
+      "name": "Pavel",
       "value": 4
     },
     {
       "rank": 13,
-      "name": "lefkorosos",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 14,
-      "name": "Manis Love",
-      "value": 3
+      "name": "lefkorosos",
+      "value": 4
     },
     {
       "rank": 15,
@@ -1606,22 +1606,22 @@
     },
     {
       "rank": 16,
-      "name": "Pavel",
-      "value": 3
-    },
-    {
-      "rank": 17,
       "name": "Aся",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "A.",
+      "value": 2
+    },
+    {
+      "rank": 19,
+      "name": "Manis Love",
       "value": 2
     },
     {
