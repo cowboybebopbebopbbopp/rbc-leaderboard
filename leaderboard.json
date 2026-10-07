@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T06:47:31+00:00",
+  "updated": "2026-10-07T07:47:33+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -234,7 +234,7 @@
     {
       "rank": 39,
       "name": "Vitaliy",
-      "value": 120,
+      "value": 123,
       "move": 0
     },
     {
@@ -731,75 +731,75 @@
     },
     {
       "rank": 122,
-      "name": "Simany",
+      "name": "Pavel",
       "value": 4,
-      "move": 0
+      "move": 30
     },
     {
       "rank": 123,
-      "name": "Ilya",
-      "value": 3,
-      "move": 0
+      "name": "Simany",
+      "value": 4,
+      "move": -1
     },
     {
       "rank": 124,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 125,
-      "name": "Sviat",
+      "name": "Samurai_1",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 126,
-      "name": "1",
+      "name": "Sviat",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 127,
-      "name": "Neztor",
+      "name": "1",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 128,
-      "name": "Максим",
+      "name": "Neztor",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 129,
-      "name": "Денис Сергеевич",
+      "name": "Максим",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 130,
-      "name": "ц",
+      "name": "Денис Сергеевич",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 131,
-      "name": "Stepan",
+      "name": "ц",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 132,
-      "name": "Max⚡️",
+      "name": "Stepan",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 133,
-      "name": "Pavel",
+      "name": "Max⚡️",
       "value": 3,
-      "move": 19
+      "move": -1
     },
     {
       "rank": 134,
@@ -1284,7 +1284,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 79
+      "value": 78
     },
     {
       "rank": 4,
@@ -1293,18 +1293,18 @@
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
+      "name": "Vitaliy",
       "value": 41
     },
     {
       "rank": 6,
-      "name": "SPM",
-      "value": 39
+      "name": "🅾🅻🅶🅰",
+      "value": 41
     },
     {
       "rank": 7,
-      "name": "Vitaliy",
-      "value": 38
+      "name": "SPM",
+      "value": 39
     },
     {
       "rank": 8,
@@ -1493,40 +1493,40 @@
     },
     {
       "rank": 45,
-      "name": "Евгений",
+      "name": "Pavel",
       "value": 3
     },
     {
       "rank": 46,
-      "name": "Dede",
+      "name": "Евгений",
       "value": 3
     },
     {
       "rank": 47,
-      "name": "ilya Kalashnikov",
+      "name": "Dede",
       "value": 3
     },
     {
       "rank": 48,
-      "name": "Marina",
+      "name": "ilya Kalashnikov",
       "value": 3
     },
     {
       "rank": 49,
-      "name": "Simany",
+      "name": "Marina",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "Sergey",
-      "value": 2
+      "name": "Simany",
+      "value": 3
     }
   ],
   "week": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 51
+      "value": 50
     },
     {
       "rank": 2,
@@ -1541,7 +1541,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 5,
@@ -1566,7 +1566,7 @@
     {
       "rank": 9,
       "name": "Vitaliy",
-      "value": 6
+      "value": 9
     },
     {
       "rank": 10,
@@ -1600,22 +1600,22 @@
     },
     {
       "rank": 16,
-      "name": "Aся",
+      "name": "Pavel",
       "value": 3
     },
     {
       "rank": 17,
+      "name": "Aся",
+      "value": 3
+    },
+    {
+      "rank": 18,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 18,
-      "name": "A.",
-      "value": 2
-    },
-    {
       "rank": 19,
-      "name": "Pavel",
+      "name": "A.",
       "value": 2
     },
     {
