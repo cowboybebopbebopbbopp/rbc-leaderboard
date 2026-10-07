@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T13:47:38+00:00",
+  "updated": "2026-10-07T14:47:38+00:00",
   "count": 211,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1821,
+      "value": 1823,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1289,
+      "value": 1290,
       "move": 0
     },
     {
@@ -1274,17 +1274,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 241
+      "value": 240
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 132
+      "value": 133
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 78
+      "value": 79
     },
     {
       "rank": 4,
@@ -1354,7 +1354,7 @@
     {
       "rank": 17,
       "name": "A.",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 18,
@@ -1408,12 +1408,12 @@
     },
     {
       "rank": 28,
-      "name": "@wavesscalper",
-      "value": 11
+      "name": "Анастасия",
+      "value": 10
     },
     {
       "rank": 29,
-      "name": "Анастасия",
+      "name": "@wavesscalper",
       "value": 10
     },
     {
@@ -1531,12 +1531,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 21
+      "value": 23
     },
     {
       "rank": 4,
@@ -1630,47 +1630,47 @@
     },
     {
       "rank": 22,
-      "name": "LlirikMK",
-      "value": 2
-    },
-    {
-      "rank": 23,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "iDiklonius",
+      "value": 1
+    },
+    {
+      "rank": 30,
+      "name": "LlirikMK",
       "value": 1
     },
     {
