@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T07:49:01+00:00",
+  "updated": "2026-10-08T08:49:07+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -359,15 +359,15 @@
     },
     {
       "rank": 60,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 50,
-      "move": 0
+      "name": "SPM",
+      "value": 51,
+      "move": 1
     },
     {
       "rank": 61,
-      "name": "SPM",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 50,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 62,
@@ -1285,7 +1285,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 132
+      "value": 131
     },
     {
       "rank": 3,
@@ -1310,7 +1310,7 @@
     {
       "rank": 7,
       "name": "SPM",
-      "value": 39
+      "value": 40
     },
     {
       "rank": 8,
@@ -1419,27 +1419,27 @@
     },
     {
       "rank": 29,
-      "name": "Анастасия",
-      "value": 9
-    },
-    {
-      "rank": 30,
       "name": "Ponemonec",
       "value": 9
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": ".",
       "value": 9
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Pavel",
       "value": 8
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 8
+    },
+    {
+      "rank": 33,
+      "name": "Анастасия",
       "value": 8
     },
     {
@@ -1552,7 +1552,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 6,
