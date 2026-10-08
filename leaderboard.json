@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T12:49:41+00:00",
+  "updated": "2026-10-08T13:49:47+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1833,
+      "value": 1834,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 921,
+      "value": 922,
       "move": 1
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 659,
+      "value": 660,
       "move": 0
     },
     {
@@ -354,7 +354,7 @@
     {
       "rank": 59,
       "name": "SPM",
-      "value": 53,
+      "value": 54,
       "move": 2
     },
     {
@@ -1285,27 +1285,27 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 130
+      "value": 129
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 88
+      "value": 89
     },
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
+      "name": "SPM",
       "value": 43
     },
     {
       "rank": 6,
-      "name": "SPM",
-      "value": 42
+      "name": "🅾🅻🅶🅰",
+      "value": 43
     },
     {
       "rank": 7,
@@ -1450,7 +1450,7 @@
     {
       "rank": 35,
       "name": "Kirill",
-      "value": 7
+      "value": 6
     },
     {
       "rank": 36,
@@ -1532,12 +1532,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 51
     },
     {
       "rank": 2,
       "name": "Archie",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 3,
@@ -1547,17 +1547,17 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 5,
       "name": "SPM",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 6,
       "name": "🤗",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 7,
@@ -1606,27 +1606,27 @@
     },
     {
       "rank": 16,
+      "name": "Князь Владимир С",
+      "value": 3
+    },
+    {
+      "rank": 17,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 19,
-      "name": "İl",
-      "value": 2
-    },
-    {
       "rank": 20,
-      "name": "Князь Владимир С",
+      "name": "İl",
       "value": 2
     },
     {
