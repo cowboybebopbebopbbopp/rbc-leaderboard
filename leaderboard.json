@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T05:48:45+00:00",
+  "updated": "2026-10-08T06:48:55+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1831,
+      "value": 1832,
       "move": 0
     },
     {
@@ -54,13 +54,13 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 918,
+      "value": 920,
       "move": 0
     },
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 836,
+      "value": 837,
       "move": 0
     },
     {
@@ -1280,7 +1280,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 239
+      "value": 238
     },
     {
       "rank": 2,
@@ -1290,22 +1290,22 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 86
+      "value": 87
     },
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 5,
-      "name": "Vitaliy",
+      "name": "🅾🅻🅶🅰",
       "value": 43
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
-      "value": 43
+      "name": "Vitaliy",
+      "value": 42
     },
     {
       "rank": 7,
@@ -1345,7 +1345,7 @@
     {
       "rank": 14,
       "name": "Синдбад Мореход",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 15,
@@ -1536,38 +1536,38 @@
     },
     {
       "rank": 2,
-      "name": "a l",
+      "name": "Archie",
       "value": 31
     },
     {
       "rank": 3,
-      "name": "Archie",
-      "value": 30
+      "name": "a l",
+      "value": 29
     },
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 16
+      "value": 18
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 15
-    },
-    {
-      "rank": 6,
       "name": "SPM",
       "value": 14
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "🤗",
-      "value": 14
+      "value": 13
+    },
+    {
+      "rank": 7,
+      "name": "Vitaliy",
+      "value": 11
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
-      "value": 11
+      "name": "🅾🅻🅶🅰",
+      "value": 10
     },
     {
       "rank": 9,
@@ -1621,7 +1621,7 @@
     },
     {
       "rank": 19,
-      "name": "Князь Владимир С",
+      "name": "Синдбад Мореход",
       "value": 2
     },
     {
@@ -1661,22 +1661,22 @@
     },
     {
       "rank": 27,
-      "name": "LlirikMK",
+      "name": "Князь Владимир С",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "LlirikMK",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "А В",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "Синдбад Мореход",
+      "name": "А В",
       "value": 1
     },
     {
