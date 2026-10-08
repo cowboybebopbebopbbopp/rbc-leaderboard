@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T20:44:13+00:00",
-  "count": 212,
+  "updated": "2026-10-08T21:44:17+00:00",
+  "count": 213,
   "has_movement": true,
   "all": [
     {
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "Руслан Иванов",
-      "value": 57,
+      "value": 58,
       "move": 2
     },
     {
@@ -1271,9 +1271,15 @@
     },
     {
       "rank": 212,
+      "name": "Dan1l",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 213,
       "name": "vitaliy",
       "value": 0,
-      "move": -1
+      "move": -2
     }
   ],
   "month": [
@@ -1315,7 +1321,7 @@
     {
       "rank": 8,
       "name": "Руслан Иванов",
-      "value": 33
+      "value": 34
     },
     {
       "rank": 9,
@@ -1552,7 +1558,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 6,
