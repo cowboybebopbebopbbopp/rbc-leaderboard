@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T06:48:55+00:00",
+  "updated": "2026-10-08T07:49:01+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4438,
+      "value": 4439,
       "move": 0
     },
     {
@@ -47,15 +47,15 @@
     },
     {
       "rank": 8,
-      "name": "PiratesOfMining",
+      "name": "Zero-sum Gamer",
       "value": 921,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
-      "value": 920,
-      "move": 0
+      "name": "PiratesOfMining",
+      "value": 921,
+      "move": -1
     },
     {
       "rank": 10,
@@ -1280,7 +1280,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 238
+      "value": 239
     },
     {
       "rank": 2,
@@ -1414,12 +1414,12 @@
     },
     {
       "rank": 28,
-      "name": "Анастасия",
-      "value": 10
+      "name": "DenisNazarov",
+      "value": 9
     },
     {
       "rank": 29,
-      "name": "DenisNazarov",
+      "name": "Анастасия",
       "value": 9
     },
     {
@@ -1449,27 +1449,27 @@
     },
     {
       "rank": 35,
-      "name": "ᴦоᴧод",
-      "value": 8
-    },
-    {
-      "rank": 36,
       "name": "Kirill",
       "value": 7
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "L G",
       "value": 6
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Max",
+      "value": 6
+    },
+    {
+      "rank": 39,
+      "name": "ᴦоᴧод",
       "value": 6
     },
     {
@@ -1532,7 +1532,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 50
     },
     {
       "rank": 2,
@@ -1547,12 +1547,12 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 5,
       "name": "SPM",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 6,
