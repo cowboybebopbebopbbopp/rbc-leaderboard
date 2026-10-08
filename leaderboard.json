@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T09:49:16+00:00",
+  "updated": "2026-10-08T10:49:22+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4440,
+      "value": 4441,
       "move": 0
     },
     {
@@ -90,7 +90,7 @@
     {
       "rank": 15,
       "name": "Olga Goncharova",
-      "value": 604,
+      "value": 606,
       "move": 0
     },
     {
@@ -354,13 +354,13 @@
     {
       "rank": 59,
       "name": "SPM",
-      "value": 52,
+      "value": 53,
       "move": 2
     },
     {
       "rank": 60,
       "name": "Руслан Иванов",
-      "value": 51,
+      "value": 52,
       "move": -1
     },
     {
@@ -1280,12 +1280,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 240
+      "value": 239
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 131
+      "value": 130
     },
     {
       "rank": 3,
@@ -1304,18 +1304,18 @@
     },
     {
       "rank": 6,
-      "name": "Vitaliy",
+      "name": "SPM",
       "value": 42
     },
     {
       "rank": 7,
-      "name": "SPM",
-      "value": 41
+      "name": "Vitaliy",
+      "value": 42
     },
     {
       "rank": 8,
       "name": "Viktor",
-      "value": 33
+      "value": 32
     },
     {
       "rank": 9,
@@ -1325,7 +1325,7 @@
     {
       "rank": 10,
       "name": "Руслан Иванов",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 11,
@@ -1484,47 +1484,47 @@
     },
     {
       "rank": 42,
+      "name": "Olga Goncharova",
+      "value": 5
+    },
+    {
+      "rank": 43,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Евгений",
       "value": 3
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "ilya Kalashnikov",
       "value": 3
     },
     {
-      "rank": 49,
-      "name": "Marina",
-      "value": 3
-    },
-    {
       "rank": 50,
-      "name": "Olga Goncharova",
+      "name": "Marina",
       "value": 3
     }
   ],
@@ -1532,7 +1532,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 51
+      "value": 52
     },
     {
       "rank": 2,
@@ -1552,7 +1552,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 6,
@@ -1567,7 +1567,7 @@
     {
       "rank": 8,
       "name": "Руслан Иванов",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 9,
@@ -1596,42 +1596,42 @@
     },
     {
       "rank": 14,
+      "name": "Olga Goncharova",
+      "value": 4
+    },
+    {
+      "rank": 15,
       "name": "Aся",
       "value": 3
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "İl",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 20,
-      "name": "Синдбад Мореход",
-      "value": 2
-    },
-    {
       "rank": 21,
-      "name": "Olga Goncharova",
+      "name": "Синдбад Мореход",
       "value": 2
     },
     {
