@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T16:43:51+00:00",
+  "updated": "2026-10-08T17:44:00+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4445,
+      "value": 4446,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1853,
+      "value": 1854,
       "move": 0
     },
     {
@@ -276,7 +276,7 @@
     {
       "rank": 46,
       "name": "terminal lucidity",
-      "value": 97,
+      "value": 98,
       "move": 1
     },
     {
@@ -341,27 +341,27 @@
     },
     {
       "rank": 57,
-      "name": "LlirikMK",
+      "name": "Руслан Иванов",
       "value": 55,
-      "move": 0
-    },
-    {
-      "rank": 58,
-      "name": "Andrey",
-      "value": 55,
-      "move": 0
-    },
-    {
-      "rank": 59,
-      "name": "SPM",
-      "value": 54,
       "move": 2
     },
     {
+      "rank": 58,
+      "name": "SPM",
+      "value": 55,
+      "move": 3
+    },
+    {
+      "rank": 59,
+      "name": "LlirikMK",
+      "value": 55,
+      "move": -2
+    },
+    {
       "rank": 60,
-      "name": "Руслан Иванов",
-      "value": 52,
-      "move": -1
+      "name": "Andrey",
+      "value": 55,
+      "move": -2
     },
     {
       "rank": 61,
@@ -1280,7 +1280,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 242
+      "value": 243
     },
     {
       "rank": 2,
@@ -1294,18 +1294,18 @@
     },
     {
       "rank": 4,
-      "name": "Zero-sum Gamer",
+      "name": "🅾🅻🅶🅰",
       "value": 46
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 45
+      "name": "Zero-sum Gamer",
+      "value": 46
     },
     {
       "rank": 6,
       "name": "SPM",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 7,
@@ -1319,13 +1319,13 @@
     },
     {
       "rank": 9,
-      "name": "Юрий",
-      "value": 29
+      "name": "Руслан Иванов",
+      "value": 31
     },
     {
       "rank": 10,
-      "name": "Руслан Иванов",
-      "value": 28
+      "name": "Юрий",
+      "value": 29
     },
     {
       "rank": 11,
@@ -1359,13 +1359,13 @@
     },
     {
       "rank": 17,
-      "name": "Князь Владимир С",
+      "name": "terminal lucidity",
       "value": 19
     },
     {
       "rank": 18,
-      "name": "terminal lucidity",
-      "value": 18
+      "name": "Князь Владимир С",
+      "value": 19
     },
     {
       "rank": 19,
@@ -1532,7 +1532,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 51
+      "value": 52
     },
     {
       "rank": 2,
@@ -1552,22 +1552,22 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 6,
-      "name": "🤗",
-      "value": 12
+      "name": "Руслан Иванов",
+      "value": 13
     },
     {
       "rank": 7,
       "name": "🅾🅻🅶🅰",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 8,
-      "name": "Руслан Иванов",
-      "value": 10
+      "name": "🤗",
+      "value": 12
     },
     {
       "rank": 9,
@@ -1586,37 +1586,37 @@
     },
     {
       "rank": 12,
-      "name": "Серхио Ле'Трас",
+      "name": "terminal lucidity",
       "value": 4
     },
     {
       "rank": 13,
-      "name": "Александр",
+      "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
       "rank": 14,
-      "name": "lefkorosos",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 15,
-      "name": "Olga Goncharova",
+      "name": "lefkorosos",
       "value": 4
     },
     {
       "rank": 16,
+      "name": "Olga Goncharova",
+      "value": 4
+    },
+    {
+      "rank": 17,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 17,
-      "name": "Aся",
-      "value": 3
-    },
-    {
       "rank": 18,
-      "name": "terminal lucidity",
+      "name": "Aся",
       "value": 3
     },
     {
@@ -1626,28 +1626,28 @@
     },
     {
       "rank": 20,
-      "name": "Юрий",
-      "value": 2
-    },
-    {
-      "rank": 21,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "İl",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Ponemonec",
       "value": 2
+    },
+    {
+      "rank": 24,
+      "name": "Юрий",
+      "value": 1
     },
     {
       "rank": 25,
