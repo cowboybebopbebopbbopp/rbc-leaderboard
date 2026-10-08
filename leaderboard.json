@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T18:44:04+00:00",
+  "updated": "2026-10-08T19:44:09+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -228,7 +228,7 @@
     {
       "rank": 38,
       "name": "Charlie Shefelman",
-      "value": 125,
+      "value": 126,
       "move": 0
     },
     {
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "Руслан Иванов",
-      "value": 56,
+      "value": 57,
       "move": 2
     },
     {
@@ -1314,12 +1314,12 @@
     },
     {
       "rank": 8,
-      "name": "Viktor",
-      "value": 32
+      "name": "Руслан Иванов",
+      "value": 33
     },
     {
       "rank": 9,
-      "name": "Руслан Иванов",
+      "name": "Viktor",
       "value": 32
     },
     {
@@ -1557,7 +1557,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 7,
@@ -1567,7 +1567,7 @@
     {
       "rank": 8,
       "name": "🤗",
-      "value": 12
+      "value": 10
     },
     {
       "rank": 9,
@@ -1676,41 +1676,46 @@
     },
     {
       "rank": 30,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "А В",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Marat Miheev",
+      "name": "А В",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "@wavesscalper",
+      "name": "Marat Miheev",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Marina",
+      "name": "@wavesscalper",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Артемий Жданов",
+      "name": "Marina",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Homelander",
+      "name": "Артемий Жданов",
       "value": 1
     },
     {
       "rank": 37,
+      "name": "Homelander",
+      "value": 1
+    },
+    {
+      "rank": 38,
       "name": "Petr Vasenkov",
       "value": 1
     }
