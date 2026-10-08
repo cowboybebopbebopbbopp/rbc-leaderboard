@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T14:43:40+00:00",
+  "updated": "2026-10-08T15:43:46+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1292,
+      "value": 1295,
       "move": 0
     },
     {
@@ -269,21 +269,21 @@
     },
     {
       "rank": 45,
-      "name": "Сергей",
+      "name": "Серхио Ле'Трас",
       "value": 97,
-      "move": 0
-    },
-    {
-      "rank": 46,
-      "name": "terminal lucidity",
-      "value": 96,
       "move": 1
     },
     {
-      "rank": 47,
-      "name": "Серхио Ле'Трас",
-      "value": 94,
+      "rank": 46,
+      "name": "Сергей",
+      "value": 97,
       "move": -1
+    },
+    {
+      "rank": 47,
+      "name": "terminal lucidity",
+      "value": 96,
+      "move": 0
     },
     {
       "rank": 48,
@@ -390,7 +390,7 @@
     {
       "rank": 65,
       "name": "A.",
-      "value": 41,
+      "value": 43,
       "move": 0
     },
     {
@@ -1285,7 +1285,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 130
+      "value": 133
     },
     {
       "rank": 3,
@@ -1329,13 +1329,13 @@
     },
     {
       "rank": 11,
-      "name": "LlirikMK",
-      "value": 25
+      "name": "Серхио Ле'Трас",
+      "value": 26
     },
     {
       "rank": 12,
-      "name": "Серхио Ле'Трас",
-      "value": 23
+      "name": "LlirikMK",
+      "value": 25
     },
     {
       "rank": 13,
@@ -1349,18 +1349,18 @@
     },
     {
       "rank": 15,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 19
     },
     {
       "rank": 16,
-      "name": "Князь Владимир С",
+      "name": "Manis Love",
       "value": 19
     },
     {
       "rank": 17,
-      "name": "A.",
-      "value": 17
+      "name": "Князь Владимир С",
+      "value": 19
     },
     {
       "rank": 18,
@@ -1537,7 +1537,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 30
+      "value": 33
     },
     {
       "rank": 3,
@@ -1547,7 +1547,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 5,
@@ -1601,106 +1601,111 @@
     },
     {
       "rank": 15,
-      "name": "Aся",
+      "name": "A.",
       "value": 3
     },
     {
       "rank": 16,
-      "name": "Князь Владимир С",
+      "name": "Aся",
       "value": 3
     },
     {
       "rank": 17,
+      "name": "Серхио Ле'Трас",
+      "value": 3
+    },
+    {
+      "rank": 18,
+      "name": "Князь Владимир С",
+      "value": 3
+    },
+    {
+      "rank": 19,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 20,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 21,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 22,
       "name": "İl",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 23,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 24,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 25,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 24,
-      "name": "A.",
-      "value": 1
-    },
-    {
-      "rank": 25,
+      "rank": 26,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "А В",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Артемий Жданов",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Petr Vasenkov",
       "value": 1
     }
