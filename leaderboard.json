@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T01:48:21+00:00",
+  "updated": "2026-10-08T02:48:26+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -1537,7 +1537,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 31
+      "value": 30
     },
     {
       "rank": 3,
@@ -1676,31 +1676,26 @@
     },
     {
       "rank": 30,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
-      "value": 1
-    },
-    {
-      "rank": 31,
       "name": "А В",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Артемий Жданов",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Petr Vasenkov",
       "value": 1
     }
