@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T15:43:46+00:00",
+  "updated": "2026-10-08T16:43:51+00:00",
   "count": 212,
   "has_movement": true,
   "all": [
@@ -12,19 +12,19 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4442,
+      "value": 4445,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1851,
+      "value": 1853,
       "move": 0
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1834,
+      "value": 1835,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1295,
+      "value": 1303,
       "move": 0
     },
     {
@@ -270,20 +270,20 @@
     {
       "rank": 45,
       "name": "Серхио Ле'Трас",
-      "value": 97,
+      "value": 98,
       "move": 1
     },
     {
       "rank": 46,
-      "name": "Сергей",
+      "name": "terminal lucidity",
       "value": 97,
-      "move": -1
+      "move": 1
     },
     {
       "rank": 47,
-      "name": "terminal lucidity",
-      "value": 96,
-      "move": 0
+      "name": "Сергей",
+      "value": 97,
+      "move": -2
     },
     {
       "rank": 48,
@@ -1280,17 +1280,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 239
+      "value": 242
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 133
+      "value": 141
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 88
+      "value": 89
     },
     {
       "rank": 4,
@@ -1299,18 +1299,18 @@
     },
     {
       "rank": 5,
-      "name": "SPM",
-      "value": 43
+      "name": "🅾🅻🅶🅰",
+      "value": 45
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
+      "name": "SPM",
       "value": 43
     },
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 41
+      "value": 40
     },
     {
       "rank": 8,
@@ -1330,7 +1330,7 @@
     {
       "rank": 11,
       "name": "Серхио Ле'Трас",
-      "value": 26
+      "value": 27
     },
     {
       "rank": 12,
@@ -1365,7 +1365,7 @@
     {
       "rank": 18,
       "name": "terminal lucidity",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 19,
@@ -1439,13 +1439,13 @@
     },
     {
       "rank": 33,
-      "name": "Анастасия",
+      "name": "X888",
       "value": 8
     },
     {
       "rank": 34,
-      "name": "X888",
-      "value": 8
+      "name": "Анастасия",
+      "value": 7
     },
     {
       "rank": 35,
@@ -1532,12 +1532,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 51
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 33
+      "value": 41
     },
     {
       "rank": 3,
@@ -1561,17 +1561,17 @@
     },
     {
       "rank": 7,
+      "name": "🅾🅻🅶🅰",
+      "value": 11
+    },
+    {
+      "rank": 8,
       "name": "Руслан Иванов",
       "value": 10
     },
     {
-      "rank": 8,
-      "name": "Vitaliy",
-      "value": 9
-    },
-    {
       "rank": 9,
-      "name": "🅾🅻🅶🅰",
+      "name": "Vitaliy",
       "value": 9
     },
     {
@@ -1582,56 +1582,56 @@
     {
       "rank": 11,
       "name": "DenisNazarov",
-      "value": 5
+      "value": 4
     },
     {
       "rank": 12,
-      "name": "Александр",
+      "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
       "rank": 13,
-      "name": "lefkorosos",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 14,
-      "name": "Olga Goncharova",
+      "name": "lefkorosos",
       "value": 4
     },
     {
       "rank": 15,
+      "name": "Olga Goncharova",
+      "value": 4
+    },
+    {
+      "rank": 16,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Aся",
       "value": 3
     },
     {
-      "rank": 17,
-      "name": "Серхио Ле'Трас",
-      "value": 3
-    },
-    {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "terminal lucidity",
       "value": 3
     },
     {
       "rank": 19,
+      "name": "Князь Владимир С",
+      "value": 3
+    },
+    {
+      "rank": 20,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 20,
-      "name": "Manis Love",
-      "value": 2
-    },
-    {
       "rank": 21,
-      "name": "terminal lucidity",
+      "name": "Manis Love",
       "value": 2
     },
     {
