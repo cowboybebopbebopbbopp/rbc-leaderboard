@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T22:51:51+00:00",
+  "updated": "2026-10-09T23:51:57+00:00",
   "count": 217,
   "has_movement": true,
   "all": [
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "@wavesscalper",
-      "value": 348,
+      "value": 349,
       "move": 0
     },
     {
@@ -1404,27 +1404,27 @@
     },
     {
       "rank": 20,
+      "name": "@wavesscalper",
+      "value": 14
+    },
+    {
+      "rank": 21,
       "name": "Aся",
       "value": 13
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "PiratesOfMining",
       "value": 13
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "iDiklonius",
       "value": 13
     },
     {
-      "rank": 23,
-      "name": "lefkorosos",
-      "value": 13
-    },
-    {
       "rank": 24,
-      "name": "@wavesscalper",
+      "name": "lefkorosos",
       "value": 13
     },
     {
@@ -1636,22 +1636,22 @@
     },
     {
       "rank": 16,
-      "name": "Olga Goncharova",
+      "name": "@wavesscalper",
       "value": 4
     },
     {
       "rank": 17,
+      "name": "Olga Goncharova",
+      "value": 4
+    },
+    {
+      "rank": 18,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 18,
-      "name": "Aся",
-      "value": 3
-    },
-    {
       "rank": 19,
-      "name": "@wavesscalper",
+      "name": "Aся",
       "value": 3
     },
     {
