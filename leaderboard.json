@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T03:44:46+00:00",
-  "count": 214,
+  "updated": "2026-10-09T04:44:48+00:00",
+  "count": 215,
   "has_movement": true,
   "all": [
     {
@@ -1283,9 +1283,15 @@
     },
     {
       "rank": 214,
+      "name": "Эдуард Анатольевич",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 215,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
@@ -1307,7 +1313,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 49
+      "value": 48
     },
     {
       "rank": 5,
@@ -1549,7 +1555,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 3,
@@ -1574,17 +1580,17 @@
     {
       "rank": 7,
       "name": "🅾🅻🅶🅰",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
+      "name": "🤗",
       "value": 9
     },
     {
       "rank": 9,
-      "name": "🤗",
-      "value": 9
+      "name": "Vitaliy",
+      "value": 8
     },
     {
       "rank": 10,
@@ -1593,48 +1599,48 @@
     },
     {
       "rank": 11,
-      "name": "DenisNazarov",
-      "value": 4
-    },
-    {
-      "rank": 12,
       "name": "terminal lucidity",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Александр",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "lefkorosos",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Olga Goncharova",
       "value": 4
     },
     {
-      "rank": 17,
-      "name": "A.",
+      "rank": 16,
+      "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Aся",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Князь Владимир С",
       "value": 3
+    },
+    {
+      "rank": 19,
+      "name": "A.",
+      "value": 2
     },
     {
       "rank": 20,
