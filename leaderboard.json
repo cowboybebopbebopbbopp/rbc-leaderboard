@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T10:50:03+00:00",
+  "updated": "2026-10-09T11:50:09+00:00",
   "count": 216,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4447,
+      "value": 4449,
       "move": 0
     },
     {
@@ -575,27 +575,27 @@
     },
     {
       "rank": 96,
-      "name": "Pavel",
+      "name": "Aleksey",
       "value": 11,
-      "move": 13
+      "move": 2
     },
     {
       "rank": 97,
-      "name": "Олег",
-      "value": 10,
-      "move": -1
+      "name": "Pavel",
+      "value": 11,
+      "move": 12
     },
     {
       "rank": 98,
-      "name": "Ponemonec",
+      "name": "Олег",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 99,
-      "name": "Aleksey",
+      "name": "Ponemonec",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 100,
@@ -1304,7 +1304,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 239
+      "value": 241
     },
     {
       "rank": 2,
@@ -1538,17 +1538,17 @@
     },
     {
       "rank": 48,
-      "name": "Евгений",
+      "name": "Aleksey",
       "value": 3
     },
     {
       "rank": 49,
-      "name": "Dede",
+      "name": "Евгений",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "ilya Kalashnikov",
+      "name": "Dede",
       "value": 3
     }
   ],
@@ -1556,7 +1556,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 51
     },
     {
       "rank": 2,
@@ -1695,46 +1695,51 @@
     },
     {
       "rank": 29,
-      "name": "Константин",
+      "name": "Aleksey",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "iDiklonius",
+      "name": "Константин",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "LlirikMK",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Charlie Shefelman",
+      "name": "LlirikMK",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "А В",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Max",
+      "name": "А В",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Marina",
+      "name": "Max",
       "value": 1
     },
     {
       "rank": 37,
+      "name": "Marina",
+      "value": 1
+    },
+    {
+      "rank": 38,
       "name": "Petr Vasenkov",
       "value": 1
     }
