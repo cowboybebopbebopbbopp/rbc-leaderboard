@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T00:45:18+00:00",
+  "updated": "2026-10-09T01:44:34+00:00",
   "count": 213,
   "has_movement": true,
   "all": [
@@ -330,7 +330,7 @@
     {
       "rank": 55,
       "name": "Marat Miheev",
-      "value": 63,
+      "value": 64,
       "move": 0
     },
     {
@@ -1470,22 +1470,22 @@
     },
     {
       "rank": 38,
-      "name": "ᴦоᴧод",
-      "value": 6
-    },
-    {
-      "rank": 39,
       "name": "Safe",
       "value": 6
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Max",
+      "value": 5
+    },
+    {
+      "rank": 41,
+      "name": "ᴦоᴧод",
       "value": 5
     },
     {
@@ -1647,57 +1647,57 @@
     },
     {
       "rank": 23,
-      "name": "Ponemonec",
+      "name": "Marat Miheev",
       "value": 2
     },
     {
       "rank": 24,
+      "name": "Ponemonec",
+      "value": 2
+    },
+    {
+      "rank": 25,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 32,
-      "name": "А В",
-      "value": 1
-    },
-    {
       "rank": 33,
-      "name": "Marat Miheev",
+      "name": "А В",
       "value": 1
     },
     {
