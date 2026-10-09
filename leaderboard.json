@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T13:50:23+00:00",
+  "updated": "2026-10-09T14:50:28+00:00",
   "count": 216,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4452,
+      "value": 4454,
       "move": 0
     },
     {
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 742,
+      "value": 743,
       "move": 0
     },
     {
@@ -1304,12 +1304,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 240
+      "value": 242
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 146
+      "value": 145
     },
     {
       "rank": 3,
@@ -1473,12 +1473,12 @@
     },
     {
       "rank": 35,
-      "name": "Kirill",
-      "value": 6
+      "name": "L G",
+      "value": 7
     },
     {
       "rank": 36,
-      "name": "L G",
+      "name": "Kirill",
       "value": 6
     },
     {
@@ -1556,7 +1556,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 50
     },
     {
       "rank": 2,
@@ -1566,7 +1566,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 34
+      "value": 33
     },
     {
       "rank": 4,
@@ -1695,46 +1695,51 @@
     },
     {
       "rank": 29,
-      "name": "iDiklonius",
+      "name": "L G",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "LlirikMK",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "Charlie Shefelman",
+      "name": "LlirikMK",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "А В",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "lefkorosos",
+      "name": "А В",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Max",
+      "name": "lefkorosos",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Marina",
+      "name": "Max",
       "value": 1
     },
     {
       "rank": 37,
+      "name": "Marina",
+      "value": 1
+    },
+    {
+      "rank": 38,
       "name": "Petr Vasenkov",
       "value": 1
     }
