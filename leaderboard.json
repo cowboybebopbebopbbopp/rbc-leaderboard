@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T12:50:16+00:00",
+  "updated": "2026-10-09T13:50:23+00:00",
   "count": 216,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4450,
+      "value": 4452,
       "move": 0
     },
     {
@@ -582,7 +582,7 @@
     {
       "rank": 97,
       "name": "Pavel",
-      "value": 11,
+      "value": 12,
       "move": 12
     },
     {
@@ -1304,7 +1304,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 242
+      "value": 240
     },
     {
       "rank": 2,
@@ -1423,22 +1423,22 @@
     },
     {
       "rank": 25,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Pavel",
       "value": 11
     },
     {
       "rank": 26,
-      "name": "Александр",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
       "rank": 27,
-      "name": "Юрий",
-      "value": 10
+      "name": "Александр",
+      "value": 11
     },
     {
       "rank": 28,
-      "name": "Pavel",
+      "name": "Юрий",
       "value": 10
     },
     {
@@ -1585,13 +1585,13 @@
     },
     {
       "rank": 7,
-      "name": "🅾🅻🅶🅰",
+      "name": "Pavel",
       "value": 10
     },
     {
       "rank": 8,
-      "name": "Pavel",
-      "value": 9
+      "name": "🅾🅻🅶🅰",
+      "value": 10
     },
     {
       "rank": 9,
@@ -1620,107 +1620,107 @@
     },
     {
       "rank": 14,
-      "name": "lefkorosos",
-      "value": 4
-    },
-    {
-      "rank": 15,
       "name": "Olga Goncharova",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Aся",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "İl",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Marat Miheev",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "А В",
+      "value": 1
+    },
+    {
+      "rank": 34,
+      "name": "lefkorosos",
       "value": 1
     },
     {
