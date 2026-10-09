@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T02:44:39+00:00",
-  "count": 213,
+  "updated": "2026-10-09T03:44:46+00:00",
+  "count": 214,
   "has_movement": true,
   "all": [
     {
@@ -1277,9 +1277,15 @@
     },
     {
       "rank": 213,
+      "name": "Alexandro",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 214,
       "name": "vitaliy",
       "value": 0,
-      "move": -1
+      "move": -2
     }
   ],
   "month": [
