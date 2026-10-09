@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T20:51:25+00:00",
+  "updated": "2026-10-09T21:51:30+00:00",
   "count": 217,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 837,
+      "value": 838,
       "move": 0
     },
     {
@@ -1374,17 +1374,17 @@
     },
     {
       "rank": 14,
+      "name": "Синдбад Мореход",
+      "value": 21
+    },
+    {
+      "rank": 15,
       "name": "terminal lucidity",
       "value": 20
     },
     {
-      "rank": 15,
-      "name": "Князь Владимир С",
-      "value": 20
-    },
-    {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "Князь Владимир С",
       "value": 20
     },
     {
@@ -1562,7 +1562,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 50
     },
     {
       "rank": 2,
@@ -1646,32 +1646,32 @@
     },
     {
       "rank": 18,
-      "name": "@wavesscalper",
+      "name": "Синдбад Мореход",
       "value": 3
     },
     {
       "rank": 19,
+      "name": "@wavesscalper",
+      "value": 3
+    },
+    {
+      "rank": 20,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "İl",
       "value": 2
     },
     {
-      "rank": 22,
-      "name": "Aleksey",
-      "value": 2
-    },
-    {
       "rank": 23,
-      "name": "Синдбад Мореход",
+      "name": "Aleksey",
       "value": 2
     },
     {
