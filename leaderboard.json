@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T04:44:48+00:00",
-  "count": 215,
+  "updated": "2026-10-09T05:44:53+00:00",
+  "count": 216,
   "has_movement": true,
   "all": [
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1308,
+      "value": 1309,
       "move": 0
     },
     {
@@ -348,7 +348,7 @@
     {
       "rank": 58,
       "name": "SPM",
-      "value": 55,
+      "value": 56,
       "move": 3
     },
     {
@@ -1289,9 +1289,15 @@
     },
     {
       "rank": 215,
+      "name": "ʜᴀᴘᴇxᴏ",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 216,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -4
     }
   ],
   "month": [
@@ -1303,7 +1309,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 145
+      "value": 146
     },
     {
       "rank": 3,
@@ -1323,7 +1329,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 7,
@@ -1550,12 +1556,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 51
+      "value": 49
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 45
+      "value": 43
     },
     {
       "rank": 3,
@@ -1570,7 +1576,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 6,
@@ -1580,7 +1586,7 @@
     {
       "rank": 7,
       "name": "🅾🅻🅶🅰",
-      "value": 11
+      "value": 10
     },
     {
       "rank": 8,
@@ -1589,12 +1595,12 @@
     },
     {
       "rank": 9,
-      "name": "Vitaliy",
-      "value": 8
+      "name": "Pavel",
+      "value": 7
     },
     {
       "rank": 10,
-      "name": "Pavel",
+      "name": "Vitaliy",
       "value": 7
     },
     {
