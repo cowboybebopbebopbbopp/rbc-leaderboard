@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T05:44:53+00:00",
+  "updated": "2026-10-09T06:44:57+00:00",
   "count": 216,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1309,
+      "value": 1310,
       "move": 0
     },
     {
@@ -342,13 +342,13 @@
     {
       "rank": 57,
       "name": "Руслан Иванов",
-      "value": 58,
+      "value": 59,
       "move": 2
     },
     {
       "rank": 58,
       "name": "SPM",
-      "value": 56,
+      "value": 58,
       "move": 3
     },
     {
@@ -605,33 +605,33 @@
     },
     {
       "rank": 101,
-      "name": "Роман",
-      "value": 9,
-      "move": 0
+      "name": "Pavel",
+      "value": 10,
+      "move": 8
     },
     {
       "rank": 102,
-      "name": "***",
+      "name": "Роман",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 103,
-      "name": "Demius",
+      "name": "***",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 104,
-      "name": "Sergey",
+      "name": "Demius",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 105,
-      "name": "Pavel",
+      "name": "Sergey",
       "value": 9,
-      "move": 4
+      "move": -1
     },
     {
       "rank": 106,
@@ -1309,7 +1309,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 146
+      "value": 147
     },
     {
       "rank": 3,
@@ -1318,18 +1318,18 @@
     },
     {
       "rank": 4,
-      "name": "Zero-sum Gamer",
-      "value": 48
+      "name": "SPM",
+      "value": 47
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 46
+      "name": "Zero-sum Gamer",
+      "value": 47
     },
     {
       "rank": 6,
-      "name": "SPM",
-      "value": 45
+      "name": "🅾🅻🅶🅰",
+      "value": 46
     },
     {
       "rank": 7,
@@ -1339,7 +1339,7 @@
     {
       "rank": 8,
       "name": "Руслан Иванов",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 9,
@@ -1443,18 +1443,18 @@
     },
     {
       "rank": 29,
-      "name": "Ponemonec",
+      "name": "Pavel",
       "value": 9
     },
     {
       "rank": 30,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 9
     },
     {
       "rank": 31,
-      "name": "Pavel",
-      "value": 8
+      "name": ".",
+      "value": 9
     },
     {
       "rank": 32,
@@ -1576,12 +1576,12 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 16
+      "value": 18
     },
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 7,
@@ -1596,7 +1596,7 @@
     {
       "rank": 9,
       "name": "Pavel",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 10,
