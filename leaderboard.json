@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T06:44:57+00:00",
+  "updated": "2026-10-09T07:45:02+00:00",
   "count": 216,
   "has_movement": true,
   "all": [
@@ -575,39 +575,39 @@
     },
     {
       "rank": 96,
-      "name": "Олег",
-      "value": 10,
-      "move": 0
+      "name": "Pavel",
+      "value": 11,
+      "move": 13
     },
     {
       "rank": 97,
-      "name": "Ponemonec",
+      "name": "Олег",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 98,
-      "name": "Aleksey",
+      "name": "Ponemonec",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 99,
-      "name": "Dede",
+      "name": "Aleksey",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 100,
-      "name": "Евгений",
+      "name": "Dede",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 101,
-      "name": "Pavel",
+      "name": "Евгений",
       "value": 10,
-      "move": 8
+      "move": -1
     },
     {
       "rank": 102,
@@ -1304,7 +1304,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 242
+      "value": 241
     },
     {
       "rank": 2,
@@ -1438,12 +1438,12 @@
     },
     {
       "rank": 28,
-      "name": "DenisNazarov",
-      "value": 9
+      "name": "Pavel",
+      "value": 10
     },
     {
       "rank": 29,
-      "name": "Pavel",
+      "name": "DenisNazarov",
       "value": 9
     },
     {
@@ -1561,7 +1561,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 43
+      "value": 41
     },
     {
       "rank": 3,
@@ -1590,12 +1590,12 @@
     },
     {
       "rank": 8,
-      "name": "🤗",
+      "name": "Pavel",
       "value": 9
     },
     {
       "rank": 9,
-      "name": "Pavel",
+      "name": "🤗",
       "value": 8
     },
     {
