@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T07:45:02+00:00",
+  "updated": "2026-10-09T08:45:07+00:00",
   "count": 216,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4446,
+      "value": 4447,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1835,
+      "value": 1838,
       "move": 0
     },
     {
@@ -1304,7 +1304,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 241
+      "value": 242
     },
     {
       "rank": 2,
@@ -1314,7 +1314,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 89
+      "value": 92
     },
     {
       "rank": 4,
@@ -1556,7 +1556,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 50
     },
     {
       "rank": 2,
@@ -1566,7 +1566,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 28
+      "value": 31
     },
     {
       "rank": 4,
@@ -1730,16 +1730,11 @@
     },
     {
       "rank": 36,
-      "name": "Артемий Жданов",
-      "value": 1
-    },
-    {
-      "rank": 37,
       "name": "Homelander",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Petr Vasenkov",
       "value": 1
     }
