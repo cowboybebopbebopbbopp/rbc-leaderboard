@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T21:51:30+00:00",
+  "updated": "2026-10-09T22:51:51+00:00",
   "count": 217,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 838,
+      "value": 839,
       "move": 0
     },
     {
@@ -1375,7 +1375,7 @@
     {
       "rank": 14,
       "name": "Синдбад Мореход",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 15,
@@ -1631,22 +1631,22 @@
     },
     {
       "rank": 15,
-      "name": "Olga Goncharova",
+      "name": "Синдбад Мореход",
       "value": 4
     },
     {
       "rank": 16,
+      "name": "Olga Goncharova",
+      "value": 4
+    },
+    {
+      "rank": 17,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 17,
-      "name": "Aся",
-      "value": 3
-    },
-    {
       "rank": 18,
-      "name": "Синдбад Мореход",
+      "name": "Aся",
       "value": 3
     },
     {
