@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T16:50:39+00:00",
+  "updated": "2026-10-09T17:50:45+00:00",
   "count": 217,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1311,
+      "value": 1312,
       "move": 0
     },
     {
@@ -1315,7 +1315,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 144
+      "value": 143
     },
     {
       "rank": 3,
@@ -1567,7 +1567,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 3,
@@ -1681,81 +1681,76 @@
     },
     {
       "rank": 25,
-      "name": "Ponemonec",
-      "value": 2
-    },
-    {
-      "rank": 26,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "А В",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Marina",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Petr Vasenkov",
       "value": 1
     }
