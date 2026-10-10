@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T03:52:52+00:00",
+  "updated": "2026-10-10T04:52:57+00:00",
   "count": 217,
   "has_movement": true,
   "all": [
@@ -1459,17 +1459,17 @@
     },
     {
       "rank": 31,
-      "name": ".",
-      "value": 9
-    },
-    {
-      "rank": 32,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "X888",
+      "value": 8
+    },
+    {
+      "rank": 33,
+      "name": ".",
       "value": 8
     },
     {
