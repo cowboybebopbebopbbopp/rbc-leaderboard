@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T11:53:49+00:00",
+  "updated": "2026-10-10T12:53:54+00:00",
   "count": 218,
   "has_movement": true,
   "all": [
@@ -24,13 +24,13 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1841,
+      "value": 1842,
       "move": 0
     },
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1800,
+      "value": 1802,
       "move": 0
     },
     {
@@ -1326,7 +1326,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 94
+      "value": 95
     },
     {
       "rank": 4,
@@ -1385,22 +1385,22 @@
     },
     {
       "rank": 15,
-      "name": "Синдбад Мореход",
+      "name": "Aся",
       "value": 21
     },
     {
       "rank": 16,
+      "name": "Синдбад Мореход",
+      "value": 21
+    },
+    {
+      "rank": 17,
       "name": "terminal lucidity",
       "value": 20
     },
     {
-      "rank": 17,
-      "name": "A.",
-      "value": 19
-    },
-    {
       "rank": 18,
-      "name": "Aся",
+      "name": "A.",
       "value": 19
     },
     {
@@ -1578,7 +1578,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 4,
@@ -1602,23 +1602,23 @@
     },
     {
       "rank": 8,
+      "name": "Aся",
+      "value": 9
+    },
+    {
+      "rank": 9,
       "name": "Vitaliy",
       "value": 8
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "🅾🅻🅶🅰",
       "value": 8
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "🤗",
       "value": 8
-    },
-    {
-      "rank": 11,
-      "name": "Aся",
-      "value": 7
     },
     {
       "rank": 12,
