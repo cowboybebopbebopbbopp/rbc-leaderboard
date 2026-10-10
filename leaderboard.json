@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T04:52:57+00:00",
+  "updated": "2026-10-10T05:53:03+00:00",
   "count": 217,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1314,
+      "value": 1315,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 662,
+      "value": 663,
       "move": 0
     },
     {
@@ -695,27 +695,27 @@
     },
     {
       "rank": 116,
-      "name": "Капибара",
-      "value": 5,
-      "move": -1
+      "name": "Marina",
+      "value": 6,
+      "move": 2
     },
     {
       "rank": 117,
-      "name": "Don Michele Corleone",
+      "name": "Капибара",
       "value": 5,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 118,
-      "name": "Виталий",
+      "name": "Don Michele Corleone",
       "value": 5,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 119,
-      "name": "Marina",
+      "name": "Виталий",
       "value": 5,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 120,
@@ -1315,7 +1315,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 142
+      "value": 143
     },
     {
       "rank": 3,
@@ -1374,13 +1374,13 @@
     },
     {
       "rank": 14,
-      "name": "Синдбад Мореход",
+      "name": "Князь Владимир С",
       "value": 22
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
-      "value": 21
+      "name": "Синдбад Мореход",
+      "value": 22
     },
     {
       "rank": 16,
@@ -1514,32 +1514,32 @@
     },
     {
       "rank": 42,
-      "name": "Olga Goncharova",
+      "name": "Marina",
       "value": 5
     },
     {
       "rank": 43,
+      "name": "Olga Goncharova",
+      "value": 5
+    },
+    {
+      "rank": 44,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 46,
-      "name": "Станислав Баев",
-      "value": 4
-    },
-    {
       "rank": 47,
-      "name": "Marina",
+      "name": "Станислав Баев",
       "value": 4
     },
     {
@@ -1567,7 +1567,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 3,
@@ -1611,12 +1611,12 @@
     },
     {
       "rank": 11,
-      "name": "terminal lucidity",
-      "value": 5
+      "name": "Князь Владимир С",
+      "value": 6
     },
     {
       "rank": 12,
-      "name": "Князь Владимир С",
+      "name": "terminal lucidity",
       "value": 5
     },
     {
@@ -1681,72 +1681,72 @@
     },
     {
       "rank": 25,
+      "name": "Marina",
+      "value": 2
+    },
+    {
+      "rank": 26,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "А В",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 37,
-      "name": "Max",
-      "value": 1
-    },
-    {
       "rank": 38,
-      "name": "Marina",
+      "name": "Max",
       "value": 1
     },
     {
