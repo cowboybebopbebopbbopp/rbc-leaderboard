@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T16:54:16+00:00",
+  "updated": "2026-10-10T17:54:22+00:00",
   "count": 218,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1854,
+      "value": 1855,
       "move": 0
     },
     {
@@ -1316,7 +1316,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 243
+      "value": 236
     },
     {
       "rank": 2,
@@ -1335,13 +1335,13 @@
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
+      "name": "🅾🅻🅶🅰",
       "value": 47
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
-      "value": 46
+      "name": "Zero-sum Gamer",
+      "value": 47
     },
     {
       "rank": 7,
@@ -1460,22 +1460,22 @@
     },
     {
       "rank": 30,
-      "name": "Ponemonec",
-      "value": 9
-    },
-    {
-      "rank": 31,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "L G",
       "value": 8
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "X888",
+      "value": 8
+    },
+    {
+      "rank": 33,
+      "name": "Ponemonec",
       "value": 8
     },
     {
@@ -1607,12 +1607,12 @@
     },
     {
       "rank": 9,
-      "name": "Vitaliy",
-      "value": 8
+      "name": "🅾🅻🅶🅰",
+      "value": 9
     },
     {
       "rank": 10,
-      "name": "🅾🅻🅶🅰",
+      "name": "Vitaliy",
       "value": 8
     },
     {
