@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T09:53:38+00:00",
+  "updated": "2026-10-10T10:53:43+00:00",
   "count": 218,
   "has_movement": true,
   "all": [
@@ -1578,12 +1578,12 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 29
+      "value": 28
     },
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 5,
@@ -1603,22 +1603,22 @@
     {
       "rank": 8,
       "name": "🅾🅻🅶🅰",
-      "value": 10
+      "value": 9
     },
     {
       "rank": 9,
-      "name": "Aся",
-      "value": 8
-    },
-    {
-      "rank": 10,
       "name": "Vitaliy",
       "value": 8
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "🤗",
       "value": 8
+    },
+    {
+      "rank": 11,
+      "name": "Aся",
+      "value": 7
     },
     {
       "rank": 12,
