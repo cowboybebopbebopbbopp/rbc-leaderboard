@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T23:51:57+00:00",
+  "updated": "2026-10-10T00:45:37+00:00",
   "count": 217,
   "has_movement": true,
   "all": [
@@ -49,13 +49,13 @@
       "rank": 8,
       "name": "Zero-sum Gamer",
       "value": 925,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 9,
       "name": "PiratesOfMining",
       "value": 921,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 10,
@@ -277,13 +277,13 @@
       "rank": 46,
       "name": "Серхио Ле'Трас",
       "value": 98,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 47,
       "name": "Сергей",
       "value": 97,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 48,
@@ -343,31 +343,31 @@
       "rank": 57,
       "name": "Руслан Иванов",
       "value": 59,
-      "move": 2
+      "move": 0
     },
     {
       "rank": 58,
       "name": "SPM",
       "value": 58,
-      "move": 3
+      "move": 0
     },
     {
       "rank": 59,
       "name": "LlirikMK",
       "value": 55,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 60,
       "name": "Andrey",
       "value": 55,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 61,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 50,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 62,
@@ -583,7 +583,7 @@
       "rank": 97,
       "name": "Pavel",
       "value": 12,
-      "move": 12
+      "move": 8
     },
     {
       "rank": 98,
@@ -637,25 +637,25 @@
       "rank": 106,
       "name": "Snowflake ❄️",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 107,
       "name": "Юрий",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 108,
       "name": "xxx",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 109,
       "name": "Kirill",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 110,
@@ -715,25 +715,25 @@
       "rank": 119,
       "name": "Marina",
       "value": 5,
-      "move": 2
+      "move": -1
     },
     {
       "rank": 120,
       "name": "Станислав Баев",
       "value": 5,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 121,
       "name": "Sila",
       "value": 4,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 122,
       "name": "xv",
       "value": 4,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 123,
@@ -1279,7 +1279,7 @@
       "rank": 213,
       "name": "Dan1l",
       "value": 1,
-      "move": null
+      "move": -1
     },
     {
       "rank": 214,
@@ -1303,7 +1303,7 @@
       "rank": 217,
       "name": "vitaliy",
       "value": 0,
-      "move": -5
+      "move": -4
     }
   ],
   "month": [
@@ -1572,7 +1572,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 4,
