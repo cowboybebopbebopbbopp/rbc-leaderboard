@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T08:55:32+00:00",
-  "count": 218,
+  "updated": "2026-10-11T09:55:33+00:00",
+  "count": 219,
   "has_movement": true,
   "all": [
     {
@@ -348,7 +348,7 @@
     {
       "rank": 58,
       "name": "SPM",
-      "value": 58,
+      "value": 59,
       "move": 0
     },
     {
@@ -1307,9 +1307,15 @@
     },
     {
       "rank": 218,
+      "name": "Максим",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 219,
       "name": "vitaliy",
       "value": 0,
-      "move": -1
+      "move": -2
     }
   ],
   "month": [
@@ -1336,7 +1342,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 47
+      "value": 48
     },
     {
       "rank": 6,
@@ -1583,7 +1589,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 21
+      "value": 19
     },
     {
       "rank": 5,
@@ -1732,41 +1738,36 @@
     },
     {
       "rank": 34,
-      "name": "LlirikMK",
-      "value": 1
-    },
-    {
-      "rank": 35,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Mikhail",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "А В",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": ".",
       "value": 1
     }
