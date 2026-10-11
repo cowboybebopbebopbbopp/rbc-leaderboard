@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T10:55:36+00:00",
+  "updated": "2026-10-11T11:55:38+00:00",
   "count": 219,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 664,
+      "value": 666,
       "move": 0
     },
     {
@@ -450,7 +450,7 @@
     {
       "rank": 75,
       "name": "Lina",
-      "value": 24,
+      "value": 26,
       "move": 0
     },
     {
@@ -479,15 +479,15 @@
     },
     {
       "rank": 80,
-      "name": "Максим",
+      "name": "X888",
       "value": 20,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 81,
-      "name": "X888",
-      "value": 19,
-      "move": 0
+      "name": "Максим",
+      "value": 20,
+      "move": -1
     },
     {
       "rank": 82,
@@ -1391,22 +1391,22 @@
     },
     {
       "rank": 15,
-      "name": "Синдбад Мореход",
+      "name": "Князь Владимир С",
       "value": 21
     },
     {
       "rank": 16,
+      "name": "Синдбад Мореход",
+      "value": 21
+    },
+    {
+      "rank": 17,
       "name": "terminal lucidity",
       "value": 20
     },
     {
-      "rank": 17,
-      "name": "A.",
-      "value": 19
-    },
-    {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "A.",
       "value": 19
     },
     {
@@ -1466,17 +1466,17 @@
     },
     {
       "rank": 30,
-      "name": ".",
+      "name": "X888",
       "value": 9
     },
     {
       "rank": 31,
-      "name": "L G",
-      "value": 8
+      "name": ".",
+      "value": 9
     },
     {
       "rank": 32,
-      "name": "X888",
+      "name": "L G",
       "value": 8
     },
     {
@@ -1593,13 +1593,13 @@
     },
     {
       "rank": 5,
-      "name": "SPM",
+      "name": "Руслан Иванов",
       "value": 17
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
-      "value": 17
+      "name": "SPM",
+      "value": 16
     },
     {
       "rank": 7,
@@ -1613,23 +1613,23 @@
     },
     {
       "rank": 9,
-      "name": "🅾🅻🅶🅰",
+      "name": "Князь Владимир С",
       "value": 9
     },
     {
       "rank": 10,
+      "name": "🅾🅻🅶🅰",
+      "value": 9
+    },
+    {
+      "rank": 11,
       "name": "Vitaliy",
       "value": 8
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "🤗",
       "value": 8
-    },
-    {
-      "rank": 12,
-      "name": "Князь Владимир С",
-      "value": 7
     },
     {
       "rank": 13,
@@ -1703,71 +1703,81 @@
     },
     {
       "rank": 27,
-      "name": "Marat Miheev",
+      "name": "Lina",
       "value": 2
     },
     {
       "rank": 28,
+      "name": "Marat Miheev",
+      "value": 2
+    },
+    {
+      "rank": 29,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Mikhail",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "А В",
       "value": 1
     },
     {
-      "rank": 38,
-      "name": "lefkorosos",
-      "value": 1
-    },
-    {
       "rank": 39,
-      "name": "Max",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 40,
+      "name": "lefkorosos",
+      "value": 1
+    },
+    {
+      "rank": 41,
+      "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 42,
       "name": ".",
       "value": 1
     }
