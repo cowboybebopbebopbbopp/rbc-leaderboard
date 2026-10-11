@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T07:55:30+00:00",
+  "updated": "2026-10-11T08:55:32+00:00",
   "count": 218,
   "has_movement": true,
   "all": [
@@ -191,15 +191,15 @@
     },
     {
       "rank": 32,
-      "name": "R",
+      "name": ".",
       "value": 148,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 33,
-      "name": ".",
-      "value": 147,
-      "move": 0
+      "name": "R",
+      "value": 148,
+      "move": -1
     },
     {
       "rank": 34,
@@ -335,15 +335,15 @@
     },
     {
       "rank": 56,
-      "name": "Алексей",
+      "name": "Руслан Иванов",
       "value": 61,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 57,
-      "name": "Руслан Иванов",
-      "value": 60,
-      "move": 0
+      "name": "Алексей",
+      "value": 61,
+      "move": -1
     },
     {
       "rank": 58,
@@ -1316,7 +1316,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 235
+      "value": 234
     },
     {
       "rank": 2,
@@ -1351,7 +1351,7 @@
     {
       "rank": 8,
       "name": "Руслан Иванов",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 9,
@@ -1385,17 +1385,17 @@
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
-      "value": 21
-    },
-    {
-      "rank": 16,
       "name": "Синдбад Мореход",
       "value": 21
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "terminal lucidity",
+      "value": 20
+    },
+    {
+      "rank": 17,
+      "name": "Князь Владимир С",
       "value": 20
     },
     {
@@ -1460,17 +1460,17 @@
     },
     {
       "rank": 30,
+      "name": ".",
+      "value": 9
+    },
+    {
+      "rank": 31,
       "name": "L G",
       "value": 8
     },
     {
-      "rank": 31,
-      "name": "X888",
-      "value": 8
-    },
-    {
       "rank": 32,
-      "name": ".",
+      "name": "X888",
       "value": 8
     },
     {
@@ -1593,7 +1593,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 7,
@@ -1763,6 +1763,11 @@
     {
       "rank": 40,
       "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 41,
+      "name": ".",
       "value": 1
     }
   ]
