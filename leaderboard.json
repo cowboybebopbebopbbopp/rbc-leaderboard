@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T13:56:17+00:00",
+  "updated": "2026-10-11T14:57:03+00:00",
   "count": 219,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1857,
+      "value": 1860,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 666,
+      "value": 668,
       "move": 0
     },
     {
@@ -263,15 +263,15 @@
     },
     {
       "rank": 44,
-      "name": "shagron2",
-      "value": 100,
-      "move": 0
+      "name": "terminal lucidity",
+      "value": 101,
+      "move": 1
     },
     {
       "rank": 45,
-      "name": "terminal lucidity",
-      "value": 99,
-      "move": 0
+      "name": "shagron2",
+      "value": 100,
+      "move": -1
     },
     {
       "rank": 46,
@@ -348,7 +348,7 @@
     {
       "rank": 58,
       "name": "SPM",
-      "value": 59,
+      "value": 60,
       "move": 0
     },
     {
@@ -1322,12 +1322,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 234
+      "value": 232
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 138
+      "value": 136
     },
     {
       "rank": 3,
@@ -1337,12 +1337,12 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 49
+      "value": 52
     },
     {
       "rank": 5,
       "name": "SPM",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 6,
@@ -1381,28 +1381,28 @@
     },
     {
       "rank": 13,
-      "name": "LlirikMK",
+      "name": "Князь Владимир С",
       "value": 23
     },
     {
       "rank": 14,
+      "name": "LlirikMK",
+      "value": 23
+    },
+    {
+      "rank": 15,
+      "name": "terminal lucidity",
+      "value": 22
+    },
+    {
+      "rank": 16,
       "name": "🤗",
       "value": 22
     },
     {
-      "rank": 15,
-      "name": "Князь Владимир С",
-      "value": 21
-    },
-    {
-      "rank": 16,
+      "rank": 17,
       "name": "Синдбад Мореход",
       "value": 21
-    },
-    {
-      "rank": 17,
-      "name": "terminal lucidity",
-      "value": 20
     },
     {
       "rank": 18,
@@ -1486,87 +1486,87 @@
     },
     {
       "rank": 34,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 6
-    },
-    {
-      "rank": 35,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Max",
       "value": 6
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Marina",
       "value": 6
     },
     {
-      "rank": 38,
-      "name": "Safe",
-      "value": 6
-    },
-    {
-      "rank": 39,
+      "rank": 37,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 38,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 5
+    },
+    {
+      "rank": 39,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Ponemonec",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Milutin",
       "value": 3
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "AnTon",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Евгений",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "ilya Kalashnikov",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "ᴦоᴧод",
       "value": 3
     }
   ],
@@ -1588,18 +1588,18 @@
     },
     {
       "rank": 4,
-      "name": "Руслан Иванов",
+      "name": "SPM",
       "value": 17
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
+      "name": "Руслан Иванов",
       "value": 17
     },
     {
       "rank": 6,
-      "name": "SPM",
-      "value": 16
+      "name": "Zero-sum Gamer",
+      "value": 17
     },
     {
       "rank": 7,
@@ -1608,18 +1608,18 @@
     },
     {
       "rank": 8,
-      "name": "Pavel",
-      "value": 10
+      "name": "🅾🅻🅶🅰",
+      "value": 12
     },
     {
       "rank": 9,
       "name": "Князь Владимир С",
-      "value": 9
+      "value": 11
     },
     {
       "rank": 10,
-      "name": "🅾🅻🅶🅰",
-      "value": 9
+      "name": "Pavel",
+      "value": 10
     },
     {
       "rank": 11,
@@ -1634,7 +1634,7 @@
     {
       "rank": 13,
       "name": "terminal lucidity",
-      "value": 5
+      "value": 7
     },
     {
       "rank": 14,
