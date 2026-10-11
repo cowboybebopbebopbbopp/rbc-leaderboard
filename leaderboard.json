@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T06:55:28+00:00",
+  "updated": "2026-10-11T07:55:30+00:00",
   "count": 218,
   "has_movement": true,
   "all": [
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "Руслан Иванов",
-      "value": 59,
+      "value": 60,
       "move": 0
     },
     {
@@ -671,33 +671,33 @@
     },
     {
       "rank": 112,
-      "name": "Homelander",
+      "name": "Marina",
       "value": 7,
-      "move": 0
+      "move": 7
     },
     {
       "rank": 113,
-      "name": "AnTon",
+      "name": "Homelander",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 114,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "name": "AnTon",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 115,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": 0
+      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "value": 7,
+      "move": -1
     },
     {
       "rank": 116,
-      "name": "Marina",
+      "name": "Александр Николаев",
       "value": 6,
-      "move": 3
+      "move": -1
     },
     {
       "rank": 117,
@@ -1316,7 +1316,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 237
+      "value": 235
     },
     {
       "rank": 2,
@@ -1341,7 +1341,7 @@
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 7,
@@ -1351,7 +1351,7 @@
     {
       "rank": 8,
       "name": "Руслан Иванов",
-      "value": 35
+      "value": 36
     },
     {
       "rank": 9,
@@ -1375,18 +1375,18 @@
     },
     {
       "rank": 13,
-      "name": "Князь Владимир С",
-      "value": 23
-    },
-    {
-      "rank": 14,
       "name": "LlirikMK",
       "value": 23
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "🤗",
       "value": 23
+    },
+    {
+      "rank": 15,
+      "name": "Князь Владимир С",
+      "value": 21
     },
     {
       "rank": 16,
@@ -1460,23 +1460,23 @@
     },
     {
       "rank": 30,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 8
-    },
-    {
-      "rank": 31,
       "name": "L G",
       "value": 8
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "X888",
       "value": 8
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": ".",
       "value": 8
+    },
+    {
+      "rank": 33,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 7
     },
     {
       "rank": 34,
@@ -1495,17 +1495,17 @@
     },
     {
       "rank": 37,
-      "name": "Safe",
+      "name": "Marina",
       "value": 6
     },
     {
       "rank": 38,
-      "name": "Алексей",
-      "value": 5
+      "name": "Safe",
+      "value": 6
     },
     {
       "rank": 39,
-      "name": "Marina",
+      "name": "Алексей",
       "value": 5
     },
     {
@@ -1555,12 +1555,12 @@
     },
     {
       "rank": 49,
-      "name": "Kirill",
+      "name": "Евгений",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "Евгений",
+      "name": "Dede",
       "value": 3
     }
   ],
@@ -1593,7 +1593,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 7,
@@ -1657,47 +1657,47 @@
     },
     {
       "rank": 19,
+      "name": "Marina",
+      "value": 3
+    },
+    {
+      "rank": 20,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "İl",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 26,
-      "name": "Marat Miheev",
-      "value": 2
-    },
-    {
       "rank": 27,
-      "name": "Marina",
+      "name": "Marat Miheev",
       "value": 2
     },
     {
