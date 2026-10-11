@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:57:09+00:00",
+  "updated": "2026-10-11T16:57:18+00:00",
   "count": 219,
   "has_movement": true,
   "all": [
@@ -264,7 +264,7 @@
     {
       "rank": 44,
       "name": "terminal lucidity",
-      "value": 102,
+      "value": 103,
       "move": 1
     },
     {
@@ -1322,12 +1322,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 231
+      "value": 230
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 136
+      "value": 135
     },
     {
       "rank": 3,
@@ -1382,7 +1382,7 @@
     {
       "rank": 13,
       "name": "terminal lucidity",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 14,
@@ -1401,12 +1401,12 @@
     },
     {
       "rank": 17,
-      "name": "Синдбад Мореход",
-      "value": 21
+      "name": "A.",
+      "value": 19
     },
     {
       "rank": 18,
-      "name": "A.",
+      "name": "Синдбад Мореход",
       "value": 19
     },
     {
@@ -1624,7 +1624,7 @@
     {
       "rank": 11,
       "name": "terminal lucidity",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 12,
@@ -1763,26 +1763,21 @@
     },
     {
       "rank": 39,
-      "name": "А В",
-      "value": 1
-    },
-    {
-      "rank": 40,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": ".",
       "value": 1
     }
