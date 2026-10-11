@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T12:56:12+00:00",
+  "updated": "2026-10-11T13:56:17+00:00",
   "count": 219,
   "has_movement": true,
   "all": [
@@ -1327,7 +1327,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 142
+      "value": 138
     },
     {
       "rank": 3,
@@ -1481,13 +1481,13 @@
     },
     {
       "rank": 33,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Анастасия",
       "value": 7
     },
     {
       "rank": 34,
-      "name": "Анастасия",
-      "value": 7
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 6
     },
     {
       "rank": 35,
@@ -1526,47 +1526,47 @@
     },
     {
       "rank": 42,
-      "name": "Milutin",
-      "value": 4
-    },
-    {
-      "rank": 43,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 46,
-      "name": "ᴦоᴧод",
-      "value": 4
+      "rank": 45,
+      "name": "Milutin",
+      "value": 3
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "AnTon",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Евгений",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Dede",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "ilya Kalashnikov",
       "value": 3
     }
   ],
