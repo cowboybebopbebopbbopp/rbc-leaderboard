@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:57:03+00:00",
+  "updated": "2026-10-11T15:57:09+00:00",
   "count": 219,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1860,
+      "value": 1864,
       "move": 0
     },
     {
@@ -264,7 +264,7 @@
     {
       "rank": 44,
       "name": "terminal lucidity",
-      "value": 101,
+      "value": 102,
       "move": 1
     },
     {
@@ -1322,7 +1322,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 232
+      "value": 231
     },
     {
       "rank": 2,
@@ -1337,7 +1337,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 52
+      "value": 56
     },
     {
       "rank": 5,
@@ -1381,18 +1381,18 @@
     },
     {
       "rank": 13,
-      "name": "Князь Владимир С",
+      "name": "terminal lucidity",
       "value": 23
     },
     {
       "rank": 14,
-      "name": "LlirikMK",
+      "name": "Князь Владимир С",
       "value": 23
     },
     {
       "rank": 15,
-      "name": "terminal lucidity",
-      "value": 22
+      "name": "LlirikMK",
+      "value": 23
     },
     {
       "rank": 16,
@@ -1603,12 +1603,12 @@
     },
     {
       "rank": 7,
-      "name": "Aся",
-      "value": 12
+      "name": "🅾🅻🅶🅰",
+      "value": 16
     },
     {
       "rank": 8,
-      "name": "🅾🅻🅶🅰",
+      "name": "Aся",
       "value": 12
     },
     {
@@ -1623,18 +1623,18 @@
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
+      "name": "terminal lucidity",
       "value": 8
     },
     {
       "rank": 12,
-      "name": "🤗",
+      "name": "Vitaliy",
       "value": 8
     },
     {
       "rank": 13,
-      "name": "terminal lucidity",
-      "value": 7
+      "name": "🤗",
+      "value": 8
     },
     {
       "rank": 14,
