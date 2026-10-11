@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T21:57:31+00:00",
+  "updated": "2026-10-11T22:57:32+00:00",
   "count": 219,
   "has_movement": true,
   "all": [
@@ -1327,7 +1327,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 133
+      "value": 132
     },
     {
       "rank": 3,
@@ -1673,47 +1673,47 @@
     },
     {
       "rank": 21,
-      "name": "Manis Love",
-      "value": 2
-    },
-    {
-      "rank": 22,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "İl",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Александр",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Marat Miheev",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Roman Polyakov",
+      "value": 1
+    },
+    {
+      "rank": 29,
+      "name": "Manis Love",
       "value": 1
     },
     {
