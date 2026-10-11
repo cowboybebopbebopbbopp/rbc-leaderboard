@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T00:55:13+00:00",
+  "updated": "2026-10-11T01:55:14+00:00",
   "count": 218,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1842,
+      "value": 1843,
       "move": 0
     },
     {
@@ -1326,7 +1326,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 93
+      "value": 94
     },
     {
       "rank": 4,
@@ -1485,77 +1485,77 @@
     },
     {
       "rank": 35,
-      "name": "Kirill",
-      "value": 6
-    },
-    {
-      "rank": 36,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Max",
       "value": 6
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Safe",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Marina",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Ponemonec",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "AnTon",
+      "value": 3
+    },
+    {
+      "rank": 49,
+      "name": "Kirill",
       "value": 3
     },
     {
@@ -1578,7 +1578,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 26
+      "value": 27
     },
     {
       "rank": 4,
