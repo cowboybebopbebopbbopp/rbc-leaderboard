@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T04:57:45+00:00",
-  "count": 219,
+  "updated": "2026-10-12T05:57:47+00:00",
+  "count": 220,
   "has_movement": true,
   "all": [
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1865,
+      "value": 1867,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 669,
+      "value": 670,
       "move": 0
     },
     {
@@ -354,7 +354,7 @@
     {
       "rank": 59,
       "name": "LlirikMK",
-      "value": 55,
+      "value": 56,
       "move": 0
     },
     {
@@ -1313,9 +1313,15 @@
     },
     {
       "rank": 219,
+      "name": "Crypto Panda",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 220,
       "name": "vitaliy",
       "value": 0,
-      "move": -1
+      "move": -2
     }
   ],
   "month": [
@@ -1337,7 +1343,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 57
+      "value": 59
     },
     {
       "rank": 5,
@@ -1376,23 +1382,23 @@
     },
     {
       "rank": 12,
+      "name": "Князь Владимир С",
+      "value": 25
+    },
+    {
+      "rank": 13,
       "name": "Aся",
       "value": 24
     },
     {
-      "rank": 13,
-      "name": "terminal lucidity",
-      "value": 24
-    },
-    {
       "rank": 14,
-      "name": "Князь Владимир С",
+      "name": "terminal lucidity",
       "value": 24
     },
     {
       "rank": 15,
       "name": "LlirikMK",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 16,
@@ -1599,7 +1605,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 17
+      "value": 19
     },
     {
       "rank": 7,
@@ -1608,12 +1614,12 @@
     },
     {
       "rank": 8,
-      "name": "Aся",
-      "value": 12
+      "name": "Князь Владимир С",
+      "value": 13
     },
     {
       "rank": 9,
-      "name": "Князь Владимир С",
+      "name": "Aся",
       "value": 12
     },
     {
@@ -1738,36 +1744,41 @@
     },
     {
       "rank": 34,
-      "name": "Charlie Shefelman",
+      "name": "LlirikMK",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Mikhail",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "X888",
+      "name": "Mikhail",
       "value": 1
     },
     {
       "rank": 38,
-      "name": "lefkorosos",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 39,
-      "name": "Max",
+      "name": "lefkorosos",
       "value": 1
     },
     {
       "rank": 40,
+      "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 41,
       "name": ".",
       "value": 1
     }
