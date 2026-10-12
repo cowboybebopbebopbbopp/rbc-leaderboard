@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T16:59:37+00:00",
+  "updated": "2026-10-12T17:59:36+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1807,
+      "value": 1808,
       "move": 0
     },
     {
@@ -557,33 +557,33 @@
     },
     {
       "rank": 93,
-      "name": "Pike",
-      "value": 12,
-      "move": 0
+      "name": "Pavel",
+      "value": 13,
+      "move": 4
     },
     {
       "rank": 94,
-      "name": "Aleksey",
+      "name": "Pike",
       "value": 12,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 95,
-      "name": "Анастасия",
+      "name": "Aleksey",
       "value": 12,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 96,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Анастасия",
       "value": 12,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 97,
-      "name": "Pavel",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 12,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 98,
@@ -1377,13 +1377,13 @@
     },
     {
       "rank": 11,
-      "name": "Серхио Ле'Трас",
+      "name": "Aся",
       "value": 27
     },
     {
       "rank": 12,
-      "name": "Aся",
-      "value": 26
+      "name": "Серхио Ле'Трас",
+      "value": 27
     },
     {
       "rank": 13,
@@ -1448,7 +1448,7 @@
     {
       "rank": 25,
       "name": "Pavel",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 26,
@@ -1610,7 +1610,7 @@
     {
       "rank": 7,
       "name": "Aся",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 8,
@@ -1625,7 +1625,7 @@
     {
       "rank": 10,
       "name": "Pavel",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 11,
