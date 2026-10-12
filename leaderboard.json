@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T03:57:41+00:00",
+  "updated": "2026-10-12T04:57:45+00:00",
   "count": 219,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1845,
+      "value": 1846,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1315,
+      "value": 1316,
       "move": 0
     },
     {
@@ -1327,12 +1327,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 131
+      "value": 132
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 96
+      "value": 97
     },
     {
       "rank": 4,
@@ -1579,12 +1579,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 4,
@@ -1728,51 +1728,46 @@
     },
     {
       "rank": 32,
-      "name": "Сергей",
-      "value": 1
-    },
-    {
-      "rank": 33,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Mikhail",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": ".",
       "value": 1
     }
