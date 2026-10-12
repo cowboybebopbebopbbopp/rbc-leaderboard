@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T14:59:26+00:00",
+  "updated": "2026-10-12T15:59:29+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4466,
+      "value": 4469,
       "move": 0
     },
     {
@@ -335,15 +335,15 @@
     },
     {
       "rank": 56,
-      "name": "Marat Miheev",
-      "value": 64,
-      "move": -1
+      "name": "SPM",
+      "value": 65,
+      "move": 2
     },
     {
       "rank": 57,
-      "name": "SPM",
+      "name": "Marat Miheev",
       "value": 64,
-      "move": 1
+      "move": -2
     },
     {
       "rank": 58,
@@ -1328,7 +1328,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 235
+      "value": 238
     },
     {
       "rank": 2,
@@ -1348,7 +1348,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 53
+      "value": 54
     },
     {
       "rank": 6,
@@ -1580,7 +1580,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 2,
@@ -1605,7 +1605,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 7,
