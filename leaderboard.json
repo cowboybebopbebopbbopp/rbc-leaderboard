@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T05:57:47+00:00",
+  "updated": "2026-10-12T06:57:49+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -329,15 +329,15 @@
     },
     {
       "rank": 55,
-      "name": "Marat Miheev",
-      "value": 64,
-      "move": 0
+      "name": "Руслан Иванов",
+      "value": 65,
+      "move": 2
     },
     {
       "rank": 56,
-      "name": "Руслан Иванов",
-      "value": 63,
-      "move": 1
+      "name": "Marat Miheev",
+      "value": 64,
+      "move": -1
     },
     {
       "rank": 57,
@@ -1358,7 +1358,7 @@
     {
       "rank": 7,
       "name": "Руслан Иванов",
-      "value": 39
+      "value": 41
     },
     {
       "rank": 8,
@@ -1580,7 +1580,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 48
     },
     {
       "rank": 2,
@@ -1590,22 +1590,22 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 29
+      "value": 28
     },
     {
       "rank": 4,
-      "name": "SPM",
+      "name": "Руслан Иванов",
       "value": 20
     },
     {
       "rank": 5,
-      "name": "Руслан Иванов",
+      "name": "🅾🅻🅶🅰",
       "value": 19
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
-      "value": 19
+      "name": "SPM",
+      "value": 18
     },
     {
       "rank": 7,
