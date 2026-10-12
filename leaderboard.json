@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T09:58:06+00:00",
+  "updated": "2026-10-12T10:59:17+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -437,15 +437,15 @@
     },
     {
       "rank": 73,
-      "name": "Олег",
+      "name": "Мое имя Максим",
       "value": 30,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 74,
-      "name": "Мое имя Максим",
-      "value": 29,
-      "move": 0
+      "name": "Олег",
+      "value": 30,
+      "move": -1
     },
     {
       "rank": 75,
@@ -1605,7 +1605,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 18
+      "value": 15
     },
     {
       "rank": 7,
@@ -1704,72 +1704,72 @@
     },
     {
       "rank": 26,
-      "name": "Marat Miheev",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
       "rank": 27,
+      "name": "Marat Miheev",
+      "value": 2
+    },
+    {
+      "rank": 28,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Mikhail",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 38,
-      "name": "🤗",
-      "value": 1
-    },
-    {
       "rank": 39,
-      "name": "Мое имя Максим",
+      "name": "🤗",
       "value": 1
     },
     {
