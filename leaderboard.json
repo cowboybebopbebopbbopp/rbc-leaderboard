@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T07:57:51+00:00",
+  "updated": "2026-10-12T08:57:54+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -12,19 +12,19 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4462,
+      "value": 4463,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1867,
+      "value": 1869,
       "move": 0
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1846,
+      "value": 1847,
       "move": 0
     },
     {
@@ -1328,7 +1328,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 232
+      "value": 233
     },
     {
       "rank": 2,
@@ -1338,12 +1338,12 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 97
+      "value": 98
     },
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 59
+      "value": 61
     },
     {
       "rank": 5,
@@ -1422,17 +1422,17 @@
     },
     {
       "rank": 20,
-      "name": "Сергей",
-      "value": 14
-    },
-    {
-      "rank": 21,
       "name": "@wavesscalper",
       "value": 14
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "PiratesOfMining",
+      "value": 13
+    },
+    {
+      "rank": 22,
+      "name": "Сергей",
       "value": 13
     },
     {
@@ -1580,27 +1580,27 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 51
+      "value": 48
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 37
+      "value": 36
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 4,
-      "name": "Руслан Иванов",
-      "value": 20
+      "name": "🅾🅻🅶🅰",
+      "value": 21
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 19
+      "name": "Руслан Иванов",
+      "value": 20
     },
     {
       "rank": 6,
@@ -1610,7 +1610,7 @@
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 8,
