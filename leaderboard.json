@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:59:22+00:00",
+  "updated": "2026-10-12T13:59:24+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -240,7 +240,7 @@
     {
       "rank": 40,
       "name": "ᴦоᴧод",
-      "value": 116,
+      "value": 118,
       "move": 0
     },
     {
@@ -1517,62 +1517,62 @@
     },
     {
       "rank": 39,
-      "name": "Olga Goncharova",
+      "name": "ᴦоᴧод",
       "value": 5
     },
     {
       "rank": 40,
-      "name": "Ponemonec",
+      "name": "Olga Goncharova",
       "value": 5
     },
     {
       "rank": 41,
+      "name": "Ponemonec",
+      "value": 5
+    },
+    {
+      "rank": 42,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "AnTon",
       "value": 3
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Евгений",
       "value": 3
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Lina",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 49,
-      "name": "ilya Kalashnikov",
-      "value": 3
-    },
-    {
       "rank": 50,
-      "name": "ᴦоᴧод",
+      "name": "ilya Kalashnikov",
       "value": 3
     }
   ],
@@ -1585,7 +1585,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 3,
@@ -1609,17 +1609,17 @@
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
-      "value": 15
-    },
-    {
-      "rank": 8,
       "name": "Aся",
       "value": 14
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Князь Владимир С",
+      "value": 13
+    },
+    {
+      "rank": 9,
+      "name": "Zero-sum Gamer",
       "value": 13
     },
     {
@@ -1714,76 +1714,81 @@
     },
     {
       "rank": 28,
+      "name": "ᴦоᴧод",
+      "value": 2
+    },
+    {
+      "rank": 29,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Mikhail",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": ".",
       "value": 1
     }
