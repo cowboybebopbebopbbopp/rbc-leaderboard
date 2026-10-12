@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T08:57:54+00:00",
+  "updated": "2026-10-12T09:58:06+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4463,
+      "value": 4464,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1806,
+      "value": 1807,
       "move": 0
     },
     {
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "SPM",
-      "value": 63,
+      "value": 64,
       "move": 1
     },
     {
@@ -444,7 +444,7 @@
     {
       "rank": 74,
       "name": "Мое имя Максим",
-      "value": 28,
+      "value": 29,
       "move": 0
     },
     {
@@ -1328,7 +1328,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 233
+      "value": 234
     },
     {
       "rank": 2,
@@ -1348,7 +1348,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 6,
@@ -1383,7 +1383,7 @@
     {
       "rank": 12,
       "name": "Aся",
-      "value": 25
+      "value": 26
     },
     {
       "rank": 13,
@@ -1605,7 +1605,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 7,
@@ -1615,7 +1615,7 @@
     {
       "rank": 8,
       "name": "Aся",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 9,
@@ -1704,81 +1704,86 @@
     },
     {
       "rank": 26,
-      "name": "🤗",
-      "value": 2
-    },
-    {
-      "rank": 27,
       "name": "Marat Miheev",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Mikhail",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "X888",
       "value": 1
     },
     {
+      "rank": 38,
+      "name": "🤗",
+      "value": 1
+    },
+    {
       "rank": 39,
-      "name": "lefkorosos",
+      "name": "Мое имя Максим",
       "value": 1
     },
     {
       "rank": 40,
-      "name": "Max",
+      "name": "lefkorosos",
       "value": 1
     },
     {
       "rank": 41,
+      "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 42,
       "name": ".",
       "value": 1
     }
