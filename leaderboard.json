@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T14:00:40+00:00",
+  "updated": "2026-10-13T15:00:42+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4480,
+      "value": 4481,
       "move": 0
     },
     {
@@ -209,27 +209,27 @@
     },
     {
       "rank": 35,
-      "name": "Andrey Tugarin",
+      "name": "Vitaliy",
       "value": 129,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 36,
-      "name": "Sergey",
+      "name": "Andrey Tugarin",
       "value": 129,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 37,
-      "name": "Роман",
+      "name": "Sergey",
       "value": 129,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 38,
-      "name": "Vitaliy",
-      "value": 128,
-      "move": 0
+      "name": "Роман",
+      "value": 129,
+      "move": -1
     },
     {
       "rank": 39,
@@ -1328,7 +1328,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 248
+      "value": 249
     },
     {
       "rank": 2,
@@ -1363,7 +1363,7 @@
     {
       "rank": 8,
       "name": "Vitaliy",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 9,
@@ -1584,12 +1584,12 @@
     },
     {
       "rank": 2,
-      "name": "Archie",
-      "value": 35
+      "name": "a l",
+      "value": 33
     },
     {
       "rank": 3,
-      "name": "a l",
+      "name": "Archie",
       "value": 33
     },
     {
@@ -1635,7 +1635,7 @@
     {
       "rank": 12,
       "name": "Vitaliy",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 13,
