@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T22:25:04+00:00",
+  "updated": "2026-10-13T23:25:05+00:00",
   "count": 221,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1322,
+      "value": 1323,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "@wavesscalper",
-      "value": 349,
+      "value": 350,
       "move": 0
     },
     {
@@ -347,15 +347,15 @@
     },
     {
       "rank": 58,
-      "name": "Алексей",
-      "value": 61,
-      "move": 0
+      "name": "LlirikMK",
+      "value": 62,
+      "move": 1
     },
     {
       "rank": 59,
-      "name": "LlirikMK",
+      "name": "Алексей",
       "value": 61,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 60,
@@ -1339,7 +1339,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 138
+      "value": 139
     },
     {
       "rank": 3,
@@ -1378,17 +1378,17 @@
     },
     {
       "rank": 10,
+      "name": "LlirikMK",
+      "value": 30
+    },
+    {
+      "rank": 11,
       "name": "Юрий",
       "value": 29
     },
     {
-      "rank": 11,
-      "name": "Князь Владимир С",
-      "value": 29
-    },
-    {
       "rank": 12,
-      "name": "LlirikMK",
+      "name": "Князь Владимир С",
       "value": 29
     },
     {
@@ -1458,17 +1458,17 @@
     },
     {
       "rank": 26,
+      "name": "@wavesscalper",
+      "value": 12
+    },
+    {
+      "rank": 27,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
-      "rank": 27,
-      "name": "Александр",
-      "value": 11
-    },
-    {
       "rank": 28,
-      "name": "@wavesscalper",
+      "name": "Александр",
       "value": 11
     },
     {
@@ -1591,7 +1591,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 3,
@@ -1645,12 +1645,12 @@
     },
     {
       "rank": 13,
-      "name": "Viktor",
-      "value": 6
+      "name": "LlirikMK",
+      "value": 7
     },
     {
       "rank": 14,
-      "name": "LlirikMK",
+      "name": "Viktor",
       "value": 6
     },
     {
@@ -1670,12 +1670,12 @@
     },
     {
       "rank": 18,
-      "name": "Серхио Ле'Трас",
-      "value": 4
+      "name": "@wavesscalper",
+      "value": 5
     },
     {
       "rank": 19,
-      "name": "@wavesscalper",
+      "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
