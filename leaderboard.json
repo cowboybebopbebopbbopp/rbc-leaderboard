@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T08:00:28+00:00",
+  "updated": "2026-10-13T09:00:29+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4471,
+      "value": 4472,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1850,
+      "value": 1853,
       "move": 0
     },
     {
@@ -323,21 +323,21 @@
     },
     {
       "rank": 54,
-      "name": "AstronaVt",
-      "value": 66,
-      "move": 0
+      "name": "SPM",
+      "value": 67,
+      "move": 3
     },
     {
       "rank": 55,
-      "name": "Руслан Иванов",
-      "value": 65,
-      "move": 1
+      "name": "AstronaVt",
+      "value": 66,
+      "move": -1
     },
     {
       "rank": 56,
-      "name": "SPM",
+      "name": "Руслан Иванов",
       "value": 65,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 57,
@@ -1328,7 +1328,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 239
+      "value": 240
     },
     {
       "rank": 2,
@@ -1338,17 +1338,17 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 100
+      "value": 103
     },
     {
       "rank": 4,
-      "name": "🅾🅻🅶🅰",
+      "name": "SPM",
       "value": 55
     },
     {
       "rank": 5,
-      "name": "SPM",
-      "value": 54
+      "name": "🅾🅻🅶🅰",
+      "value": 55
     },
     {
       "rank": 6,
@@ -1437,17 +1437,17 @@
     },
     {
       "rank": 23,
-      "name": "@wavesscalper",
-      "value": 14
-    },
-    {
-      "rank": 24,
       "name": "PiratesOfMining",
       "value": 13
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Сергей",
+      "value": 13
+    },
+    {
+      "rank": 25,
+      "name": "@wavesscalper",
       "value": 13
     },
     {
@@ -1463,7 +1463,7 @@
     {
       "rank": 28,
       "name": "Юрий",
-      "value": 10
+      "value": 9
     },
     {
       "rank": 29,
@@ -1580,7 +1580,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 2,
@@ -1590,7 +1590,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 32
+      "value": 34
     },
     {
       "rank": 4,
@@ -1600,7 +1600,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 16
+      "value": 18
     },
     {
       "rank": 6,
