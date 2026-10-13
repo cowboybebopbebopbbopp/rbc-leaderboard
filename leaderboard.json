@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T03:00:19+00:00",
+  "updated": "2026-10-13T04:00:21+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -276,7 +276,7 @@
     {
       "rank": 46,
       "name": "Сергей",
-      "value": 99,
+      "value": 100,
       "move": 1
     },
     {
@@ -1343,7 +1343,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 57
+      "value": 56
     },
     {
       "rank": 5,
@@ -1372,18 +1372,18 @@
     },
     {
       "rank": 10,
-      "name": "Viktor",
-      "value": 27
-    },
-    {
-      "rank": 11,
       "name": "Aся",
       "value": 27
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Серхио Ле'Трас",
       "value": 27
+    },
+    {
+      "rank": 12,
+      "name": "Viktor",
+      "value": 26
     },
     {
       "rank": 13,
@@ -1487,32 +1487,32 @@
     },
     {
       "rank": 33,
-      "name": "Анастасия",
-      "value": 7
-    },
-    {
-      "rank": 34,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Max",
       "value": 6
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Marina",
       "value": 6
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 5
+    },
+    {
+      "rank": 38,
+      "name": "Анастасия",
       "value": 5
     },
     {
@@ -1557,22 +1557,22 @@
     },
     {
       "rank": 47,
-      "name": "Евгений",
+      "name": "Сергей",
       "value": 3
     },
     {
       "rank": 48,
-      "name": "Lina",
+      "name": "Евгений",
       "value": 3
     },
     {
       "rank": 49,
-      "name": "Dede",
+      "name": "Lina",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "ilya Kalashnikov",
+      "name": "Dede",
       "value": 3
     }
   ],
@@ -1659,47 +1659,47 @@
     },
     {
       "rank": 17,
-      "name": "Lina",
+      "name": "Сергей",
       "value": 3
     },
     {
       "rank": 18,
-      "name": "Marina",
+      "name": "Lina",
       "value": 3
     },
     {
       "rank": 19,
+      "name": "Marina",
+      "value": 3
+    },
+    {
+      "rank": 20,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "İl",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 24,
-      "name": "L G",
-      "value": 2
-    },
-    {
       "rank": 25,
-      "name": "Сергей",
+      "name": "L G",
       "value": 2
     },
     {
