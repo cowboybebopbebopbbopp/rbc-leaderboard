@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T05:00:23+00:00",
+  "updated": "2026-10-13T06:00:24+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -545,21 +545,21 @@
     },
     {
       "rank": 91,
-      "name": "Антон",
-      "value": 13,
-      "move": 0
+      "name": "Pavel",
+      "value": 14,
+      "move": 6
     },
     {
       "rank": 92,
-      "name": "ki6ers",
+      "name": "Антон",
       "value": 13,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 93,
-      "name": "Pavel",
+      "name": "ki6ers",
       "value": 13,
-      "move": 4
+      "move": -1
     },
     {
       "rank": 94,
@@ -1437,18 +1437,18 @@
     },
     {
       "rank": 23,
-      "name": "PiratesOfMining",
+      "name": "Pavel",
       "value": 13
     },
     {
       "rank": 24,
-      "name": "Сергей",
+      "name": "PiratesOfMining",
       "value": 13
     },
     {
       "rank": 25,
-      "name": "Pavel",
-      "value": 12
+      "name": "Сергей",
+      "value": 13
     },
     {
       "rank": 26,
@@ -1625,7 +1625,7 @@
     {
       "rank": 10,
       "name": "Pavel",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 11,
@@ -1704,52 +1704,52 @@
     },
     {
       "rank": 26,
-      "name": "iDiklonius",
-      "value": 2
-    },
-    {
-      "rank": 27,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Marat Miheev",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Эдуард Анатольевич",
+      "value": 1
+    },
+    {
+      "rank": 35,
+      "name": "iDiklonius",
       "value": 1
     },
     {
