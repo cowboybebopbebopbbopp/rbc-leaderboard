@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T12:00:35+00:00",
+  "updated": "2026-10-13T13:00:37+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4474,
+      "value": 4477,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 670,
+      "value": 672,
       "move": 0
     },
     {
@@ -527,15 +527,15 @@
     },
     {
       "rank": 88,
-      "name": "Turchyn Gennadii",
-      "value": 15,
-      "move": 0
+      "name": "lefkorosos",
+      "value": 16,
+      "move": 2
     },
     {
       "rank": 89,
-      "name": "lefkorosos",
+      "name": "Turchyn Gennadii",
       "value": 15,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 90,
@@ -1328,7 +1328,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 242
+      "value": 245
     },
     {
       "rank": 2,
@@ -1348,7 +1348,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 54
+      "value": 52
     },
     {
       "rank": 6,
@@ -1382,12 +1382,12 @@
     },
     {
       "rank": 12,
-      "name": "Viktor",
-      "value": 26
+      "name": "Князь Владимир С",
+      "value": 27
     },
     {
       "rank": 13,
-      "name": "Князь Владимир С",
+      "name": "Viktor",
       "value": 25
     },
     {
@@ -1422,17 +1422,17 @@
     },
     {
       "rank": 20,
+      "name": "lefkorosos",
+      "value": 15
+    },
+    {
+      "rank": 21,
       "name": "Pavel",
       "value": 14
     },
     {
-      "rank": 21,
-      "name": "iDiklonius",
-      "value": 14
-    },
-    {
       "rank": 22,
-      "name": "lefkorosos",
+      "name": "iDiklonius",
       "value": 14
     },
     {
@@ -1580,7 +1580,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 49
     },
     {
       "rank": 2,
@@ -1614,18 +1614,18 @@
     },
     {
       "rank": 8,
+      "name": "Князь Владимир С",
+      "value": 14
+    },
+    {
+      "rank": 9,
       "name": "Pavel",
       "value": 13
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Zero-sum Gamer",
       "value": 13
-    },
-    {
-      "rank": 10,
-      "name": "Князь Владимир С",
-      "value": 12
     },
     {
       "rank": 11,
@@ -1669,52 +1669,52 @@
     },
     {
       "rank": 19,
-      "name": "Marina",
+      "name": "lefkorosos",
       "value": 3
     },
     {
       "rank": 20,
-      "name": ".",
+      "name": "Marina",
       "value": 3
     },
     {
       "rank": 21,
+      "name": ".",
+      "value": 3
+    },
+    {
+      "rank": 22,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 27,
-      "name": "Мое имя Максим",
-      "value": 2
-    },
-    {
       "rank": 28,
-      "name": "lefkorosos",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
