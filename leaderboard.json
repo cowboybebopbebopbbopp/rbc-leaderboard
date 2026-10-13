@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T07:00:26+00:00",
+  "updated": "2026-10-13T08:00:28+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4469,
+      "value": 4471,
       "move": 0
     },
     {
@@ -1328,7 +1328,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 237
+      "value": 239
     },
     {
       "rank": 2,
@@ -1507,32 +1507,32 @@
     },
     {
       "rank": 37,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 5
-    },
-    {
-      "rank": 38,
       "name": "Анастасия",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "ᴦоᴧод",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Ponemonec",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Roman Polyakov",
+      "value": 4
+    },
+    {
+      "rank": 42,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
