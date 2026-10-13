@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T19:25:03+00:00",
+  "updated": "2026-10-13T20:25:03+00:00",
   "count": 221,
   "has_movement": true,
   "all": [
@@ -329,15 +329,15 @@
     },
     {
       "rank": 55,
-      "name": "AstronaVt",
+      "name": "Руслан Иванов",
       "value": 66,
-      "move": -1
+      "move": 1
     },
     {
       "rank": 56,
-      "name": "Руслан Иванов",
-      "value": 65,
-      "move": 0
+      "name": "AstronaVt",
+      "value": 66,
+      "move": -2
     },
     {
       "rank": 57,
@@ -1359,7 +1359,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 7,
@@ -1610,13 +1610,13 @@
     },
     {
       "rank": 6,
-      "name": "Князь Владимир С",
+      "name": "Руслан Иванов",
       "value": 16
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
-      "value": 15
+      "name": "Князь Владимир С",
+      "value": 16
     },
     {
       "rank": 8,
@@ -1631,7 +1631,7 @@
     {
       "rank": 10,
       "name": "Zero-sum Gamer",
-      "value": 13
+      "value": 11
     },
     {
       "rank": 11,
