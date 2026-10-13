@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T04:00:21+00:00",
+  "updated": "2026-10-13T05:00:23+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1849,
+      "value": 1850,
       "move": 0
     },
     {
@@ -533,15 +533,15 @@
     },
     {
       "rank": 89,
-      "name": "vpidelks",
-      "value": 14,
-      "move": 0
+      "name": "lefkorosos",
+      "value": 15,
+      "move": 1
     },
     {
       "rank": 90,
-      "name": "lefkorosos",
+      "name": "vpidelks",
       "value": 14,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 91,
@@ -1338,12 +1338,12 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 100
+      "value": 101
     },
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 5,
@@ -1427,22 +1427,22 @@
     },
     {
       "rank": 21,
-      "name": "@wavesscalper",
+      "name": "lefkorosos",
       "value": 14
     },
     {
       "rank": 22,
+      "name": "@wavesscalper",
+      "value": 14
+    },
+    {
+      "rank": 23,
       "name": "PiratesOfMining",
       "value": 13
     },
     {
-      "rank": 23,
-      "name": "Сергей",
-      "value": 13
-    },
-    {
       "rank": 24,
-      "name": "lefkorosos",
+      "name": "Сергей",
       "value": 13
     },
     {
@@ -1590,7 +1590,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 4,
@@ -1714,72 +1714,72 @@
     },
     {
       "rank": 28,
-      "name": "Marat Miheev",
+      "name": "lefkorosos",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "ᴦоᴧод",
+      "name": "Marat Miheev",
       "value": 2
     },
     {
       "rank": 30,
+      "name": "ᴦоᴧод",
+      "value": 2
+    },
+    {
+      "rank": 31,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Mikhail",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 40,
-      "name": "🤗",
-      "value": 1
-    },
-    {
       "rank": 41,
-      "name": "lefkorosos",
+      "name": "🤗",
       "value": 1
     },
     {
