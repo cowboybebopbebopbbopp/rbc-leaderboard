@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T18:00:53+00:00",
+  "updated": "2026-10-13T19:00:57+00:00",
   "count": 221,
   "has_movement": true,
   "all": [
@@ -234,7 +234,7 @@
     {
       "rank": 39,
       "name": "Charlie Shefelman",
-      "value": 126,
+      "value": 127,
       "move": 0
     },
     {
@@ -473,15 +473,15 @@
     },
     {
       "rank": 79,
-      "name": "Претор",
+      "name": "X888",
       "value": 21,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 80,
-      "name": "X888",
-      "value": 20,
-      "move": 0
+      "name": "Претор",
+      "value": 21,
+      "move": -1
     },
     {
       "rank": 81,
@@ -581,33 +581,33 @@
     },
     {
       "rank": 97,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Евгений",
       "value": 12,
-      "move": -1
+      "move": 4
     },
     {
       "rank": 98,
-      "name": "Олег",
-      "value": 10,
-      "move": 0
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 12,
+      "move": -2
     },
     {
       "rank": 99,
-      "name": "Ponemonec",
+      "name": "Олег",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 100,
-      "name": "Dede",
+      "name": "Ponemonec",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 101,
-      "name": "Евгений",
+      "name": "Dede",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 102,
@@ -833,141 +833,141 @@
     },
     {
       "rank": 139,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 2,
-      "move": 0
+      "name": "Crypto Panda",
+      "value": 3,
+      "move": null
     },
     {
       "rank": 140,
-      "name": "Juli Julia",
+      "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 141,
-      "name": "ШКИПЕР #MCS",
+      "name": "Juli Julia",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 142,
-      "name": "Валерия Sweetandflow",
+      "name": "ШКИПЕР #MCS",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 143,
-      "name": "❤️",
+      "name": "Валерия Sweetandflow",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 144,
-      "name": "Lubo",
+      "name": "❤️",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 145,
-      "name": "Kirill Soppa",
+      "name": "Lubo",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 146,
-      "name": "dg",
+      "name": "Kirill Soppa",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 147,
-      "name": "Юрий",
+      "name": "dg",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 148,
-      "name": "Arewoe",
+      "name": "Юрий",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 149,
-      "name": "Мон Ами",
+      "name": "Arewoe",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 150,
-      "name": "Ольга",
+      "name": "Мон Ами",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 151,
-      "name": "Jeffrey",
+      "name": "Ольга",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 152,
-      "name": "А В",
+      "name": "Jeffrey",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 153,
-      "name": "AK",
+      "name": "А В",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 154,
-      "name": "Nikita",
+      "name": "AK",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 155,
-      "name": "Дмитрий",
+      "name": "Nikita",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 156,
-      "name": "Alissa Her",
+      "name": "Дмитрий",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 157,
-      "name": "Y. Yastrebov",
+      "name": "Alissa Her",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 158,
-      "name": "Petr Vasenkov",
+      "name": "Y. Yastrebov",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 159,
-      "name": "Артемий Жданов",
+      "name": "Petr Vasenkov",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 160,
-      "name": "Эдуард Анатольевич",
+      "name": "Артемий Жданов",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 161,
-      "name": "Crypto Panda",
+      "name": "Эдуард Анатольевич",
       "value": 2,
-      "move": null
+      "move": -1
     },
     {
       "rank": 162,
@@ -1474,7 +1474,7 @@
     {
       "rank": 29,
       "name": "X888",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 30,
@@ -1523,52 +1523,52 @@
     },
     {
       "rank": 39,
-      "name": "Olga Goncharova",
+      "name": "Евгений",
       "value": 5
     },
     {
       "rank": 40,
-      "name": "Ponemonec",
+      "name": "Olga Goncharova",
       "value": 5
     },
     {
       "rank": 41,
+      "name": "Ponemonec",
+      "value": 5
+    },
+    {
+      "rank": 42,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 47,
-      "name": "Сергей",
-      "value": 3
-    },
-    {
       "rank": 48,
-      "name": "Евгений",
+      "name": "Сергей",
       "value": 3
     },
     {
@@ -1735,82 +1735,87 @@
     },
     {
       "rank": 31,
-      "name": "Мое имя Максим",
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Marat Miheev",
+      "name": "Евгений",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "ᴦоᴧод",
+      "name": "X888",
       "value": 2
     },
     {
       "rank": 34,
+      "name": "Мое имя Максим",
+      "value": 2
+    },
+    {
+      "rank": 35,
+      "name": "Marat Miheev",
+      "value": 2
+    },
+    {
+      "rank": 36,
+      "name": "ᴦоᴧод",
+      "value": 2
+    },
+    {
+      "rank": 37,
+      "name": "Crypto Panda",
+      "value": 2
+    },
+    {
+      "rank": 38,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 39,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 40,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 41,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 42,
       "name": "İl",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 43,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 44,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 41,
-      "name": "Charlie Shefelman",
-      "value": 1
-    },
-    {
-      "rank": 42,
+      "rank": 45,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 46,
       "name": "Mikhail",
       "value": 1
     },
     {
-      "rank": 44,
-      "name": "X888",
-      "value": 1
-    },
-    {
-      "rank": 45,
+      "rank": 47,
       "name": "Max",
-      "value": 1
-    },
-    {
-      "rank": 46,
-      "name": "Crypto Panda",
       "value": 1
     }
   ]
