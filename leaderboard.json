@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T19:00:57+00:00",
+  "updated": "2026-10-13T19:25:03+00:00",
   "count": 221,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4482,
+      "value": 4483,
       "move": 0
     },
     {
@@ -186,7 +186,7 @@
     {
       "rank": 31,
       "name": ".",
-      "value": 152,
+      "value": 153,
       "move": 1
     },
     {
@@ -354,7 +354,7 @@
     {
       "rank": 59,
       "name": "LlirikMK",
-      "value": 59,
+      "value": 60,
       "move": 0
     },
     {
@@ -1334,7 +1334,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 250
+      "value": 251
     },
     {
       "rank": 2,
@@ -1388,17 +1388,17 @@
     },
     {
       "rank": 12,
+      "name": "LlirikMK",
+      "value": 28
+    },
+    {
+      "rank": 13,
       "name": "Aся",
       "value": 27
     },
     {
-      "rank": 13,
-      "name": "Серхио Ле'Трас",
-      "value": 27
-    },
-    {
       "rank": 14,
-      "name": "LlirikMK",
+      "name": "Серхио Ле'Трас",
       "value": 27
     },
     {
@@ -1443,17 +1443,17 @@
     },
     {
       "rank": 23,
+      "name": ".",
+      "value": 14
+    },
+    {
+      "rank": 24,
       "name": "PiratesOfMining",
       "value": 13
     },
     {
-      "rank": 24,
-      "name": "Сергей",
-      "value": 13
-    },
-    {
       "rank": 25,
-      "name": ".",
+      "name": "Сергей",
       "value": 13
     },
     {
@@ -1586,7 +1586,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 51
+      "value": 52
     },
     {
       "rank": 2,
@@ -1655,22 +1655,22 @@
     },
     {
       "rank": 15,
+      "name": ".",
+      "value": 6
+    },
+    {
+      "rank": 16,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 16,
-      "name": ".",
+      "rank": 17,
+      "name": "LlirikMK",
       "value": 5
     },
     {
-      "rank": 17,
-      "name": "Серхио Ле'Трас",
-      "value": 4
-    },
-    {
       "rank": 18,
-      "name": "LlirikMK",
+      "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
