@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T09:00:29+00:00",
+  "updated": "2026-10-13T10:00:31+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1869,
+      "value": 1871,
       "move": 0
     },
     {
@@ -185,15 +185,15 @@
     },
     {
       "rank": 31,
-      "name": "-",
+      "name": ".",
       "value": 150,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 32,
-      "name": ".",
-      "value": 148,
-      "move": 0
+      "name": "-",
+      "value": 150,
+      "move": -1
     },
     {
       "rank": 33,
@@ -1338,26 +1338,26 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 103
+      "value": 101
     },
     {
       "rank": 4,
-      "name": "SPM",
-      "value": 55
+      "name": "🅾🅻🅶🅰",
+      "value": 57
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 55
+      "name": "SPM",
+      "value": 54
     },
     {
       "rank": 6,
-      "name": "Zero-sum Gamer",
-      "value": 42
+      "name": "Руслан Иванов",
+      "value": 41
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
+      "name": "Zero-sum Gamer",
       "value": 41
     },
     {
@@ -1448,7 +1448,7 @@
     {
       "rank": 25,
       "name": "@wavesscalper",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 26,
@@ -1462,8 +1462,8 @@
     },
     {
       "rank": 28,
-      "name": "Юрий",
-      "value": 9
+      "name": ".",
+      "value": 11
     },
     {
       "rank": 29,
@@ -1472,8 +1472,8 @@
     },
     {
       "rank": 30,
-      "name": ".",
-      "value": 9
+      "name": "Юрий",
+      "value": 8
     },
     {
       "rank": 31,
@@ -1585,7 +1585,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 37
+      "value": 35
     },
     {
       "rank": 3,
@@ -1595,7 +1595,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 21
+      "value": 23
     },
     {
       "rank": 5,
@@ -1674,122 +1674,122 @@
     },
     {
       "rank": 20,
+      "name": ".",
+      "value": 3
+    },
+    {
+      "rank": 21,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "İl",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Marat Miheev",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Mikhail",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 42,
-      "name": "Max",
-      "value": 1
-    },
-    {
       "rank": 43,
-      "name": ".",
+      "name": "Max",
       "value": 1
     }
   ]
