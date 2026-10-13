@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T00:00:14+00:00",
+  "updated": "2026-10-13T00:46:53+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1320,
+      "value": 1321,
       "move": 0
     },
     {
@@ -275,15 +275,15 @@
     },
     {
       "rank": 46,
-      "name": "Серхио Ле'Трас",
-      "value": 98,
-      "move": 0
+      "name": "Сергей",
+      "value": 99,
+      "move": 1
     },
     {
       "rank": 47,
-      "name": "Сергей",
+      "name": "Серхио Ле'Трас",
       "value": 98,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 48,
@@ -1333,7 +1333,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 136
+      "value": 137
     },
     {
       "rank": 3,
@@ -1585,7 +1585,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 3,
@@ -1604,12 +1604,12 @@
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
-      "value": 16
+      "name": "Aся",
+      "value": 15
     },
     {
       "rank": 7,
-      "name": "Aся",
+      "name": "Руслан Иванов",
       "value": 15
     },
     {
@@ -1699,57 +1699,57 @@
     },
     {
       "rank": 25,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "Александр",
+      "name": "iDiklonius",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "Мое имя Максим",
+      "name": "Александр",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "Marat Miheev",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "ᴦоᴧод",
+      "name": "Marat Miheev",
       "value": 2
     },
     {
       "rank": 30,
+      "name": "ᴦоᴧод",
+      "value": 2
+    },
+    {
+      "rank": 31,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 34,
-      "name": "Эдуард Анатольевич",
-      "value": 1
-    },
-    {
       "rank": 35,
-      "name": "Сергей",
+      "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
