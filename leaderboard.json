@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T11:00:33+00:00",
+  "updated": "2026-10-13T12:00:35+00:00",
   "count": 220,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4473,
+      "value": 4474,
       "move": 0
     },
     {
@@ -1328,7 +1328,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 241
+      "value": 242
     },
     {
       "rank": 2,
@@ -1363,7 +1363,7 @@
     {
       "rank": 8,
       "name": "Vitaliy",
-      "value": 39
+      "value": 38
     },
     {
       "rank": 9,
@@ -1447,17 +1447,17 @@
     },
     {
       "rank": 25,
-      "name": "@wavesscalper",
-      "value": 12
-    },
-    {
-      "rank": 26,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Александр",
+      "value": 11
+    },
+    {
+      "rank": 27,
+      "name": "@wavesscalper",
       "value": 11
     },
     {
@@ -1580,7 +1580,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 2,
@@ -1694,62 +1694,62 @@
     },
     {
       "rank": 24,
-      "name": "İl",
-      "value": 2
-    },
-    {
-      "rank": 25,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Marat Miheev",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Roman Polyakov",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "AnTon",
+      "value": 1
+    },
+    {
+      "rank": 35,
+      "name": "İl",
       "value": 1
     },
     {
