@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T08:51:57+00:00",
-  "count": 222,
+  "updated": "2026-10-14T09:52:00+00:00",
+  "count": 223,
   "has_movement": true,
   "all": [
     {
@@ -323,15 +323,15 @@
     },
     {
       "rank": 54,
-      "name": "SPM",
-      "value": 67,
-      "move": 2
+      "name": "Руслан Иванов",
+      "value": 68,
+      "move": 1
     },
     {
       "rank": 55,
-      "name": "Руслан Иванов",
-      "value": 66,
-      "move": 0
+      "name": "SPM",
+      "value": 67,
+      "move": 1
     },
     {
       "rank": 56,
@@ -1331,16 +1331,22 @@
     },
     {
       "rank": 222,
+      "name": "Руслан Александров",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 223,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 251
+      "value": 250
     },
     {
       "rank": 2,
@@ -1365,7 +1371,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 42
+      "value": 44
     },
     {
       "rank": 7,
@@ -1380,7 +1386,7 @@
     {
       "rank": 9,
       "name": "LlirikMK",
-      "value": 33
+      "value": 32
     },
     {
       "rank": 10,
@@ -1616,13 +1622,13 @@
     },
     {
       "rank": 6,
-      "name": "Князь Владимир С",
-      "value": 16
+      "name": "Руслан Иванов",
+      "value": 17
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
-      "value": 15
+      "name": "Князь Владимир С",
+      "value": 16
     },
     {
       "rank": 8,
@@ -1661,13 +1667,13 @@
     },
     {
       "rank": 15,
-      "name": "Vitaliy",
+      "name": "@wavesscalper",
       "value": 6
     },
     {
       "rank": 16,
-      "name": "@wavesscalper",
-      "value": 6
+      "name": "Vitaliy",
+      "value": 5
     },
     {
       "rank": 17,
