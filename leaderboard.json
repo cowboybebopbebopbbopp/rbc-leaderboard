@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T15:18:56+00:00",
+  "updated": "2026-10-14T23:49:05+00:00",
   "count": 223,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1808,
+      "value": 1811,
       "move": 0
     },
     {
@@ -210,7 +210,7 @@
     {
       "rank": 35,
       "name": "Vitaliy",
-      "value": 129,
+      "value": 130,
       "move": 3
     },
     {
@@ -1346,17 +1346,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 248
+      "value": 246
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 135
+      "value": 133
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 103
+      "value": 101
     },
     {
       "rank": 4,
@@ -1375,13 +1375,13 @@
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
+      "name": "Vitaliy",
       "value": 40
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
-      "value": 39
+      "name": "Zero-sum Gamer",
+      "value": 40
     },
     {
       "rank": 9,
@@ -1395,18 +1395,18 @@
     },
     {
       "rank": 11,
+      "name": "Aся",
+      "value": 30
+    },
+    {
+      "rank": 12,
       "name": "Юрий",
       "value": 29
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Князь Владимир С",
       "value": 29
-    },
-    {
-      "rank": 13,
-      "name": "Aся",
-      "value": 27
     },
     {
       "rank": 14,
@@ -1441,7 +1441,7 @@
     {
       "rank": 20,
       "name": "iDiklonius",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 21,
@@ -1495,13 +1495,13 @@
     },
     {
       "rank": 31,
-      "name": "Юрий",
+      "name": "DenisNazarov",
       "value": 7
     },
     {
       "rank": 32,
-      "name": "DenisNazarov",
-      "value": 7
+      "name": "Юрий",
+      "value": 6
     },
     {
       "rank": 33,
@@ -1598,17 +1598,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 46
     },
     {
       "rank": 2,
-      "name": "Archie",
-      "value": 34
+      "name": "a l",
+      "value": 33
     },
     {
       "rank": 3,
-      "name": "a l",
-      "value": 33
+      "name": "Archie",
+      "value": 28
     },
     {
       "rank": 4,
@@ -1627,33 +1627,33 @@
     },
     {
       "rank": 7,
+      "name": "Aся",
+      "value": 17
+    },
+    {
+      "rank": 8,
       "name": "Князь Владимир С",
       "value": 16
     },
     {
-      "rank": 8,
-      "name": "Aся",
-      "value": 14
-    },
-    {
       "rank": 9,
-      "name": "Pavel",
-      "value": 12
-    },
-    {
-      "rank": 10,
       "name": "LlirikMK",
       "value": 11
     },
     {
-      "rank": 11,
-      "name": "terminal lucidity",
+      "rank": 10,
+      "name": "Zero-sum Gamer",
       "value": 9
     },
     {
+      "rank": 11,
+      "name": "Pavel",
+      "value": 8
+    },
+    {
       "rank": 12,
-      "name": "Zero-sum Gamer",
-      "value": 9
+      "name": "terminal lucidity",
+      "value": 7
     },
     {
       "rank": 13,
@@ -1672,8 +1672,8 @@
     },
     {
       "rank": 16,
-      "name": "@wavesscalper",
-      "value": 6
+      "name": "Vitaliy",
+      "value": 5
     },
     {
       "rank": 17,
@@ -1682,8 +1682,8 @@
     },
     {
       "rank": 18,
-      "name": "Vitaliy",
-      "value": 4
+      "name": "@wavesscalper",
+      "value": 5
     },
     {
       "rank": 19,
@@ -1732,91 +1732,81 @@
     },
     {
       "rank": 28,
-      "name": "DenisNazarov",
-      "value": 2
-    },
-    {
-      "rank": 29,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Marat Miheev",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Crypto Panda",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 43,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 1
-    },
-    {
-      "rank": 44,
+      "rank": 42,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 43,
       "name": "Ponemonec",
       "value": 1
     }
