@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T01:25:06+00:00",
+  "updated": "2026-10-14T02:25:07+00:00",
   "count": 221,
   "has_movement": true,
   "all": [
@@ -1610,13 +1610,13 @@
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
+      "name": "Князь Владимир С",
       "value": 16
     },
     {
       "rank": 7,
-      "name": "Князь Владимир С",
-      "value": 16
+      "name": "Руслан Иванов",
+      "value": 15
     },
     {
       "rank": 8,
@@ -1790,31 +1790,26 @@
     },
     {
       "rank": 42,
-      "name": "İl",
-      "value": 1
-    },
-    {
-      "rank": 43,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Mikhail",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Max",
       "value": 1
     }
