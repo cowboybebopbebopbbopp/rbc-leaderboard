@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:25:05+00:00",
+  "updated": "2026-10-14T00:25:06+00:00",
   "count": 221,
   "has_movement": true,
   "all": [
@@ -325,13 +325,13 @@
       "rank": 54,
       "name": "SPM",
       "value": 67,
-      "move": 3
+      "move": 2
     },
     {
       "rank": 55,
       "name": "Руслан Иванов",
       "value": 66,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 56,
@@ -343,7 +343,7 @@
       "rank": 57,
       "name": "Marat Miheev",
       "value": 64,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 58,
@@ -439,13 +439,13 @@
       "rank": 73,
       "name": "Мое имя Максим",
       "value": 30,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 74,
       "name": "Олег",
       "value": 30,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 75,
@@ -541,7 +541,7 @@
       "rank": 90,
       "name": "Pavel",
       "value": 15,
-      "move": 7
+      "move": 3
     },
     {
       "rank": 91,
@@ -565,19 +565,19 @@
       "rank": 94,
       "name": "Pike",
       "value": 12,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 95,
       "name": "Aleksey",
       "value": 12,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 96,
       "name": "Анастасия",
       "value": 12,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 97,
@@ -589,7 +589,7 @@
       "rank": 98,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 12,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 99,
@@ -835,7 +835,7 @@
       "rank": 139,
       "name": "Crypto Panda",
       "value": 3,
-      "move": null
+      "move": 80
     },
     {
       "rank": 140,
@@ -1327,7 +1327,7 @@
       "rank": 221,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -1
     }
   ],
   "month": [
