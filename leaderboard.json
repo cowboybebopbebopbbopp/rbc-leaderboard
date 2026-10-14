@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T10:52:01+00:00",
+  "updated": "2026-10-14T11:52:01+00:00",
   "count": 223,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4483,
+      "value": 4484,
       "move": 0
     },
     {
@@ -324,7 +324,7 @@
     {
       "rank": 54,
       "name": "Руслан Иванов",
-      "value": 69,
+      "value": 70,
       "move": 1
     },
     {
@@ -533,15 +533,15 @@
     },
     {
       "rank": 89,
-      "name": "Turchyn Gennadii",
-      "value": 15,
-      "move": -1
+      "name": "Pavel",
+      "value": 16,
+      "move": 4
     },
     {
       "rank": 90,
-      "name": "Pavel",
+      "name": "Turchyn Gennadii",
       "value": 15,
-      "move": 3
+      "move": -2
     },
     {
       "rank": 91,
@@ -1346,7 +1346,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 249
+      "value": 248
     },
     {
       "rank": 2,
@@ -1371,7 +1371,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 7,
@@ -1445,18 +1445,18 @@
     },
     {
       "rank": 21,
-      "name": "lefkorosos",
+      "name": "Pavel",
       "value": 15
     },
     {
       "rank": 22,
-      "name": ".",
+      "name": "lefkorosos",
       "value": 15
     },
     {
       "rank": 23,
-      "name": "Pavel",
-      "value": 14
+      "name": ".",
+      "value": 15
     },
     {
       "rank": 24,
@@ -1540,32 +1540,32 @@
     },
     {
       "rank": 40,
-      "name": "Евгений",
-      "value": 5
-    },
-    {
-      "rank": 41,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Станислав Баев",
+      "value": 4
+    },
+    {
+      "rank": 45,
+      "name": "Евгений",
       "value": 4
     },
     {
@@ -1598,7 +1598,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 50
     },
     {
       "rank": 2,
@@ -1618,7 +1618,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 6,
@@ -1638,7 +1638,7 @@
     {
       "rank": 9,
       "name": "Pavel",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 10,
