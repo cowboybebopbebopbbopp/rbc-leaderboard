@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T09:52:00+00:00",
+  "updated": "2026-10-14T10:52:01+00:00",
   "count": 223,
   "has_movement": true,
   "all": [
@@ -324,7 +324,7 @@
     {
       "rank": 54,
       "name": "Руслан Иванов",
-      "value": 68,
+      "value": 69,
       "move": 1
     },
     {
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "LlirikMK",
-      "value": 65,
+      "value": 66,
       "move": 2
     },
     {
@@ -593,15 +593,15 @@
     },
     {
       "rank": 99,
-      "name": "Олег",
-      "value": 10,
-      "move": -1
+      "name": "Ponemonec",
+      "value": 11,
+      "move": 0
     },
     {
       "rank": 100,
-      "name": "Ponemonec",
+      "name": "Олег",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 101,
@@ -1346,7 +1346,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 250
+      "value": 249
     },
     {
       "rank": 2,
@@ -1371,12 +1371,12 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 41
+      "value": 40
     },
     {
       "rank": 8,
@@ -1386,7 +1386,7 @@
     {
       "rank": 9,
       "name": "LlirikMK",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 10,
@@ -1431,7 +1431,7 @@
     {
       "rank": 18,
       "name": "A.",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 19,
@@ -1471,7 +1471,7 @@
     {
       "rank": 26,
       "name": "@wavesscalper",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 27,
@@ -1520,32 +1520,32 @@
     },
     {
       "rank": 36,
+      "name": "Ponemonec",
+      "value": 6
+    },
+    {
+      "rank": 37,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Анастасия",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Евгений",
       "value": 5
     },
     {
-      "rank": 40,
-      "name": "Olga Goncharova",
-      "value": 5
-    },
-    {
       "rank": 41,
-      "name": "Ponemonec",
+      "name": "Olga Goncharova",
       "value": 5
     },
     {
@@ -1617,12 +1617,12 @@
     },
     {
       "rank": 5,
-      "name": "SPM",
-      "value": 17
+      "name": "Руслан Иванов",
+      "value": 18
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
+      "name": "SPM",
       "value": 17
     },
     {
@@ -1643,7 +1643,7 @@
     {
       "rank": 10,
       "name": "LlirikMK",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 11,
@@ -1813,6 +1813,11 @@
     {
       "rank": 44,
       "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 45,
+      "name": "Ponemonec",
       "value": 1
     }
   ]
