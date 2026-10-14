@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T06:51:48+00:00",
+  "updated": "2026-10-14T07:51:54+00:00",
   "count": 222,
   "has_movement": true,
   "all": [
@@ -1345,7 +1345,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 139
+      "value": 137
     },
     {
       "rank": 3,
@@ -1484,13 +1484,13 @@
     },
     {
       "rank": 30,
-      "name": "Юрий",
+      "name": "L G",
       "value": 8
     },
     {
       "rank": 31,
-      "name": "L G",
-      "value": 8
+      "name": "Юрий",
+      "value": 7
     },
     {
       "rank": 32,
@@ -1632,7 +1632,7 @@
     {
       "rank": 9,
       "name": "Pavel",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 10,
@@ -1646,22 +1646,22 @@
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
-      "value": 9
-    },
-    {
-      "rank": 13,
       "name": "LlirikMK",
       "value": 8
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": ".",
       "value": 7
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Viktor",
+      "value": 6
+    },
+    {
+      "rank": 15,
+      "name": "Vitaliy",
       "value": 6
     },
     {
