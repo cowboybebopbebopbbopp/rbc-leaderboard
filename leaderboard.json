@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T05:25:41+00:00",
+  "updated": "2026-10-14T05:51:23+00:00",
   "count": 222,
   "has_movement": true,
   "all": [
@@ -1637,7 +1637,7 @@
     {
       "rank": 10,
       "name": "Zero-sum Gamer",
-      "value": 11
+      "value": 10
     },
     {
       "rank": 11,
@@ -1776,41 +1776,36 @@
     },
     {
       "rank": 38,
-      "name": "Виталий",
-      "value": 1
-    },
-    {
-      "rank": 39,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Mikhail",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Max",
       "value": 1
     }
