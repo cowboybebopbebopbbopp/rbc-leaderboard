@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T11:49:21+00:00",
+  "updated": "2026-10-15T12:49:23+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4492,
+      "value": 4493,
       "move": 0
     },
     {
@@ -330,7 +330,7 @@
     {
       "rank": 55,
       "name": "SPM",
-      "value": 71,
+      "value": 72,
       "move": -1
     },
     {
@@ -1378,7 +1378,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 56
+      "value": 57
     },
     {
       "rank": 6,
@@ -1407,18 +1407,18 @@
     },
     {
       "rank": 11,
-      "name": "Viktor",
-      "value": 30
-    },
-    {
-      "rank": 12,
       "name": "Aся",
       "value": 30
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Юрий",
       "value": 29
+    },
+    {
+      "rank": 13,
+      "name": "Viktor",
+      "value": 28
     },
     {
       "rank": 14,
@@ -1610,7 +1610,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 51
+      "value": 52
     },
     {
       "rank": 2,
@@ -1620,7 +1620,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 31
+      "value": 30
     },
     {
       "rank": 4,
@@ -1635,7 +1635,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 7,
