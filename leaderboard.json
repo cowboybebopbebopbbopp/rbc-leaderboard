@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T06:49:15+00:00",
+  "updated": "2026-10-15T07:49:17+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4489,
+      "value": 4490,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 675,
+      "value": 676,
       "move": 0
     },
     {
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 322,
+      "value": 323,
       "move": 0
     },
     {
@@ -330,7 +330,7 @@
     {
       "rank": 55,
       "name": "SPM",
-      "value": 70,
+      "value": 71,
       "move": -1
     },
     {
@@ -1378,7 +1378,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 55
+      "value": 56
     },
     {
       "rank": 6,
@@ -1402,17 +1402,17 @@
     },
     {
       "rank": 10,
+      "name": "Князь Владимир С",
+      "value": 31
+    },
+    {
+      "rank": 11,
       "name": "Viktor",
       "value": 30
     },
     {
-      "rank": 11,
-      "name": "Aся",
-      "value": 30
-    },
-    {
       "rank": 12,
-      "name": "Князь Владимир С",
+      "name": "Aся",
       "value": 30
     },
     {
@@ -1433,7 +1433,7 @@
     {
       "rank": 16,
       "name": "🤗",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 17,
@@ -1629,22 +1629,22 @@
     },
     {
       "rank": 5,
-      "name": "Руслан Иванов",
+      "name": "SPM",
       "value": 21
     },
     {
       "rank": 6,
-      "name": "SPM",
-      "value": 20
+      "name": "Руслан Иванов",
+      "value": 21
     },
     {
       "rank": 7,
-      "name": "Aся",
-      "value": 17
+      "name": "Князь Владимир С",
+      "value": 18
     },
     {
       "rank": 8,
-      "name": "Князь Владимир С",
+      "name": "Aся",
       "value": 17
     },
     {
@@ -1679,22 +1679,22 @@
     },
     {
       "rank": 15,
-      "name": "Zero-sum Gamer",
-      "value": 6
-    },
-    {
-      "rank": 16,
       "name": "Marina",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Vitaliy",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "iDiklonius",
+      "value": 5
+    },
+    {
+      "rank": 18,
+      "name": "Zero-sum Gamer",
       "value": 5
     },
     {
@@ -1814,11 +1814,16 @@
     },
     {
       "rank": 42,
-      "name": "Max",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 43,
+      "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 44,
       "name": "Ponemonec",
       "value": 1
     }
