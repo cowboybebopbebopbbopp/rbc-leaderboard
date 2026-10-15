@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T03:49:12+00:00",
-  "count": 224,
+  "updated": "2026-10-15T04:49:14+00:00",
+  "count": 225,
   "has_movement": true,
   "all": [
     {
@@ -1343,9 +1343,15 @@
     },
     {
       "rank": 224,
+      "name": "Kevin Butler",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 225,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -4
     }
   ],
   "month": [
@@ -1437,7 +1443,7 @@
     {
       "rank": 18,
       "name": "A.",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 19,
