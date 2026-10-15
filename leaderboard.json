@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T12:49:23+00:00",
+  "updated": "2026-10-15T13:49:24+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4493,
+      "value": 4494,
       "move": 0
     },
     {
@@ -1358,7 +1358,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 252
+      "value": 253
     },
     {
       "rank": 2,
@@ -1482,18 +1482,18 @@
     },
     {
       "rank": 26,
-      "name": "PiratesOfMining",
-      "value": 11
-    },
-    {
-      "rank": 27,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Александр",
       "value": 11
+    },
+    {
+      "rank": 28,
+      "name": "PiratesOfMining",
+      "value": 10
     },
     {
       "rank": 29,
@@ -1610,7 +1610,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 2,
@@ -1620,7 +1620,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 4,
@@ -1635,7 +1635,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 7,
@@ -1645,7 +1645,7 @@
     {
       "rank": 8,
       "name": "Князь Владимир С",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 9,
@@ -1694,17 +1694,17 @@
     },
     {
       "rank": 18,
-      "name": "Zero-sum Gamer",
-      "value": 5
-    },
-    {
-      "rank": 19,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Серхио Ле'Трас",
+      "value": 4
+    },
+    {
+      "rank": 20,
+      "name": "Zero-sum Gamer",
       "value": 4
     },
     {
