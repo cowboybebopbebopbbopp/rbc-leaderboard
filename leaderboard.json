@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T01:49:07+00:00",
-  "count": 223,
+  "updated": "2026-10-15T02:49:08+00:00",
+  "count": 224,
   "has_movement": true,
   "all": [
     {
@@ -1337,9 +1337,15 @@
     },
     {
       "rank": 223,
+      "name": "Николай Вереск",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 224,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
@@ -1436,7 +1442,7 @@
     {
       "rank": 19,
       "name": "Manis Love",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 20,
