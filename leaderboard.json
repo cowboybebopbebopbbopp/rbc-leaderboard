@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T18:49:46+00:00",
+  "updated": "2026-10-15T19:49:51+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4498,
+      "value": 4499,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 850,
+      "value": 851,
       "move": 0
     },
     {
@@ -269,15 +269,15 @@
     },
     {
       "rank": 45,
-      "name": "shagron2",
-      "value": 100,
-      "move": 0
+      "name": "Сергей",
+      "value": 103,
+      "move": 1
     },
     {
       "rank": 46,
-      "name": "Сергей",
+      "name": "shagron2",
       "value": 100,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 47,
@@ -1358,12 +1358,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 251
+      "value": 252
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 130
+      "value": 127
     },
     {
       "rank": 3,
@@ -1383,7 +1383,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 48
+      "value": 47
     },
     {
       "rank": 7,
@@ -1413,7 +1413,7 @@
     {
       "rank": 12,
       "name": "Синдбад Мореход",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 13,
@@ -1472,13 +1472,13 @@
     },
     {
       "rank": 24,
-      "name": "Сергей",
+      "name": "@wavesscalper",
       "value": 12
     },
     {
       "rank": 25,
-      "name": "@wavesscalper",
-      "value": 12
+      "name": "Сергей",
+      "value": 11
     },
     {
       "rank": 26,
@@ -1527,72 +1527,72 @@
     },
     {
       "rank": 35,
-      "name": "Sergey",
+      "name": "Сергей",
       "value": 6
     },
     {
       "rank": 36,
-      "name": "ᴦоᴧод",
+      "name": "Sergey",
       "value": 6
     },
     {
       "rank": 37,
-      "name": "Ponemonec",
+      "name": "ᴦоᴧод",
       "value": 6
     },
     {
       "rank": 38,
+      "name": "Ponemonec",
+      "value": 6
+    },
+    {
+      "rank": 39,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Анастасия",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Станислав Баев",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Евгений",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 47,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 3
-    },
-    {
       "rank": 48,
-      "name": "Сергей",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
@@ -1610,7 +1610,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 2,
@@ -1639,23 +1639,23 @@
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
-      "value": 16
-    },
-    {
-      "rank": 8,
       "name": "Князь Владимир С",
       "value": 16
     },
     {
+      "rank": 8,
+      "name": "Руслан Иванов",
+      "value": 15
+    },
+    {
       "rank": 9,
-      "name": ".",
+      "name": "Синдбад Мореход",
       "value": 14
     },
     {
       "rank": 10,
-      "name": "Синдбад Мореход",
-      "value": 13
+      "name": ".",
+      "value": 14
     },
     {
       "rank": 11,
@@ -1674,47 +1674,47 @@
     },
     {
       "rank": 14,
+      "name": "Сергей",
+      "value": 6
+    },
+    {
+      "rank": 15,
       "name": "terminal lucidity",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Vitaliy",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Marina",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Max",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 21,
-      "name": "AnTon",
-      "value": 3
-    },
-    {
       "rank": 22,
-      "name": "Сергей",
+      "name": "AnTon",
       "value": 3
     },
     {
@@ -1749,52 +1749,52 @@
     },
     {
       "rank": 29,
-      "name": "Charlie Shefelman",
-      "value": 2
-    },
-    {
-      "rank": 30,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Zero-sum Gamer",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Crypto Panda",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Andrey Tukhkanen",
+      "value": 1
+    },
+    {
+      "rank": 38,
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
