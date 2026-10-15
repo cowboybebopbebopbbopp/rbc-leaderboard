@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T13:49:24+00:00",
+  "updated": "2026-10-15T14:49:28+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -215,21 +215,21 @@
     },
     {
       "rank": 36,
-      "name": "Andrey Tugarin",
+      "name": "Sergey",
       "value": 129,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 37,
-      "name": "Sergey",
+      "name": "Роман",
       "value": 129,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 38,
-      "name": "Роман",
-      "value": 129,
-      "move": 0
+      "name": "Andrey Tugarin",
+      "value": 128,
+      "move": -2
     },
     {
       "rank": 39,
@@ -300,7 +300,7 @@
     {
       "rank": 50,
       "name": "Vlad",
-      "value": 91,
+      "value": 92,
       "move": 0
     },
     {
@@ -1358,7 +1358,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 253
+      "value": 251
     },
     {
       "rank": 2,
@@ -1368,7 +1368,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 105
+      "value": 104
     },
     {
       "rank": 4,
@@ -1412,13 +1412,13 @@
     },
     {
       "rank": 12,
-      "name": "Юрий",
-      "value": 29
+      "name": "Viktor",
+      "value": 28
     },
     {
       "rank": 13,
-      "name": "Viktor",
-      "value": 28
+      "name": "Юрий",
+      "value": 27
     },
     {
       "rank": 14,
@@ -1492,13 +1492,13 @@
     },
     {
       "rank": 28,
-      "name": "PiratesOfMining",
+      "name": "X888",
       "value": 10
     },
     {
       "rank": 29,
-      "name": "X888",
-      "value": 10
+      "name": "PiratesOfMining",
+      "value": 9
     },
     {
       "rank": 30,
@@ -1610,12 +1610,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 53
+      "value": 52
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 3,
@@ -1814,11 +1814,16 @@
     },
     {
       "rank": 42,
-      "name": "🤗",
+      "name": "Vlad",
       "value": 1
     },
     {
       "rank": 43,
+      "name": "🤗",
+      "value": 1
+    },
+    {
+      "rank": 44,
       "name": "Ponemonec",
       "value": 1
     }
