@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T07:49:17+00:00",
+  "updated": "2026-10-15T08:49:18+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1859,
+      "value": 1861,
       "move": 0
     },
     {
@@ -186,7 +186,7 @@
     {
       "rank": 31,
       "name": ".",
-      "value": 157,
+      "value": 158,
       "move": 0
     },
     {
@@ -287,15 +287,15 @@
     },
     {
       "rank": 48,
-      "name": "Сергей",
+      "name": "Max",
       "value": 93,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 49,
-      "name": "Max",
-      "value": 91,
-      "move": 0
+      "name": "Сергей",
+      "value": 93,
+      "move": -1
     },
     {
       "rank": 50,
@@ -1368,7 +1368,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 102
+      "value": 103
     },
     {
       "rank": 4,
@@ -1443,7 +1443,7 @@
     {
       "rank": 18,
       "name": ".",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 19,
@@ -1517,37 +1517,37 @@
     },
     {
       "rank": 33,
+      "name": "Max",
+      "value": 7
+    },
+    {
+      "rank": 34,
       "name": "Юрий",
       "value": 6
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Ponemonec",
       "value": 6
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 38,
-      "name": "Анастасия",
-      "value": 5
-    },
-    {
       "rank": 39,
-      "name": "Max",
+      "name": "Анастасия",
       "value": 5
     },
     {
@@ -1620,7 +1620,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 27
+      "value": 29
     },
     {
       "rank": 4,
@@ -1629,13 +1629,13 @@
     },
     {
       "rank": 5,
-      "name": "SPM",
+      "name": "Руслан Иванов",
       "value": 21
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
-      "value": 21
+      "name": "SPM",
+      "value": 20
     },
     {
       "rank": 7,
@@ -1655,7 +1655,7 @@
     {
       "rank": 10,
       "name": ".",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 11,
@@ -1739,87 +1739,87 @@
     },
     {
       "rank": 27,
+      "name": "Max",
+      "value": 3
+    },
+    {
+      "rank": 28,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Marat Miheev",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Crypto Panda",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 42,
-      "name": "🤗",
-      "value": 1
-    },
-    {
       "rank": 43,
-      "name": "Max",
+      "name": "🤗",
       "value": 1
     },
     {
