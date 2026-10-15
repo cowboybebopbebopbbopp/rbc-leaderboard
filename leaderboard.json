@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T09:49:19+00:00",
+  "updated": "2026-10-15T10:49:20+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1861,
+      "value": 1862,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 846,
+      "value": 847,
       "move": 0
     },
     {
@@ -1358,7 +1358,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 253
+      "value": 252
     },
     {
       "rank": 2,
@@ -1368,7 +1368,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 103
+      "value": 104
     },
     {
       "rank": 4,
@@ -1387,13 +1387,13 @@
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
-      "value": 39
+      "name": "Vitaliy",
+      "value": 38
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
-      "value": 38
+      "name": "Zero-sum Gamer",
+      "value": 37
     },
     {
       "rank": 9,
@@ -1428,7 +1428,7 @@
     {
       "rank": 15,
       "name": "Синдбад Мореход",
-      "value": 25
+      "value": 26
     },
     {
       "rank": 16,
@@ -1610,7 +1610,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 51
     },
     {
       "rank": 2,
@@ -1620,7 +1620,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 4,
@@ -1630,12 +1630,12 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 6,
       "name": "SPM",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 7,
@@ -1660,7 +1660,7 @@
     {
       "rank": 11,
       "name": "Синдбад Мореход",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 12,
@@ -1794,36 +1794,31 @@
     },
     {
       "rank": 38,
-      "name": "Olga Goncharova",
-      "value": 2
-    },
-    {
-      "rank": 39,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Ponemonec",
       "value": 1
     }
