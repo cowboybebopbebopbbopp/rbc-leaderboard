@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T08:49:18+00:00",
+  "updated": "2026-10-15T09:49:19+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4490,
+      "value": 4492,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 843,
+      "value": 846,
       "move": 0
     },
     {
@@ -288,7 +288,7 @@
     {
       "rank": 48,
       "name": "Max",
-      "value": 93,
+      "value": 94,
       "move": 1
     },
     {
@@ -1358,7 +1358,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 251
+      "value": 253
     },
     {
       "rank": 2,
@@ -1387,13 +1387,13 @@
     },
     {
       "rank": 7,
-      "name": "Vitaliy",
-      "value": 40
+      "name": "Zero-sum Gamer",
+      "value": 39
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
-      "value": 39
+      "name": "Vitaliy",
+      "value": 38
     },
     {
       "rank": 9,
@@ -1427,18 +1427,18 @@
     },
     {
       "rank": 15,
+      "name": "Синдбад Мореход",
+      "value": 25
+    },
+    {
+      "rank": 16,
       "name": "terminal lucidity",
       "value": 24
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "🤗",
       "value": 23
-    },
-    {
-      "rank": 17,
-      "name": "Синдбад Мореход",
-      "value": 22
     },
     {
       "rank": 18,
@@ -1472,18 +1472,18 @@
     },
     {
       "rank": 24,
-      "name": "PiratesOfMining",
-      "value": 13
-    },
-    {
-      "rank": 25,
       "name": "Сергей",
       "value": 13
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "@wavesscalper",
       "value": 12
+    },
+    {
+      "rank": 26,
+      "name": "PiratesOfMining",
+      "value": 11
     },
     {
       "rank": 27,
@@ -1512,12 +1512,12 @@
     },
     {
       "rank": 32,
-      "name": "DenisNazarov",
-      "value": 7
+      "name": "Max",
+      "value": 8
     },
     {
       "rank": 33,
-      "name": "Max",
+      "name": "DenisNazarov",
       "value": 7
     },
     {
@@ -1610,7 +1610,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 51
+      "value": 52
     },
     {
       "rank": 2,
@@ -1635,16 +1635,16 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 7,
-      "name": "Князь Владимир С",
-      "value": 18
+      "name": "Aся",
+      "value": 17
     },
     {
       "rank": 8,
-      "name": "Aся",
+      "name": "Князь Владимир С",
       "value": 17
     },
     {
@@ -1659,22 +1659,22 @@
     },
     {
       "rank": 11,
+      "name": "Синдбад Мореход",
+      "value": 9
+    },
+    {
+      "rank": 12,
       "name": "Pavel",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "terminal lucidity",
       "value": 7
     },
     {
-      "rank": 13,
-      "name": "Viktor",
-      "value": 6
-    },
-    {
       "rank": 14,
-      "name": "Синдбад Мореход",
+      "name": "Viktor",
       "value": 6
     },
     {
@@ -1709,7 +1709,7 @@
     },
     {
       "rank": 21,
-      "name": "Olga Goncharova",
+      "name": "Max",
       "value": 4
     },
     {
@@ -1739,62 +1739,62 @@
     },
     {
       "rank": 27,
-      "name": "Max",
-      "value": 3
-    },
-    {
-      "rank": 28,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Marat Miheev",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Crypto Panda",
+      "value": 2
+    },
+    {
+      "rank": 38,
+      "name": "Olga Goncharova",
       "value": 2
     },
     {
