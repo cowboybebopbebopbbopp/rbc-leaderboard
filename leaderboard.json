@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:50:21+00:00",
+  "updated": "2026-10-16T03:50:26+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 854,
+      "value": 856,
       "move": 0
     },
     {
@@ -263,15 +263,15 @@
     },
     {
       "rank": 44,
-      "name": "terminal lucidity",
-      "value": 103,
-      "move": 0
+      "name": "Сергей",
+      "value": 104,
+      "move": 2
     },
     {
       "rank": 45,
-      "name": "Сергей",
+      "name": "terminal lucidity",
       "value": 103,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 46,
@@ -324,7 +324,7 @@
     {
       "rank": 54,
       "name": "Руслан Иванов",
-      "value": 72,
+      "value": 73,
       "move": 0
     },
     {
@@ -1383,7 +1383,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 47
+      "value": 48
     },
     {
       "rank": 7,
@@ -1397,12 +1397,12 @@
     },
     {
       "rank": 9,
-      "name": "LlirikMK",
-      "value": 33
+      "name": "Синдбад Мореход",
+      "value": 35
     },
     {
       "rank": 10,
-      "name": "Синдбад Мореход",
+      "name": "LlirikMK",
       "value": 33
     },
     {
@@ -1522,12 +1522,12 @@
     },
     {
       "rank": 34,
-      "name": "Юрий",
-      "value": 6
+      "name": "Сергей",
+      "value": 7
     },
     {
       "rank": 35,
-      "name": "Сергей",
+      "name": "Юрий",
       "value": 6
     },
     {
@@ -1624,17 +1624,17 @@
     },
     {
       "rank": 4,
+      "name": "Синдбад Мореход",
+      "value": 19
+    },
+    {
+      "rank": 5,
       "name": "SPM",
       "value": 17
     },
     {
-      "rank": 5,
-      "name": "Aся",
-      "value": 17
-    },
-    {
       "rank": 6,
-      "name": "Синдбад Мореход",
+      "name": "Aся",
       "value": 17
     },
     {
@@ -1650,7 +1650,7 @@
     {
       "rank": 9,
       "name": "Руслан Иванов",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 10,
@@ -1669,12 +1669,12 @@
     },
     {
       "rank": 13,
-      "name": "Viktor",
-      "value": 6
+      "name": "Сергей",
+      "value": 7
     },
     {
       "rank": 14,
-      "name": "Сергей",
+      "name": "Viktor",
       "value": 6
     },
     {
