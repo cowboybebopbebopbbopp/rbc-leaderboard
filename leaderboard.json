@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T01:50:17+00:00",
+  "updated": "2026-10-16T02:50:21+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 853,
+      "value": 854,
       "move": 0
     },
     {
@@ -1403,7 +1403,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 11,
@@ -1634,12 +1634,12 @@
     },
     {
       "rank": 6,
-      "name": "Князь Владимир С",
-      "value": 16
+      "name": "Синдбад Мореход",
+      "value": 17
     },
     {
       "rank": 7,
-      "name": "Синдбад Мореход",
+      "name": "Князь Владимир С",
       "value": 16
     },
     {
@@ -1764,47 +1764,47 @@
     },
     {
       "rank": 32,
-      "name": "Zero-sum Gamer",
-      "value": 2
-    },
-    {
-      "rank": 33,
       "name": "Crypto Panda",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "🤗",
+      "value": 1
+    },
+    {
+      "rank": 40,
+      "name": "Zero-sum Gamer",
       "value": 1
     },
     {
