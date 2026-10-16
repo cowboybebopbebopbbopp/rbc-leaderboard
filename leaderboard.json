@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T14:11:57+00:00",
-  "count": 226,
+  "updated": "2026-10-16T15:12:02+00:00",
+  "count": 227,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4502,
+      "value": 4503,
       "move": 0
     },
     {
@@ -269,15 +269,15 @@
     },
     {
       "rank": 45,
-      "name": "Сергей",
-      "value": 104,
-      "move": 1
+      "name": "terminal lucidity",
+      "value": 105,
+      "move": -1
     },
     {
       "rank": 46,
-      "name": "terminal lucidity",
-      "value": 103,
-      "move": -2
+      "name": "Сергей",
+      "value": 104,
+      "move": 0
     },
     {
       "rank": 47,
@@ -737,39 +737,39 @@
     },
     {
       "rank": 123,
-      "name": "Sila",
-      "value": 4,
-      "move": -1
+      "name": "Crypto Panda",
+      "value": 5,
+      "move": 16
     },
     {
       "rank": 124,
-      "name": "xv",
+      "name": "Sila",
       "value": 4,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 125,
-      "name": "Slawik",
+      "name": "xv",
       "value": 4,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 126,
-      "name": "Артем",
+      "name": "Slawik",
       "value": 4,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 127,
-      "name": "Simany",
+      "name": "Артем",
       "value": 4,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 128,
-      "name": "Crypto Panda",
+      "name": "Simany",
       "value": 4,
-      "move": 11
+      "move": -2
     },
     {
       "rank": 129,
@@ -1355,21 +1355,27 @@
     },
     {
       "rank": 226,
+      "name": "Максим",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 227,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -4
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 250
+      "value": 251
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 125
+      "value": 124
     },
     {
       "rank": 3,
@@ -1439,7 +1445,7 @@
     {
       "rank": 16,
       "name": "terminal lucidity",
-      "value": 24
+      "value": 26
     },
     {
       "rank": 17,
@@ -1593,22 +1599,22 @@
     },
     {
       "rank": 47,
+      "name": "Crypto Panda",
+      "value": 4
+    },
+    {
+      "rank": 48,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 49,
-      "name": "Lina",
-      "value": 3
-    },
-    {
       "rank": 50,
-      "name": "Dede",
+      "name": "Lina",
       "value": 3
     }
   ],
@@ -1680,28 +1686,28 @@
     },
     {
       "rank": 14,
-      "name": "Max",
+      "name": "terminal lucidity",
       "value": 6
     },
     {
       "rank": 15,
+      "name": "Max",
+      "value": 6
+    },
+    {
+      "rank": 16,
       "name": "Pavel",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Marina",
       "value": 5
-    },
-    {
-      "rank": 18,
-      "name": "terminal lucidity",
-      "value": 4
     },
     {
       "rank": 19,
@@ -1720,27 +1726,27 @@
     },
     {
       "rank": 22,
+      "name": "Crypto Panda",
+      "value": 4
+    },
+    {
+      "rank": 23,
       "name": "AnTon",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Lina",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Mikhail",
       "value": 3
     },
     {
-      "rank": 25,
-      "name": "lefkorosos",
-      "value": 3
-    },
-    {
       "rank": 26,
-      "name": "Crypto Panda",
+      "name": "lefkorosos",
       "value": 3
     },
     {
