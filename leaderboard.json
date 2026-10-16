@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T12:51:09+00:00",
+  "updated": "2026-10-16T13:11:53+00:00",
   "count": 226,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1323,
+      "value": 1325,
       "move": 0
     },
     {
@@ -1369,7 +1369,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 123
+      "value": 125
     },
     {
       "rank": 3,
@@ -1488,13 +1488,13 @@
     },
     {
       "rank": 26,
-      "name": "Александр",
+      "name": "Max",
       "value": 11
     },
     {
       "rank": 27,
-      "name": "Max",
-      "value": 11
+      "name": "Александр",
+      "value": 10
     },
     {
       "rank": 28,
@@ -1650,18 +1650,18 @@
     },
     {
       "rank": 8,
+      "name": "a l",
+      "value": 15
+    },
+    {
+      "rank": 9,
       "name": "Руслан Иванов",
       "value": 14
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": ".",
       "value": 14
-    },
-    {
-      "rank": 10,
-      "name": "a l",
-      "value": 13
     },
     {
       "rank": 11,
