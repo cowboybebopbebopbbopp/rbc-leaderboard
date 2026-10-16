@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T06:50:39+00:00",
+  "updated": "2026-10-16T07:50:43+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -527,15 +527,15 @@
     },
     {
       "rank": 88,
-      "name": "lefkorosos",
-      "value": 16,
-      "move": 0
+      "name": "Pavel",
+      "value": 17,
+      "move": 1
     },
     {
       "rank": 89,
-      "name": "Pavel",
+      "name": "lefkorosos",
       "value": 16,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 90,
@@ -1378,7 +1378,7 @@
     {
       "rank": 5,
       "name": "🅾🅻🅶🅰",
-      "value": 57
+      "value": 56
     },
     {
       "rank": 6,
@@ -1463,7 +1463,7 @@
     {
       "rank": 22,
       "name": "Pavel",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 23,
