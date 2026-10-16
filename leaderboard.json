@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T13:11:53+00:00",
+  "updated": "2026-10-16T14:11:57+00:00",
   "count": 226,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4500,
+      "value": 4502,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1873,
+      "value": 1875,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1325,
+      "value": 1326,
       "move": 0
     },
     {
@@ -1364,7 +1364,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 249
+      "value": 250
     },
     {
       "rank": 2,
@@ -1384,7 +1384,7 @@
     {
       "rank": 5,
       "name": "🅾🅻🅶🅰",
-      "value": 56
+      "value": 57
     },
     {
       "rank": 6,
@@ -1616,7 +1616,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 50
+      "value": 48
     },
     {
       "rank": 2,
@@ -1626,7 +1626,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 19
+      "value": 21
     },
     {
       "rank": 4,
@@ -1645,13 +1645,13 @@
     },
     {
       "rank": 7,
-      "name": "Князь Владимир С",
+      "name": "a l",
       "value": 16
     },
     {
       "rank": 8,
-      "name": "a l",
-      "value": 15
+      "name": "Князь Владимир С",
+      "value": 16
     },
     {
       "rank": 9,
@@ -1680,13 +1680,13 @@
     },
     {
       "rank": 14,
-      "name": "Pavel",
+      "name": "Max",
       "value": 6
     },
     {
       "rank": 15,
-      "name": "Max",
-      "value": 6
+      "name": "Pavel",
+      "value": 5
     },
     {
       "rank": 16,
@@ -1755,52 +1755,52 @@
     },
     {
       "rank": 29,
-      "name": "L G",
-      "value": 2
-    },
-    {
-      "rank": 30,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Zero-sum Gamer",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Kirill Soppa",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Andrey Tukhkanen",
+      "value": 1
+    },
+    {
+      "rank": 38,
+      "name": "L G",
       "value": 1
     },
     {
