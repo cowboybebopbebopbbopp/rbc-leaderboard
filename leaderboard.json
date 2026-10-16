@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:51:00+00:00",
+  "updated": "2026-10-16T01:50:17+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -1363,7 +1363,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 126
+      "value": 125
     },
     {
       "rank": 3,
@@ -1537,22 +1537,22 @@
     },
     {
       "rank": 37,
-      "name": "ᴦоᴧод",
-      "value": 6
-    },
-    {
-      "rank": 38,
       "name": "Ponemonec",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Анастасия",
+      "value": 5
+    },
+    {
+      "rank": 40,
+      "name": "ᴦоᴧод",
       "value": 5
     },
     {
@@ -1809,11 +1809,6 @@
     },
     {
       "rank": 41,
-      "name": "Marat Miheev",
-      "value": 1
-    },
-    {
-      "rank": 42,
       "name": "Ponemonec",
       "value": 1
     }
