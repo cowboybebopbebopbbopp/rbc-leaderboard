@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:50:47+00:00",
+  "updated": "2026-10-16T09:50:52+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4499,
+      "value": 4500,
       "move": 0
     },
     {
@@ -288,7 +288,7 @@
     {
       "rank": 48,
       "name": "Max",
-      "value": 94,
+      "value": 97,
       "move": 1
     },
     {
@@ -323,15 +323,15 @@
     },
     {
       "rank": 54,
-      "name": "Руслан Иванов",
-      "value": 73,
-      "move": 0
+      "name": "SPM",
+      "value": 74,
+      "move": 1
     },
     {
       "rank": 55,
-      "name": "SPM",
-      "value": 72,
-      "move": 0
+      "name": "Руслан Иванов",
+      "value": 73,
+      "move": -1
     },
     {
       "rank": 56,
@@ -1358,22 +1358,22 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 252
+      "value": 251
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 125
+      "value": 124
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 105
+      "value": 104
     },
     {
       "rank": 4,
       "name": "SPM",
-      "value": 57
+      "value": 59
     },
     {
       "rank": 5,
@@ -1472,47 +1472,47 @@
     },
     {
       "rank": 24,
-      "name": "@wavesscalper",
-      "value": 12
-    },
-    {
-      "rank": 25,
       "name": "Сергей",
       "value": 11
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Александр",
       "value": 11
     },
     {
+      "rank": 27,
+      "name": "@wavesscalper",
+      "value": 11
+    },
+    {
       "rank": 28,
+      "name": "Max",
+      "value": 11
+    },
+    {
+      "rank": 29,
       "name": "X888",
       "value": 10
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Marina",
       "value": 9
     },
     {
-      "rank": 31,
-      "name": "L G",
-      "value": 8
-    },
-    {
       "rank": 32,
-      "name": "Max",
+      "name": "L G",
       "value": 8
     },
     {
@@ -1610,7 +1610,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 2,
@@ -1634,13 +1634,13 @@
     },
     {
       "rank": 6,
-      "name": "Князь Владимир С",
+      "name": "SPM",
       "value": 16
     },
     {
       "rank": 7,
-      "name": "SPM",
-      "value": 14
+      "name": "Князь Владимир С",
+      "value": 16
     },
     {
       "rank": 8,
@@ -1679,33 +1679,33 @@
     },
     {
       "rank": 15,
+      "name": "Max",
+      "value": 6
+    },
+    {
+      "rank": 16,
       "name": "terminal lucidity",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Vitaliy",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Marina",
       "value": 5
-    },
-    {
-      "rank": 20,
-      "name": "Max",
-      "value": 4
     },
     {
       "rank": 21,
