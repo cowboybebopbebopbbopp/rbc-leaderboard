@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T16:12:12+00:00",
+  "updated": "2026-10-16T17:12:16+00:00",
   "count": 227,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4503,
+      "value": 4504,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1875,
+      "value": 1877,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 856,
+      "value": 857,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 676,
+      "value": 677,
       "move": 0
     },
     {
@@ -330,7 +330,7 @@
     {
       "rank": 55,
       "name": "SPM",
-      "value": 75,
+      "value": 76,
       "move": 0
     },
     {
@@ -1370,7 +1370,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 248
+      "value": 249
     },
     {
       "rank": 2,
@@ -1385,12 +1385,12 @@
     {
       "rank": 4,
       "name": "SPM",
-      "value": 60
+      "value": 61
     },
     {
       "rank": 5,
       "name": "🅾🅻🅶🅰",
-      "value": 57
+      "value": 59
     },
     {
       "rank": 6,
@@ -1410,7 +1410,7 @@
     {
       "rank": 9,
       "name": "Синдбад Мореход",
-      "value": 35
+      "value": 36
     },
     {
       "rank": 10,
@@ -1425,7 +1425,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 13,
@@ -1622,7 +1622,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 2,
@@ -1632,17 +1632,17 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 21
+      "value": 23
     },
     {
       "rank": 4,
       "name": "Синдбад Мореход",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 5,
       "name": "SPM",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 6,
@@ -1651,12 +1651,12 @@
     },
     {
       "rank": 7,
-      "name": "a l",
-      "value": 15
+      "name": "Князь Владимир С",
+      "value": 16
     },
     {
       "rank": 8,
-      "name": "Князь Владимир С",
+      "name": "a l",
       "value": 15
     },
     {
@@ -1711,32 +1711,32 @@
     },
     {
       "rank": 19,
-      "name": "Vitaliy",
-      "value": 4
-    },
-    {
-      "rank": 20,
-      "name": "@wavesscalper",
-      "value": 4
-    },
-    {
-      "rank": 21,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 20,
       "name": "Crypto Panda",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 21,
+      "name": "Vitaliy",
+      "value": 3
+    },
+    {
+      "rank": 22,
       "name": "Lina",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Mikhail",
+      "value": 3
+    },
+    {
+      "rank": 24,
+      "name": "@wavesscalper",
       "value": 3
     },
     {
@@ -1786,41 +1786,36 @@
     },
     {
       "rank": 34,
-      "name": "Kirill Soppa",
-      "value": 1
-    },
-    {
-      "rank": 35,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Ponemonec",
       "value": 1
     }
