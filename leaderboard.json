@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T09:50:52+00:00",
+  "updated": "2026-10-16T10:50:59+00:00",
   "count": 225,
   "has_movement": true,
   "all": [
@@ -761,81 +761,81 @@
     },
     {
       "rank": 127,
-      "name": "Ilya",
-      "value": 3,
-      "move": 0
+      "name": "Crypto Panda",
+      "value": 4,
+      "move": 12
     },
     {
       "rank": 128,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 129,
-      "name": "Sviat",
+      "name": "Samurai_1",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 130,
-      "name": "1",
+      "name": "Sviat",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 131,
-      "name": "Neztor",
+      "name": "1",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 132,
-      "name": "Максим",
+      "name": "Neztor",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 133,
-      "name": "Денис Сергеевич",
+      "name": "Максим",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 134,
-      "name": "ц",
+      "name": "Денис Сергеевич",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 135,
-      "name": "Stepan",
+      "name": "ц",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 136,
-      "name": "Max⚡️",
+      "name": "Stepan",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 137,
-      "name": "İl",
+      "name": "Max⚡️",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 138,
-      "name": "Roman",
+      "name": "İl",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 139,
-      "name": "Crypto Panda",
+      "name": "Roman",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 140,
@@ -1368,7 +1368,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 104
+      "value": 103
     },
     {
       "rank": 4,
@@ -1452,17 +1452,17 @@
     },
     {
       "rank": 20,
-      "name": "iDiklonius",
-      "value": 17
-    },
-    {
-      "rank": 21,
       "name": "A.",
       "value": 16
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Pavel",
+      "value": 16
+    },
+    {
+      "rank": 22,
+      "name": "iDiklonius",
       "value": 16
     },
     {
@@ -1487,17 +1487,17 @@
     },
     {
       "rank": 27,
-      "name": "@wavesscalper",
-      "value": 11
-    },
-    {
-      "rank": 28,
       "name": "Max",
       "value": 11
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "X888",
+      "value": 10
+    },
+    {
+      "rank": 29,
+      "name": "@wavesscalper",
       "value": 10
     },
     {
@@ -1689,23 +1689,23 @@
     },
     {
       "rank": 17,
-      "name": "Vitaliy",
-      "value": 5
-    },
-    {
-      "rank": 18,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 19,
-      "name": "@wavesscalper",
+      "rank": 18,
+      "name": "Marina",
       "value": 5
     },
     {
+      "rank": 19,
+      "name": "Vitaliy",
+      "value": 4
+    },
+    {
       "rank": 20,
-      "name": "Marina",
-      "value": 5
+      "name": "@wavesscalper",
+      "value": 4
     },
     {
       "rank": 21,
@@ -1739,42 +1739,42 @@
     },
     {
       "rank": 27,
+      "name": "Crypto Panda",
+      "value": 3
+    },
+    {
+      "rank": 28,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 33,
-      "name": "Zero-sum Gamer",
-      "value": 2
-    },
-    {
       "rank": 34,
-      "name": "Crypto Panda",
+      "name": "Zero-sum Gamer",
       "value": 2
     },
     {
