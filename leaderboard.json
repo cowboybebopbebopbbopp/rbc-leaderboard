@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T06:14:30+00:00",
+  "updated": "2026-10-17T07:14:35+00:00",
   "count": 227,
   "has_movement": true,
   "all": [
@@ -1375,7 +1375,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 125
+      "value": 124
     },
     {
       "rank": 3,
@@ -1404,13 +1404,13 @@
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
-      "value": 38
+      "name": "Синдбад Мореход",
+      "value": 37
     },
     {
       "rank": 9,
-      "name": "Синдбад Мореход",
-      "value": 37
+      "name": "Zero-sum Gamer",
+      "value": 36
     },
     {
       "rank": 10,
@@ -1480,7 +1480,7 @@
     {
       "rank": 23,
       "name": "lefkorosos",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 24,
@@ -1806,16 +1806,11 @@
     },
     {
       "rank": 38,
-      "name": "L G",
-      "value": 1
-    },
-    {
-      "rank": 39,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Ponemonec",
       "value": 1
     }
