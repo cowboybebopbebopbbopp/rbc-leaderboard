@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T14:15:15+00:00",
+  "updated": "2026-10-17T15:15:25+00:00",
   "count": 227,
   "has_movement": true,
   "all": [
@@ -1370,7 +1370,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 237
+      "value": 234
     },
     {
       "rank": 2,
@@ -1671,22 +1671,22 @@
     },
     {
       "rank": 11,
-      "name": "Aся",
-      "value": 9
-    },
-    {
-      "rank": 12,
       "name": "Сергей",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Crypto Panda",
       "value": 7
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Viktor",
+      "value": 6
+    },
+    {
+      "rank": 14,
+      "name": "Aся",
       "value": 6
     },
     {
@@ -1731,27 +1731,27 @@
     },
     {
       "rank": 23,
-      "name": "Mikhail",
-      "value": 3
-    },
-    {
-      "rank": 24,
       "name": "AnTon",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Евгений",
+      "value": 2
+    },
+    {
+      "rank": 27,
+      "name": "Mikhail",
       "value": 2
     },
     {
