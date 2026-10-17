@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T08:14:40+00:00",
+  "updated": "2026-10-17T09:14:45+00:00",
   "count": 227,
   "has_movement": true,
   "all": [
@@ -1414,17 +1414,17 @@
     },
     {
       "rank": 10,
-      "name": "LlirikMK",
-      "value": 31
-    },
-    {
-      "rank": 11,
       "name": "Aся",
       "value": 30
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Князь Владимир С",
+      "value": 30
+    },
+    {
+      "rank": 12,
+      "name": "LlirikMK",
       "value": 30
     },
     {
@@ -1652,22 +1652,22 @@
     {
       "rank": 7,
       "name": "Князь Владимир С",
-      "value": 15
-    },
-    {
-      "rank": 8,
-      "name": "Aся",
       "value": 14
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": ".",
       "value": 14
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "a l",
       "value": 12
+    },
+    {
+      "rank": 10,
+      "name": "Aся",
+      "value": 11
     },
     {
       "rank": 11,
