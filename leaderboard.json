@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T17:16:02+00:00",
+  "updated": "2026-10-17T18:16:07+00:00",
   "count": 227,
   "has_movement": true,
   "all": [
@@ -623,39 +623,39 @@
     },
     {
       "rank": 104,
-      "name": "Роман",
-      "value": 9,
-      "move": -1
+      "name": "Snowflake ❄️",
+      "value": 10,
+      "move": 4
     },
     {
       "rank": 105,
-      "name": "***",
+      "name": "Роман",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 106,
-      "name": "Demius",
+      "name": "***",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 107,
-      "name": "AnTon",
+      "name": "Demius",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 108,
-      "name": "Sergey",
+      "name": "AnTon",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 109,
-      "name": "Snowflake ❄️",
+      "name": "Sergey",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 110,
@@ -1370,7 +1370,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 234
+      "value": 233
     },
     {
       "rank": 2,
@@ -1475,7 +1475,7 @@
     {
       "rank": 22,
       "name": "A.",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 23,
@@ -1499,22 +1499,22 @@
     },
     {
       "rank": 27,
-      "name": "@wavesscalper",
-      "value": 10
-    },
-    {
-      "rank": 28,
       "name": "Marina",
       "value": 10
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Александр",
+      "value": 9
+    },
+    {
+      "rank": 30,
+      "name": "@wavesscalper",
       "value": 9
     },
     {
@@ -1626,12 +1626,12 @@
     },
     {
       "rank": 2,
-      "name": "🅾🅻🅶🅰",
-      "value": 24
+      "name": "Archie",
+      "value": 23
     },
     {
       "rank": 3,
-      "name": "Archie",
+      "name": "🅾🅻🅶🅰",
       "value": 23
     },
     {
@@ -1786,26 +1786,31 @@
     },
     {
       "rank": 34,
-      "name": "Vladimir Magrin",
+      "name": "Snowflake ❄️",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Эдуард Анатольевич",
+      "name": "Vladimir Magrin",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Andrey Tukhkanen",
+      "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "Vlad",
+      "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
       "rank": 38,
+      "name": "Vlad",
+      "value": 1
+    },
+    {
+      "rank": 39,
       "name": "Ponemonec",
       "value": 1
     }
