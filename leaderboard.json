@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T16:15:32+00:00",
+  "updated": "2026-10-17T17:16:02+00:00",
   "count": 227,
   "has_movement": true,
   "all": [
@@ -605,15 +605,15 @@
     },
     {
       "rank": 101,
-      "name": "Олег",
-      "value": 10,
-      "move": -1
+      "name": "Marina",
+      "value": 11,
+      "move": 0
     },
     {
       "rank": 102,
-      "name": "Marina",
+      "name": "Олег",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 103,
@@ -1504,17 +1504,17 @@
     },
     {
       "rank": 28,
+      "name": "Marina",
+      "value": 10
+    },
+    {
+      "rank": 29,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 29,
-      "name": "Александр",
-      "value": 9
-    },
-    {
       "rank": 30,
-      "name": "Marina",
+      "name": "Александр",
       "value": 9
     },
     {
@@ -1716,12 +1716,12 @@
     },
     {
       "rank": 20,
-      "name": "ᴦоᴧод",
-      "value": 4
+      "name": "Marina",
+      "value": 5
     },
     {
       "rank": 21,
-      "name": "Marina",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
