@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T07:14:35+00:00",
+  "updated": "2026-10-17T08:14:40+00:00",
   "count": 227,
   "has_movement": true,
   "all": [
@@ -1415,7 +1415,7 @@
     {
       "rank": 10,
       "name": "LlirikMK",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 11,
@@ -1646,18 +1646,18 @@
     },
     {
       "rank": 6,
-      "name": "Aся",
-      "value": 17
-    },
-    {
-      "rank": 7,
       "name": "Руслан Иванов",
       "value": 17
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Князь Владимир С",
       "value": 15
+    },
+    {
+      "rank": 8,
+      "name": "Aся",
+      "value": 14
     },
     {
       "rank": 9,
@@ -1741,76 +1741,71 @@
     },
     {
       "rank": 25,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 2
-    },
-    {
-      "rank": 26,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Zero-sum Gamer",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Ponemonec",
       "value": 1
     }
