@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:15:02+00:00",
+  "updated": "2026-10-17T13:15:09+00:00",
   "count": 227,
   "has_movement": true,
   "all": [
@@ -677,39 +677,39 @@
     },
     {
       "rank": 113,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": -1
+      "name": "Crypto Panda",
+      "value": 8,
+      "move": 26
     },
     {
       "rank": 114,
-      "name": "Daniil",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 115,
-      "name": "Homelander",
+      "name": "Daniil",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 116,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "name": "Homelander",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 117,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": -1
+      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "value": 7,
+      "move": -2
     },
     {
       "rank": 118,
-      "name": "Crypto Panda",
+      "name": "Александр Николаев",
       "value": 6,
-      "move": 21
+      "move": -2
     },
     {
       "rank": 119,
@@ -1539,37 +1539,37 @@
     },
     {
       "rank": 35,
+      "name": "Crypto Panda",
+      "value": 7
+    },
+    {
+      "rank": 36,
       "name": "Юрий",
       "value": 6
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Aleksey",
       "value": 6
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Ponemonec",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Анастасия",
       "value": 5
     },
     {
-      "rank": 40,
-      "name": "ᴦоᴧод",
-      "value": 5
-    },
-    {
       "rank": 41,
-      "name": "Crypto Panda",
+      "name": "ᴦоᴧод",
       "value": 5
     },
     {
@@ -1626,13 +1626,13 @@
     },
     {
       "rank": 2,
-      "name": "Archie",
+      "name": "🅾🅻🅶🅰",
       "value": 24
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
-      "value": 24
+      "name": "Archie",
+      "value": 23
     },
     {
       "rank": 4,
@@ -1672,7 +1672,7 @@
     {
       "rank": 11,
       "name": "Aся",
-      "value": 10
+      "value": 9
     },
     {
       "rank": 12,
@@ -1681,37 +1681,37 @@
     },
     {
       "rank": 13,
+      "name": "Crypto Panda",
+      "value": 7
+    },
+    {
+      "rank": 14,
       "name": "Viktor",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "terminal lucidity",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Max",
       "value": 6
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Pavel",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Vitaliy",
       "value": 5
     },
     {
-      "rank": 18,
-      "name": "iDiklonius",
-      "value": 5
-    },
-    {
       "rank": 19,
-      "name": "Crypto Panda",
+      "name": "iDiklonius",
       "value": 5
     },
     {
