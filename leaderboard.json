@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T10:12:22+00:00",
+  "updated": "2026-10-18T11:12:23+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1732,82 +1732,82 @@
     },
     {
       "rank": 22,
-      "name": "Lina",
-      "value": 3
-    },
-    {
-      "rank": 23,
       "name": "AnTon",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Mikhail",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Zero-sum Gamer",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Andrey Tukhkanen",
+      "value": 1
+    },
+    {
+      "rank": 37,
+      "name": "Lina",
       "value": 1
     },
     {
