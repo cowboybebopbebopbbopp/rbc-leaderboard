@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T21:13:33+00:00",
+  "updated": "2026-10-18T22:13:42+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1450,13 +1450,13 @@
     },
     {
       "rank": 16,
-      "name": "terminal lucidity",
+      "name": "🤗",
       "value": 24
     },
     {
       "rank": 17,
-      "name": "🤗",
-      "value": 24
+      "name": "terminal lucidity",
+      "value": 23
     },
     {
       "rank": 18,
@@ -1465,18 +1465,18 @@
     },
     {
       "rank": 19,
-      "name": "Manis Love",
-      "value": 16
-    },
-    {
-      "rank": 20,
       "name": "Pavel",
       "value": 16
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "iDiklonius",
       "value": 16
+    },
+    {
+      "rank": 21,
+      "name": "Manis Love",
+      "value": 15
     },
     {
       "rank": 22,
