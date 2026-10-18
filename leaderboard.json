@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T15:12:58+00:00",
+  "updated": "2026-10-18T16:13:02+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1642,18 +1642,18 @@
     },
     {
       "rank": 4,
-      "name": "🅾🅻🅶🅰",
-      "value": 17
-    },
-    {
-      "rank": 5,
       "name": "SPM",
       "value": 16
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Руслан Иванов",
       "value": 15
+    },
+    {
+      "rank": 6,
+      "name": "🅾🅻🅶🅰",
+      "value": 14
     },
     {
       "rank": 7,
@@ -1717,18 +1717,18 @@
     },
     {
       "rank": 19,
-      "name": "terminal lucidity",
-      "value": 4
-    },
-    {
-      "rank": 20,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Marina",
       "value": 4
+    },
+    {
+      "rank": 21,
+      "name": "terminal lucidity",
+      "value": 2
     },
     {
       "rank": 22,
