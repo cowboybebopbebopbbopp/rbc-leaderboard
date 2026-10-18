@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T12:12:25+00:00",
+  "updated": "2026-10-18T13:12:27+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1416,7 +1416,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 10,
@@ -1426,7 +1426,7 @@
     {
       "rank": 11,
       "name": "Князь Владимир С",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 12,
@@ -1792,31 +1792,26 @@
     },
     {
       "rank": 34,
-      "name": "Эдуард Анатольевич",
-      "value": 1
-    },
-    {
-      "rank": 35,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Lina",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Ponemonec",
       "value": 1
     }
