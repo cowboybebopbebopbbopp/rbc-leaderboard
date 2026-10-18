@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T17:13:24+00:00",
+  "updated": "2026-10-18T18:13:26+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1396,7 +1396,7 @@
     {
       "rank": 5,
       "name": "🅾🅻🅶🅰",
-      "value": 55
+      "value": 54
     },
     {
       "rank": 6,
@@ -1440,13 +1440,13 @@
     },
     {
       "rank": 14,
-      "name": "Viktor",
+      "name": "Серхио Ле'Трас",
       "value": 27
     },
     {
       "rank": 15,
-      "name": "Серхио Ле'Трас",
-      "value": 27
+      "name": "Viktor",
+      "value": 25
     },
     {
       "rank": 16,
@@ -1485,22 +1485,22 @@
     },
     {
       "rank": 23,
-      "name": "lefkorosos",
-      "value": 12
-    },
-    {
-      "rank": 24,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Max",
       "value": 11
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "X888",
+      "value": 10
+    },
+    {
+      "rank": 26,
+      "name": "lefkorosos",
       "value": 10
     },
     {
@@ -1638,7 +1638,7 @@
     {
       "rank": 3,
       "name": "Синдбад Мореход",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 4,
@@ -1648,7 +1648,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 6,
