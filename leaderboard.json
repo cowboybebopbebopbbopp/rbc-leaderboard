@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T13:12:27+00:00",
+  "updated": "2026-10-18T14:12:28+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1376,7 +1376,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 229
+      "value": 227
     },
     {
       "rank": 2,
@@ -1451,7 +1451,7 @@
     {
       "rank": 16,
       "name": "terminal lucidity",
-      "value": 25
+      "value": 24
     },
     {
       "rank": 17,
@@ -1667,13 +1667,13 @@
     },
     {
       "rank": 9,
-      "name": "Князь Владимир С",
-      "value": 12
+      "name": "LlirikMK",
+      "value": 11
     },
     {
       "rank": 10,
-      "name": "LlirikMK",
-      "value": 11
+      "name": "Князь Владимир С",
+      "value": 10
     },
     {
       "rank": 11,
