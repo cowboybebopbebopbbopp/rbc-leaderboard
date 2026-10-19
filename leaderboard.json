@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T13:15:23+00:00",
+  "updated": "2026-10-19T14:15:26+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1386,7 +1386,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 101
+      "value": 100
     },
     {
       "rank": 4,
@@ -1450,18 +1450,18 @@
     },
     {
       "rank": 16,
-      "name": "Viktor",
-      "value": 23
-    },
-    {
-      "rank": 17,
       "name": ".",
       "value": 22
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "terminal lucidity",
       "value": 21
+    },
+    {
+      "rank": 18,
+      "name": "Viktor",
+      "value": 20
     },
     {
       "rank": 19,
@@ -1471,7 +1471,7 @@
     {
       "rank": 20,
       "name": "Manis Love",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 21,
@@ -1717,62 +1717,62 @@
     },
     {
       "rank": 19,
-      "name": "ᴦоᴧод",
-      "value": 4
-    },
-    {
-      "rank": 20,
       "name": "Marina",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "AnTon",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Mikhail",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Zero-sum Gamer",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "@wavesscalper",
+      "value": 2
+    },
+    {
+      "rank": 30,
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
