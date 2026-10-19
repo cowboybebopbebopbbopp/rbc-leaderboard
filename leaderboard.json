@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T23:13:44+00:00",
+  "updated": "2026-10-19T00:13:45+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -607,13 +607,13 @@
       "rank": 101,
       "name": "Marina",
       "value": 11,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 102,
       "name": "Олег",
       "value": 10,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 103,
@@ -625,37 +625,37 @@
       "rank": 104,
       "name": "Snowflake ❄️",
       "value": 10,
-      "move": 5
+      "move": 0
     },
     {
       "rank": 105,
       "name": "Роман",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 106,
       "name": "***",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 107,
       "name": "Demius",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 108,
       "name": "AnTon",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 109,
       "name": "Sergey",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 110,
@@ -679,37 +679,37 @@
       "rank": 113,
       "name": "Crypto Panda",
       "value": 8,
-      "move": 5
+      "move": 0
     },
     {
       "rank": 114,
       "name": "Ingvar 604",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 115,
       "name": "Daniil",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 116,
       "name": "Homelander",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 117,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 118,
       "name": "Александр Николаев",
       "value": 6,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 119,
@@ -1363,13 +1363,13 @@
       "rank": 227,
       "name": "E X O",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 228,
       "name": "vitaliy",
       "value": 0,
-      "move": -1
+      "move": 0
     }
   ],
   "month": [
@@ -1633,7 +1633,7 @@
     {
       "rank": 2,
       "name": "Archie",
-      "value": 22
+      "value": 20
     },
     {
       "rank": 3,
