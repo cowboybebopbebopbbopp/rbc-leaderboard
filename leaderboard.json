@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T04:13:52+00:00",
+  "updated": "2026-10-19T05:13:53+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1435,13 +1435,13 @@
     },
     {
       "rank": 13,
-      "name": "Юрий",
+      "name": "Серхио Ле'Трас",
       "value": 27
     },
     {
       "rank": 14,
-      "name": "Серхио Ле'Трас",
-      "value": 27
+      "name": "Юрий",
+      "value": 26
     },
     {
       "rank": 15,
@@ -1565,27 +1565,27 @@
     },
     {
       "rank": 39,
-      "name": "Юрий",
-      "value": 5
-    },
-    {
-      "rank": 40,
       "name": "Анастасия",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Roman Polyakov",
+      "value": 4
+    },
+    {
+      "rank": 43,
+      "name": "Юрий",
       "value": 4
     },
     {
@@ -1652,18 +1652,18 @@
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
-      "value": 13
-    },
-    {
-      "rank": 7,
       "name": ".",
       "value": 13
     },
     {
+      "rank": 7,
+      "name": "🅾🅻🅶🅰",
+      "value": 12
+    },
+    {
       "rank": 8,
       "name": "a l",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 9,
