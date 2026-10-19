@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T01:13:47+00:00",
+  "updated": "2026-10-19T02:13:48+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1495,37 +1495,37 @@
     },
     {
       "rank": 25,
-      "name": "lefkorosos",
-      "value": 10
-    },
-    {
-      "rank": 26,
       "name": "Marina",
       "value": 10
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Александр",
       "value": 9
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "X888",
       "value": 9
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "@wavesscalper",
       "value": 9
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "L G",
+      "value": 8
+    },
+    {
+      "rank": 31,
+      "name": "lefkorosos",
       "value": 8
     },
     {
