@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T14:15:26+00:00",
+  "updated": "2026-10-19T15:15:31+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1411,7 +1411,7 @@
     {
       "rank": 8,
       "name": "Vitaliy",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 9,
@@ -1461,7 +1461,7 @@
     {
       "rank": 18,
       "name": "Viktor",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 19,
@@ -1470,28 +1470,28 @@
     },
     {
       "rank": 20,
-      "name": "Manis Love",
-      "value": 14
-    },
-    {
-      "rank": 21,
-      "name": "A.",
-      "value": 13
-    },
-    {
-      "rank": 22,
       "name": "iDiklonius",
       "value": 13
     },
     {
-      "rank": 23,
+      "rank": 21,
+      "name": "Manis Love",
+      "value": 12
+    },
+    {
+      "rank": 22,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Max",
       "value": 11
+    },
+    {
+      "rank": 24,
+      "name": "A.",
+      "value": 10
     },
     {
       "rank": 25,
