@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T05:13:53+00:00",
+  "updated": "2026-10-19T06:13:55+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1446,7 +1446,7 @@
     {
       "rank": 15,
       "name": "Viktor",
-      "value": 25
+      "value": 24
     },
     {
       "rank": 16,
@@ -1470,12 +1470,12 @@
     },
     {
       "rank": 20,
-      "name": "iDiklonius",
-      "value": 16
+      "name": "Manis Love",
+      "value": 15
     },
     {
       "rank": 21,
-      "name": "Manis Love",
+      "name": "iDiklonius",
       "value": 15
     },
     {
@@ -1647,33 +1647,33 @@
     },
     {
       "rank": 5,
-      "name": "Руслан Иванов",
-      "value": 13
-    },
-    {
-      "rank": 6,
       "name": ".",
       "value": 13
     },
     {
-      "rank": 7,
-      "name": "🅾🅻🅶🅰",
+      "rank": 6,
+      "name": "Руслан Иванов",
       "value": 12
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "a l",
+      "value": 11
+    },
+    {
+      "rank": 8,
+      "name": "🅾🅻🅶🅰",
       "value": 11
     },
     {
       "rank": 9,
       "name": "LlirikMK",
-      "value": 11
+      "value": 10
     },
     {
       "rank": 10,
       "name": "Князь Владимир С",
-      "value": 9
+      "value": 8
     },
     {
       "rank": 11,
