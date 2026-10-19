@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T02:13:48+00:00",
+  "updated": "2026-10-19T03:13:50+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1455,13 +1455,13 @@
     },
     {
       "rank": 17,
-      "name": "terminal lucidity",
+      "name": ".",
       "value": 22
     },
     {
       "rank": 18,
-      "name": ".",
-      "value": 22
+      "name": "terminal lucidity",
+      "value": 21
     },
     {
       "rank": 19,
@@ -1550,23 +1550,23 @@
     },
     {
       "rank": 36,
-      "name": "Юрий",
-      "value": 6
-    },
-    {
-      "rank": 37,
       "name": "Aleksey",
       "value": 6
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Sergey",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Ponemonec",
       "value": 6
+    },
+    {
+      "rank": 39,
+      "name": "Юрий",
+      "value": 5
     },
     {
       "rank": 40,
