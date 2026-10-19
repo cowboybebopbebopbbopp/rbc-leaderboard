@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T15:15:31+00:00",
+  "updated": "2026-10-19T16:15:32+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1381,12 +1381,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 119
+      "value": 118
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 100
+      "value": 99
     },
     {
       "rank": 4,
@@ -1410,13 +1410,13 @@
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
+      "name": "Zero-sum Gamer",
       "value": 34
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
-      "value": 34
+      "name": "Vitaliy",
+      "value": 33
     },
     {
       "rank": 10,
@@ -1461,7 +1461,7 @@
     {
       "rank": 18,
       "name": "Viktor",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 19,
@@ -1540,22 +1540,22 @@
     },
     {
       "rank": 34,
-      "name": "@wavesscalper",
-      "value": 7
-    },
-    {
-      "rank": 35,
       "name": "Crypto Panda",
       "value": 7
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Aleksey",
       "value": 6
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Sergey",
+      "value": 6
+    },
+    {
+      "rank": 37,
+      "name": "@wavesscalper",
       "value": 6
     },
     {
@@ -1565,32 +1565,32 @@
     },
     {
       "rank": 39,
-      "name": "Анастасия",
-      "value": 5
-    },
-    {
-      "rank": 40,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "AnTon",
+      "value": 4
+    },
+    {
+      "rank": 44,
+      "name": "Анастасия",
       "value": 4
     },
     {
@@ -1628,7 +1628,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 39
+      "value": 36
     },
     {
       "rank": 2,
@@ -1647,12 +1647,12 @@
     },
     {
       "rank": 5,
-      "name": "SPM",
-      "value": 12
+      "name": "a l",
+      "value": 11
     },
     {
       "rank": 6,
-      "name": "a l",
+      "name": "SPM",
       "value": 11
     },
     {
