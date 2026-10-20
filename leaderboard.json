@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T09:06:37+00:00",
+  "updated": "2026-10-20T10:06:39+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1376,7 +1376,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 215
+      "value": 214
     },
     {
       "rank": 2,
@@ -1386,7 +1386,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 98
+      "value": 97
     },
     {
       "rank": 4,
@@ -1637,17 +1637,17 @@
     },
     {
       "rank": 3,
-      "name": ".",
-      "value": 13
-    },
-    {
-      "rank": 4,
       "name": "Archie",
       "value": 12
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Руслан Иванов",
+      "value": 11
+    },
+    {
+      "rank": 5,
+      "name": ".",
       "value": 11
     },
     {
@@ -1662,13 +1662,13 @@
     },
     {
       "rank": 8,
-      "name": "🅾🅻🅶🅰",
-      "value": 9
+      "name": "Князь Владимир С",
+      "value": 8
     },
     {
       "rank": 9,
-      "name": "Князь Владимир С",
-      "value": 8
+      "name": "🅾🅻🅶🅰",
+      "value": 7
     },
     {
       "rank": 10,
