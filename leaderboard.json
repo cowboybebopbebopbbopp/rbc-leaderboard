@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:06:55+00:00",
+  "updated": "2026-10-20T15:06:56+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4505,
+      "value": 4517,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1878,
+      "value": 1891,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 858,
+      "value": 869,
       "move": 0
     },
     {
@@ -168,7 +168,7 @@
     {
       "rank": 28,
       "name": "Manis Love",
-      "value": 204,
+      "value": 206,
       "move": 0
     },
     {
@@ -216,7 +216,7 @@
     {
       "rank": 36,
       "name": "Vitaliy",
-      "value": 132,
+      "value": 133,
       "move": 0
     },
     {
@@ -341,15 +341,15 @@
     },
     {
       "rank": 57,
-      "name": "AstronaVt",
-      "value": 66,
-      "move": 0
+      "name": "LlirikMK",
+      "value": 69,
+      "move": 1
     },
     {
       "rank": 58,
-      "name": "LlirikMK",
+      "name": "AstronaVt",
       "value": 66,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 59,
@@ -551,135 +551,135 @@
     },
     {
       "rank": 92,
-      "name": "vpidelks",
-      "value": 14,
-      "move": 0
+      "name": "Crypto Panda",
+      "value": 15,
+      "move": 21
     },
     {
       "rank": 93,
-      "name": "Aleksey",
+      "name": "vpidelks",
       "value": 14,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 94,
-      "name": "Антон",
-      "value": 13,
-      "move": 0
+      "name": "Aleksey",
+      "value": 14,
+      "move": -1
     },
     {
       "rank": 95,
-      "name": "ki6ers",
+      "name": "Антон",
       "value": 13,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 96,
-      "name": "Pike",
-      "value": 12,
-      "move": 0
+      "name": "ki6ers",
+      "value": 13,
+      "move": -1
     },
     {
       "rank": 97,
-      "name": "Анастасия",
+      "name": "Pike",
       "value": 12,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 98,
-      "name": "Евгений",
+      "name": "Анастасия",
       "value": 12,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 99,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Евгений",
       "value": 12,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 100,
-      "name": "Ponemonec",
-      "value": 11,
-      "move": 0
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 12,
+      "move": -1
     },
     {
       "rank": 101,
-      "name": "Marina",
+      "name": "Ponemonec",
       "value": 11,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 102,
-      "name": "Олег",
-      "value": 10,
-      "move": 0
+      "name": "Marina",
+      "value": 11,
+      "move": -1
     },
     {
       "rank": 103,
-      "name": "Dede",
+      "name": "Олег",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 104,
-      "name": "Snowflake ❄️",
+      "name": "Dede",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 105,
-      "name": "Роман",
-      "value": 9,
-      "move": 0
+      "name": "Snowflake ❄️",
+      "value": 10,
+      "move": -1
     },
     {
       "rank": 106,
-      "name": "***",
+      "name": "Роман",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 107,
-      "name": "Demius",
+      "name": "***",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 108,
-      "name": "AnTon",
+      "name": "Demius",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 109,
-      "name": "Sergey",
+      "name": "AnTon",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 110,
-      "name": "Юрий",
-      "value": 8,
-      "move": 0
+      "name": "Sergey",
+      "value": 9,
+      "move": -1
     },
     {
       "rank": 111,
-      "name": "xxx",
+      "name": "Юрий",
       "value": 8,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 112,
-      "name": "Kirill",
+      "name": "xxx",
       "value": 8,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 113,
-      "name": "Crypto Panda",
+      "name": "Kirill",
       "value": 8,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 114,
@@ -695,33 +695,33 @@
     },
     {
       "rank": 116,
-      "name": "Homelander",
+      "name": "Don Michele Corleone",
       "value": 7,
-      "move": 0
+      "move": 4
     },
     {
       "rank": 117,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "name": "Homelander",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 118,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": 0
+      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "value": 7,
+      "move": -1
     },
     {
       "rank": 119,
-      "name": "Капибара",
-      "value": 5,
-      "move": 0
+      "name": "Александр Николаев",
+      "value": 6,
+      "move": -1
     },
     {
       "rank": 120,
-      "name": "Don Michele Corleone",
+      "name": "Капибара",
       "value": 5,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 121,
@@ -1376,7 +1376,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 211
+      "value": 223
     },
     {
       "rank": 2,
@@ -1390,23 +1390,23 @@
     },
     {
       "rank": 4,
+      "name": "🅾🅻🅶🅰",
+      "value": 67
+    },
+    {
+      "rank": 5,
       "name": "SPM",
       "value": 61
     },
     {
-      "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 54
-    },
-    {
       "rank": 6,
-      "name": "Руслан Иванов",
-      "value": 46
+      "name": "Синдбад Мореход",
+      "value": 48
     },
     {
       "rank": 7,
-      "name": "Синдбад Мореход",
-      "value": 37
+      "name": "Руслан Иванов",
+      "value": 46
     },
     {
       "rank": 8,
@@ -1415,23 +1415,23 @@
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
+      "name": "Vitaliy",
       "value": 34
     },
     {
       "rank": 10,
-      "name": "Vitaliy",
-      "value": 33
+      "name": "Zero-sum Gamer",
+      "value": 34
     },
     {
       "rank": 11,
-      "name": "Aся",
-      "value": 30
+      "name": "LlirikMK",
+      "value": 31
     },
     {
       "rank": 12,
-      "name": "LlirikMK",
-      "value": 28
+      "name": "Aся",
+      "value": 30
     },
     {
       "rank": 13,
@@ -1470,72 +1470,72 @@
     },
     {
       "rank": 20,
+      "name": "Manis Love",
+      "value": 14
+    },
+    {
+      "rank": 21,
+      "name": "Crypto Panda",
+      "value": 14
+    },
+    {
+      "rank": 22,
       "name": "iDiklonius",
       "value": 13
     },
     {
-      "rank": 21,
-      "name": "Manis Love",
-      "value": 12
-    },
-    {
-      "rank": 22,
+      "rank": 23,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Max",
       "value": 11
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Marina",
       "value": 10
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "A.",
       "value": 9
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Александр",
       "value": 9
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "X888",
       "value": 9
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "L G",
       "value": 8
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "lefkorosos",
       "value": 8
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 32,
-      "name": "Сергей",
-      "value": 7
-    },
-    {
       "rank": 33,
-      "name": "Crypto Panda",
+      "name": "Сергей",
       "value": 7
     },
     {
@@ -1595,32 +1595,32 @@
     },
     {
       "rank": 45,
+      "name": "Don Michele Corleone",
+      "value": 4
+    },
+    {
+      "rank": 46,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Lina",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Dede",
       "value": 3
     },
     {
-      "rank": 49,
-      "name": "Mikhail",
-      "value": 3
-    },
-    {
       "rank": 50,
-      "name": "ilya Kalashnikov",
+      "name": "Mikhail",
       "value": 3
     }
   ],
@@ -1628,56 +1628,56 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 25
+      "value": 36
     },
     {
       "rank": 2,
       "name": "Синдбад Мореход",
-      "value": 17
+      "value": 28
     },
     {
       "rank": 3,
-      "name": "Князь Владимир С",
-      "value": 14
+      "name": "🅾🅻🅶🅰",
+      "value": 19
     },
     {
       "rank": 4,
+      "name": "Crypto Panda",
+      "value": 14
+    },
+    {
+      "rank": 5,
+      "name": "Князь Владимир С",
+      "value": 13
+    },
+    {
+      "rank": 6,
+      "name": "LlirikMK",
+      "value": 12
+    },
+    {
+      "rank": 7,
       "name": "Archie",
       "value": 11
     },
     {
-      "rank": 5,
+      "rank": 8,
       "name": "Руслан Иванов",
       "value": 11
     },
     {
-      "rank": 6,
+      "rank": 9,
       "name": ".",
       "value": 11
     },
     {
-      "rank": 7,
+      "rank": 10,
       "name": "SPM",
       "value": 9
     },
     {
-      "rank": 8,
-      "name": "LlirikMK",
-      "value": 9
-    },
-    {
-      "rank": 9,
-      "name": "Crypto Panda",
-      "value": 7
-    },
-    {
-      "rank": 10,
-      "name": "a l",
-      "value": 6
-    },
-    {
       "rank": 11,
-      "name": "🅾🅻🅶🅰",
+      "name": "a l",
       "value": 6
     },
     {
@@ -1707,86 +1707,96 @@
     },
     {
       "rank": 17,
-      "name": "Pavel",
+      "name": "Manis Love",
       "value": 2
     },
     {
       "rank": 18,
-      "name": "terminal lucidity",
+      "name": "Pavel",
       "value": 2
     },
     {
       "rank": 19,
-      "name": "AnTon",
+      "name": "terminal lucidity",
       "value": 2
     },
     {
       "rank": 20,
-      "name": "Aleksey",
+      "name": "AnTon",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "Charlie Shefelman",
+      "name": "Aleksey",
       "value": 2
     },
     {
       "rank": 22,
-      "name": "Евгений",
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "Mikhail",
+      "name": "Евгений",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "🤗",
+      "name": "Mikhail",
       "value": 2
     },
     {
       "rank": 25,
-      "name": "@wavesscalper",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "ᴦоᴧод",
+      "name": "@wavesscalper",
       "value": 2
     },
     {
       "rank": 27,
+      "name": "ᴦоᴧод",
+      "value": 2
+    },
+    {
+      "rank": 28,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 29,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 30,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 31,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 32,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 33,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 34,
       "name": "Zero-sum Gamer",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 35,
       "name": "Ponemonec",
       "value": 1
     }
