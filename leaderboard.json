@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T15:06:56+00:00",
+  "updated": "2026-10-20T16:06:54+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4517,
+      "value": 4523,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1891,
+      "value": 1894,
       "move": 0
     },
     {
@@ -366,7 +366,7 @@
     {
       "rank": 61,
       "name": "Andrey",
-      "value": 55,
+      "value": 56,
       "move": 0
     },
     {
@@ -545,15 +545,15 @@
     },
     {
       "rank": 91,
-      "name": "Turchyn Gennadii",
-      "value": 15,
-      "move": 0
+      "name": "Crypto Panda",
+      "value": 16,
+      "move": 22
     },
     {
       "rank": 92,
-      "name": "Crypto Panda",
+      "name": "Turchyn Gennadii",
       "value": 15,
-      "move": 21
+      "move": -1
     },
     {
       "rank": 93,
@@ -677,27 +677,27 @@
     },
     {
       "rank": 113,
-      "name": "Kirill",
+      "name": "Don Michele Corleone",
       "value": 8,
-      "move": -1
+      "move": 7
     },
     {
       "rank": 114,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": 0
+      "name": "Kirill",
+      "value": 8,
+      "move": -2
     },
     {
       "rank": 115,
-      "name": "Daniil",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 116,
-      "name": "Don Michele Corleone",
+      "name": "Daniil",
       "value": 7,
-      "move": 4
+      "move": -1
     },
     {
       "rank": 117,
@@ -1376,7 +1376,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 223
+      "value": 229
     },
     {
       "rank": 2,
@@ -1391,7 +1391,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 67
+      "value": 70
     },
     {
       "rank": 5,
@@ -1465,17 +1465,17 @@
     },
     {
       "rank": 19,
+      "name": "Crypto Panda",
+      "value": 15
+    },
+    {
+      "rank": 20,
       "name": "Viktor",
       "value": 14
     },
     {
-      "rank": 20,
-      "name": "Manis Love",
-      "value": 14
-    },
-    {
       "rank": 21,
-      "name": "Crypto Panda",
+      "name": "Manis Love",
       "value": 14
     },
     {
@@ -1495,27 +1495,27 @@
     },
     {
       "rank": 25,
-      "name": "Marina",
-      "value": 10
-    },
-    {
-      "rank": 26,
       "name": "A.",
       "value": 9
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Александр",
       "value": 9
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "X888",
+      "value": 9
+    },
+    {
+      "rank": 29,
+      "name": "Marina",
       "value": 9
     },
     {
@@ -1565,37 +1565,37 @@
     },
     {
       "rank": 39,
+      "name": "Don Michele Corleone",
+      "value": 5
+    },
+    {
+      "rank": 40,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "AnTon",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Анастасия",
       "value": 4
     },
     {
-      "rank": 44,
-      "name": "ᴦоᴧод",
-      "value": 4
-    },
-    {
       "rank": 45,
-      "name": "Don Michele Corleone",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
@@ -1628,7 +1628,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 36
+      "value": 41
     },
     {
       "rank": 2,
@@ -1638,17 +1638,17 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 19
+      "value": 22
     },
     {
       "rank": 4,
       "name": "Crypto Panda",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 5,
       "name": "Князь Владимир С",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 6,
@@ -1667,12 +1667,12 @@
     },
     {
       "rank": 9,
-      "name": ".",
-      "value": 11
+      "name": "SPM",
+      "value": 9
     },
     {
       "rank": 10,
-      "name": "SPM",
+      "name": ".",
       "value": 9
     },
     {
@@ -1707,22 +1707,22 @@
     },
     {
       "rank": 17,
+      "name": "Don Michele Corleone",
+      "value": 3
+    },
+    {
+      "rank": 18,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 19,
-      "name": "terminal lucidity",
-      "value": 2
-    },
-    {
       "rank": 20,
-      "name": "AnTon",
+      "name": "terminal lucidity",
       "value": 2
     },
     {
@@ -1762,27 +1762,27 @@
     },
     {
       "rank": 28,
-      "name": "Don Michele Corleone",
-      "value": 2
-    },
-    {
-      "rank": 29,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 30,
-      "name": "Vladimir Magrin",
+      "rank": 29,
+      "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Vlad",
+      "value": 1
+    },
+    {
+      "rank": 32,
+      "name": "Andrey",
       "value": 1
     },
     {
