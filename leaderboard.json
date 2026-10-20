@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T17:06:56+00:00",
+  "updated": "2026-10-20T18:06:58+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4523,
+      "value": 4524,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1865,
+      "value": 1866,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 686,
+      "value": 687,
       "move": 0
     },
     {
@@ -323,15 +323,15 @@
     },
     {
       "rank": 54,
-      "name": "Andrey Kuimov",
-      "value": 78,
-      "move": 0
+      "name": "Руслан Иванов",
+      "value": 79,
+      "move": 1
     },
     {
       "rank": 55,
-      "name": "Руслан Иванов",
-      "value": 76,
-      "move": 0
+      "name": "Andrey Kuimov",
+      "value": 78,
+      "move": -1
     },
     {
       "rank": 56,
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "LlirikMK",
-      "value": 69,
+      "value": 70,
       "move": 1
     },
     {
@@ -647,39 +647,39 @@
     },
     {
       "rank": 108,
-      "name": "Demius",
+      "name": "Don Michele Corleone",
       "value": 9,
-      "move": -1
+      "move": 12
     },
     {
       "rank": 109,
-      "name": "AnTon",
+      "name": "Demius",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 110,
-      "name": "Sergey",
+      "name": "AnTon",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 111,
-      "name": "Юрий",
-      "value": 8,
-      "move": -1
+      "name": "Sergey",
+      "value": 9,
+      "move": -2
     },
     {
       "rank": 112,
-      "name": "xxx",
+      "name": "Юрий",
       "value": 8,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 113,
-      "name": "Don Michele Corleone",
+      "name": "xxx",
       "value": 8,
-      "move": 7
+      "move": -2
     },
     {
       "rank": 114,
@@ -1376,22 +1376,22 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 229
+      "value": 230
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 110
+      "value": 109
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 95
+      "value": 96
     },
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 69
+      "value": 68
     },
     {
       "rank": 5,
@@ -1400,18 +1400,18 @@
     },
     {
       "rank": 6,
+      "name": "Руслан Иванов",
+      "value": 49
+    },
+    {
+      "rank": 7,
       "name": "Синдбад Мореход",
       "value": 48
     },
     {
-      "rank": 7,
-      "name": "Руслан Иванов",
-      "value": 46
-    },
-    {
       "rank": 8,
       "name": "Князь Владимир С",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 9,
@@ -1451,7 +1451,7 @@
     {
       "rank": 16,
       "name": "terminal lucidity",
-      "value": 21
+      "value": 19
     },
     {
       "rank": 17,
@@ -1481,7 +1481,7 @@
     {
       "rank": 22,
       "name": "iDiklonius",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 23,
@@ -1540,32 +1540,32 @@
     },
     {
       "rank": 34,
-      "name": "Сергей",
-      "value": 6
-    },
-    {
-      "rank": 35,
       "name": "Aleksey",
       "value": 6
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "@wavesscalper",
       "value": 6
     },
     {
+      "rank": 36,
+      "name": "Don Michele Corleone",
+      "value": 6
+    },
+    {
       "rank": 37,
-      "name": "Olga Goncharova",
+      "name": "Сергей",
       "value": 5
     },
     {
       "rank": 38,
-      "name": "Ponemonec",
+      "name": "Olga Goncharova",
       "value": 5
     },
     {
       "rank": 39,
-      "name": "Don Michele Corleone",
+      "name": "Ponemonec",
       "value": 5
     },
     {
@@ -1628,7 +1628,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 2,
@@ -1643,27 +1643,27 @@
     {
       "rank": 4,
       "name": "Crypto Panda",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 5,
-      "name": "Князь Владимир С",
-      "value": 12
+      "name": "Руслан Иванов",
+      "value": 14
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
-      "value": 11
+      "name": "Князь Владимир С",
+      "value": 13
     },
     {
       "rank": 7,
       "name": "Archie",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 8,
       "name": "LlirikMK",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 9,
@@ -1702,12 +1702,12 @@
     },
     {
       "rank": 16,
-      "name": "Aся",
-      "value": 3
+      "name": "Don Michele Corleone",
+      "value": 4
     },
     {
       "rank": 17,
-      "name": "Don Michele Corleone",
+      "name": "Aся",
       "value": 3
     },
     {
@@ -1732,37 +1732,37 @@
     },
     {
       "rank": 22,
-      "name": "Charlie Shefelman",
-      "value": 2
-    },
-    {
-      "rank": 23,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Mikhail",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Snowflake ❄️",
+      "value": 1
+    },
+    {
+      "rank": 28,
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
