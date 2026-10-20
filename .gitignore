@@ -27,3 +27,8 @@
 !oracle_art/
 !oracle_art/**
 !.nojekyll
+!status.json
+# сторож с GitHub Actions (stale-site-alert): без секретов, они в настройках репозитория
+!.github/
+!.github/workflows/
+!.github/workflows/stale-alert.yml

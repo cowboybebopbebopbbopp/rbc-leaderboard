@@ -1,0 +1,73 @@
+name: stale-site-alert
+# Третий эшелон сторожа трекера РБК (первые два живут на VPS: alerts.py — трекер
+# пишет владельцу сам, watchdog.py — cron на хосте пишет через бота Оракула).
+# Здесь две проверки раз в полчаса:
+#   1) сайт не обновлялся дольше 3 часов → VPS, трекер или публикация мертвы;
+#      пока стоит — напоминание раз в ~6 часов;
+#   2) status.json со свежим alert_at (≤ 40 мин) → сторож на VPS не смог
+#      достучаться до Telegram ни одним прокси и передал сообщение через сайт.
+# Секреты TG_BOT_TOKEN и TG_CHAT_ID — Settings → Secrets and variables → Actions.
+# Без секретов проверка молча ничего не шлёт (и не падает).
+on:
+  schedule:
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+permissions: {}
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Свежесть сайта и status.json
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          FORCE: ${{ github.event_name == 'workflow_dispatch' }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.parse, urllib.request
+          from datetime import datetime, timezone
+          now = datetime.now(timezone.utc)
+          base = "https://cowboybebopbebopbbopp.github.io/rbc-leaderboard/"
+          tok, chat = os.environ.get("TG_BOT_TOKEN"), os.environ.get("TG_CHAT_ID")
+          force = os.environ.get("FORCE") == "true"
+
+          def fetch(name):
+              req = urllib.request.Request(f"{base}{name}?t={int(now.timestamp())}", headers={"Cache-Control": "no-cache"})
+              return json.load(urllib.request.urlopen(req, timeout=30))
+
+          def send(text):
+              if not tok or not chat:
+                  print("нет секретов TG_BOT_TOKEN / TG_CHAT_ID — сообщение не отправлено:", text[:120])
+                  return
+              data = urllib.parse.urlencode({"chat_id": chat, "text": text[:3900]}).encode()
+              r = urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/sendMessage", data=data, timeout=30)
+              print("sent:", r.status)
+
+          # 1) свежесть leaderboard.json
+          try:
+              upd = datetime.fromisoformat(fetch("leaderboard.json")["updated"].replace("Z", "+00:00"))
+              age_h = (now - upd).total_seconds() / 3600
+              problem = f"сайт не обновлялся {age_h:.1f} ч (последняя публикация {upd:%d.%m %H:%M} UTC)" if age_h > 3 else None
+          except Exception as e:
+              age_h, problem = None, f"сайт не читается: {type(e).__name__}: {str(e)[:120]}"
+          print("age_h:", age_h, "| problem:", problem)
+          if age_h is None:
+              due = now.hour % 6 == 0 and now.minute < 30          # сайт недоступен: не чаще раза в 6 ч
+          else:
+              due = problem is not None and ((age_h - 3) % 6) < 0.6  # стоит: сразу после 3 ч, потом раз в ~6 ч
+          if force or due:
+              send("🚨 Сторож с GitHub: " + (problem or "тест, сайт в порядке") +
+                   "\nЕсли это не тест — VPS, трекер или публикация мертвы. RUNBOOK.md → раздел «VPS».")
+
+          # 2) status.json от сторожа на VPS (запасной канал, когда Telegram с VPS недоступен)
+          try:
+              st = fetch("status.json")
+              alert_at = datetime.fromisoformat(st["alert_at"].replace("Z", "+00:00"))
+              fresh_min = (now - alert_at).total_seconds() / 60
+              print("status.json alert_at:", st["alert_at"], f"({fresh_min:.0f} мин назад)")
+              if fresh_min <= 40 or force:
+                  send("🛠 Сторож на VPS (через GitHub, Telegram с VPS недоступен):\n" +
+                       "\n".join(st.get("lines", [])) + "\n— что делать: RUNBOOK.md, раздел «VPS»")
+          except Exception as e:
+              print("status.json:", type(e).__name__, str(e)[:120])
+          PY
