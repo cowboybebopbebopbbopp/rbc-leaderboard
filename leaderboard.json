@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:45:10+00:00",
+  "updated": "2026-10-20T19:01:14+00:00",
   "count": 229,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 687,
+      "value": 688,
       "move": 0
     },
     {
@@ -773,81 +773,81 @@
     },
     {
       "rank": 129,
-      "name": "Ilya",
-      "value": 3,
-      "move": 0
+      "name": "Renat 🇷🇺🏴‍☠️",
+      "value": 4,
+      "move": null
     },
     {
       "rank": 130,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 131,
-      "name": "Sviat",
+      "name": "Samurai_1",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 132,
-      "name": "1",
+      "name": "Sviat",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 133,
-      "name": "Neztor",
+      "name": "1",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 134,
-      "name": "Максим",
+      "name": "Neztor",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 135,
-      "name": "Денис Сергеевич",
+      "name": "Максим",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 136,
-      "name": "ц",
+      "name": "Денис Сергеевич",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 137,
-      "name": "Stepan",
+      "name": "ц",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 138,
-      "name": "Max⚡️",
+      "name": "Stepan",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 139,
-      "name": "İl",
+      "name": "Max⚡️",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 140,
-      "name": "Roman",
+      "name": "İl",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 141,
-      "name": "Renat 🇷🇺🏴‍☠️",
+      "name": "Roman",
       "value": 3,
-      "move": null
+      "move": -1
     },
     {
       "rank": 142,
@@ -1417,7 +1417,7 @@
     {
       "rank": 8,
       "name": "Князь Владимир С",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 9,
@@ -1653,13 +1653,13 @@
     },
     {
       "rank": 5,
-      "name": "Crypto Panda",
+      "name": "Князь Владимир С",
       "value": 14
     },
     {
       "rank": 6,
-      "name": "Князь Владимир С",
-      "value": 13
+      "name": "Crypto Panda",
+      "value": 14
     },
     {
       "rank": 7,
@@ -1788,6 +1788,11 @@
     },
     {
       "rank": 32,
+      "name": "Renat 🇷🇺🏴‍☠️",
+      "value": 1
+    },
+    {
+      "rank": 33,
       "name": "Ponemonec",
       "value": 1
     }
