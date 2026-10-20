@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T11:06:41+00:00",
+  "updated": "2026-10-20T12:06:43+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -1376,7 +1376,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 214
+      "value": 213
     },
     {
       "rank": 2,
@@ -1386,7 +1386,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 96
+      "value": 95
     },
     {
       "rank": 4,
@@ -1595,32 +1595,32 @@
     },
     {
       "rank": 45,
-      "name": "Константин",
-      "value": 3
-    },
-    {
-      "rank": 46,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 48,
-      "name": "Евгений",
-      "value": 3
-    },
-    {
-      "rank": 49,
+      "rank": 47,
       "name": "Lina",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 48,
       "name": "Dede",
+      "value": 3
+    },
+    {
+      "rank": 49,
+      "name": "Mikhail",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "ilya Kalashnikov",
       "value": 3
     }
   ],
@@ -1628,7 +1628,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 2,
