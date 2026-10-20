@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T13:06:44+00:00",
+  "updated": "2026-10-20T14:06:55+00:00",
   "count": 228,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 678,
+      "value": 686,
       "move": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 212
+      "value": 211
     },
     {
       "rank": 2,
@@ -1410,23 +1410,23 @@
     },
     {
       "rank": 8,
+      "name": "Князь Владимир С",
+      "value": 36
+    },
+    {
+      "rank": 9,
       "name": "Zero-sum Gamer",
       "value": 34
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Vitaliy",
       "value": 33
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Aся",
       "value": 30
-    },
-    {
-      "rank": 11,
-      "name": "Князь Владимир С",
-      "value": 28
     },
     {
       "rank": 12,
@@ -1628,7 +1628,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 27
+      "value": 25
     },
     {
       "rank": 2,
@@ -1637,33 +1637,33 @@
     },
     {
       "rank": 3,
-      "name": "Archie",
-      "value": 12
+      "name": "Князь Владимир С",
+      "value": 14
     },
     {
       "rank": 4,
-      "name": "Руслан Иванов",
+      "name": "Archie",
       "value": 11
     },
     {
       "rank": 5,
-      "name": ".",
+      "name": "Руслан Иванов",
       "value": 11
     },
     {
       "rank": 6,
+      "name": ".",
+      "value": 11
+    },
+    {
+      "rank": 7,
       "name": "SPM",
       "value": 9
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "LlirikMK",
       "value": 9
-    },
-    {
-      "rank": 8,
-      "name": "🅾🅻🅶🅰",
-      "value": 7
     },
     {
       "rank": 9,
@@ -1677,126 +1677,116 @@
     },
     {
       "rank": 11,
-      "name": "Viktor",
+      "name": "🅾🅻🅶🅰",
       "value": 6
     },
     {
       "rank": 12,
-      "name": "Князь Владимир С",
-      "value": 6
-    },
-    {
-      "rank": 13,
       "name": "Max",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 16,
-      "name": "iDiklonius",
-      "value": 4
-    },
-    {
-      "rank": 17,
+      "rank": 15,
       "name": "Marina",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 16,
       "name": "Aся",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 17,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 18,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 19,
       "name": "AnTon",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 20,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 21,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 22,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 23,
       "name": "Mikhail",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 24,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 25,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 26,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 27,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 28,
       "name": "Vladimir Magrin",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 29,
       "name": "Andrey Tukhkanen",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 30,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 31,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 32,
       "name": "Zero-sum Gamer",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 33,
       "name": "Ponemonec",
       "value": 1
     }
