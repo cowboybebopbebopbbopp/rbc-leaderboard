@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T21:11:59+00:00",
+  "updated": "2026-10-20T21:42:05+00:00",
   "count": 230,
   "has_movement": true,
   "all": [
@@ -743,43 +743,43 @@
     },
     {
       "rank": 124,
-      "name": "Sila",
-      "value": 4,
-      "move": 0
-    },
-    {
-      "rank": 125,
-      "name": "xv",
-      "value": 4,
-      "move": 0
-    },
-    {
-      "rank": 126,
-      "name": "Slawik",
-      "value": 4,
-      "move": 0
-    },
-    {
-      "rank": 127,
-      "name": "Артем",
-      "value": 4,
-      "move": 0
-    },
-    {
-      "rank": 128,
-      "name": "Simany",
-      "value": 4,
-      "move": 0
-    },
-    {
-      "rank": 129,
-      "name": "Renat 🇷🇺🏴‍☠️",
-      "value": 4,
+      "name": "🌝",
+      "value": 5,
       "move": null
     },
     {
+      "rank": 125,
+      "name": "Sila",
+      "value": 4,
+      "move": -1
+    },
+    {
+      "rank": 126,
+      "name": "xv",
+      "value": 4,
+      "move": -1
+    },
+    {
+      "rank": 127,
+      "name": "Slawik",
+      "value": 4,
+      "move": -1
+    },
+    {
+      "rank": 128,
+      "name": "Артем",
+      "value": 4,
+      "move": -1
+    },
+    {
+      "rank": 129,
+      "name": "Simany",
+      "value": 4,
+      "move": -1
+    },
+    {
       "rank": 130,
-      "name": "🌝",
+      "name": "Renat 🇷🇺🏴‍☠️",
       "value": 4,
       "move": null
     },
@@ -1689,13 +1689,13 @@
     },
     {
       "rank": 11,
-      "name": "a l",
+      "name": "Max",
       "value": 6
     },
     {
       "rank": 12,
-      "name": "Max",
-      "value": 6
+      "name": "a l",
+      "value": 5
     },
     {
       "rank": 13,
@@ -1769,47 +1769,47 @@
     },
     {
       "rank": 27,
+      "name": "🌝",
+      "value": 2
+    },
+    {
+      "rank": 28,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Александр",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Zero-sum Gamer",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 34,
-      "name": "Ponemonec",
-      "value": 1
-    },
-    {
       "rank": 35,
-      "name": "🌝",
+      "name": "Ponemonec",
       "value": 1
     }
   ]
