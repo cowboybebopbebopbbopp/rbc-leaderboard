@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:43:34+00:00",
+  "updated": "2026-10-20T18:45:10+00:00",
   "count": 229,
   "has_movement": true,
   "all": [
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "LlirikMK",
-      "value": 70,
+      "value": 71,
       "move": 1
     },
     {
@@ -1426,12 +1426,12 @@
     },
     {
       "rank": 10,
-      "name": "Vitaliy",
-      "value": 31
+      "name": "LlirikMK",
+      "value": 32
     },
     {
       "rank": 11,
-      "name": "LlirikMK",
+      "name": "Vitaliy",
       "value": 31
     },
     {
@@ -1487,7 +1487,7 @@
     {
       "rank": 22,
       "name": "iDiklonius",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 23,
@@ -1663,12 +1663,12 @@
     },
     {
       "rank": 7,
-      "name": "Archie",
-      "value": 11
+      "name": "LlirikMK",
+      "value": 12
     },
     {
       "rank": 8,
-      "name": "LlirikMK",
+      "name": "Archie",
       "value": 11
     },
     {
@@ -1752,12 +1752,12 @@
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "@wavesscalper",
       "value": 2
     },
