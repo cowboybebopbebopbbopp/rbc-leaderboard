@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T22:42:21+00:00",
+  "updated": "2026-10-20T23:09:57+00:00",
   "count": 231,
   "has_movement": true,
   "all": [
@@ -1701,7 +1701,7 @@
     {
       "rank": 12,
       "name": "a l",
-      "value": 5
+      "value": 4
     },
     {
       "rank": 13,
@@ -1770,47 +1770,47 @@
     },
     {
       "rank": 26,
-      "name": "@wavesscalper",
-      "value": 2
-    },
-    {
-      "rank": 27,
       "name": "🌝",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "zomg",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Александр",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Zero-sum Gamer",
+      "value": 1
+    },
+    {
+      "rank": 34,
+      "name": "@wavesscalper",
       "value": 1
     },
     {
