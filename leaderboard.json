@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:41:38+00:00",
+  "updated": "2026-10-20T20:09:55+00:00",
   "count": 229,
   "has_movement": true,
   "all": [
@@ -173,27 +173,27 @@
     },
     {
       "rank": 29,
-      "name": "Константин",
+      "name": ".",
       "value": 169,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 30,
-      "name": "Юрий",
-      "value": 163,
-      "move": 0
+      "name": "Константин",
+      "value": 169,
+      "move": -1
     },
     {
       "rank": 31,
       "name": "Юрий",
-      "value": 162,
-      "move": 0
+      "value": 163,
+      "move": -1
     },
     {
       "rank": 32,
-      "name": ".",
-      "value": 161,
-      "move": 0
+      "name": "Юрий",
+      "value": 162,
+      "move": -1
     },
     {
       "rank": 33,
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "LlirikMK",
-      "value": 72,
+      "value": 73,
       "move": 1
     },
     {
@@ -1421,13 +1421,13 @@
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
+      "name": "LlirikMK",
       "value": 34
     },
     {
       "rank": 10,
-      "name": "LlirikMK",
-      "value": 33
+      "name": "Zero-sum Gamer",
+      "value": 34
     },
     {
       "rank": 11,
@@ -1441,27 +1441,27 @@
     },
     {
       "rank": 13,
+      "name": ".",
+      "value": 27
+    },
+    {
+      "rank": 14,
       "name": "Серхио Ле'Трас",
       "value": 25
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "🤗",
       "value": 24
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Юрий",
       "value": 22
     },
     {
-      "rank": 16,
-      "name": "terminal lucidity",
-      "value": 19
-    },
-    {
       "rank": 17,
-      "name": ".",
+      "name": "terminal lucidity",
       "value": 19
     },
     {
@@ -1648,38 +1648,38 @@
     },
     {
       "rank": 4,
-      "name": "Руслан Иванов",
-      "value": 15
+      "name": ".",
+      "value": 16
     },
     {
       "rank": 5,
-      "name": "Князь Владимир С",
+      "name": "Руслан Иванов",
       "value": 14
     },
     {
       "rank": 6,
-      "name": "Crypto Panda",
+      "name": "Князь Владимир С",
       "value": 14
     },
     {
       "rank": 7,
-      "name": "LlirikMK",
-      "value": 12
+      "name": "Crypto Panda",
+      "value": 14
     },
     {
       "rank": 8,
+      "name": "LlirikMK",
+      "value": 13
+    },
+    {
+      "rank": 9,
       "name": "Archie",
       "value": 11
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "SPM",
       "value": 9
-    },
-    {
-      "rank": 10,
-      "name": ".",
-      "value": 8
     },
     {
       "rank": 11,
