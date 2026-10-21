@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T17:03:33+00:00",
+  "updated": "2026-10-21T17:33:41+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 870,
+      "value": 871,
       "move": 0
     },
     {
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "Andrey Tugarin",
-      "value": 129,
+      "value": 130,
       "move": 0
     },
     {
@@ -1436,7 +1436,7 @@
     {
       "rank": 7,
       "name": "Синдбад Мореход",
-      "value": 49
+      "value": 50
     },
     {
       "rank": 8,
@@ -1668,7 +1668,7 @@
     {
       "rank": 3,
       "name": "Синдбад Мореход",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 4,
@@ -1807,46 +1807,51 @@
     },
     {
       "rank": 31,
-      "name": "Snowflake ❄️",
+      "name": "Andrey Tugarin",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Виталий",
+      "name": "Snowflake ❄️",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "E X O",
+      "name": "Виталий",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Logrus",
+      "name": "E X O",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "iDiklonius",
+      "name": "Logrus",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Charlie Shefelman",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "Vlad",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 38,
-      "name": "Роман",
+      "name": "Vlad",
       "value": 1
     },
     {
       "rank": 39,
+      "name": "Роман",
+      "value": 1
+    },
+    {
+      "rank": 40,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 1
     }
