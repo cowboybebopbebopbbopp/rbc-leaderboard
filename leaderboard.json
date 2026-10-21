@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T15:33:07+00:00",
+  "updated": "2026-10-21T16:00:30+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1899,
+      "value": 1901,
       "move": 0
     },
     {
@@ -581,27 +581,27 @@
     },
     {
       "rank": 97,
-      "name": "Антон",
-      "value": 13,
-      "move": -3
+      "name": "Евгений",
+      "value": 14,
+      "move": 1
     },
     {
       "rank": 98,
-      "name": "ki6ers",
+      "name": "Антон",
       "value": 13,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 99,
-      "name": "Pike",
-      "value": 12,
-      "move": -3
+      "name": "ki6ers",
+      "value": 13,
+      "move": -4
     },
     {
       "rank": 100,
-      "name": "Евгений",
+      "name": "Pike",
       "value": 12,
-      "move": -2
+      "move": -4
     },
     {
       "rank": 101,
@@ -1411,7 +1411,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 104
+      "value": 103
     },
     {
       "rank": 3,
@@ -1421,7 +1421,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 73
+      "value": 75
     },
     {
       "rank": 5,
@@ -1595,62 +1595,62 @@
     },
     {
       "rank": 39,
-      "name": "Сергей",
-      "value": 5
-    },
-    {
-      "rank": 40,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Ponemonec",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "AnTon",
       "value": 4
     },
     {
+      "rank": 45,
+      "name": "Сергей",
+      "value": 4
+    },
+    {
       "rank": 46,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Евгений",
       "value": 4
     },
     {
       "rank": 47,
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 4
+    },
+    {
+      "rank": 48,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 49,
-      "name": "Lina",
-      "value": 3
-    },
-    {
       "rank": 50,
-      "name": "Dede",
+      "name": "Lina",
       "value": 3
     }
   ],
@@ -1662,13 +1662,13 @@
     },
     {
       "rank": 2,
-      "name": "Синдбад Мореход",
-      "value": 27
+      "name": "🅾🅻🅶🅰",
+      "value": 28
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
-      "value": 26
+      "name": "Синдбад Мореход",
+      "value": 27
     },
     {
       "rank": 4,
@@ -1727,57 +1727,57 @@
     },
     {
       "rank": 15,
-      "name": "Vitaliy",
-      "value": 4
-    },
-    {
-      "rank": 16,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Don Michele Corleone",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 20,
-      "name": "Aся",
+      "rank": 19,
+      "name": "Vitaliy",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Анастасия",
+      "value": 2
+    },
+    {
+      "rank": 25,
+      "name": "Евгений",
       "value": 2
     },
     {
