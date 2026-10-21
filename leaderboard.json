@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T03:43:26+00:00",
+  "updated": "2026-10-21T04:10:00+00:00",
   "count": 232,
   "has_movement": true,
   "all": [
@@ -1405,7 +1405,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 112
+      "value": 111
     },
     {
       "rank": 3,
@@ -1821,16 +1821,11 @@
     },
     {
       "rank": 35,
-      "name": "@wavesscalper",
-      "value": 1
-    },
-    {
-      "rank": 36,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Ponemonec",
       "value": 1
     }
