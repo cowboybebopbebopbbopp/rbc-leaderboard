@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T19:04:04+00:00",
+  "updated": "2026-10-21T19:19:21+00:00",
   "count": 234,
   "has_movement": true,
   "all": [
@@ -1541,27 +1541,27 @@
     },
     {
       "rank": 27,
-      "name": "PiratesOfMining",
-      "value": 8
-    },
-    {
-      "rank": 28,
       "name": "L G",
       "value": 8
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Max",
       "value": 8
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "A.",
       "value": 7
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "DenisNazarov",
+      "value": 7
+    },
+    {
+      "rank": 31,
+      "name": "PiratesOfMining",
       "value": 7
     },
     {
