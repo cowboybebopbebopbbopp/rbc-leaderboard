@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T04:13:31+00:00",
+  "updated": "2026-10-21T04:43:37+00:00",
   "count": 232,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4524,
+      "value": 4525,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1331,
+      "value": 1332,
       "move": 0
     },
     {
@@ -71,15 +71,15 @@
     },
     {
       "rank": 12,
-      "name": "Axel",
+      "name": "Князь Владимир С",
       "value": 690,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 13,
-      "name": "Князь Владимир С",
-      "value": 689,
-      "move": 0
+      "name": "Axel",
+      "value": 690,
+      "move": -1
     },
     {
       "rank": 14,
@@ -1400,12 +1400,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 229
+      "value": 230
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 111
+      "value": 112
     },
     {
       "rank": 3,
@@ -1435,17 +1435,17 @@
     {
       "rank": 8,
       "name": "Князь Владимир С",
-      "value": 39
+      "value": 40
     },
     {
       "rank": 9,
-      "name": "LlirikMK",
+      "name": "Zero-sum Gamer",
       "value": 34
     },
     {
       "rank": 10,
-      "name": "Zero-sum Gamer",
-      "value": 34
+      "name": "LlirikMK",
+      "value": 32
     },
     {
       "rank": 11,
@@ -1652,7 +1652,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 2,
@@ -1666,13 +1666,13 @@
     },
     {
       "rank": 4,
-      "name": ".",
+      "name": "Князь Владимир С",
       "value": 16
     },
     {
       "rank": 5,
-      "name": "Князь Владимир С",
-      "value": 15
+      "name": ".",
+      "value": 16
     },
     {
       "rank": 6,
@@ -1696,13 +1696,13 @@
     },
     {
       "rank": 10,
-      "name": "SPM",
+      "name": "a l",
       "value": 9
     },
     {
       "rank": 11,
-      "name": "a l",
-      "value": 8
+      "name": "SPM",
+      "value": 9
     },
     {
       "rank": 12,
