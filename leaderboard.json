@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T10:32:06+00:00",
+  "updated": "2026-10-21T11:00:25+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1866,
+      "value": 1867,
       "move": 0
     },
     {
@@ -210,7 +210,7 @@
     {
       "rank": 35,
       "name": "Александр",
-      "value": 145,
+      "value": 146,
       "move": 0
     },
     {
@@ -1416,7 +1416,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 96
+      "value": 97
     },
     {
       "rank": 4,
@@ -1511,7 +1511,7 @@
     {
       "rank": 22,
       "name": "iDiklonius",
-      "value": 13
+      "value": 11
     },
     {
       "rank": 23,
@@ -1521,7 +1521,7 @@
     {
       "rank": 24,
       "name": "Александр",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 25,
@@ -1692,28 +1692,28 @@
     },
     {
       "rank": 8,
+      "name": "Archie",
+      "value": 10
+    },
+    {
+      "rank": 9,
       "name": "a l",
       "value": 9
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "SPM",
       "value": 9
     },
     {
-      "rank": 10,
-      "name": "Archie",
-      "value": 9
-    },
-    {
       "rank": 11,
-      "name": "LlirikMK",
+      "name": "Zero-sum Gamer",
       "value": 9
     },
     {
       "rank": 12,
-      "name": "Zero-sum Gamer",
-      "value": 9
+      "name": "LlirikMK",
+      "value": 8
     },
     {
       "rank": 13,
@@ -1747,17 +1747,17 @@
     },
     {
       "rank": 19,
-      "name": "Pavel",
-      "value": 3
-    },
-    {
-      "rank": 20,
       "name": "Aся",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Manis Love",
+      "value": 2
+    },
+    {
+      "rank": 21,
+      "name": "Pavel",
       "value": 2
     },
     {
@@ -1782,67 +1782,62 @@
     },
     {
       "rank": 26,
-      "name": "Andrey",
+      "name": "Александр",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "🤗",
+      "name": "Andrey",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "🌝",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 29,
+      "name": "🌝",
+      "value": 2
+    },
+    {
+      "rank": 30,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 35,
-      "name": "Vlad",
-      "value": 1
-    },
-    {
       "rank": 36,
-      "name": "Александр",
+      "name": "Vlad",
       "value": 1
     },
     {
       "rank": 37,
       "name": "Renat 🇷🇺🏴‍☠️",
-      "value": 1
-    },
-    {
-      "rank": 38,
-      "name": "Ponemonec",
       "value": 1
     }
   ]
