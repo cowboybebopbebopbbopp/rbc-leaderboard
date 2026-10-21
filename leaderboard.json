@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T08:44:26+00:00",
+  "updated": "2026-10-21T09:10:05+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -1406,7 +1406,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 227
+      "value": 226
     },
     {
       "rank": 2,
@@ -1476,7 +1476,7 @@
     {
       "rank": 15,
       "name": "🤗",
-      "value": 24
+      "value": 22
     },
     {
       "rank": 16,
@@ -1555,17 +1555,17 @@
     },
     {
       "rank": 31,
-      "name": "lefkorosos",
-      "value": 8
-    },
-    {
-      "rank": 32,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Сергей",
+      "value": 7
+    },
+    {
+      "rank": 33,
+      "name": "lefkorosos",
       "value": 7
     },
     {
