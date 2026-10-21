@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T12:32:29+00:00",
+  "updated": "2026-10-21T13:00:25+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1868,
+      "value": 1869,
       "move": 0
     },
     {
@@ -324,7 +324,7 @@
     {
       "rank": 54,
       "name": "Руслан Иванов",
-      "value": 82,
+      "value": 83,
       "move": 1
     },
     {
@@ -503,21 +503,21 @@
     },
     {
       "rank": 84,
-      "name": "Pavel",
-      "value": 18,
-      "move": 5
+      "name": "Crypto Panda",
+      "value": 19,
+      "move": 29
     },
     {
       "rank": 85,
-      "name": "Алина",
+      "name": "Pavel",
       "value": 18,
-      "move": -1
+      "move": 4
     },
     {
       "rank": 86,
-      "name": "Crypto Panda",
+      "name": "Алина",
       "value": 18,
-      "move": 27
+      "move": -2
     },
     {
       "rank": 87,
@@ -1411,12 +1411,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 108
+      "value": 107
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 98
+      "value": 99
     },
     {
       "rank": 4,
@@ -1431,7 +1431,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 7,
@@ -1490,12 +1490,12 @@
     },
     {
       "rank": 18,
-      "name": "Pavel",
-      "value": 17
+      "name": "Crypto Panda",
+      "value": 18
     },
     {
       "rank": 19,
-      "name": "Crypto Panda",
+      "name": "Pavel",
       "value": 17
     },
     {
@@ -1678,7 +1678,7 @@
     {
       "rank": 5,
       "name": "Crypto Panda",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 6,
@@ -1688,16 +1688,16 @@
     {
       "rank": 7,
       "name": "Руслан Иванов",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 8,
-      "name": "SPM",
-      "value": 11
+      "name": "Archie",
+      "value": 12
     },
     {
       "rank": 9,
-      "name": "Archie",
+      "name": "SPM",
       "value": 11
     },
     {
