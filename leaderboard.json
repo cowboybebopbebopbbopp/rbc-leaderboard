@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T15:03:01+00:00",
+  "updated": "2026-10-21T15:33:07+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1897,
+      "value": 1899,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 169,
+      "value": 170,
       "move": 3
     },
     {
@@ -617,27 +617,27 @@
     },
     {
       "rank": 103,
-      "name": "Олег",
+      "name": "Роман",
       "value": 10,
-      "move": -1
+      "move": 2
     },
     {
       "rank": 104,
-      "name": "Dede",
+      "name": "Олег",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 105,
-      "name": "Snowflake ❄️",
+      "name": "Dede",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 106,
-      "name": "Роман",
-      "value": 9,
-      "move": -1
+      "name": "Snowflake ❄️",
+      "value": 10,
+      "move": -2
     },
     {
       "rank": 107,
@@ -1406,12 +1406,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 222
+      "value": 220
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 105
+      "value": 104
     },
     {
       "rank": 3,
@@ -1421,7 +1421,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 71
+      "value": 73
     },
     {
       "rank": 5,
@@ -1668,7 +1668,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 24
+      "value": 26
     },
     {
       "rank": 4,
@@ -1683,7 +1683,7 @@
     {
       "rank": 6,
       "name": ".",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 7,
@@ -1842,6 +1842,11 @@
     },
     {
       "rank": 38,
+      "name": "Роман",
+      "value": 1
+    },
+    {
+      "rank": 39,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 1
     }
