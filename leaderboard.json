@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T05:43:49+00:00",
+  "updated": "2026-10-21T06:10:02+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -713,21 +713,21 @@
     },
     {
       "rank": 119,
-      "name": "Александр Николаев",
+      "name": "Виталий",
       "value": 6,
-      "move": -1
+      "move": 2
     },
     {
       "rank": 120,
-      "name": "Капибара",
-      "value": 5,
-      "move": -1
+      "name": "Александр Николаев",
+      "value": 6,
+      "move": -2
     },
     {
       "rank": 121,
-      "name": "Виталий",
+      "name": "Капибара",
       "value": 5,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 122,
@@ -1406,12 +1406,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 230
+      "value": 229
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 112
+      "value": 111
     },
     {
       "rank": 3,
@@ -1692,22 +1692,22 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
-      "value": 11
-    },
-    {
-      "rank": 9,
       "name": "LlirikMK",
       "value": 11
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "a l",
       "value": 9
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "SPM",
+      "value": 9
+    },
+    {
+      "rank": 11,
+      "name": "Archie",
       "value": 9
     },
     {
@@ -1797,46 +1797,51 @@
     },
     {
       "rank": 29,
-      "name": "E X O",
+      "name": "Виталий",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "Logrus",
+      "name": "E X O",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "iDiklonius",
+      "name": "Logrus",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Charlie Shefelman",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Vlad",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Александр",
+      "name": "Vlad",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Zero-sum Gamer",
+      "name": "Александр",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Renat 🇷🇺🏴‍☠️",
+      "name": "Zero-sum Gamer",
       "value": 1
     },
     {
       "rank": 37,
+      "name": "Renat 🇷🇺🏴‍☠️",
+      "value": 1
+    },
+    {
+      "rank": 38,
       "name": "Ponemonec",
       "value": 1
     }
