@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T08:14:20+00:00",
+  "updated": "2026-10-21T08:44:26+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -1406,7 +1406,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 229
+      "value": 227
     },
     {
       "rank": 2,
@@ -1481,7 +1481,7 @@
     {
       "rank": 16,
       "name": "Юрий",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 17,
@@ -1777,71 +1777,66 @@
     },
     {
       "rank": 25,
-      "name": "Mikhail",
-      "value": 2
-    },
-    {
-      "rank": 26,
       "name": "Andrey",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "🌝",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Александр",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Ponemonec",
       "value": 1
     }
