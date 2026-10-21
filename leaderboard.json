@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T14:32:54+00:00",
+  "updated": "2026-10-21T15:00:25+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1896,
+      "value": 1897,
       "move": 0
     },
     {
@@ -168,7 +168,7 @@
     {
       "rank": 28,
       "name": "Manis Love",
-      "value": 206,
+      "value": 207,
       "move": 0
     },
     {
@@ -563,57 +563,57 @@
     },
     {
       "rank": 94,
-      "name": "Aleksey",
+      "name": "Marina",
       "value": 14,
-      "move": -1
+      "move": 7
     },
     {
       "rank": 95,
-      "name": "Анастасия",
+      "name": "Aleksey",
       "value": 14,
-      "move": 2
+      "move": -2
     },
     {
       "rank": 96,
-      "name": "Антон",
-      "value": 13,
-      "move": -2
+      "name": "Анастасия",
+      "value": 14,
+      "move": 1
     },
     {
       "rank": 97,
-      "name": "ki6ers",
+      "name": "Антон",
       "value": 13,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 98,
+      "name": "ki6ers",
+      "value": 13,
+      "move": -3
+    },
+    {
+      "rank": 99,
       "name": "Pike",
+      "value": 12,
+      "move": -3
+    },
+    {
+      "rank": 100,
+      "name": "Евгений",
       "value": 12,
       "move": -2
     },
     {
-      "rank": 99,
-      "name": "Евгений",
-      "value": 12,
-      "move": -1
-    },
-    {
-      "rank": 100,
+      "rank": 101,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 12,
-      "move": -1
-    },
-    {
-      "rank": 101,
-      "name": "Ponemonec",
-      "value": 11,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 102,
-      "name": "Marina",
+      "name": "Ponemonec",
       "value": 11,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 103,
@@ -1411,7 +1411,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 106
+      "value": 105
     },
     {
       "rank": 3,
@@ -1421,7 +1421,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 70
+      "value": 71
     },
     {
       "rank": 5,
@@ -1500,42 +1500,42 @@
     },
     {
       "rank": 20,
+      "name": "Manis Love",
+      "value": 14
+    },
+    {
+      "rank": 21,
       "name": "Viktor",
       "value": 13
     },
     {
-      "rank": 21,
-      "name": "Manis Love",
-      "value": 13
+      "rank": 22,
+      "name": "Marina",
+      "value": 12
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Александр",
       "value": 11
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "iDiklonius",
       "value": 10
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 26,
-      "name": "X888",
-      "value": 9
-    },
-    {
       "rank": 27,
-      "name": "Marina",
+      "name": "X888",
       "value": 9
     },
     {
@@ -1668,7 +1668,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 4,
@@ -1717,27 +1717,27 @@
     },
     {
       "rank": 13,
+      "name": "Marina",
+      "value": 7
+    },
+    {
+      "rank": 14,
       "name": "Max",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 16,
-      "name": "ᴦоᴧод",
-      "value": 4
-    },
-    {
       "rank": 17,
-      "name": "Marina",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
@@ -1747,18 +1747,18 @@
     },
     {
       "rank": 19,
-      "name": "Aся",
+      "name": "Manis Love",
       "value": 3
     },
     {
       "rank": 20,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Aся",
       "value": 3
     },
     {
       "rank": 21,
-      "name": "Manis Love",
-      "value": 2
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 3
     },
     {
       "rank": 22,
