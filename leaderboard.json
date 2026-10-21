@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T13:02:35+00:00",
+  "updated": "2026-10-21T13:32:41+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -1406,7 +1406,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 220
+      "value": 219
     },
     {
       "rank": 2,
@@ -1485,17 +1485,17 @@
     },
     {
       "rank": 17,
-      "name": "terminal lucidity",
-      "value": 18
-    },
-    {
-      "rank": 18,
       "name": "Crypto Panda",
       "value": 18
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Pavel",
+      "value": 17
+    },
+    {
+      "rank": 19,
+      "name": "terminal lucidity",
       "value": 17
     },
     {
