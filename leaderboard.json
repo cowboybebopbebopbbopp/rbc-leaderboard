@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T05:13:43+00:00",
+  "updated": "2026-10-21T05:43:49+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "LlirikMK",
-      "value": 73,
+      "value": 74,
       "move": 1
     },
     {
@@ -1451,7 +1451,7 @@
     {
       "rank": 10,
       "name": "LlirikMK",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 11,
@@ -1698,7 +1698,7 @@
     {
       "rank": 9,
       "name": "LlirikMK",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 10,
