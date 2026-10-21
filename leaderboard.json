@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-21T12:02:22+00:00",
+  "updated": "2026-10-21T12:32:29+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5779,
+      "value": 5780,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1867,
+      "value": 1868,
       "move": 0
     },
     {
@@ -336,7 +336,7 @@
     {
       "rank": 56,
       "name": "SPM",
-      "value": 76,
+      "value": 78,
       "move": 0
     },
     {
@@ -1416,7 +1416,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 97
+      "value": 98
     },
     {
       "rank": 4,
@@ -1426,7 +1426,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 61
+      "value": 63
     },
     {
       "rank": 6,
@@ -1486,7 +1486,7 @@
     {
       "rank": 17,
       "name": "terminal lucidity",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 18,
@@ -1500,12 +1500,12 @@
     },
     {
       "rank": 20,
-      "name": "Manis Love",
-      "value": 14
+      "name": "Viktor",
+      "value": 13
     },
     {
       "rank": 21,
-      "name": "Viktor",
+      "name": "Manis Love",
       "value": 13
     },
     {
@@ -1630,22 +1630,22 @@
     },
     {
       "rank": 46,
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 4
+    },
+    {
+      "rank": 47,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 48,
-      "name": "Lina",
-      "value": 3
-    },
-    {
       "rank": 49,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Lina",
       "value": 3
     },
     {
@@ -1692,17 +1692,17 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
-      "value": 10
+      "name": "SPM",
+      "value": 11
     },
     {
       "rank": 9,
-      "name": "a l",
-      "value": 9
+      "name": "Archie",
+      "value": 11
     },
     {
       "rank": 10,
-      "name": "SPM",
+      "name": "a l",
       "value": 9
     },
     {
@@ -1752,32 +1752,32 @@
     },
     {
       "rank": 20,
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 3
+    },
+    {
+      "rank": 21,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 24,
-      "name": "Анастасия",
-      "value": 2
-    },
-    {
       "rank": 25,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Анастасия",
       "value": 2
     },
     {
