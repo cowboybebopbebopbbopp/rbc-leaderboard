@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T14:02:48+00:00",
+  "updated": "2026-10-21T14:32:54+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4528,
+      "value": 4530,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1895,
+      "value": 1896,
       "move": 0
     },
     {
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 690,
+      "value": 692,
       "move": 1
     },
     {
@@ -1406,12 +1406,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 220
+      "value": 222
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 107
+      "value": 106
     },
     {
       "rank": 3,
@@ -1421,7 +1421,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 69
+      "value": 70
     },
     {
       "rank": 5,
@@ -1440,13 +1440,13 @@
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
+      "name": "Князь Владимир С",
       "value": 42
     },
     {
       "rank": 9,
-      "name": "Князь Владимир С",
-      "value": 40
+      "name": "Zero-sum Gamer",
+      "value": 42
     },
     {
       "rank": 10,
@@ -1658,22 +1658,22 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 46
     },
     {
       "rank": 2,
       "name": "Синдбад Мореход",
-      "value": 29
+      "value": 27
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 4,
       "name": "Князь Владимир С",
-      "value": 16
+      "value": 18
     },
     {
       "rank": 5,
