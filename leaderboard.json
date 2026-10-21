@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T17:33:41+00:00",
+  "updated": "2026-10-21T18:00:40+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -503,15 +503,15 @@
     },
     {
       "rank": 84,
-      "name": "Crypto Panda",
+      "name": "Pavel",
       "value": 19,
-      "move": 29
+      "move": 5
     },
     {
       "rank": 85,
-      "name": "Pavel",
-      "value": 18,
-      "move": 4
+      "name": "Crypto Panda",
+      "value": 19,
+      "move": 28
     },
     {
       "rank": 86,
@@ -1485,13 +1485,13 @@
     },
     {
       "rank": 17,
-      "name": "Crypto Panda",
+      "name": "Pavel",
       "value": 18
     },
     {
       "rank": 18,
-      "name": "Pavel",
-      "value": 17
+      "name": "Crypto Panda",
+      "value": 18
     },
     {
       "rank": 19,
@@ -1747,23 +1747,23 @@
     },
     {
       "rank": 19,
-      "name": "Vitaliy",
+      "name": "Pavel",
       "value": 3
     },
     {
       "rank": 20,
-      "name": "Евгений",
+      "name": "Vitaliy",
       "value": 3
     },
     {
       "rank": 21,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Евгений",
       "value": 3
     },
     {
       "rank": 22,
-      "name": "Pavel",
-      "value": 2
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 3
     },
     {
       "rank": 23,
