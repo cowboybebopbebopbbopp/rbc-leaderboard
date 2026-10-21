@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T03:13:20+00:00",
+  "updated": "2026-10-21T03:43:26+00:00",
   "count": 232,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1327,
+      "value": 1331,
       "move": 0
     },
     {
@@ -1405,7 +1405,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 108
+      "value": 112
     },
     {
       "rank": 3,
@@ -1701,13 +1701,13 @@
     },
     {
       "rank": 11,
-      "name": "Max",
-      "value": 6
+      "name": "a l",
+      "value": 8
     },
     {
       "rank": 12,
-      "name": "a l",
-      "value": 4
+      "name": "Max",
+      "value": 6
     },
     {
       "rank": 13,
