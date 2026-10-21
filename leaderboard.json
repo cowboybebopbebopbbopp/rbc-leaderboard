@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-21T09:14:31+00:00",
+  "updated": "2026-10-21T09:44:37+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5777,
+      "value": 5779,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 934,
+      "value": 935,
       "move": 0
     },
     {
@@ -324,7 +324,7 @@
     {
       "rank": 54,
       "name": "Руслан Иванов",
-      "value": 80,
+      "value": 81,
       "move": 1
     },
     {
@@ -1406,7 +1406,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 226
+      "value": 225
     },
     {
       "rank": 2,
@@ -1431,7 +1431,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 50
+      "value": 51
     },
     {
       "rank": 7,
@@ -1441,7 +1441,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 9,
@@ -1461,7 +1461,7 @@
     {
       "rank": 12,
       "name": "LlirikMK",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 13,
@@ -1525,33 +1525,33 @@
     },
     {
       "rank": 25,
-      "name": "Max",
-      "value": 10
-    },
-    {
-      "rank": 26,
-      "name": "A.",
-      "value": 9
-    },
-    {
-      "rank": 27,
       "name": "PiratesOfMining",
       "value": 9
     },
     {
-      "rank": 28,
+      "rank": 26,
       "name": "X888",
       "value": 9
     },
     {
-      "rank": 29,
+      "rank": 27,
       "name": "Marina",
       "value": 9
     },
     {
-      "rank": 30,
+      "rank": 28,
       "name": "L G",
       "value": 8
+    },
+    {
+      "rank": 29,
+      "name": "Max",
+      "value": 8
+    },
+    {
+      "rank": 30,
+      "name": "A.",
+      "value": 7
     },
     {
       "rank": 31,
@@ -1645,12 +1645,12 @@
     },
     {
       "rank": 49,
-      "name": "Dede",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "Mikhail",
+      "name": "Dede",
       "value": 3
     }
   ],
@@ -1688,7 +1688,7 @@
     {
       "rank": 7,
       "name": "Руслан Иванов",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 8,
@@ -1713,7 +1713,7 @@
     {
       "rank": 12,
       "name": "Zero-sum Gamer",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 13,
@@ -1772,71 +1772,76 @@
     },
     {
       "rank": 24,
-      "name": "zomg",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 2
     },
     {
       "rank": 25,
-      "name": "Andrey",
+      "name": "zomg",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "🤗",
+      "name": "Andrey",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "🌝",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 28,
+      "name": "🌝",
+      "value": 2
+    },
+    {
+      "rank": 29,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Александр",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Ponemonec",
       "value": 1
     }
