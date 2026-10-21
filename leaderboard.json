@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T16:03:16+00:00",
+  "updated": "2026-10-21T16:33:24+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4530,
+      "value": 4534,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1901,
+      "value": 1902,
       "move": 0
     },
     {
@@ -294,7 +294,7 @@
     {
       "rank": 49,
       "name": "Max",
-      "value": 97,
+      "value": 98,
       "move": 0
     },
     {
@@ -1406,12 +1406,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 220
+      "value": 224
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 103
+      "value": 102
     },
     {
       "rank": 3,
@@ -1421,7 +1421,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 75
+      "value": 76
     },
     {
       "rank": 5,
@@ -1465,12 +1465,12 @@
     },
     {
       "rank": 13,
-      "name": ".",
-      "value": 26
+      "name": "Серхио Ле'Трас",
+      "value": 25
     },
     {
       "rank": 14,
-      "name": "Серхио Ле'Трас",
+      "name": ".",
       "value": 25
     },
     {
@@ -1540,12 +1540,12 @@
     },
     {
       "rank": 28,
-      "name": "L G",
-      "value": 8
+      "name": "Max",
+      "value": 9
     },
     {
       "rank": 29,
-      "name": "Max",
+      "name": "L G",
       "value": 8
     },
     {
@@ -1658,12 +1658,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 50
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 3,
@@ -1717,13 +1717,13 @@
     },
     {
       "rank": 13,
-      "name": "Marina",
+      "name": "Max",
       "value": 7
     },
     {
       "rank": 14,
-      "name": "Max",
-      "value": 6
+      "name": "Marina",
+      "value": 7
     },
     {
       "rank": 15,
