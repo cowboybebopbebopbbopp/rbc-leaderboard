@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T20:19:26+00:00",
+  "updated": "2026-10-21T21:19:31+00:00",
   "count": 234,
   "has_movement": true,
   "all": [
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 692,
+      "value": 693,
       "move": 1
     },
     {
@@ -287,15 +287,15 @@
     },
     {
       "rank": 48,
-      "name": "Серхио Ле'Трас",
-      "value": 98,
-      "move": 0
+      "name": "Max",
+      "value": 99,
+      "move": 1
     },
     {
       "rank": 49,
-      "name": "Max",
+      "name": "Серхио Ле'Трас",
       "value": 98,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 50,
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "LlirikMK",
-      "value": 74,
+      "value": 75,
       "move": 1
     },
     {
@@ -1432,7 +1432,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 62
+      "value": 61
     },
     {
       "rank": 6,
@@ -1447,7 +1447,7 @@
     {
       "rank": 8,
       "name": "Князь Владимир С",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 9,
@@ -1467,7 +1467,7 @@
     {
       "rank": 12,
       "name": "LlirikMK",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 13,
@@ -1507,7 +1507,7 @@
     {
       "rank": 20,
       "name": "Manis Love",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 21,
@@ -1541,12 +1541,12 @@
     },
     {
       "rank": 27,
-      "name": "L G",
-      "value": 8
+      "name": "Max",
+      "value": 9
     },
     {
       "rank": 28,
-      "name": "Max",
+      "name": "L G",
       "value": 8
     },
     {
@@ -1606,57 +1606,57 @@
     },
     {
       "rank": 40,
-      "name": "PiratesOfMining",
-      "value": 5
-    },
-    {
-      "rank": 41,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Ponemonec",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Lina",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "Dede",
       "value": 3
     }
   ],
@@ -1679,7 +1679,7 @@
     {
       "rank": 4,
       "name": "Князь Владимир С",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 5,
@@ -1713,18 +1713,18 @@
     },
     {
       "rank": 11,
-      "name": "Zero-sum Gamer",
+      "name": "LlirikMK",
       "value": 9
     },
     {
       "rank": 12,
-      "name": "LlirikMK",
-      "value": 8
+      "name": "Zero-sum Gamer",
+      "value": 9
     },
     {
       "rank": 13,
       "name": "Max",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 14,
