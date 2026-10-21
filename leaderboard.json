@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T19:19:21+00:00",
+  "updated": "2026-10-21T20:19:26+00:00",
   "count": 234,
   "has_movement": true,
   "all": [
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 170,
+      "value": 171,
       "move": 3
     },
     {
@@ -551,21 +551,21 @@
     },
     {
       "rank": 92,
-      "name": "lefkorosos",
+      "name": "Евгений",
       "value": 16,
-      "move": -2
+      "move": 6
     },
     {
       "rank": 93,
-      "name": "Turchyn Gennadii",
-      "value": 15,
-      "move": -2
+      "name": "lefkorosos",
+      "value": 16,
+      "move": -3
     },
     {
       "rank": 94,
-      "name": "Евгений",
+      "name": "Turchyn Gennadii",
       "value": 15,
-      "move": 4
+      "move": -3
     },
     {
       "rank": 95,
@@ -623,51 +623,51 @@
     },
     {
       "rank": 104,
-      "name": "Роман",
-      "value": 10,
-      "move": 1
+      "name": "AnTon",
+      "value": 11,
+      "move": 4
     },
     {
       "rank": 105,
-      "name": "Олег",
+      "name": "Роман",
       "value": 10,
-      "move": -3
+      "move": 0
     },
     {
       "rank": 106,
-      "name": "Dede",
+      "name": "Олег",
       "value": 10,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 107,
-      "name": "Snowflake ❄️",
+      "name": "Dede",
       "value": 10,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 108,
-      "name": "***",
-      "value": 9,
-      "move": -2
+      "name": "Snowflake ❄️",
+      "value": 10,
+      "move": -4
     },
     {
       "rank": 109,
-      "name": "Don Michele Corleone",
+      "name": "***",
       "value": 9,
-      "move": 11
+      "move": -3
     },
     {
       "rank": 110,
-      "name": "Demius",
+      "name": "Don Michele Corleone",
       "value": 9,
-      "move": -3
+      "move": 10
     },
     {
       "rank": 111,
-      "name": "AnTon",
+      "name": "Demius",
       "value": 9,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 112,
@@ -1432,7 +1432,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 63
+      "value": 62
     },
     {
       "rank": 6,
@@ -1471,12 +1471,12 @@
     },
     {
       "rank": 13,
-      "name": "Серхио Ле'Трас",
-      "value": 25
+      "name": ".",
+      "value": 26
     },
     {
       "rank": 14,
-      "name": ".",
+      "name": "Серхио Ле'Трас",
       "value": 25
     },
     {
@@ -1561,18 +1561,18 @@
     },
     {
       "rank": 31,
-      "name": "PiratesOfMining",
-      "value": 7
-    },
-    {
-      "rank": 32,
       "name": "Сергей",
       "value": 7
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "lefkorosos",
       "value": 7
+    },
+    {
+      "rank": 33,
+      "name": "AnTon",
+      "value": 6
     },
     {
       "rank": 34,
@@ -1586,52 +1586,52 @@
     },
     {
       "rank": 36,
-      "name": "@wavesscalper",
+      "name": "Евгений",
       "value": 6
     },
     {
       "rank": 37,
-      "name": "ᴦоᴧод",
+      "name": "@wavesscalper",
       "value": 6
     },
     {
       "rank": 38,
-      "name": "Don Michele Corleone",
+      "name": "ᴦоᴧод",
       "value": 6
     },
     {
       "rank": 39,
-      "name": "Евгений",
-      "value": 5
+      "name": "Don Michele Corleone",
+      "value": 6
     },
     {
       "rank": 40,
-      "name": "Olga Goncharova",
+      "name": "PiratesOfMining",
       "value": 5
     },
     {
       "rank": 41,
-      "name": "Ponemonec",
+      "name": "Olga Goncharova",
       "value": 5
     },
     {
       "rank": 42,
+      "name": "Ponemonec",
+      "value": 5
+    },
+    {
+      "rank": 43,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 44,
-      "name": "Юрий",
-      "value": 4
-    },
-    {
       "rank": 45,
-      "name": "AnTon",
+      "name": "Юрий",
       "value": 4
     },
     {
@@ -1683,12 +1683,12 @@
     },
     {
       "rank": 5,
-      "name": "Crypto Panda",
-      "value": 16
+      "name": ".",
+      "value": 17
     },
     {
       "rank": 6,
-      "name": ".",
+      "name": "Crypto Panda",
       "value": 16
     },
     {
@@ -1738,32 +1738,32 @@
     },
     {
       "rank": 16,
-      "name": "ᴦоᴧод",
+      "name": "Евгений",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "Don Michele Corleone",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
       "rank": 18,
+      "name": "Don Michele Corleone",
+      "value": 4
+    },
+    {
+      "rank": 19,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Pavel",
       "value": 3
     },
     {
-      "rank": 20,
-      "name": "Vitaliy",
-      "value": 3
-    },
-    {
       "rank": 21,
-      "name": "Евгений",
+      "name": "Vitaliy",
       "value": 3
     },
     {
@@ -1778,86 +1778,91 @@
     },
     {
       "rank": 24,
-      "name": "Aleksey",
+      "name": "AnTon",
       "value": 2
     },
     {
       "rank": 25,
-      "name": "Анастасия",
+      "name": "Aleksey",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "zomg",
+      "name": "Анастасия",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "Александр",
+      "name": "zomg",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "Andrey",
+      "name": "Александр",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "🤗",
+      "name": "Andrey",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "Renat 🇷🇺🏴‍☠️",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "🌝",
+      "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
       "rank": 32,
+      "name": "🌝",
+      "value": 2
+    },
+    {
+      "rank": 33,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Vlad",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Роман",
       "value": 1
     }
