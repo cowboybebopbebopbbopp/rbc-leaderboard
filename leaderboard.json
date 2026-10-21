@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T16:33:24+00:00",
+  "updated": "2026-10-21T17:00:35+00:00",
   "count": 233,
   "has_movement": true,
   "all": [
@@ -557,33 +557,33 @@
     },
     {
       "rank": 93,
-      "name": "vpidelks",
-      "value": 14,
-      "move": -1
+      "name": "Евгений",
+      "value": 15,
+      "move": 5
     },
     {
       "rank": 94,
-      "name": "Marina",
-      "value": 14,
-      "move": 7
-    },
-    {
-      "rank": 95,
-      "name": "Aleksey",
+      "name": "vpidelks",
       "value": 14,
       "move": -2
     },
     {
-      "rank": 96,
-      "name": "Анастасия",
+      "rank": 95,
+      "name": "Marina",
       "value": 14,
-      "move": 1
+      "move": 6
+    },
+    {
+      "rank": 96,
+      "name": "Aleksey",
+      "value": 14,
+      "move": -3
     },
     {
       "rank": 97,
-      "name": "Евгений",
+      "name": "Анастасия",
       "value": 14,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 98,
@@ -1421,7 +1421,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 76
+      "value": 75
     },
     {
       "rank": 5,
@@ -1595,42 +1595,42 @@
     },
     {
       "rank": 39,
-      "name": "Olga Goncharova",
+      "name": "Евгений",
       "value": 5
     },
     {
       "rank": 40,
-      "name": "Ponemonec",
+      "name": "Olga Goncharova",
       "value": 5
     },
     {
       "rank": 41,
+      "name": "Ponemonec",
+      "value": 5
+    },
+    {
+      "rank": 42,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "AnTon",
       "value": 4
     },
     {
-      "rank": 45,
-      "name": "Сергей",
-      "value": 4
-    },
-    {
       "rank": 46,
-      "name": "Евгений",
+      "name": "Сергей",
       "value": 4
     },
     {
@@ -1752,32 +1752,32 @@
     },
     {
       "rank": 20,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Евгений",
       "value": 3
     },
     {
       "rank": 21,
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 3
+    },
+    {
+      "rank": 22,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 24,
-      "name": "Анастасия",
-      "value": 2
-    },
-    {
       "rank": 25,
-      "name": "Евгений",
+      "name": "Анастасия",
       "value": 2
     },
     {
