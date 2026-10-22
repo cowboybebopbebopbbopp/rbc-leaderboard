@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T15:55:02+00:00",
+  "updated": "2026-10-22T16:15:44+00:00",
   "count": 235,
   "has_movement": true,
   "all": [
@@ -324,7 +324,7 @@
     {
       "rank": 54,
       "name": "Руслан Иванов",
-      "value": 83,
+      "value": 84,
       "move": 0
     },
     {
@@ -1443,7 +1443,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 53
+      "value": 54
     },
     {
       "rank": 7,
@@ -1670,7 +1670,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 2,
@@ -1694,13 +1694,13 @@
     },
     {
       "rank": 6,
-      "name": ".",
+      "name": "Руслан Иванов",
       "value": 12
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
-      "value": 11
+      "name": ".",
+      "value": 12
     },
     {
       "rank": 8,
@@ -1719,12 +1719,12 @@
     },
     {
       "rank": 11,
-      "name": "Archie",
-      "value": 7
+      "name": "SPM",
+      "value": 6
     },
     {
       "rank": 12,
-      "name": "SPM",
+      "name": "Archie",
       "value": 6
     },
     {
@@ -1734,52 +1734,52 @@
     },
     {
       "rank": 14,
-      "name": "ᴦоᴧод",
-      "value": 5
-    },
-    {
-      "rank": 15,
       "name": "Pavel",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Евгений",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Marina",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Don Michele Corleone",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Vitaliy",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Александр",
+      "value": 3
+    },
+    {
+      "rank": 23,
+      "name": "ᴦоᴧод",
       "value": 3
     },
     {
