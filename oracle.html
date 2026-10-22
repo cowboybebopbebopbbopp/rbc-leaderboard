@@ -140,27 +140,56 @@
   body.rec #replay .bar button{visibility:hidden}
   body.rec #resheet .cta, body.rec #resheet .wtag{pointer-events:none}
   body.rec #resheet .cta{display:none}
-  /* карточки сценария записи: интро → (реплей) → новые звания → призыв голосовать */
+  /* карточки сценария записи (shorts-монтаж): хук → реплей → финиш-цифры → звания → топ-10 → призыв.
+     Карточка въезжает снизу (slide-cut), заголовки «вбиваются» (slam), строки влетают справа,
+     сверху — сегментный прогресс-бар как в сторис, на склейках — вспышка */
   #reccard{position:fixed; inset:0; z-index:120; background:var(--ink); display:none; flex-direction:column;
-    align-items:center; justify-content:center; text-align:center; padding:0 28px; opacity:0; transition:opacity .25s}
-  #reccard.on{display:flex; opacity:1}
-  #reccard .k{font-family:var(--f-mono); font-size:13px; color:var(--mut); letter-spacing:.08em; text-transform:uppercase; animation:fade .4s both}
-  #reccard .big{font-family:var(--f-disp); font-weight:900; font-size:34px; line-height:1.08; color:var(--amber); margin:14px 0 10px; animation:pop .5s both}
-  #reccard .sub{font-family:var(--f-disp); font-weight:700; font-size:18px; color:var(--fg); margin-top:6px; animation:enter .5s .15s both}
-  #reccard .dim{font-family:var(--f-mono); font-size:13px; color:var(--mut); margin-top:18px; animation:enter .5s .3s both}
-  #reccard .ups{display:flex; flex-direction:column; gap:10px; margin-top:18px; width:100%; max-width:420px}
+    align-items:center; justify-content:center; text-align:center; padding:0 28px;
+    transform:translateY(100%); transition:transform .24s cubic-bezier(.2,.8,.2,1)}
+  #reccard.on{transform:none}
+  #reccard.cut{transition:none}
+  #reccard::before{content:''; position:absolute; left:50%; top:46%; width:440px; height:440px; transform:translate(-50%,-50%);
+    border-radius:50%; background:radial-gradient(closest-side, rgba(255,176,32,.16), transparent 72%); pointer-events:none}
+  #reccard>*{position:relative}
+  @keyframes recSlam{0%{opacity:0; transform:scale(2.4)} 55%{opacity:1; transform:scale(.95)} 100%{transform:scale(1)}}
+  @keyframes recRise{from{opacity:0; transform:translateY(34px)} to{opacity:1; transform:none}}
+  @keyframes recSlide{from{opacity:0; transform:translateX(52px)} to{opacity:1; transform:none}}
+  @keyframes recPulse{0%,100%{transform:scale(1)} 50%{transform:scale(1.07)}}
+  @keyframes recPunch{0%{transform:scale(1)} 30%{transform:scale(1.08)} 100%{transform:scale(1)}}
+  @keyframes recFlash{from{opacity:.65} to{opacity:0}}
+  @keyframes recBounce{0%,100%{transform:translateY(0)} 50%{transform:translateY(9px)}}
+  #reccard .k{font-family:var(--f-mono); font-size:13px; color:var(--mut); letter-spacing:.08em; text-transform:uppercase; animation:recRise .35s both}
+  #reccard .big{font-family:var(--f-disp); font-weight:900; font-size:40px; line-height:1.04; color:var(--amber); margin:14px 0 10px;
+    animation:recSlam .42s cubic-bezier(.2,.9,.3,1.15) both}
+  #reccard .sub{font-family:var(--f-disp); font-weight:700; font-size:18px; color:var(--fg); margin-top:6px; animation:recRise .4s .16s both}
+  #reccard .dim{font-family:var(--f-mono); font-size:13px; color:var(--mut); margin-top:18px; animation:recRise .4s .3s both}
+  #reccard .huge{font-family:var(--f-disp); font-weight:900; font-size:54px; line-height:1; color:var(--green); margin:10px 0 2px; animation:recSlam .45s both}
+  #reccard .num{font-family:var(--f-disp); font-weight:900; font-size:72px; line-height:1; color:var(--amber); margin-top:26px; animation:recSlam .45s .1s both}
+  #reccard .arrow{margin-top:22px; color:var(--amber); font-size:30px; animation:recBounce .8s .5s infinite}
+  #reccard .ups{display:flex; flex-direction:column; gap:9px; margin-top:16px; width:100%; max-width:420px}
   #reccard .up{display:flex; align-items:center; gap:12px; padding:8px 12px; border:1px solid #1F232C; border-radius:12px;
-    background:var(--ink2); text-align:left; animation:enter .45s both; animation-delay:calc(.35s + var(--i)*.4s)}
+    background:var(--ink2); text-align:left; animation:recSlide .3s cubic-bezier(.2,.8,.2,1) both; animation-delay:calc(.15s + var(--i)*.22s)}
   #reccard .up img{width:48px; height:48px; image-rendering:pixelated; flex:none}
   #reccard .up .n{font-family:var(--f-disp); font-weight:700; font-size:16px; color:var(--fg); flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
   #reccard .up .t{font-family:var(--f-mono); font-size:13px; color:var(--amber); white-space:nowrap}
-  #reccard .ctabtn{margin-top:26px; padding:14px 24px; border-radius:14px; background:var(--amber); color:var(--ink);
-    font-family:var(--f-disp); font-weight:900; font-size:18px; animation:pop .5s .25s both}
-  /* карточка «Топ-10 рейтинга»: плотнее, спрайты мельче, строки быстрее */
-  #reccard .top{gap:7px; margin-top:14px}
-  #reccard .top .up{padding:5px 10px; gap:10px; animation-delay:calc(.3s + var(--i)*.3s)}
+  #reccard .ctabtn{margin-top:24px; padding:14px 26px; border-radius:14px; background:var(--amber); color:var(--ink);
+    font-family:var(--f-disp); font-weight:900; font-size:18px; animation:recSlam .45s .2s both, recPulse 1.1s 1s infinite}
+  #recbar{position:fixed; top:10px; left:14px; right:14px; z-index:130; display:none; gap:5px}
+  body.rec #recbar{display:flex}
+  #recbar i{flex:1; height:3px; border-radius:2px; background:rgba(255,255,255,.14); overflow:hidden; position:relative}
+  #recbar i::after{content:''; position:absolute; inset:0; width:0; background:var(--amber)}
+  #recbar i.done::after{width:100%}
+  #recbar i.active::after{width:100%; transition:width var(--d,3s) linear}
+  #recflash{position:fixed; inset:0; z-index:125; background:var(--amber); opacity:0; pointer-events:none; display:none}
+  body.rec #recflash.go{display:block; animation:recFlash .22s both}
+  body.rec .ladderwrap.punch{animation:recPunch .5s cubic-bezier(.2,.8,.2,1) both}
+  /* карточка «Топ-10 рейтинга»: плотнее, спрайты мельче, строки быстрее, лидер подсвечен */
+  #reccard .top{gap:7px; margin-top:12px}
+  #reccard .top .up{padding:5px 10px; gap:10px; animation-delay:calc(.1s + var(--i)*.15s)}
   #reccard .top .up img{width:40px; height:40px}
   #reccard .top .n{font-size:15px}
+  #reccard .top .up.first{border-color:var(--amber); box-shadow:0 0 0 1px rgba(255,176,32,.35), 0 0 26px rgba(255,176,32,.18)}
+  #reccard .top .up.first .n svg{width:14px; height:14px; color:var(--amber); vertical-align:-2px; margin-right:6px}
   #reccard .pos{font-family:var(--f-mono); font-size:14px; color:var(--amber); width:22px; text-align:right; flex:none}
   #reccard .sc{font-family:var(--f-mono); font-size:12px; color:var(--mut); white-space:nowrap}
   #reccard .won{font-style:normal; font-family:var(--f-mono); font-size:12px; color:var(--green); margin-left:6px}
@@ -487,6 +516,8 @@
 </div>
 
 <div id="reccard"></div>
+<div id="recbar"><i></i><i></i><i></i><i></i><i></i></div>
+<div id="recflash"></div>
 <div id="unlock"></div>
 <div id="levelup"></div>
 <div id="sheet" onclick="if(event.target===this)closeSheet()"><div class="panel"><div class="grip"></div><div id="sheetbody"></div></div></div>
@@ -1269,9 +1300,13 @@ function finishReplay(instant){
       :'<div class="r-sub" style="margin-top:14px">не угадал никто — рынок победил всех</div>'}
     <button class="cta ghost" style="margin-top:20px" onclick="closeReplay()">закрыть</button>`;
   const pv=$('#rpricev'); if(!instant&&pv) countTo(pv,c.winner_price,{fmt:v=>fmtP(v),from:c.winner_price*.97,dur:700});
-  /* запись ролика: «финиш отыгран» (конфетти и счётчик цены успели) — отдаём ход сценарию runRecording */
-  if(document.body.classList.contains('rec')) setTimeout(()=>{ const r=window.__recResolve; window.__recResolve=null;
-    if(r) r(); else { window.__replayDone=performance.now(); document.title='replay-done'; } },2200);
+  /* запись ролика: punch-зум сцены и вспышка на финише, через 1.3 с — ход сценарию runRecording */
+  if(document.body.classList.contains('rec')){
+    const w=$('#rstage .ladderwrap'); if(w){ w.classList.remove('punch'); void w.offsetWidth; w.classList.add('punch'); }
+    recFlash();
+    setTimeout(()=>{ const r=window.__recResolve; window.__recResolve=null;
+      if(r) r(); else { window.__replayDone=performance.now(); document.title='replay-done'; } },1300);
+  }
 }
 
 /* ===== Запись ролика для поста (render_replay.py): #replay=<msg_id>&rec=1[&ups=<json>]
@@ -1281,17 +1316,30 @@ function readReplayParam(){ const m=(location.hash||'').match(/replay=(\d+)/); r
 function readUpsParam(){ try{ const m=(location.hash||'').match(/ups=([^&]+)/); const v=m?JSON.parse(decodeURIComponent(m[1])):[];
   return Array.isArray(v)?v.filter(u=>u&&u.name):[]; }catch(e){ return []; } }
 const recSleep=ms=>new Promise(r=>setTimeout(r,ms));
-async function recCard(html,ms,keep){ const el=$('#reccard'); el.innerHTML=html; el.classList.add('on'); await recSleep(ms);
-  if(keep) return;                                   // последняя карточка остаётся до конца записи
-  el.classList.remove('on'); await recSleep(280); }
-function recIntro(c,ch){
-  const d=new Date(c.target_time);
-  const day=new Intl.DateTimeFormat('ru-RU',{...MSK,weekday:'short',day:'numeric',month:'long'}).format(d);
-  const tm=new Intl.DateTimeFormat('ru-RU',{...MSK,hour:'2-digit',minute:'2-digit'}).format(d);
-  return `<div class="k">#ктоточнее · лига форума «РБК Крипто»</div>
-    <div class="big">ИТОГ<br>КОНКУРСА</div>
-    <div class="sub">${esc(symName(ch&&ch.symbol))} · ${esc(day)}, ${esc(tm)} МСК</div>
-    <div class="dim">реплей финиша: как цена шла к цели</div>`;
+/* показать карточку: содержимое новое, въезд снизу (slide=false — мгновенно); скрыть — жёсткий cut */
+function recShow(html,{slide=true}={}){ const el=$('#reccard'); el.classList.add('cut'); el.classList.remove('on');
+  el.innerHTML=html; el.style.display='flex'; void el.offsetWidth; if(slide) el.classList.remove('cut'); el.classList.add('on'); }
+function recHide(){ const el=$('#reccard'); el.classList.add('cut'); el.classList.remove('on'); el.style.display='none'; }
+function recFlash(){ const f=$('#recflash'); if(!f) return; f.classList.remove('go'); void f.offsetWidth; f.classList.add('go'); }
+/* сегментный прогресс-бар: i — активный сегмент, ms — сколько он длится */
+function recBar(i,ms){ $$('#recbar i').forEach((el,k)=>{ el.classList.toggle('done',k<i); el.classList.toggle('active',k===i);
+  if(k===i) el.style.setProperty('--d',ms+'ms'); }); }
+function recDate(c){ const d=new Date(c.target_time);
+  return new Intl.DateTimeFormat('ru-RU',{...MSK,weekday:'short',day:'numeric',month:'long'}).format(d)+', '
+    +new Intl.DateTimeFormat('ru-RU',{...MSK,hour:'2-digit',minute:'2-digit'}).format(d)+' МСК'; }
+function recHook(c,ch){
+  return `<div class="big" style="font-size:66px">ИТОГ</div>
+    <div class="sub" style="font-size:22px">#ктоточнее · ${esc(symName(ch&&ch.symbol))}</div>
+    <div class="dim">${esc(recDate(c))} · лига форума «РБК Крипто»</div>
+    <div class="arrow">↓</div>`;
+}
+function recResult(c,ch){
+  const total=c.total||0;
+  return `<div class="k">финиш · ${esc(symName(ch&&ch.symbol))} · ${esc(recDate(c))}</div>
+    <div class="huge" id="recprice">${fmtP(c.winner_price)}</div>
+    <div class="sub">зона ${esc(zoneShort(ch.ranges,c.winner_option))}</div>
+    <div class="num" id="recwon">0</div>
+    <div class="k" style="margin-top:6px">угадали из ${total} · каждому медаль</div>`;
 }
 function recUps(ups){
   const show=ups.slice(0,8);
@@ -1304,28 +1352,35 @@ function recTop(top,c){
   const won=new Set(c.winner_pids||[]);          // угадавшие в этом конкурсе — зелёный «+1»
   return `<div class="k">рейтинг точности</div><div class="big">ТОП-10</div>
     <div class="ups top">${top.map((b,i)=>{ const lv=levelOf(b);
-      return `<div class="up" style="--i:${i}"><span class="pos">${i+1}</span>${beastImg(lv,40)}
-        <span class="n">${esc(b.name)}${won.has(b.pid)?'<i class="won">+1</i>':''}</span>
+      return `<div class="up${i===0?' first':''}" style="--i:${i}"><span class="pos">${i+1}</span>${beastImg(lv,40)}
+        <span class="n">${i===0?icon('crown'):''}${esc(b.name)}${won.has(b.pid)?'<i class="won">+1</i>':''}</span>
         <span class="sc">${b.wins}/${b.games} · ${Math.round(b.win_pct)}%${b.rated===false?' · вне зачёта':''}</span></div>`; }).join('')}</div>`;
 }
 function recCta(){
-  return `<div class="k">каждую неделю</div><div class="big">ГОЛОСУЙ<br>В НОВОМ КОНКУРСЕ</div>
+  return `<div class="k">каждую неделю</div><div class="big">ГОЛОСУЙ<br>В НОВОМ<br>КОНКУРСЕ</div>
     <div class="sub">#ктоточнее в чате форума РБК Крипто</div>
     <div class="ctabtn">t.me/RBCCrypto_forum</div>
     <div class="dim">новый опрос каждую неделю · итог по цене Binance</div>`;
 }
+/* Сценарий (~22 с): хук 1.8 → реплей ~6 + финиш 1.3 → цифры финиша 2.2 → звания ≤4.4 → топ-10 ≤3.9 → призыв 2.6 (остаётся) */
 async function runRecording(id){
   const c=contests().find(x=>x.status==='resolved'&&chartIdOf(x)===id); const ch=S.charts[id];
   const ups=readUpsParam();
   window.__replayStart=performance.now();
-  await recCard(recIntro(c,ch),2600);
-  await new Promise(res=>{ window.__recResolve=res; openReplay(id); });   // finishReplay отдаст ход через 2.2 с после финиша
-  await recSleep(300);
-  if(ups.length) await recCard(recUps(ups),Math.min(7000,2200+450*Math.min(ups.length,8)));
+  recBar(0,1800); recShow(recHook(c,ch),{slide:false}); await recSleep(1800);
+  recBar(1,7400); recHide(); recFlash();
+  await new Promise(res=>{ window.__recResolve=res; openReplay(id); });   // finishReplay: punch + вспышка, ход через 1.3 с
+  recBar(2,2200); recShow(recResult(c,ch));
+  const pe=$('#recprice'), we=$('#recwon');
+  if(pe&&c.winner_price!=null) countTo(pe,c.winner_price,{fmt:v=>fmtP(v),from:c.winner_price*.96,dur:800});
+  if(we) countTo(we,(c.winners||[]).length,{fmt:v=>String(Math.round(v)),from:0,dur:900});
+  await recSleep(2200);
+  if(ups.length){ const ms=Math.min(4400,2000+300*Math.min(ups.length,8)); recBar(2,ms); recShow(recUps(ups)); await recSleep(ms); }
   const top=(S.preds.board||[]).slice(0,10);         // рейтинг уже пересчитан: JSON перегенерирован до записи
-  if(top.length) await recCard(recTop(top,c),Math.min(6500,2000+380*top.length));
-  await recCard(recCta(),3200,true);                 // ролик заканчивается на призыве, без возврата к финишу
-  window.__replayDone=performance.now(); document.title='replay-done';
+  if(top.length){ const ms=Math.min(4200,2200+170*top.length); recBar(3,ms); recShow(recTop(top,c)); await recSleep(ms); }
+  recBar(4,2600); recShow(recCta()); await recSleep(2600);
+  $$('#recbar i').forEach(el=>el.classList.add('done'));
+  window.__replayDone=performance.now(); document.title='replay-done';   // ролик заканчивается на призыве
 }
 function closeReplay(){ cancelAnimationFrame(RP.raf); $('#replay').classList.remove('on'); document.body.style.overflow=''; tgBack(); }
 
