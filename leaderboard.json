@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T16:39:50+00:00",
+  "updated": "2026-10-22T17:07:15+00:00",
   "count": 235,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4538,
+      "value": 4539,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1008,
+      "value": 1025,
       "move": 0
     },
     {
@@ -1418,7 +1418,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 215
+      "value": 216
     },
     {
       "rank": 2,
@@ -1477,63 +1477,63 @@
     },
     {
       "rank": 13,
+      "name": "Viktor",
+      "value": 27
+    },
+    {
+      "rank": 14,
       "name": ".",
       "value": 26
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "🤗",
       "value": 22
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Серхио Ле'Трас",
       "value": 21
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Юрий",
       "value": 20
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Pavel",
       "value": 19
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Crypto Panda",
       "value": 18
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "terminal lucidity",
       "value": 17
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Александр",
       "value": 12
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Marina",
       "value": 12
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Manis Love",
       "value": 11
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
-    },
-    {
-      "rank": 24,
-      "name": "Viktor",
-      "value": 10
     },
     {
       "rank": 25,
@@ -1670,7 +1670,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
@@ -1684,196 +1684,201 @@
     },
     {
       "rank": 4,
-      "name": "Князь Владимир С",
+      "name": "Viktor",
       "value": 17
     },
     {
       "rank": 5,
+      "name": "Князь Владимир С",
+      "value": 17
+    },
+    {
+      "rank": 6,
       "name": "Crypto Panda",
       "value": 16
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Руслан Иванов",
       "value": 13
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": ".",
       "value": 11
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "LlirikMK",
       "value": 10
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "a l",
       "value": 9
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Zero-sum Gamer",
       "value": 9
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "SPM",
       "value": 6
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Archie",
       "value": 6
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Max",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Pavel",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Евгений",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Marina",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Don Michele Corleone",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Vitaliy",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Александр",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "ᴦоᴧод",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "AnTon",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "zomg",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Andrey",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "🌝",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Роман",
       "value": 1
     }
