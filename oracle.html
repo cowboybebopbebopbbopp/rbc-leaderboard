@@ -1338,8 +1338,11 @@ function recFlash(){ const f=$('#recflash'); if(!f) return; f.classList.remove('
 /* сплошная жёлтая заливка: on — мгновенно; off — схлопывается кругом в точку цены
    (она в кадре тоннеля стоит в 50%/42%), будто жёлтое и было этой точкой */
 function recCover(on){ const el=$('#reccover'); if(!el) return;
-  if(on){ el.style.transition='none'; el.style.display='block'; el.style.opacity='1'; el.style.clipPath=''; void el.offsetWidth; el.style.transition=''; }
-  else { el.style.clipPath='circle(0% at 50% 42%)'; setTimeout(()=>{ el.style.display='none'; el.style.opacity='0'; el.style.clipPath=''; },520); } }
+  if(on){ el.style.transition='none'; el.style.display='block'; el.style.opacity='1'; el.style.clipPath='circle(120% at 50% 42%)'; void el.offsetWidth; }
+  else { /* схлопывание кругом через rAF (CSS-переход clip-path в записи не отработал): ease-in — чуть держит жёлтое, потом резко в точку */
+    const t0=performance.now(), ms=460;
+    (function f(t){ const k=Math.min(1,(t-t0)/ms), e=k*k*k; el.style.clipPath=`circle(${(120*(1-e)).toFixed(2)}% at 50% 42%)`;
+      if(k<1) requestAnimationFrame(f); else { el.style.display='none'; el.style.opacity='0'; el.style.clipPath=''; el.style.transition=''; } })(t0); } }
 /* 3D-пролёт за точкой цены: холст #rec3d поверх реплея. Мир: глубина — время (часы),
    высота — цена, ширина — тоннель. Границы зон — рельсы левой и правой стенки, между
    ними мелкие деления и перекладины времени каждые 6 ч; пройденный путь — толстая
@@ -1368,7 +1371,8 @@ function recFlight(ch){
   const Y=p=>(p-lo)/span*TH-TH/2;
   let ysm=null, cam=null, camY=CAMY, lead=LEAD;
   function setCamera(pcur){
-    const C=[CAMX, ysm+camY, 0], T=[0, Y(pcur), lead];
+    const sway=0.55*Math.sin(performance.now()/650);                     // лёгкое покачивание — живая камера, не рельса
+    const C=[CAMX+sway, ysm+camY+0.25*Math.sin(performance.now()/410), 0], T=[0, Y(pcur), lead];
     let fx=T[0]-C[0], fy=T[1]-C[1], fz=T[2]-C[2]; const fl=Math.hypot(fx,fy,fz); fx/=fl; fy/=fl; fz/=fl;
     let rx=fz, rz=-fx; const rl=Math.hypot(rx,rz)||1; rx/=rl; rz/=rl;          // right = up × forward
     cam={C, F:[fx,fy,fz], R:[rx,0,rz], U:[fy*rz, fz*rx-fx*rz, -fy*rx]};          // up = forward × right
@@ -1406,10 +1410,11 @@ function recFlight(ch){
     const pts=[]; for(const [t,p] of ser){ if(t>tcur) break; const z=Z(t); if(z>-2) pts.push([0,Y(p),z]); }
     pts.push([0,Y(pcur),lead]);
     x.shadowColor='#FFB020';
-    for(let i=1;i<pts.length;i++){ const d=Math.max(0.6,pts[i][2]); x.shadowBlur=10; line(pts[i-1],pts[i],Math.max(1.6,26/d),Math.min(1,1.25-d/FAR),'#FFB020'); }
+    const pa=1-e;                                                        // на подъёме камеры путь и точка гаснут: под лестницу уходит одна сетка
+    for(let i=1;i<pts.length;i++){ const d=Math.max(0.6,pts[i][2]); x.shadowBlur=10*pa; line(pts[i-1],pts[i],Math.max(1.6,26/d),pa*Math.min(1,1.25-d/FAR),'#FFB020'); }
     const D=proj(0,Y(pcur),lead);                                        // точка с пульсом
-    if(D){ const ph=performance.now()/110, s=12+3*Math.sin(ph); x.globalAlpha=1; x.fillStyle='#FFB020';
-      x.shadowBlur=24+10*Math.sin(ph); x.fillRect(D[0]-s/2,D[1]-s/2,s,s); }
+    if(D&&pa>0.02){ const ph=performance.now()/110, s=12+3*Math.sin(ph); x.globalAlpha=pa; x.fillStyle='#FFB020';
+      x.shadowBlur=(24+10*Math.sin(ph))*pa; x.fillRect(D[0]-s/2,D[1]-s/2,s,s); }
     x.shadowBlur=0;
     const vg=x.createRadialGradient(cx,cy,H*0.18,cx,cy,H*0.75);          // виньетка — глубина и фокус на точке
     vg.addColorStop(0,'rgba(7,8,11,0)'); vg.addColorStop(1,'rgba(7,8,11,.78)');
