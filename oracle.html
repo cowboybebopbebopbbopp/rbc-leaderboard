@@ -188,12 +188,14 @@
   #recflash{position:fixed; inset:0; z-index:125; background:var(--amber); opacity:0; pointer-events:none; display:none}
   body.rec #recflash.go{display:block; animation:recFlash .22s both}
   body.rec .ladderwrap.punch{animation:recPunch .5s cubic-bezier(.2,.8,.2,1) both}
-  /* переход хук → гонка: «ИТОГ» раздувается до жёлтой заливки (#reccover держит цвет, пока камера
-     встаёт на точку), затем заливка схлопывается в точку и камера летит за ней (recFlight) */
-  @keyframes recZoomIn{to{transform:scale(34)}}
-  #reccard .big.zoom{animation:recZoomIn .42s cubic-bezier(.55,0,.9,.35) forwards}
-  #reccover{position:fixed; inset:0; z-index:140; background:var(--amber); display:none; opacity:0;
-    clip-path:circle(120% at 50% 42%); transition:opacity .26s ease-out, clip-path .45s cubic-bezier(.7,0,.3,1)}
+  /* переход хук → гонка: наезд камеры в букву «О» (recPush). Лист хука становится маской: тёмный фон
+     даёт тень окна #rechole по форме полости «О», за окном уже идёт 3D-тоннель; буквы — над окном.
+     Лист растёт вокруг полости, пока окно не накроет кадр. С тела «О» навстречу летят искры (#recfx) */
+  #reccard .pg.hole{background:transparent; isolation:isolate}
+  #reccard .pg.hole::before{z-index:1; opacity:0; transition:opacity .3s}
+  #reccard .pg.hole>*{z-index:2}
+  #reccard .pg #rechole{position:absolute; z-index:0; box-shadow:0 0 0 2400px var(--ink); pointer-events:none}
+  #recfx{position:fixed; inset:0; z-index:121; width:100%; height:100%; display:none; pointer-events:none}
   #reccard.jolt{animation:shake .3s .1s both}
   body.rec .ladderwrap{will-change:transform}
   /* 3D-пролёт за точкой (recFlight): отдельный холст поверх реплея, границы зон — рельсы в перспективе */
@@ -570,7 +572,7 @@
 <div id="reccard"></div>
 <div id="recbar"><i></i><i></i><i></i><i></i><i></i></div>
 <div id="recflash"></div>
-<div id="reccover"></div>
+<canvas id="recfx"></canvas>
 <canvas id="rec3d"></canvas>
 <div id="rechud"></div>
 <div id="unlock"></div>
@@ -1308,6 +1310,14 @@ function finList(){
 /* ============================== РЕПЛЕЙ ============================== */
 let RP={raf:0,skip:false};
 const repH=()=>document.body.classList.contains('rec')?Math.min(innerHeight*.63,620):Math.min(innerHeight*.56,520);
+/* запись ролика: в тоннеле гонка разгоняется (степень 2.2) и к переходу в график (u 0.3) выходит на ровный
+   ход без излома скорости, дальше ровно, у финиша слоу-мо */
+function timeRemapRec(u){
+  const a=0.3, n=2.2, pA=0.88*a/(n*(0.75-a)+a);
+  if(u<a) return pA*Math.pow(u/a,n);
+  if(u<.75) return pA+(0.88-pA)*(u-a)/(0.75-a);
+  const k=(u-.75)/.25; return .88+.12*(1-Math.pow(1-k,3));
+}
 function timeRemap(u){ // фазы: разгон → полёт → слоу-мо у финиша
   if(u<.1){ const k=u/.1; return .06*k*k; }
   if(u<.75){ return .06+.82*((u-.1)/.65); }
@@ -1324,7 +1334,7 @@ function openReplay(id){
   const step=t=>{ if(!$('#replay').classList.contains('on')) return;
     if(!t0) t0=t;
     let u=Math.min(1,(t-t0)/DUR); if(RP.skip) u=1;
-    const p=timeRemap(u);
+    const p=(document.body.classList.contains('rec')?timeRemapRec:timeRemap)(u);
     const info=drawLadder(cv,ch,{progress:p,votes:c.votes,myZone:(myVote(c)||{}).zone,
       deadline:c.deadline,h:repH(),live:document.body.classList.contains('rec')});
     if(window.__recCam) window.__recCam(info,u);     // запись ролика: 3D-камера бежит за точкой (recFlight)
@@ -1391,14 +1401,70 @@ function recShow(html,{slide=true,jolt=false}={}){ const box=$('#reccard'); box.
 function recHide(){ const box=$('#reccard'); box.innerHTML=''; box.classList.remove('jolt'); box.style.display='none'; }
 const plRu=(n,[one,few,many])=>{ const a=Math.abs(n)%100, b=a%10; return a>10&&a<20?many:b===1?one:b>=2&&b<=4?few:many; };
 function recFlash(){ const f=$('#recflash'); if(!f) return; f.classList.remove('go'); void f.offsetWidth; f.classList.add('go'); }
-/* сплошная жёлтая заливка: on — мгновенно; off — схлопывается кругом в точку цены
-   (она в кадре тоннеля стоит в 50%/42%), будто жёлтое и было этой точкой */
-function recCover(on){ const el=$('#reccover'); if(!el) return;
-  if(on){ el.style.transition='none'; el.style.display='block'; el.style.opacity='1'; el.style.clipPath='circle(120% at 50% 42%)'; void el.offsetWidth; }
-  else { /* схлопывание кругом через rAF (CSS-переход clip-path в записи не отработал): ease-in — чуть держит жёлтое, потом резко в точку */
-    const t0=performance.now(), ms=460;
-    (function f(t){ const k=Math.min(1,(t-t0)/ms), e=k*k*k; el.style.clipPath=`circle(${(120*(1-e)).toFixed(2)}% at 50% 42%)`;
-      if(k<1) requestAnimationFrame(f); else { el.style.display='none'; el.style.opacity='0'; el.style.clipPath=''; el.style.transition=''; } })(t0); } }
+const recFrames=n=>new Promise(r=>{ const f=()=>--n<=0?r():requestAnimationFrame(f); requestAnimationFrame(f); });
+/* полость буквы «О» хука на экране. Глиф рисуется на холсте тем же шрифтом (×4), от центра чернильной
+   рамки ищутся внутренние края по осям, от центра полости — по диагонали (скругление). На экран — от
+   начала глифа (левый край span) и базовой линии. Отдаёт центр x,y, полуоси полости a,b, радиус
+   скругления r и полуоси самой буквы A,B (для искр), в px экрана; null — если полость не нашлась */
+function recCounter(span){
+  const cs=getComputedStyle(span), fsz=parseFloat(cs.fontSize), fam=cs.fontFamily, wt=cs.fontWeight, SC=4, PD=8;
+  const c=document.createElement('canvas'), x=c.getContext('2d');
+  x.font=`${wt} ${fsz}px ${fam}`; const m=x.measureText('О');
+  const L=m.actualBoundingBoxLeft, R=m.actualBoundingBoxRight, A=m.actualBoundingBoxAscent, D=m.actualBoundingBoxDescent;
+  const w=Math.ceil((L+R)*SC)+2*PD, h=Math.ceil((A+D)*SC)+2*PD; if(!(w>2*PD+8&&h>2*PD+8)) return null;
+  c.width=w; c.height=h; x.font=`${wt} ${fsz*SC}px ${fam}`; x.fillStyle='#000'; x.textBaseline='alphabetic';
+  const ox=PD+L*SC, oy=PD+A*SC; x.fillText('О',ox,oy);
+  const d=x.getImageData(0,0,w,h).data, on=(i,j)=>{ i=Math.round(i); j=Math.round(j); return i<0||j<0||i>=w||j>=h||d[(j*w+i)*4+3]>127; };
+  const run=(x0,y0,di,dj)=>{ let t=0; while(!on(x0+di*t,y0+dj*t)&&t<w+h) t++; return t; };
+  const c0=PD+(L+R)*SC/2, r0=PD+(A+D)*SC/2; if(on(c0,r0)) return null;
+  const li=run(c0,r0,-1,0), ri=run(c0,r0,1,0), ti=run(c0,r0,0,-1), bi=run(c0,r0,0,1);
+  const ccx=c0+(ri-li)/2, ccy=r0+(bi-ti)/2, a=(li+ri)/2/SC, b=(ti+bi)/2/SC;
+  const p=run(ccx,ccy,Math.SQRT1_2,Math.SQRT1_2)/SC*Math.SQRT1_2;      // граница полости на диагонали (по x и y)
+  let r=0, best=1e9;                                                     // скругление прямоугольника a×b, дающее ту же диагональ
+  for(let i=0;i<=200;i++){ const rr=Math.min(a,b)*i/200, q=2*rr*rr-(a-b)*(a-b);
+    const pr=q<0?Math.min(a,b):((a+b-2*rr)+Math.sqrt(q))/2; if(Math.abs(pr-p)<best){ best=Math.abs(pr-p); r=rr; } }
+  const rc=span.getBoundingClientRect(), fA=m.fontBoundingBoxAscent, fD=m.fontBoundingBoxDescent;
+  const k=rc.height/(fA+fD)||1;                                          // если буква ещё под трансформом (вбивание) — её масштаб
+  return {x:rc.left+(ccx-ox)/SC*k, y:rc.top+(fA+(ccy-oy)/SC)*k, a:a*k, b:b*k, r:r*k, A:(L+R)/2*k, B:(A+D)/2*k};
+}
+/* наезд в «О»: RI — общее состояние. По нему лист хука растёт вокруг полости, а 3D-тоннель (recFlight,
+   opts.center) держит точку в центре полости, пока та съезжает в 50%/42% кадра. Масштаб растёт
+   экспоненциально с разгоном (S^(k²)) — наезд, который ускоряется; S — чтобы окно накрыло весь кадр */
+let RI=null;
+function recIntroK(k){ const e=k*k*(3-2*k);
+  return {k, cx:RI.C0[0]+(RI.E[0]-RI.C0[0])*e, cy:RI.C0[1]+(RI.E[1]-RI.C0[1])*e, s:Math.pow(RI.S,k*k)}; }
+const recIntroAt=now=>RI?recIntroK(RI.t0==null?0:Math.min(1,Math.max(0,(now-RI.t0)/RI.ms))):null;
+function recIntroPrep(O,ms){ const W=innerWidth, H=innerHeight, E=[W/2,H*0.42], IN=1.5;   // окно чуть меньше полости — край под буквой
+  const a=O.a-IN, b=O.b-IN, r=Math.max(0,Math.min(a,b,O.r-IN));
+  const covers=sc=>[[0,0],[W,0],[0,H],[W,H]].every(([px,py])=>{ const dx=Math.abs(px-E[0])/sc, dy=Math.abs(py-E[1])/sc;
+    if(dx>a||dy>b) return false; const ex=dx-(a-r), ey=dy-(b-r); return !(ex>0&&ey>0&&ex*ex+ey*ey>r*r); });
+  let S=2; while(!covers(S)&&S<5000) S*=1.05;
+  RI={t0:null, ms, C0:[O.x,O.y], E, S:S*1.1, O, hole:{a,b,r}}; }
+function recPush(pg){
+  const {O,hole:{a,b,r}}=RI;
+  const el=document.createElement('div'); el.id='rechole';
+  Object.assign(el.style,{left:(O.x-a)+'px', top:(O.y-b)+'px', width:2*a+'px', height:2*b+'px', borderRadius:r+'px'});
+  pg.prepend(el); pg.classList.add('hole'); pg.style.transformOrigin='0 0';
+  const fx=$('#recfx'), dpr=window.devicePixelRatio||1, W=innerWidth, H=innerHeight; let x=null;
+  if(fx){ fx.width=Math.round(W*dpr); fx.height=Math.round(H*dpr); fx.style.display='block';
+    x=fx.getContext('2d'); x.setTransform(dpr,0,0,dpr,0,0); x.lineCap='round'; }
+  /* искры: рождаются на теле «О» (между полостью и внешним краем) и улетают наружу с разгоном — в координатах
+     «О», а на экран тем же преобразованием, что и лист, поэтому обгоняют растущую букву и летят на зрителя */
+  const cols=['#FFFFFF','#FFE9A8','#FFB020'];
+  const sp=Array.from({length:72},(_,i)=>({ph:Math.random()*Math.PI*2, rr:Math.random(), te:Math.random()*0.72,
+    v:0.7+Math.random()*1.8, w:1.2+Math.random()*1.8, col:cols[i%3]}));
+  const loc=(q,k)=>{ const age=Math.max(0,k-q.te), gr=1+q.v*age*age*16;
+    return [Math.cos(q.ph)*(a+(O.A-a)*q.rr)*gr, Math.sin(q.ph)*(b+(O.B-b)*q.rr)*gr]; };
+  RI.t0=performance.now();
+  return new Promise(res=>{ (function f(){ const st=recIntroAt(performance.now());
+    pg.style.transform=`translate(${(st.cx-st.s*O.x).toFixed(2)}px,${(st.cy-st.s*O.y).toFixed(2)}px) scale(${st.s.toFixed(4)})`;
+    if(x){ x.clearRect(0,0,W,H); const pk=Math.max(0,st.k-0.035), s0=recIntroK(pk);
+      for(const q of sp){ if(st.k<q.te) continue; const age=st.k-q.te, al=Math.min(1,age/0.05)*Math.max(0,1-age/0.6); if(al<=0.01) continue;
+        const P0=loc(q,Math.max(q.te,pk)), P1=loc(q,st.k);
+        x.globalAlpha=al; x.strokeStyle=q.col; x.lineWidth=q.w*(1+age*3); x.beginPath();
+        x.moveTo(s0.cx+s0.s*P0[0], s0.cy+s0.s*P0[1]); x.lineTo(st.cx+st.s*P1[0], st.cy+st.s*P1[1]); x.stroke(); } }
+    if(st.k<1) requestAnimationFrame(f); else { if(x){ x.clearRect(0,0,W,H); fx.style.display='none'; } res(); } })(); });
+}
 /* 3D-пролёт за точкой цены и сквозной проезд камеры в график (холст #rec3d поверх реплея).
    Мир: x — поперёк тоннеля, y — цена (высота), z — время в часах от камеры погони.
    Камера одна на всю сцену и всегда смотрит на точку. Её параметры: рысканье θ и тангаж φ,
@@ -1413,7 +1479,7 @@ function recCover(on){ const el=$('#reccover'); if(!el) return;
    Рельсы тянутся на всё время конкурса, поэтому в конце они и есть линии зон лестницы,
    путь — её линия цены, точка — её комета. Последние 10% выезда холст совпадает с лестницей
    линия в линию и тает: проявляются только подписи и голоса лестницы, наложения сцен нет. */
-function recFlight(ch,FROM=0.3,TO=0.72){
+function recFlight(ch,FROM=0.3,TO=0.72,opts={}){
   const cv=$('#rec3d'), lc=$('#rcanvas'); let finished=false;
   const finish=()=>{ finished=true; if(cv){ cv.style.display='none'; cv.style.opacity='1'; } };
   if(!cv||!lc) return {draw(){}};
@@ -1438,7 +1504,14 @@ function recFlight(ch,FROM=0.3,TO=0.72){
   const sst=(a,b,v)=>{ const k=Math.min(1,Math.max(0,(v-a)/(b-a))); return k*k*(3-2*k); };
   const mix=(a,b,k)=>a+(b-a)*k;
   const fog=z=>z<=0?1:Math.pow(Math.max(0,1-z/FAR),1.6);                 // туман глубины: даль гаснет
-  let ysm=null, cam=null, rect=null;
+  /* дистанция до точки (ч): на наезде в «О» точка подлетает к камере (LEAD0→LEADC), потом с разгоном
+     уходит вперёд и к середине выезда в график стоит на LEAD; ракурс тот же, плечо камеры ∝ дистанции */
+  const LEAD0=6, LEADC=2.6, UP=0.15, leadAt=u=>u<UP?mix(LEAD0,LEADC,sst(0,UP,u)):mix(LEADC,LEAD,sst(UP,0.45,u));
+  /* пыль тоннеля: частицы в объёме летят навстречу (ход камеры по времени + постоянный «ветер»), штрих —
+     путь за ~4 кадра: чем быстрее гонка, тем длиннее; рождаются в глубине, то есть из полости «О» на наезде */
+  const rnd=(a,b)=>a+Math.random()*(b-a), seed=q=>{ q.x=rnd(-HW,HW)*0.92; q.y=rnd(-0.55,0.55)*TH; q.amber=Math.random()<0.3; return q; };
+  const parts=Array.from({length:170},()=>seed({z:rnd(NEAR,FAR)}));
+  let ysm=null, cam=null, rect=null, zPrev=null, tPrev=null, vel=0;
   /* мировая точка → однородные экранные координаты [g·xc, g·yc, w] (линейны по миру — обрезку
      по ближней плоскости можно делать прямо в них) */
   const toScr=P=>{ const {T,R,U,F,d0,lam,g,sig}=cam, vx=P[0]-T[0], vy=P[1]-T[1], vz=(P[2]-T[2])*sig;
@@ -1451,10 +1524,11 @@ function recFlight(ch,FROM=0.3,TO=0.72){
       const M=[P[0]+(Q[0]-P[0])*k, P[1]+(Q[1]-P[1])*k, WM]; if(A[2]<=WM) A=M; else B=M; }
     x.strokeStyle=color; x.globalAlpha=alpha; x.lineWidth=w; x.beginPath();
     x.moveTo(cam.sx+A[0]/A[2], cam.sy-A[1]/A[2]); x.lineTo(cam.sx+B[0]/B[2], cam.sy-B[1]/B[2]); x.stroke(); }
-  function setCamera(info,tcur,pcur,k){
+  function setCamera(info,tcur,pcur,k,lead){
     const now=performance.now(), aO=sst(0,0.7,k), aZ=sst(0.08,0.9,k), lam=1-sst(0.22,0.86,k);
-    const swayK=1-aO, sway=0.55*Math.sin(now/650)*swayK;               // лёгкое покачивание погони, на выезде стихает
-    const T=[0,Y(pcur),LEAD], C=[CAMX+sway, ysm+CAMY+0.25*Math.sin(now/410)*swayK, 0];
+    const swayK=1-aO, sway=0.55*Math.sin(now/650)*swayK, q=lead/LEAD;  // лёгкое покачивание погони, на выезде стихает
+    const T=[0,Y(pcur),lead], C=[q*(CAMX+sway), ysm+q*(CAMY+0.25*Math.sin(now/410)*swayK), 0];
+    const bc=(opts.center&&opts.center())||[cx,cy];                     // где точка на экране: на наезде — в полости «О»
     const dx=T[0]-C[0], dy=T[1]-C[1], dz=T[2]-C[2], d0=Math.hypot(dx,dy,dz);
     const th=mix(Math.atan2(-dx,dz),Math.PI/2,aO), ph=mix(Math.asin(-dy/d0),0,aO);
     const F=[-Math.sin(th)*Math.cos(ph), -Math.sin(ph), Math.cos(th)*Math.cos(ph)], R=[Math.cos(th),0,Math.sin(th)];
@@ -1463,20 +1537,25 @@ function recFlight(ch,FROM=0.3,TO=0.72){
     if(!rect) rect=lc.getBoundingClientRect();
     const kxh=info.px(tcur+HOUR)-info.px(tcur), gEnd=(info.py(lo)-info.py(hi))/TH;   // px на час и px на единицу высоты мира
     const g0=f/d0, g=g0*Math.pow(gEnd/g0,aZ), sig=Math.pow(kxh/gEnd,aZ);
-    cam={T,R,U,F,d0,lam,g,sig,aO,aZ, wmin:Math.max(1e-4,NEARC*lam/d0),
-      sx:mix(cx,rect.left+info.px(tcur),aZ), sy:mix(cy,rect.top+info.py(pcur),aZ)};
+    cam={T,R,U,F,d0,lam,g,sig,aO,aZ,bc, wmin:Math.max(1e-4,NEARC*lam/d0),
+      sx:mix(bc[0],rect.left+info.px(tcur),aZ), sy:mix(bc[1],rect.top+info.py(pcur),aZ)};
   }
   function draw(info,u=0){
     if(finished||!info||!info.cur) return;
     const tcur=info.cur[0], pcur=info.cur[1], k=Math.min(1,Math.max(0,(u-FROM)/(TO-FROM)));
     if(k>=1){ finish(); return; }                                        // дальше та же картинка — уже сама лестница
     ysm=ysm==null?Y(pcur):ysm+(Y(pcur)-ysm)*0.12;
-    setCamera(info,tcur,pcur,k);
+    const lead=leadAt(u);
+    setCamera(info,tcur,pcur,k,lead);
     const {aO,aZ}=cam, aS=sst(0.3,0.9,k), fogMix=sst(0.15,0.75,k);
     const hw=HW*(1-sst(0.1,0.75,k));                                     // стенки сходятся в плоскость графика
     const wallA=sd=>sd>0?1-sst(0,0.45,k):1, gateA=1-sst(0,0.5,k);        // ближняя (правая, sd=+1) стенка и ворота гаснут до пролёта сквозь них;
                                                                          // стенку различаем по стороне, не по знаку x — в конце обе в x=0
-    const zcam=tcur-LEAD*HOUR, Z=t=>(t-zcam)/HOUR, za=Z(t0), zb=Z(t1);
+    const zcam=tcur-lead*HOUR, Z=t=>(t-zcam)/HOUR, za=Z(t0), zb=Z(t1);
+    { const now=performance.now(), dt=tPrev==null?0:Math.min(0.1,(now-tPrev)/1000);   // пыль: сдвиг за кадр
+      const adv=(zPrev==null?0:Math.max(0,(zcam-zPrev)/HOUR))+1.8*dt;
+      zPrev=zcam; tPrev=now; if(dt>0) vel=mix(vel,adv/dt,0.35);
+      for(const q of parts){ q.z-=adv; if(q.z<0.35) seed(q).z+=FAR-0.35; } }
     cv.style.opacity=String(1-sst(0.9,1,k));                             // совпало с лестницей линия в линию — тает
     x.globalAlpha=1; x.shadowBlur=0; x.fillStyle='#07080B'; x.fillRect(0,0,W,H);
     x.lineCap='round'; x.lineJoin='round';
@@ -1505,6 +1584,10 @@ function recFlight(ch,FROM=0.3,TO=0.72){
         const Lb=scr([0,Y(hi)+1.2,z]); if(Lb){ const fz=Math.max(11,Math.min(40,1.3*cam.g/Lb[2]));   // g/w — px на единицу мира в этой точке
           x.globalAlpha=Math.min(1,a*1.3); x.fillStyle='#C9CEDA'; x.font=`900 ${fz.toFixed(1)}px Unbounded, sans-serif`; x.textAlign='center';
           x.fillText(dayName(t),Lb[0],Lb[1]); } } }
+    const pAl=1-sst(0,0.4,k);                                            // пыль штрихами; на облёте гаснет
+    if(pAl>0.01){ const sl=Math.min(8,0.08+vel*0.07);
+      for(const q of parts){ const g=fog(q.z); if(g<0.03) continue; const A=scr([q.x,q.y,q.z]); if(!A) continue;
+        line([q.x,q.y,q.z],[q.x,q.y,q.z+sl],Math.max(0.8,Math.min(3.4,0.08*cam.g/A[2])),pAl*g*(q.amber?0.85:0.5),q.amber?'#FFB020':'#C9CEDA'); } }
     /* путь: вся пройденная история (позади камеры погони её срезает ближняя плоскость, на выезде
        она открывается слева). Толщина — по экранному масштабу в точке пути: в погоне толстая трубка
        у камеры, в конце ровно линия цены лестницы. Куски одной толщины рисуются одним штрихом */
@@ -1522,11 +1605,11 @@ function recFlight(ch,FROM=0.3,TO=0.72){
       prev=Pw; }
     flush();
     /* точка: всегда в (sx, sy) — она и есть цель камеры; пульс стихает, к концу — комета лестницы */
-    const ph=performance.now()/110, s=mix(12,8.1,aS)+3*Math.sin(ph)*(1-aO);
+    const ph=performance.now()/110, s=mix(12*Math.sqrt(LEAD/lead),8.1,aS)+3*Math.sin(ph)*(1-aO);   // ближе — крупнее
     x.globalAlpha=1; x.fillStyle='#FFB020'; x.shadowBlur=mix(24+10*Math.sin(ph),12,aS);
     x.fillRect(cam.sx-s/2,cam.sy-s/2,s,s); x.shadowBlur=0;
     if(aS>0.05){ x.globalAlpha=aS; x.fillStyle='#F2EFE6'; x.fillRect(cam.sx-1,cam.sy-1,2,2); }
-    if(aZ<0.99){ const vg=x.createRadialGradient(cx,cy,H*0.18,cx,cy,H*0.75);   // виньетка погони, на выезде уходит
+    if(aZ<0.99){ const [vx,vy]=cam.bc, vg=x.createRadialGradient(vx,vy,H*0.18,vx,vy,H*0.75);   // виньетка погони, на выезде уходит
       vg.addColorStop(0,'rgba(7,8,11,0)'); vg.addColorStop(1,'rgba(7,8,11,.78)');
       x.globalAlpha=1-aZ; x.fillStyle=vg; x.fillRect(0,0,W,H); }
     x.globalAlpha=1;                                                     // время — на табло (recHud), не на холсте
@@ -1561,7 +1644,7 @@ function recDate(c){ const d=new Date(c.target_time);
     +new Intl.DateTimeFormat('ru-RU',{...MSK,hour:'2-digit',minute:'2-digit'}).format(d)+' МСК'; }
 function recHook(c,ch){
   const total=c.total||0;
-  return `<div class="big" style="font-size:100px">ИТОГ</div>
+  return `<div class="big" style="font-size:100px">ИТ<span class="o">О</span>Г</div>
     <div class="sub" style="font-size:22px">#ктоточнее · ${esc(symName(ch&&ch.symbol))}</div>
     ${total?`<div class="q">${total} ${plRu(total,['прогноз','прогноза','прогнозов'])}.<br>Кто угадал?</div>`:''}
     <div class="dim">${esc(recDate(c))}</div>
@@ -1603,26 +1686,26 @@ function recCta(){
     <div class="ctabtn">t.me/RBCCrypto_forum</div>
     <div class="dim">новый опрос каждую неделю · итог по цене Binance</div>`;
 }
-/* Сценарий (~22 с): хук 1.7 → реплей ~6 + финиш 1.0 (табло гонки внизу кадра) → цифры финиша 2.6 → звания ≤4.4 →
-   топ-10 ≤3.9 → призыв 2.6 (остаётся). Карточки сменяются «пушем» (recShow) */
+/* Сценарий (~21 с): хук 1.3 → наезд в «О» 0.9 (под ним уже идёт гонка) → гонка ~6 + финиш 1.0 (табло внизу кадра) →
+   цифры финиша 2.6 → звания ≤4.4 → топ-10 ≤3.9 → призыв 2.6 (остаётся). Карточки сменяются «пушем» (recShow) */
 async function runRecording(id){
   const c=contests().find(x=>x.status==='resolved'&&chartIdOf(x)===id); const ch=S.charts[id];
   const ups=readUpsParam();
   window.__replayStart=performance.now();
-  recBar(0,1800); recShow(recHook(c,ch),{slide:false,jolt:true}); await recSleep(1300);   // «ИТОГ» вбивается с толчком кадра
-  const big=$('#reccard .big'); if(big) big.classList.add('zoom');       // «ИТОГ» раздувается на весь экран
-  await recSleep(380);
-  recCover(true);                                                        // сплошной жёлтый
-  recBar(1,7400); recHide();
-  /* 3D-пролёт за точкой, затем один непрерывный проезд камеры, который заканчивается ровно
-     2D-лестницей (recFlight: доли гонки 0.3→0.72); дальше гонка идёт на лестнице */
-  const flight=recFlight(ch,0.3,0.72), hud=recHud(c,ch);
+  recBar(0,1300); recShow(recHook(c,ch),{slide:false,jolt:true}); await recSleep(1300);   // «ИТОГ» вбивается с толчком кадра
+  /* наезд камеры в букву «О»: за её полостью уже идёт 3D-тоннель с точкой в центре; потом пролёт за точкой
+     и один непрерывный проезд камеры, который заканчивается ровно 2D-лестницей (recFlight: доли гонки 0.3→0.72) */
+  const oEl=$('#reccard .big .o'), O=oEl?recCounter(oEl):null;
+  RI=null; if(O) recIntroPrep(O,900);
+  recBar(1,7000);
+  const flight=recFlight(ch,0.3,0.72,{center:()=>{ const st=recIntroAt(performance.now()); return st&&[st.cx,st.cy]; }}), hud=recHud(c,ch);
   window.__recCam=(info,u)=>{ hud.update(info); flight.draw(info,u); };
   window.__recFin=()=>hud.finish();
   const race=new Promise(res=>{ window.__recResolve=res; });            // finishReplay: punch + вспышка, ход через 1.3 с
   openReplay(id);
-  await recSleep(90);                                                    // первый кадр тоннеля нарисован под заливкой
-  recCover(false);                                                       // заливка уходит — мы летим за точкой
+  await recFrames(2);                                                    // первый кадр тоннеля нарисован под листом хука
+  if(O) await recPush($('#reccard .pg'));                                // окно «О» накрыло кадр — лист больше не нужен
+  recHide();
   await race;
   window.__recCam=null; window.__recFin=null;
   recBar(2,2600); recShow(recResult(c,ch));                             // карточка цифр въезжает поверх финиша
