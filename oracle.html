@@ -189,6 +189,8 @@
   #reccard .big.zoom{animation:recZoomIn .42s cubic-bezier(.55,0,.9,.35) forwards}
   #reccover{position:fixed; inset:0; z-index:140; background:var(--amber); display:none; opacity:0; transition:opacity .26s ease-out}
   body.rec .ladderwrap{will-change:transform}
+  /* 3D-пролёт за точкой (recFlight): отдельный холст поверх реплея, границы зон — рельсы в перспективе */
+  #rec3d{position:fixed; inset:0; z-index:115; width:100%; height:100%; display:none; pointer-events:none}
   /* карточка «Топ-10 рейтинга»: плотнее, спрайты мельче, строки быстрее, лидер подсвечен */
   #reccard .top{gap:7px; margin-top:12px}
   #reccard .top .up{padding:5px 10px; gap:10px; animation-delay:calc(.1s + var(--i)*.15s)}
@@ -525,6 +527,7 @@
 <div id="recbar"><i></i><i></i><i></i><i></i><i></i></div>
 <div id="recflash"></div>
 <div id="reccover"></div>
+<canvas id="rec3d"></canvas>
 <div id="unlock"></div>
 <div id="levelup"></div>
 <div id="sheet" onclick="if(event.target===this)closeSheet()"><div class="panel"><div class="grip"></div><div id="sheetbody"></div></div></div>
@@ -1333,14 +1336,65 @@ function recFlash(){ const f=$('#recflash'); if(!f) return; f.classList.remove('
 function recCover(on){ const el=$('#reccover'); if(!el) return;
   if(on){ el.style.transition='none'; el.style.display='block'; el.style.opacity='1'; void el.offsetWidth; el.style.transition=''; }
   else { el.style.opacity='0'; setTimeout(()=>{ el.style.display='none'; },320); } }
-/* «камера» гонки: стартует крупным планом на точке цены (зум S0), бежит за ней и к доле END
-   гонки плавно выходит на общий план (трансформ снимается — финишные shake/punch не задеты) */
-function recCamera(S0=4.2,END=0.5){
+/* 3D-пролёт за точкой цены: холст #rec3d поверх реплея. Мир: глубина — время (часы),
+   высота — цена, ширина — тоннель. Границы зон — рельсы левой и правой стенки, между
+   ними мелкие деления и перекладины времени каждые 6 ч; пройденный путь — толстая
+   линия под камерой до точки (будущее не показываем), точка впереди на LEAD часов.
+   Камера мягко держит высоту точки. Кадры синхронны с 2D-реплеем: draw() зовётся из
+   его rAF-шага (__recCam) с тем же info.cur, поэтому «выезд» на плоскую лестницу
+   попадает ровно в тот же момент гонки. */
+function recFlight(ch){
+  const cv=$('#rec3d'); if(!cv) return {draw(){},fade(){}};
+  const dpr=window.devicePixelRatio||1, W=innerWidth, H=innerHeight;
+  cv.width=Math.round(W*dpr); cv.height=Math.round(H*dpr); cv.style.display='block'; cv.style.opacity='1'; cv.style.transition='';
+  const x=cv.getContext('2d'); x.setTransform(dpr,0,0,dpr,0,0);
+  const ser=ch.series||[], rr=ch.ranges||[];
+  const bounds=[...new Set(rr.flatMap(([lo,hi])=>[lo,hi]).filter(v=>v!=null))].sort((a,b)=>a-b);
+  if(bounds.length<2) return {draw(){},fade(){ cv.style.display='none'; }};
+  const lo=bounds[0], hi=bounds[bounds.length-1], span=hi-lo;
+  const step=[0.5,1,2,5,10,20,50,100,200,500,1000,2000,5000,10000].find(s=>span/s<=14)||10000;
+  const minor=[]; for(let v=Math.ceil(lo/step)*step; v<=hi+1e-9; v+=step) if(!bounds.some(b=>Math.abs(b-v)<1e-9)) minor.push(v);
+  const HOUR=3600e3, LEAD=9, FAR=60, NEAR=0.7, HW=22, TH=40;   // часов до точки, глубина, ближняя плоскость, полуширина, высота
+  const f=W*0.95, cx=W/2, cy=H*0.45;
+  const Y=p=>(p-lo)/span*TH-TH/2;
+  let ycam=null;
+  const proj=(px,py,pz)=>pz<=NEAR*0.5?null:[cx+f*px/pz, cy-f*(py-ycam)/pz, pz];
+  function line(a,b,w,alpha,color){ const A=proj(...a),B=proj(...b); if(!A||!B) return;
+    x.strokeStyle=color; x.globalAlpha=alpha; x.lineWidth=w; x.beginPath(); x.moveTo(A[0],A[1]); x.lineTo(B[0],B[1]); x.stroke(); }
+  function draw(info){
+    if(!info||!info.cur) return;
+    const tcur=info.cur[0], pcur=info.cur[1];
+    ycam=ycam==null?Y(pcur):ycam+(Y(pcur)-ycam)*0.12;
+    const zcam=tcur-LEAD*HOUR, Z=t=>(t-zcam)/HOUR;
+    x.globalAlpha=1; x.shadowBlur=0; x.fillStyle='#07080B'; x.fillRect(0,0,W,H);
+    x.lineCap='round'; x.lineJoin='round';
+    for(const m of minor) for(const sx of [-HW,HW]) line([sx,Y(m),NEAR],[sx,Y(m),FAR],1,0.18,'#8A8F9C');
+    for(const b of bounds) for(const sx of [-HW,HW]) line([sx,Y(b),NEAR],[sx,Y(b),FAR],1.8,0.6,'#8A8F9C');
+    const t6=Math.ceil(zcam/(6*HOUR))*6*HOUR;                           // перекладины времени
+    for(let t=t6; Z(t)<FAR; t+=6*HOUR){ const z=Z(t); if(z<NEAR) continue; const a=0.3*(1-z/FAR);
+      for(const b of bounds) line([-HW,Y(b),z],[HW,Y(b),z],1,a,'#8A8F9C'); }
+    x.font='600 12px IBM Plex Mono, monospace'; x.textAlign='left'; x.fillStyle='#8A8F9C';   // подписи зон на левой стенке
+    rr.forEach((r,i)=>{ const yz=r[0]==null?lo-span*.06:(r[1]==null?hi+span*.06:(r[0]+r[1])/2); const P=proj(-HW+1.5,Y(yz),LEAD*0.7);
+      if(P&&P[1]>20&&P[1]<H-20){ x.globalAlpha=0.75; x.fillText(zoneShort(rr,i),P[0],P[1]+4); } });
+    const pts=[]; for(const [t,p] of ser){ if(t>tcur) break; const z=Z(t); if(z>NEAR) pts.push([0,Y(p),z]); }
+    pts.push([0,Y(pcur),LEAD]);
+    x.shadowColor='#FFB020';
+    for(let i=1;i<pts.length;i++){ const d=pts[i][2]; x.shadowBlur=10; line(pts[i-1],pts[i],Math.max(1.6,22/d),Math.min(1,1.25-d/FAR),'#FFB020'); }
+    const D=proj(0,Y(pcur),LEAD); if(D){ const s=11; x.globalAlpha=1; x.fillStyle='#FFB020'; x.shadowBlur=24; x.fillRect(D[0]-s/2,D[1]-s/2,s,s); }
+    x.shadowBlur=0; x.globalAlpha=0.75; x.fillStyle='#8A8F9C'; x.font='13px IBM Plex Mono, monospace'; x.textAlign='center';
+    x.fillText(fmtDT(tcur),cx,34); x.globalAlpha=1;
+  }
+  function fade(){ cv.style.transition='opacity .6s ease-out'; cv.style.opacity='0'; setTimeout(()=>{ cv.style.display='none'; },700); }
+  return {draw,fade};
+}
+/* «камера» 2D-гонки: от доли FROM до доли TO гонки плавно уходит с зума S0 на общий план
+   (трансформ снимается — финишные shake/punch не задеты) */
+function recCamera(S0=1.7,FROM=0.5,TO=0.68){
   const wrap=$('#rstage .ladderwrap'); let base=null, off=false;
   function update(info,u){
-    if(off||!wrap||!info||!info.cur) return;
+    if(off||!wrap||!info||!info.cur||u<FROM) return;
     if(!base){ const r=wrap.getBoundingClientRect(); base={left:r.left,top:r.top}; }   // первый кадр — без трансформа
-    const k=Math.min(1,u/END), e=1-Math.pow(1-k,3);
+    const k=Math.min(1,(u-FROM)/(TO-FROM)), e=1-Math.pow(1-k,3);
     if(k>=1){ wrap.style.transform=''; wrap.style.transformOrigin=''; off=true; return; }
     const S=1+(S0-1)*(1-e);
     const dx=info.px(info.cur[0]), dy=info.py(info.cur[1]);
@@ -1402,11 +1456,15 @@ async function runRecording(id){
   await recSleep(380);
   recCover(true);                                                        // сплошной жёлтый
   recBar(1,7400); recHide();
-  const cam=recCamera(); window.__recCam=cam.update;                     // камера встанет на точку с первого кадра
+  /* первая половина гонки — 3D-пролёт за точкой; на половине тоннель растворяется,
+     а 2D-лестница под ним за 1 с выезжает с лёгкого зума на общий план */
+  const flight=recFlight(ch), cam=recCamera(1.7,0.5,0.68); let fading=false;
+  window.__recCam=(info,u)=>{ if(u<0.6) flight.draw(info);
+    if(u>=0.5){ if(!fading){ fading=true; flight.fade(); } cam.update(info,u); } };
   const race=new Promise(res=>{ window.__recResolve=res; });            // finishReplay: punch + вспышка, ход через 1.3 с
   openReplay(id);
-  await recSleep(90);                                                    // первый кадр нарисован под заливкой
-  recCover(false);                                                       // заливка уходит — точка крупным планом
+  await recSleep(90);                                                    // первый кадр тоннеля нарисован под заливкой
+  recCover(false);                                                       // заливка уходит — мы летим за точкой
   await race;
   window.__recCam=null; cam.reset();
   recBar(2,2200); recShow(recResult(c,ch));
