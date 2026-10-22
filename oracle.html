@@ -1479,14 +1479,14 @@ function recFlight(ch){
       const Lb=proj(0,Y(hi)+1.2,z); if(Lb){ const fz=Math.max(11,Math.min(40,f*1.3/Lb[2]));
         x.globalAlpha=Math.min(1,a*1.3); x.fillStyle='#C9CEDA'; x.font=`900 ${fz.toFixed(1)}px Unbounded, sans-serif`; x.textAlign='center';
         x.fillText(dayName(t),Lb[0],Lb[1]); } }
-    x.font='600 15px IBM Plex Mono, monospace'; x.textAlign='right';      // подписи зон на стенке; на облёте их сменяют подписи лестницы
-    rr.forEach((r,i)=>{ const yz=r[0]==null?lo-span*.06:(r[1]==null?hi+span*.06:(r[0]+r[1])/2); const P=proj(HW-5,Y(yz),LEAD*1.6);
-      if(P&&P[1]>20&&P[1]<H-20){ x.globalAlpha=0.85*(1-e); x.fillStyle=i===zc?'#FFB020':'#8A8F9C'; x.fillText(zoneShort(rr,i),P[0],P[1]+5); } });
+    /* подписей зон в тоннеле нет: камера выше точки, и в перспективе рядом с точкой вставала подпись
+       соседней зоны. Где цена сейчас — говорят янтарные рельсы и табло внизу (recHud) */
     const pts=[]; for(const [t,p] of ser){ if(t>tcur) break; const z=Z(t); if(z>-2) pts.push([0,Y(p),z]); }
     pts.push([0,Y(pcur),lead]);
     x.shadowColor='#FFB020';
     const pa=1-0.5*e;                                                    // на облёте путь остаётся (он и есть график), точка притухает
-    for(let i=1;i<pts.length;i++){ const d=Math.max(0.6,pts[i][2]); x.shadowBlur=10*pa; line(pts[i-1],pts[i],Math.max(1.6,26/d*(1-0.6*e)),pa*Math.min(1,1.25-d/FAR),'#FFB020'); }
+    for(let i=1;i<pts.length;i++){ const d=Math.max(0.6,toCam(pts[i])[2]), dz=pts[i][2]; x.shadowBlur=10*pa;
+      line(pts[i-1],pts[i],Math.max(1.6,26/d),pa*Math.min(1,1.25-dz/FAR),'#FFB020'); }
     const D=proj(0,Y(pcur),lead);                                        // точка с пульсом
     if(D){ const ph=performance.now()/110, s=12+3*Math.sin(ph)*(1-e); x.globalAlpha=1-0.4*e; x.fillStyle='#FFB020';
       x.shadowBlur=(24+10*Math.sin(ph))*(1-e); x.fillRect(D[0]-s/2,D[1]-s/2,s,s); }
@@ -1609,7 +1609,7 @@ async function runRecording(id){
   recCover(false);                                                       // заливка уходит — мы летим за точкой
   await race;
   window.__recCam=null; window.__recFin=null; cam.reset();
-  recBar(2,2600); recFlash(); recShow(recResult(c,ch));                 // вспышка на склейке в цифры
+  recBar(2,2600); recShow(recResult(c,ch));                             // карточка цифр въезжает поверх финиша
   setTimeout(()=>hud.hide(),400);                                        // табло уходит под въехавшей карточкой
   const we=$('#recwon'), won=(c.winners||[]).length, dw=Math.max(1,won)*recDotStep(won);
   if(we&&won) setTimeout(()=>{ const t0=performance.now();               // счёт идёт ровно за загорающимися квадратами
