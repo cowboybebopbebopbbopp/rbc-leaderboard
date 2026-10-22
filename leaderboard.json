@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T12:20:42+00:00",
+  "updated": "2026-10-22T13:04:52+00:00",
   "count": 234,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4536,
+      "value": 4537,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1902,
+      "value": 1904,
       "move": 0
     },
     {
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "LlirikMK",
-      "value": 75,
+      "value": 76,
       "move": 0
     },
     {
@@ -1427,7 +1427,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 75
+      "value": 77
     },
     {
       "rank": 5,
@@ -1467,7 +1467,7 @@
     {
       "rank": 12,
       "name": "LlirikMK",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 13,
@@ -1551,37 +1551,37 @@
     },
     {
       "rank": 29,
-      "name": "L G",
-      "value": 8
-    },
-    {
-      "rank": 30,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Сергей",
       "value": 7
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "lefkorosos",
       "value": 7
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "AnTon",
       "value": 6
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Aleksey",
       "value": 6
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Анастасия",
+      "value": 6
+    },
+    {
+      "rank": 35,
+      "name": "L G",
       "value": 6
     },
     {
@@ -1664,12 +1664,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 29
+      "value": 31
     },
     {
       "rank": 3,
@@ -1698,12 +1698,12 @@
     },
     {
       "rank": 8,
-      "name": "a l",
-      "value": 9
+      "name": "LlirikMK",
+      "value": 10
     },
     {
       "rank": 9,
-      "name": "LlirikMK",
+      "name": "a l",
       "value": 9
     },
     {
