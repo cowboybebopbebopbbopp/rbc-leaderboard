@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T19:32:52+00:00",
-  "count": 235,
+  "updated": "2026-10-22T20:32:56+00:00",
+  "count": 236,
   "has_movement": true,
   "all": [
     {
@@ -1409,9 +1409,15 @@
     },
     {
       "rank": 235,
+      "name": "Марина Кузьмина",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 236,
       "name": "vitaliy",
       "value": 0,
-      "move": -4
+      "move": -5
     }
   ],
   "month": [
@@ -1428,7 +1434,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 99
+      "value": 98
     },
     {
       "rank": 4,
@@ -1680,7 +1686,7 @@
     {
       "rank": 3,
       "name": "Синдбад Мореход",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 4,
@@ -1774,87 +1780,87 @@
     },
     {
       "rank": 22,
-      "name": "Сергей",
-      "value": 3
-    },
-    {
-      "rank": 23,
       "name": "Александр",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "ᴦоᴧод",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "AnTon",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "zomg",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Andrey",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "🌝",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Logrus",
+      "value": 1
+    },
+    {
+      "rank": 38,
+      "name": "Сергей",
       "value": 1
     },
     {
