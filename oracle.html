@@ -134,6 +134,12 @@
   #replay .bar button svg{width:18px; height:18px}
   #replay .inner{max-width:560px; margin:0 auto}
   #rclock{font-size:13px; color:var(--dim)}
+  /* режим записи ролика (#replay=<id>&rec=1, render_replay.py): только сцена реплея,
+     без шапки, вкладок, звука и кнопок — headless Chromium пишет видео для поста */
+  body.rec header, body.rec nav#tabs, body.rec #sndfloat, body.rec main{display:none}
+  body.rec #replay .bar button{visibility:hidden}
+  body.rec #resheet .cta, body.rec #resheet .wtag{pointer-events:none}
+  body.rec #resheet .cta{display:none}
   #rstage{position:relative}
   #rstage.shake{animation:shake .18s linear}
   @keyframes shake{0%,100%{transform:none}25%{transform:translate(3px,-2px)}50%{transform:translate(-3px,2px)}75%{transform:translate(2px,1px)}}
@@ -1238,7 +1244,11 @@ function finishReplay(instant){
       :'<div class="r-sub" style="margin-top:14px">не угадал никто — рынок победил всех</div>'}
     <button class="cta ghost" style="margin-top:20px" onclick="closeReplay()">закрыть</button>`;
   const pv=$('#rpricev'); if(!instant&&pv) countTo(pv,c.winner_price,{fmt:v=>fmtP(v),from:c.winner_price*.97,dur:700});
+  /* запись ролика: сигнал «финиш отыгран» (конфетти и счётчик цены успели) — его ждёт render_replay.py */
+  if(document.body.classList.contains('rec')) setTimeout(()=>{ window.__replayDone=performance.now(); document.title='replay-done'; },2200);
 }
+/* #replay=<msg_id>&rec=1 — автозапуск реплея для записи ролика (render_replay.py) */
+function readReplayParam(){ const m=(location.hash||'').match(/replay=(\d+)/); return m&&/rec=1/.test(location.hash)?m[1]:null; }
 function closeReplay(){ cancelAnimationFrame(RP.raf); $('#replay').classList.remove('on'); document.body.style.overflow=''; tgBack(); }
 
 /* ============================== Я ============================== */
@@ -1634,6 +1644,10 @@ function renderAll(){
   const mr0=meRow(); if(mr0&&mr0.name!==S.me){ S.me=mr0.name; localStorage.setItem('oracle_me',S.me); }
   renderAll();
   applyStagger($('#v-live'));
+  const recId=readReplayParam();
+  if(recId){ document.body.classList.add('rec'); S.sound=false;
+    if(!contests().some(c=>c.status==='resolved'&&chartIdOf(c)===recId)){ document.title='replay-missing'; return; }
+    window.__replayStart=performance.now(); openReplay(recId); return; }
   setInterval(async()=>{ try{ await loadData(); renderAll(); }catch(e){} },3e5);
   document.addEventListener('visibilitychange',async()=>{ if(!document.hidden){
     try{ await loadData(); renderAll(); }catch(e){} maybeAskMark(); } });
