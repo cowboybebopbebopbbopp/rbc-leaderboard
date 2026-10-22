@@ -1670,6 +1670,9 @@ async function recTileTo(c,ch,origin,hud){
   pg.classList.add('pan');
   const gr=grid.getBoundingClientRect(), P1=[gr.left+G.sz/2, gr.top+G.sz/2+VY];   // первая ячейка в мире
   const L1=[$('#replay'),$('#rechud')].filter(Boolean);
+  /* слои мира — композитные на время проезда: растеризуются один раз и дальше только двигаются; без этого
+     каждый кадр с новым масштабом перерастеризовал их целиком, и в записи картинка отставала (~0.2 с у посадки) */
+  for(const el of [...L1,box]) el.style.willChange='transform';
   const setCam=(cx,cy,z)=>{ const t1=`translate(${((0-cx)*z+W/2).toFixed(2)}px,${((0-cy)*z+H/2).toFixed(2)}px) scale(${z.toFixed(4)})`;
     for(const el of L1){ el.style.transformOrigin='0 0'; el.style.transform=t1; }
     box.style.transformOrigin='0 0'; box.style.transform=`translate(${((0-cx)*z+W/2).toFixed(2)}px,${((VY-cy)*z+H/2).toFixed(2)}px) scale(${z.toFixed(4)})`; };
