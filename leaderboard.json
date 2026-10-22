@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T14:03:12+00:00",
+  "updated": "2026-10-22T15:03:17+00:00",
   "count": 235,
   "has_movement": true,
   "all": [
@@ -1418,7 +1418,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 220
+      "value": 219
     },
     {
       "rank": 2,
@@ -1680,7 +1680,7 @@
     {
       "rank": 3,
       "name": "Синдбад Мореход",
-      "value": 24
+      "value": 23
     },
     {
       "rank": 4,
@@ -1784,48 +1784,48 @@
     },
     {
       "rank": 24,
-      "name": "terminal lucidity",
+      "name": "Andrey Tugarin",
       "value": 2
     },
     {
       "rank": 25,
-      "name": "AnTon",
+      "name": "terminal lucidity",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "Aleksey",
+      "name": "AnTon",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "Анастасия",
+      "name": "Aleksey",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "zomg",
+      "name": "Анастасия",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "Andrey",
+      "name": "zomg",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "Renat 🇷🇺🏴‍☠️",
+      "name": "Andrey",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "🌝",
+      "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Andrey Tugarin",
-      "value": 1
+      "name": "🌝",
+      "value": 2
     },
     {
       "rank": 33,
@@ -1864,21 +1864,16 @@
     },
     {
       "rank": 40,
-      "name": "Vlad",
-      "value": 1
-    },
-    {
-      "rank": 41,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Роман",
       "value": 1
     }
