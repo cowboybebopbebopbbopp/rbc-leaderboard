@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T20:32:56+00:00",
+  "updated": "2026-10-22T21:33:01+00:00",
   "count": 236,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4541,
+      "value": 4542,
       "move": 0
     },
     {
@@ -1424,7 +1424,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 218
+      "value": 219
     },
     {
       "rank": 2,
@@ -1618,27 +1618,27 @@
     },
     {
       "rank": 40,
-      "name": "Olga Goncharova",
-      "value": 5
-    },
-    {
-      "rank": 41,
       "name": "Ponemonec",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Юрий",
+      "value": 4
+    },
+    {
+      "rank": 44,
+      "name": "Olga Goncharova",
       "value": 4
     },
     {
@@ -1653,22 +1653,22 @@
     },
     {
       "rank": 47,
-      "name": "L G",
-      "value": 3
-    },
-    {
-      "rank": 48,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Lina",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Dede",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "Mikhail",
       "value": 3
     }
   ],
@@ -1676,7 +1676,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
@@ -1685,12 +1685,12 @@
     },
     {
       "rank": 3,
-      "name": "Синдбад Мореход",
-      "value": 19
+      "name": "Viktor",
+      "value": 18
     },
     {
       "rank": 4,
-      "name": "Viktor",
+      "name": "Синдбад Мореход",
       "value": 18
     },
     {
