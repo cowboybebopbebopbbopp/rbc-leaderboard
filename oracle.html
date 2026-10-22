@@ -1273,7 +1273,9 @@ function readReplayParam(){ const m=(location.hash||'').match(/replay=(\d+)/); r
 function readUpsParam(){ try{ const m=(location.hash||'').match(/ups=([^&]+)/); const v=m?JSON.parse(decodeURIComponent(m[1])):[];
   return Array.isArray(v)?v.filter(u=>u&&u.name):[]; }catch(e){ return []; } }
 const recSleep=ms=>new Promise(r=>setTimeout(r,ms));
-async function recCard(html,ms){ const el=$('#reccard'); el.innerHTML=html; el.classList.add('on'); await recSleep(ms); el.classList.remove('on'); await recSleep(280); }
+async function recCard(html,ms,keep){ const el=$('#reccard'); el.innerHTML=html; el.classList.add('on'); await recSleep(ms);
+  if(keep) return;                                   // последняя карточка остаётся до конца записи
+  el.classList.remove('on'); await recSleep(280); }
 function recIntro(c,ch){
   const d=new Date(c.target_time);
   const day=new Intl.DateTimeFormat('ru-RU',{...MSK,weekday:'short',day:'numeric',month:'long'}).format(d);
@@ -1304,7 +1306,7 @@ async function runRecording(id){
   await new Promise(res=>{ window.__recResolve=res; openReplay(id); });   // finishReplay отдаст ход через 2.2 с после финиша
   await recSleep(300);
   if(ups.length) await recCard(recUps(ups),Math.min(7000,2200+450*Math.min(ups.length,8)));
-  await recCard(recCta(),3200);
+  await recCard(recCta(),3200,true);                 // ролик заканчивается на призыве, без возврата к финишу
   window.__replayDone=performance.now(); document.title='replay-done';
 }
 function closeReplay(){ cancelAnimationFrame(RP.raf); $('#replay').classList.remove('on'); document.body.style.overflow=''; tgBack(); }
