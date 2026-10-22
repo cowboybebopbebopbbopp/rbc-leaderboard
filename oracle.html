@@ -168,7 +168,7 @@
   #reccard .arrow{margin-top:22px; color:var(--amber); font-size:30px; animation:recBounce .8s .5s infinite}
   #reccard .ups{display:flex; flex-direction:column; gap:9px; margin-top:16px; width:100%; max-width:420px}
   #reccard .up{display:flex; align-items:center; gap:12px; padding:8px 12px; border:1px solid #1F232C; border-radius:12px;
-    background:var(--ink2); text-align:left; animation:recSlide .3s cubic-bezier(.2,.8,.2,1) both; animation-delay:calc(.15s + var(--i)*.22s)}
+    background:var(--ink2); text-align:left; animation:recSlide .3s cubic-bezier(.2,.8,.2,1) both; animation-delay:calc(.15s + var(--i)*.2s)}
   #reccard .up img{width:48px; height:48px; image-rendering:pixelated; flex:none}
   #reccard .up .n{font-family:var(--f-disp); font-weight:700; font-size:16px; color:var(--fg); flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
   #reccard .up .t{font-family:var(--f-mono); font-size:13px; color:var(--amber); white-space:nowrap}
@@ -187,7 +187,9 @@
      встаёт на точку), затем заливка уходит и камера отзумливается от летящей точки (recCamera) */
   @keyframes recZoomIn{to{transform:scale(34)}}
   #reccard .big.zoom{animation:recZoomIn .42s cubic-bezier(.55,0,.9,.35) forwards}
-  #reccover{position:fixed; inset:0; z-index:140; background:var(--amber); display:none; opacity:0; transition:opacity .26s ease-out}
+  #reccover{position:fixed; inset:0; z-index:140; background:var(--amber); display:none; opacity:0;
+    clip-path:circle(120% at 50% 42%); transition:opacity .26s ease-out, clip-path .45s cubic-bezier(.7,0,.3,1)}
+  #reccard.jolt{animation:shake .3s .1s both}
   body.rec .ladderwrap{will-change:transform}
   /* 3D-пролёт за точкой (recFlight): отдельный холст поверх реплея, границы зон — рельсы в перспективе */
   #rec3d{position:fixed; inset:0; z-index:115; width:100%; height:100%; display:none; pointer-events:none}
@@ -1316,7 +1318,7 @@ function finishReplay(instant){
     const w=$('#rstage .ladderwrap'); if(w){ w.classList.remove('punch'); void w.offsetWidth; w.classList.add('punch'); }
     recFlash();
     setTimeout(()=>{ const r=window.__recResolve; window.__recResolve=null;
-      if(r) r(); else { window.__replayDone=performance.now(); document.title='replay-done'; } },1300);
+      if(r) r(); else { window.__replayDone=performance.now(); document.title='replay-done'; } },1000);
   }
 }
 
@@ -1328,14 +1330,16 @@ function readUpsParam(){ try{ const m=(location.hash||'').match(/ups=([^&]+)/); 
   return Array.isArray(v)?v.filter(u=>u&&u.name):[]; }catch(e){ return []; } }
 const recSleep=ms=>new Promise(r=>setTimeout(r,ms));
 /* показать карточку: содержимое новое, въезд снизу (slide=false — мгновенно); скрыть — жёсткий cut */
-function recShow(html,{slide=true}={}){ const el=$('#reccard'); el.classList.add('cut'); el.classList.remove('on');
-  el.innerHTML=html; el.style.display='flex'; void el.offsetWidth; if(slide) el.classList.remove('cut'); el.classList.add('on'); }
+function recShow(html,{slide=true,jolt=false}={}){ const el=$('#reccard'); el.classList.add('cut'); el.classList.remove('on','jolt');
+  el.innerHTML=html; el.style.display='flex'; void el.offsetWidth; if(slide) el.classList.remove('cut'); el.classList.add('on');
+  if(jolt) el.classList.add('jolt'); }
 function recHide(){ const el=$('#reccard'); el.classList.add('cut'); el.classList.remove('on'); el.style.display='none'; }
 function recFlash(){ const f=$('#recflash'); if(!f) return; f.classList.remove('go'); void f.offsetWidth; f.classList.add('go'); }
-/* сплошная жёлтая заливка: on — мгновенно, off — растворяется за .26 с */
+/* сплошная жёлтая заливка: on — мгновенно; off — схлопывается кругом в точку цены
+   (она в кадре тоннеля стоит в 50%/42%), будто жёлтое и было этой точкой */
 function recCover(on){ const el=$('#reccover'); if(!el) return;
-  if(on){ el.style.transition='none'; el.style.display='block'; el.style.opacity='1'; void el.offsetWidth; el.style.transition=''; }
-  else { el.style.opacity='0'; setTimeout(()=>{ el.style.display='none'; },320); } }
+  if(on){ el.style.transition='none'; el.style.display='block'; el.style.opacity='1'; el.style.clipPath=''; void el.offsetWidth; el.style.transition=''; }
+  else { el.style.clipPath='circle(0% at 50% 42%)'; setTimeout(()=>{ el.style.display='none'; el.style.opacity='0'; el.style.clipPath=''; },520); } }
 /* 3D-пролёт за точкой цены: холст #rec3d поверх реплея. Мир: глубина — время (часы),
    высота — цена, ширина — тоннель. Границы зон — рельсы левой и правой стенки, между
    ними мелкие деления и перекладины времени каждые 6 ч; пройденный путь — толстая
@@ -1362,9 +1366,9 @@ function recFlight(ch){
   const HOUR=3600e3, LEAD=8, FAR=60, NEAR=0.5, HW=13, TH=40, CAMX=-1.6, CAMY=3.4, NEARC=0.3;   // HW узкий — обе стенки в кадре
   const f=W*0.9, cx=W/2, cy=H*0.42;
   const Y=p=>(p-lo)/span*TH-TH/2;
-  let ysm=null, cam=null;
+  let ysm=null, cam=null, camY=CAMY, lead=LEAD;
   function setCamera(pcur){
-    const C=[CAMX, ysm+CAMY, 0], T=[0, Y(pcur), LEAD];
+    const C=[CAMX, ysm+camY, 0], T=[0, Y(pcur), lead];
     let fx=T[0]-C[0], fy=T[1]-C[1], fz=T[2]-C[2]; const fl=Math.hypot(fx,fy,fz); fx/=fl; fy/=fl; fz/=fl;
     let rx=fz, rz=-fx; const rl=Math.hypot(rx,rz)||1; rx/=rl; rz/=rl;          // right = up × forward
     cam={C, F:[fx,fy,fz], R:[rx,0,rz], U:[fy*rz, fz*rx-fx*rz, -fy*rx]};          // up = forward × right
@@ -1379,31 +1383,41 @@ function recFlight(ch){
       const M=[P[0]+(Q[0]-P[0])*k, P[1]+(Q[1]-P[1])*k, NEARC]; if(A[2]<=NEARC) A=M; else B=M; }
     x.strokeStyle=color; x.globalAlpha=alpha; x.lineWidth=w; x.beginPath();
     x.moveTo(cx+f*A[0]/A[2], cy-f*A[1]/A[2]); x.lineTo(cx+f*B[0]/B[2], cy-f*B[1]/B[2]); x.stroke(); }
-  function draw(info){
+  function draw(info,u=0){
     if(!info||!info.cur) return;
     const tcur=info.cur[0], pcur=info.cur[1];
     ysm=ysm==null?Y(pcur):ysm+(Y(pcur)-ysm)*0.12;
+    /* выезд: в последние 0.6 с пролёта камера поднимается и отстаёт — вид сверху,
+       тоннель «ложится» в плоскую лестницу, под которую и уходит растворением */
+    const k=u>0.4?Math.min(1,(u-0.4)/0.1):0, e=k*k;
+    camY=CAMY+11*e; lead=LEAD+12*e;
     setCamera(pcur);
-    const zcam=tcur-LEAD*HOUR, Z=t=>(t-zcam)/HOUR;
+    const zcam=tcur-lead*HOUR, Z=t=>(t-zcam)/HOUR;
     x.globalAlpha=1; x.shadowBlur=0; x.fillStyle='#07080B'; x.fillRect(0,0,W,H);
     x.lineCap='round'; x.lineJoin='round';
-    for(const m of minor) for(const sx of [-HW,HW]) line([sx,Y(m),NEAR],[sx,Y(m),FAR],1,0.18,'#8A8F9C');
-    for(const b of bounds) for(const sx of [-HW,HW]) line([sx,Y(b),NEAR],[sx,Y(b),FAR],1.8,0.6,'#8A8F9C');
+    for(const m of minor) for(const sx of [-HW,HW]) line([sx,Y(m),NEAR],[sx,Y(m),FAR],1,0.2,'#8A8F9C');
+    for(const b of bounds) for(const sx of [-HW,HW]) line([sx,Y(b),NEAR],[sx,Y(b),FAR],1.8,0.65,'#8A8F9C');
     const t6=Math.ceil(zcam/(6*HOUR))*6*HOUR;                           // перекладины времени
-    for(let t=t6; Z(t)<FAR; t+=6*HOUR){ const z=Z(t); if(z<NEAR) continue; const a=0.3*(1-z/FAR);
-      for(const b of bounds) line([-HW,Y(b),z],[HW,Y(b),z],1,a,'#8A8F9C'); }
+    for(let t=t6; Z(t)<FAR; t+=6*HOUR){ const z=Z(t); if(z<NEAR) continue; const a=0.45*(1-z/FAR);
+      for(const b of bounds) line([-HW,Y(b),z],[HW,Y(b),z],1.2,a,'#8A8F9C'); }
     x.font='600 12px IBM Plex Mono, monospace'; x.textAlign='left'; x.fillStyle='#8A8F9C';   // подписи зон на левой стенке
     rr.forEach((r,i)=>{ const yz=r[0]==null?lo-span*.06:(r[1]==null?hi+span*.06:(r[0]+r[1])/2); const P=proj(HW-5,Y(yz),LEAD*1.6);
       if(P&&P[1]>20&&P[1]<H-20){ x.globalAlpha=0.75; x.textAlign='right'; x.fillText(zoneShort(rr,i),P[0],P[1]+4); } });
     const pts=[]; for(const [t,p] of ser){ if(t>tcur) break; const z=Z(t); if(z>-2) pts.push([0,Y(p),z]); }
-    pts.push([0,Y(pcur),LEAD]);
+    pts.push([0,Y(pcur),lead]);
     x.shadowColor='#FFB020';
     for(let i=1;i<pts.length;i++){ const d=Math.max(0.6,pts[i][2]); x.shadowBlur=10; line(pts[i-1],pts[i],Math.max(1.6,26/d),Math.min(1,1.25-d/FAR),'#FFB020'); }
-    const D=proj(0,Y(pcur),LEAD); if(D){ const s=12; x.globalAlpha=1; x.fillStyle='#FFB020'; x.shadowBlur=26; x.fillRect(D[0]-s/2,D[1]-s/2,s,s); }
-    x.shadowBlur=0; x.globalAlpha=0.75; x.fillStyle='#8A8F9C'; x.font='13px IBM Plex Mono, monospace'; x.textAlign='center';
+    const D=proj(0,Y(pcur),lead);                                        // точка с пульсом
+    if(D){ const ph=performance.now()/110, s=12+3*Math.sin(ph); x.globalAlpha=1; x.fillStyle='#FFB020';
+      x.shadowBlur=24+10*Math.sin(ph); x.fillRect(D[0]-s/2,D[1]-s/2,s,s); }
+    x.shadowBlur=0;
+    const vg=x.createRadialGradient(cx,cy,H*0.18,cx,cy,H*0.75);          // виньетка — глубина и фокус на точке
+    vg.addColorStop(0,'rgba(7,8,11,0)'); vg.addColorStop(1,'rgba(7,8,11,.78)');
+    x.globalAlpha=1; x.fillStyle=vg; x.fillRect(0,0,W,H);
+    x.globalAlpha=0.8; x.fillStyle='#8A8F9C'; x.font='13px IBM Plex Mono, monospace'; x.textAlign='center';
     x.fillText(fmtDT(tcur),cx,34); x.globalAlpha=1;
   }
-  function fade(){ cv.style.transition='opacity .45s ease-out'; cv.style.opacity='0'; setTimeout(()=>{ cv.style.display='none'; },520); }
+  function fade(){ cv.style.transition='opacity .35s ease-out'; cv.style.opacity='0'; setTimeout(()=>{ cv.style.display='none'; },420); }
   return {draw,fade};
 }
 /* «камера» 2D-гонки: от доли FROM до доли TO гонки плавно уходит с зума S0 на общий план
@@ -1470,7 +1484,7 @@ async function runRecording(id){
   const c=contests().find(x=>x.status==='resolved'&&chartIdOf(x)===id); const ch=S.charts[id];
   const ups=readUpsParam();
   window.__replayStart=performance.now();
-  recBar(0,1800); recShow(recHook(c,ch),{slide:false}); await recSleep(1300);
+  recBar(0,1800); recShow(recHook(c,ch),{slide:false,jolt:true}); await recSleep(1300);   // «ИТОГ» вбивается с толчком кадра
   const big=$('#reccard .big'); if(big) big.classList.add('zoom');       // «ИТОГ» раздувается на весь экран
   await recSleep(380);
   recCover(true);                                                        // сплошной жёлтый
@@ -1478,7 +1492,7 @@ async function runRecording(id){
   /* первая половина гонки — 3D-пролёт за точкой; на половине тоннель растворяется,
      а 2D-лестница под ним за 1 с выезжает с лёгкого зума на общий план */
   const flight=recFlight(ch), cam=recCamera(1.7,0.5,0.68); let fading=false;
-  window.__recCam=(info,u)=>{ if(u<0.6) flight.draw(info);
+  window.__recCam=(info,u)=>{ if(u<0.6) flight.draw(info,u);
     if(u>=0.5){ if(!fading){ fading=true; flight.fade(); } cam.update(info,u); } };
   const race=new Promise(res=>{ window.__recResolve=res; });            // finishReplay: punch + вспышка, ход через 1.3 с
   openReplay(id);
@@ -1486,7 +1500,7 @@ async function runRecording(id){
   recCover(false);                                                       // заливка уходит — мы летим за точкой
   await race;
   window.__recCam=null; cam.reset();
-  recBar(2,2200); recShow(recResult(c,ch));
+  recBar(2,2200); recFlash(); recShow(recResult(c,ch));                 // вспышка на склейке в цифры
   const pe=$('#recprice'), we=$('#recwon');
   if(pe&&c.winner_price!=null) countTo(pe,c.winner_price,{fmt:v=>fmtP(v),from:c.winner_price*.96,dur:800});
   if(we) countTo(we,(c.winners||[]).length,{fmt:v=>String(Math.round(v)),from:0,dur:900});
