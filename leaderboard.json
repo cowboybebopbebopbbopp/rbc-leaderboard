@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T13:04:52+00:00",
-  "count": 234,
+  "updated": "2026-10-22T14:03:12+00:00",
+  "count": 235,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4537,
+      "value": 4538,
       "move": 0
     },
     {
@@ -246,7 +246,7 @@
     {
       "rank": 41,
       "name": "ᴦоᴧод",
-      "value": 122,
+      "value": 123,
       "move": 0
     },
     {
@@ -437,27 +437,27 @@
     },
     {
       "rank": 73,
-      "name": "Iodva",
-      "value": 30,
-      "move": -1
+      "name": "Олег",
+      "value": 31,
+      "move": 2
     },
     {
       "rank": 74,
-      "name": "Юрий",
+      "name": "Iodva",
       "value": 30,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 75,
-      "name": "Мое имя Максим",
+      "name": "Юрий",
       "value": 30,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 76,
-      "name": "Олег",
+      "name": "Мое имя Максим",
       "value": 30,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 77,
@@ -1403,16 +1403,22 @@
     },
     {
       "rank": 234,
+      "name": "стас",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 235,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -4
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 222
+      "value": 220
     },
     {
       "rank": 2,
@@ -1566,37 +1572,37 @@
     },
     {
       "rank": 32,
+      "name": "ᴦоᴧод",
+      "value": 7
+    },
+    {
+      "rank": 33,
       "name": "AnTon",
       "value": 6
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Aleksey",
       "value": 6
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Анастасия",
       "value": 6
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "L G",
       "value": 6
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Евгений",
       "value": 6
     },
     {
-      "rank": 37,
-      "name": "@wavesscalper",
-      "value": 6
-    },
-    {
       "rank": 38,
-      "name": "ᴦоᴧод",
+      "name": "@wavesscalper",
       "value": 6
     },
     {
@@ -1728,27 +1734,27 @@
     },
     {
       "rank": 14,
+      "name": "ᴦоᴧод",
+      "value": 5
+    },
+    {
+      "rank": 15,
       "name": "Pavel",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Евгений",
       "value": 4
     },
     {
-      "rank": 17,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 4
-    },
-    {
       "rank": 18,
-      "name": "ᴦоᴧод",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
@@ -1863,11 +1869,16 @@
     },
     {
       "rank": 41,
-      "name": "🤗",
+      "name": "Олег",
       "value": 1
     },
     {
       "rank": 42,
+      "name": "🤗",
+      "value": 1
+    },
+    {
+      "rank": 43,
       "name": "Роман",
       "value": 1
     }
