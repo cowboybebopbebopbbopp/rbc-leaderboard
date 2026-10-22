@@ -1369,10 +1369,10 @@ function recFlight(ch){
   const HOUR=3600e3, LEAD=8, FAR=60, NEAR=0.5, HW=13, TH=40, CAMX=-1.6, CAMY=3.4, NEARC=0.3;   // HW узкий — обе стенки в кадре
   const f=W*0.9, cx=W/2, cy=H*0.42;
   const Y=p=>(p-lo)/span*TH-TH/2;
-  let ysm=null, cam=null, camY=CAMY, lead=LEAD;
+  let ysm=null, cam=null, camX=CAMX, camY=CAMY, lead=LEAD, swayK=1;
   function setCamera(pcur){
-    const sway=0.55*Math.sin(performance.now()/650);                     // лёгкое покачивание — живая камера, не рельса
-    const C=[CAMX+sway, ysm+camY+0.25*Math.sin(performance.now()/410), 0], T=[0, Y(pcur), lead];
+    const sway=0.55*Math.sin(performance.now()/650)*swayK;               // лёгкое покачивание — живая камера, не рельса
+    const C=[camX+sway, ysm+camY+0.25*Math.sin(performance.now()/410)*swayK, 0], T=[0, Y(pcur), lead];
     let fx=T[0]-C[0], fy=T[1]-C[1], fz=T[2]-C[2]; const fl=Math.hypot(fx,fy,fz); fx/=fl; fy/=fl; fz/=fl;
     let rx=fz, rz=-fx; const rl=Math.hypot(rx,rz)||1; rx/=rl; rz/=rl;          // right = up × forward
     cam={C, F:[fx,fy,fz], R:[rx,0,rz], U:[fy*rz, fz*rx-fx*rz, -fy*rx]};          // up = forward × right
@@ -1391,10 +1391,11 @@ function recFlight(ch){
     if(!info||!info.cur) return;
     const tcur=info.cur[0], pcur=info.cur[1];
     ysm=ysm==null?Y(pcur):ysm+(Y(pcur)-ysm)*0.12;
-    /* выезд: в последние 0.6 с пролёта камера поднимается и отстаёт — вид сверху,
-       тоннель «ложится» в плоскую лестницу, под которую и уходит растворением */
-    const k=u>0.4?Math.min(1,(u-0.4)/0.1):0, e=k*k;
-    camY=CAMY+11*e; lead=LEAD+12*e;
+    /* выезд: в последние ~0.8 с пролёта камера облетает точку и отходит вправо-вбок —
+       вид сбоку, где рельсы ложатся горизонталями, а путь становится графиком слева направо,
+       то есть ровно плоской лестницей, под которую тоннель и растворяется */
+    const k=u>0.36?Math.min(1,(u-0.36)/0.14):0, e=k*k;
+    camX=CAMX+44*e; camY=CAMY+5*e; lead=LEAD+3*e; swayK=1-e;
     setCamera(pcur);
     const zcam=tcur-lead*HOUR, Z=t=>(t-zcam)/HOUR;
     x.globalAlpha=1; x.shadowBlur=0; x.fillStyle='#07080B'; x.fillRect(0,0,W,H);
@@ -1410,11 +1411,11 @@ function recFlight(ch){
     const pts=[]; for(const [t,p] of ser){ if(t>tcur) break; const z=Z(t); if(z>-2) pts.push([0,Y(p),z]); }
     pts.push([0,Y(pcur),lead]);
     x.shadowColor='#FFB020';
-    const pa=1-e;                                                        // на подъёме камеры путь и точка гаснут: под лестницу уходит одна сетка
-    for(let i=1;i<pts.length;i++){ const d=Math.max(0.6,pts[i][2]); x.shadowBlur=10*pa; line(pts[i-1],pts[i],Math.max(1.6,26/d),pa*Math.min(1,1.25-d/FAR),'#FFB020'); }
+    const pa=1-0.5*e;                                                    // на облёте путь остаётся (он и есть график), точка притухает
+    for(let i=1;i<pts.length;i++){ const d=Math.max(0.6,pts[i][2]); x.shadowBlur=10*pa; line(pts[i-1],pts[i],Math.max(1.6,26/d*(1-0.6*e)),pa*Math.min(1,1.25-d/FAR),'#FFB020'); }
     const D=proj(0,Y(pcur),lead);                                        // точка с пульсом
-    if(D&&pa>0.02){ const ph=performance.now()/110, s=12+3*Math.sin(ph); x.globalAlpha=pa; x.fillStyle='#FFB020';
-      x.shadowBlur=(24+10*Math.sin(ph))*pa; x.fillRect(D[0]-s/2,D[1]-s/2,s,s); }
+    if(D){ const ph=performance.now()/110, s=12+3*Math.sin(ph)*(1-e); x.globalAlpha=1-0.4*e; x.fillStyle='#FFB020';
+      x.shadowBlur=(24+10*Math.sin(ph))*(1-e); x.fillRect(D[0]-s/2,D[1]-s/2,s,s); }
     x.shadowBlur=0;
     const vg=x.createRadialGradient(cx,cy,H*0.18,cx,cy,H*0.75);          // виньетка — глубина и фокус на точке
     vg.addColorStop(0,'rgba(7,8,11,0)'); vg.addColorStop(1,'rgba(7,8,11,.78)');
