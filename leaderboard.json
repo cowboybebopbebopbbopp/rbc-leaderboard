@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T17:32:42+00:00",
+  "updated": "2026-10-22T18:32:47+00:00",
   "count": 235,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1025,
+      "value": 1026,
       "move": 0
     },
     {
@@ -1478,7 +1478,7 @@
     {
       "rank": 13,
       "name": "Viktor",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 14,
@@ -1637,17 +1637,17 @@
     },
     {
       "rank": 45,
-      "name": "L G",
-      "value": 4
-    },
-    {
-      "rank": 46,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Сергей",
+      "value": 3
+    },
+    {
+      "rank": 47,
+      "name": "L G",
       "value": 3
     },
     {
@@ -1670,7 +1670,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 43
     },
     {
       "rank": 2,
@@ -1680,12 +1680,12 @@
     {
       "rank": 3,
       "name": "Синдбад Мореход",
-      "value": 23
+      "value": 21
     },
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 5,
@@ -1704,12 +1704,12 @@
     },
     {
       "rank": 8,
-      "name": ".",
-      "value": 11
+      "name": "LlirikMK",
+      "value": 10
     },
     {
       "rank": 9,
-      "name": "LlirikMK",
+      "name": ".",
       "value": 10
     },
     {
