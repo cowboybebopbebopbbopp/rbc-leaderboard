@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T22:33:06+00:00",
+  "updated": "2026-10-22T23:33:10+00:00",
   "count": 236,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1870,
+      "value": 1871,
       "move": 0
     },
     {
@@ -168,7 +168,7 @@
     {
       "rank": 28,
       "name": "Manis Love",
-      "value": 207,
+      "value": 208,
       "move": 0
     },
     {
@@ -1434,7 +1434,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 98
+      "value": 99
     },
     {
       "rank": 4,
@@ -1528,13 +1528,13 @@
     },
     {
       "rank": 22,
-      "name": "Александр",
+      "name": "Manis Love",
       "value": 12
     },
     {
       "rank": 23,
-      "name": "Manis Love",
-      "value": 11
+      "name": "Александр",
+      "value": 12
     },
     {
       "rank": 24,
@@ -1730,12 +1730,12 @@
     },
     {
       "rank": 12,
-      "name": "SPM",
-      "value": 6
+      "name": "Archie",
+      "value": 7
     },
     {
       "rank": 13,
-      "name": "Archie",
+      "name": "SPM",
       "value": 6
     },
     {
@@ -1750,28 +1750,28 @@
     },
     {
       "rank": 16,
-      "name": "Pavel",
+      "name": "Manis Love",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "Евгений",
+      "name": "Pavel",
       "value": 4
     },
     {
       "rank": 18,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Евгений",
       "value": 4
     },
     {
       "rank": 19,
-      "name": "Don Michele Corleone",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "Manis Love",
-      "value": 3
+      "name": "Don Michele Corleone",
+      "value": 4
     },
     {
       "rank": 21,
