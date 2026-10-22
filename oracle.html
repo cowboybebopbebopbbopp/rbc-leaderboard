@@ -231,7 +231,7 @@
      число угадавших появляется, когда плитка села в первую ячейку */
   #reccard .pg.pan .k, #reccard .pg.pan .huge, #reccard .pg.pan .sub, #reccard .pg.pan .num{animation:none}
   #reccard .pg.pan .score .num{opacity:0}
-  #reccard .pg.pan .score .num.go{opacity:1; animation:recSlam .35s both}
+  #reccard .pg.pan .score .num.go{opacity:1}
   /* табло гонки (запись): время, цена крупно, зона и голоса за неё. Висит поверх и 3D-пролёта, и лестницы —
      один якорь для глаза через смену сцены; на финише зеленеет. Заполняет пустой низ вертикального кадра */
   #rechud{position:fixed; left:0; right:0; bottom:0; z-index:117; display:none; flex-direction:column; align-items:center;
@@ -1661,6 +1661,7 @@ async function recTileTo(c,ch,origin,hud){
   if(!grid||!origin||!fx){                                               // нечем лететь — карточка просто въезжает
     if(grid) recGridRun(grid.querySelector('canvas'),G,false); hud.hide(); startCount(1,wn*G.step,350); return; }
   pg.classList.add('pan');
+  const gcv=grid.querySelector('canvas'), gw=recGridPrep(gcv,G);         // прогрев холста сетки до посадки
   const gr=grid.getBoundingClientRect(), P1=[gr.left+G.sz/2, gr.top+G.sz/2+VY];   // первая ячейка в мире
   const L1=[$('#replay'),$('#rechud')].filter(Boolean);
   /* слои мира — композитные на время проезда: растеризуются один раз и дальше только двигаются; без этого
@@ -1683,7 +1684,7 @@ async function recTileTo(c,ch,origin,hud){
     const u=Math.min(1,(t-T_FOC)/(T_LAND-T_FOC)), e=u<.5?2*u*u:1-2*(1-u)*(1-u), m=1-e;   // без долгого торможения у ячейки
     const C1=[Hp[0]-40,Hp[1]-110], C2=[P1[0],P1[1]-300];
     return {p:[m*m*m*Hp[0]+3*m*m*e*C1[0]+3*m*e*e*C2[0]+e*e*e*P1[0], m*m*m*Hp[1]+3*m*m*e*C1[1]+3*m*e*e*C2[1]+e*e*e*P1[1]],
-      size:G.sz*(1+0.25*Math.sin(Math.PI*e)), rot:Math.PI/2+Math.PI/2*e}; }
+      size:G.sz*(1+0.25*Math.sin(Math.PI*e))*(u>0.9?1+0.24*Math.sin(Math.PI*(u-0.9)/0.1):1), rot:Math.PI/2+Math.PI/2*e}; }   // в конце — «шлёп» о ячейку
   /* камера смотрит чуть вперёд по полёту (AHEAD): плитка, падая, держится в верхней части кадра, а камера
      встаёт на карточку чуть раньше посадки — последние доли секунды плитка падает в ячейку сверху */
   function camAt(t){ const a=sst(T_SEP-100,T_FOC+150,t), b=sst(T_LAND-450,T_LAND-60,t), tf=tileAt(Math.min(T_LAND,t+AHEAD)).p;
@@ -1698,16 +1699,17 @@ async function recTileTo(c,ch,origin,hud){
   setCam(W/2,H/2,1);
   await new Promise(res=>{ const t0=performance.now();
     (function f(){ const t=Math.min(T_LAND,performance.now()-t0), K=camAt(t); setCam(K.cx,K.cy,K.z); x.clearRect(0,0,W,H);
+      gw.x.clearRect(0,0,gw.w,gw.h);                                     // холст сетки живёт каждый кадр, пока пуст
       if(t>T_FOC) for(let j=5;j>=1;j--) drawTile(t-j*18,0.28*(1-j/6));   // шлейф в полёте
       drawTile(t,1);
       if(t<T_LAND) requestAnimationFrame(f); else res(); })(); });
   /* посадка: плитка стала первой ячейкой — дальше обычная сетка, слои мира на место */
   x.clearRect(0,0,W,H); fx.style.display='none';
-  recGridRun(grid.querySelector('canvas'),G,true);                       // первая ячейка — плитка, от неё остальные
+  recGridRun(gcv,G,true);                                                // первая ячейка — плитка, от неё остальные
   for(const el of L1) el.style.visibility='hidden';                      // график ушёл за кадр: прячем, не пересчитывая масштаб
   hud.hide();                                                            // (карточка уже стоит в identity: translate(0,0) scale(1))
   if(we){ we.textContent=wn?'1':'0'; we.classList.add('go'); }
-  startCount(2,Math.max(0,wn-1)*G.step,120);
+  startCount(2,Math.max(0,wn-1)*G.step,REC_HOLD+40);
 }
 /* сегментный прогресс-бар: i — активный сегмент, ms — сколько он длится */
 function recBar(i,ms){ $$('#recbar i').forEach((el,k)=>{ el.classList.toggle('done',k<i); el.classList.toggle('active',k===i);
@@ -1731,14 +1733,22 @@ function recGrid(c){ const won=(c.winners||[]).length, total=Math.max(c.total||0
   return {won,total,cols,rows,sz,gap,step:recDotStep(won), w:cols*sz+(cols-1)*gap, h:rows*sz+(rows-1)*gap}; }
 /* анимация сетки на холсте карточки. Серая ячейка проявляется (0→1, масштаб .4→1, 250 мс) с шагом 5 мс,
    угадавшая загорается зелёным с пружинкой (масштаб .3→1.35→1, 320 мс) по очереди. landed — в первую
-   ячейку только что села плитка: она горит сразу с «шлёпом» (1.35→.88→1), остальные идут от неё */
+   ячейку только что села плитка («шлёп» она сделала сама в конце полёта): ячейка горит сразу, остальные
+   идут после паузы REC_HOLD */
+/* холст сетки готовится заранее, при создании карточки (размер и программный 2D-контекст), чтобы в кадр
+   посадки не попадала лишняя работа */
+function recGridPrep(cv,G){ const dpr=window.devicePixelRatio||1, PAD=14, w=G.w+2*PAD, h=G.h+2*PAD;
+  if(cv.width!==Math.round(w*dpr)){ cv.width=Math.round(w*dpr); cv.height=Math.round(h*dpr); cv.style.width=w+'px'; cv.style.height=h+'px'; }
+  const x=cv.getContext('2d',{willReadFrequently:true}); x.setTransform(dpr,0,0,dpr,0,0); return {x,PAD,w,h}; }
+/* пауза после посадки плитки: ячейка и «1» стоят неподвижно. Запись в безголовом Chromium на VPS в этот момент
+   стабильно теряет ~0.15–0.2 с кадров (проверено по полоске прогресса: стоит весь экран, страница при этом
+   не тормозит, причина в захвате) — пока в кадре ничего не движется, пропуск не виден */
+const REC_HOLD=260;
 function recGridRun(cv,G,landed){
-  const dpr=window.devicePixelRatio||1, PAD=14, w=G.w+2*PAD, h=G.h+2*PAD;
-  cv.width=Math.round(w*dpr); cv.height=Math.round(h*dpr); cv.style.width=w+'px'; cv.style.height=h+'px';
-  const x=cv.getContext('2d'); x.setTransform(dpr,0,0,dpr,0,0);
+  const {x,PAD,w,h}=recGridPrep(cv,G);
   const io=k=>1-Math.pow(1-k,3), lerp=(a,b,k)=>a+(b-a)*k;
   const cells=Array.from({length:G.total},(_,i)=>({cx:PAD+(i%G.cols)*(G.sz+G.gap)+G.sz/2, cy:PAD+Math.floor(i/G.cols)*(G.sz+G.gap)+G.sz/2,
-    d0:landed&&i===0?-1e9:Math.min(i*5,350), dw:i>=G.won?null:landed?(i===0?0:120+(i-1)*G.step):350+i*G.step, land:landed&&i===0}));
+    d0:landed&&i===0?-1e9:(landed?REC_HOLD:0)+Math.min(i*5,350), dw:i>=G.won?null:landed?(i===0?-1e9:REC_HOLD+40+(i-1)*G.step):350+i*G.step}));
   const END=Math.max(...cells.map(c=>Math.max(c.d0+250,c.dw==null?0:c.dw+360)))+40;
   const sq=(cx,cy,s)=>{ x.beginPath(); x.roundRect(cx-s/2,cy-s/2,s,s,3*s/G.sz); x.fill(); };
   const t0=performance.now();
@@ -1747,10 +1757,9 @@ function recGridRun(cv,G,landed){
     for(const c of cells){ const k=Math.min(1,Math.max(0,(t-c.d0)/250)); if(k<=0) continue;
       x.globalAlpha=k; sq(c.cx,c.cy,G.sz*lerp(.4,1,io(k))); }
     x.fillStyle='#2CE08B'; x.shadowColor='rgba(44,224,139,.5)'; x.shadowBlur=10;
-    for(const c of cells){ if(c.dw==null) continue; const D=c.land?360:320, k=Math.min(1,(t-c.dw)/D); if(k<=0) continue;
+    for(const c of cells){ if(c.dw==null) continue; const k=Math.min(1,(t-c.dw)/320); if(k<=0) continue;
       let sc, al=1;
-      if(c.land) sc=k<.55?lerp(1.35,.88,io(k/.55)):lerp(.88,1,io((k-.55)/.45));
-      else { sc=k<.6?lerp(.3,1.35,io(k/.6)):lerp(1.35,1,io((k-.6)/.4)); al=Math.min(1,k/.6); }
+      { sc=k<.6?lerp(.3,1.35,io(k/.6)):lerp(1.35,1,io((k-.6)/.4)); al=Math.min(1,k/.6); }
       x.globalAlpha=al; sq(c.cx,c.cy,G.sz*sc); }
     x.globalAlpha=1; if(t<END) requestAnimationFrame(f); })();
 }
