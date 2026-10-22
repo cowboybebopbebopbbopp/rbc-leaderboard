@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T21:33:01+00:00",
+  "updated": "2026-10-22T22:33:06+00:00",
   "count": 236,
   "has_movement": true,
   "all": [
@@ -187,13 +187,13 @@
       "rank": 31,
       "name": "Юрий",
       "value": 163,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 32,
       "name": "Юрий",
-      "value": 162,
-      "move": 0
+      "value": 163,
+      "move": -1
     },
     {
       "rank": 33,
@@ -1613,27 +1613,27 @@
     },
     {
       "rank": 39,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Юрий",
       "value": 5
     },
     {
       "rank": 40,
-      "name": "Ponemonec",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
       "rank": 41,
+      "name": "Ponemonec",
+      "value": 5
+    },
+    {
+      "rank": 42,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 42,
-      "name": "Roman Polyakov",
-      "value": 4
-    },
-    {
       "rank": 43,
-      "name": "Юрий",
+      "name": "Roman Polyakov",
       "value": 4
     },
     {
@@ -1835,56 +1835,61 @@
     },
     {
       "rank": 33,
-      "name": "Snowflake ❄️",
+      "name": "Юрий",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "A.",
+      "name": "Snowflake ❄️",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Виталий",
+      "name": "A.",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "E X O",
+      "name": "Виталий",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "Logrus",
+      "name": "E X O",
       "value": 1
     },
     {
       "rank": 38,
-      "name": "Сергей",
+      "name": "Logrus",
       "value": 1
     },
     {
       "rank": 39,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 1
     },
     {
       "rank": 40,
-      "name": "Charlie Shefelman",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 41,
-      "name": "Олег",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 42,
-      "name": "🤗",
+      "name": "Олег",
       "value": 1
     },
     {
       "rank": 43,
+      "name": "🤗",
+      "value": 1
+    },
+    {
+      "rank": 44,
       "name": "Роман",
       "value": 1
     }
