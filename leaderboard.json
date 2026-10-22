@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T04:20:04+00:00",
+  "updated": "2026-10-22T05:20:08+00:00",
   "count": 234,
   "has_movement": true,
   "all": [
@@ -1412,7 +1412,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 225
+      "value": 224
     },
     {
       "rank": 2,
@@ -1506,22 +1506,22 @@
     },
     {
       "rank": 20,
-      "name": "Manis Love",
-      "value": 13
-    },
-    {
-      "rank": 21,
       "name": "Александр",
       "value": 12
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Marina",
       "value": 12
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Viktor",
+      "value": 11
+    },
+    {
+      "rank": 23,
+      "name": "Manis Love",
       "value": 11
     },
     {
@@ -1703,12 +1703,12 @@
     },
     {
       "rank": 9,
-      "name": "SPM",
-      "value": 11
+      "name": "a l",
+      "value": 9
     },
     {
       "rank": 10,
-      "name": "a l",
+      "name": "SPM",
       "value": 9
     },
     {
