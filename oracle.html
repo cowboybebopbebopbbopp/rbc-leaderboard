@@ -229,6 +229,14 @@
   #reccard .score{display:flex; align-items:baseline; justify-content:center; gap:14px; margin-top:22px}
   #reccard .score .num{margin-top:0}
   #reccard .score .of{font-family:var(--f-disp); font-weight:900; font-size:30px; color:var(--mut)}
+  /* карточка, к которой камера ведёт плитку (recTileTo): уже стоит на месте, въездные анимации не нужны;
+     число угадавших появляется, когда плитка села в первую ячейку; посадка — короткий «шлёп» */
+  #reccard .pg.pan .k, #reccard .pg.pan .huge, #reccard .pg.pan .sub, #reccard .pg.pan .num{animation:none}
+  #reccard .pg.pan .score .num{opacity:0}
+  #reccard .pg.pan .score .num.go{opacity:1; animation:recSlam .35s both}
+  #reccard .dots i.land{animation:none}
+  #reccard .dots i.land b{animation:recLand .36s both}
+  @keyframes recLand{0%{transform:scale(1.35)} 55%{transform:scale(.88)} 100%{transform:none}}
   /* табло гонки (запись): время, цена крупно, зона и голоса за неё. Висит поверх и 3D-пролёта, и лестницы —
      один якорь для глаза через смену сцены; на финише зеленеет. Заполняет пустой низ вертикального кадра */
   #rechud{position:fixed; left:0; right:0; bottom:0; z-index:117; display:none; flex-direction:column; align-items:center;
@@ -1375,10 +1383,12 @@ function finishReplay(instant){
   const pv=$('#rpricev'); if(!instant&&pv) countTo(pv,c.winner_price,{fmt:v=>fmtP(v),from:c.winner_price*.97,dur:700});
   /* запись ролика: punch-зум сцены и вспышка на финише, через 1.3 с — ход сценарию runRecording */
   if(document.body.classList.contains('rec')){
+    const cr=$('#rconfetti').getBoundingClientRect();                   // откуда бьёт салют — в координатах экрана (до punch)
+    const origin={x:cr.left+info.Rt-4, y:cr.top+info.py(c.winner_price)};
     const w=$('#rstage .ladderwrap'); if(w){ w.classList.remove('punch'); void w.offsetWidth; w.classList.add('punch'); }
     recFlash(); if(window.__recFin) window.__recFin();        // табло: «финиш», цена и зона зеленеют
-    setTimeout(()=>{ const r=window.__recResolve; window.__recResolve=null;
-      if(r) r(); else { window.__replayDone=performance.now(); document.title='replay-done'; } },1000);
+    const r=window.__recResolve; window.__recResolve=null;    // ход сценарию сразу: пауза на финише — часть перехода плиткой
+    if(r) r(origin); else setTimeout(()=>{ window.__replayDone=performance.now(); document.title='replay-done'; },1000);
   }
 }
 
@@ -1510,7 +1520,9 @@ function recFlight(ch,FROM=0.3,TO=0.72,opts={}){
   /* пыль тоннеля: частицы в объёме летят навстречу (ход камеры по времени + постоянный «ветер»), штрих —
      путь за ~4 кадра: чем быстрее гонка, тем длиннее; рождаются в глубине, то есть из полости «О» на наезде */
   const rnd=(a,b)=>a+Math.random()*(b-a), seed=q=>{ q.x=rnd(-HW,HW)*0.92; q.y=rnd(-0.55,0.55)*TH; q.amber=Math.random()<0.3; return q; };
-  const parts=Array.from({length:170},()=>seed({z:rnd(NEAR,FAR)}));
+  /* у каждой частицы своё затухание на выезде в график: старт fk (доля выезда 0.3–0.72) и длина fd —
+     гаснут вразнобой и все уходят до того, как камера встанет на график (k 0.9) */
+  const parts=Array.from({length:170},()=>seed({z:rnd(NEAR,FAR), fk:rnd(0.3,0.72), fd:rnd(0.06,0.18)}));
   let ysm=null, cam=null, rect=null, zPrev=null, tPrev=null, vel=0;
   /* мировая точка → однородные экранные координаты [g·xc, g·yc, w] (линейны по миру — обрезку
      по ближней плоскости можно делать прямо в них) */
@@ -1584,10 +1596,10 @@ function recFlight(ch,FROM=0.3,TO=0.72,opts={}){
         const Lb=scr([0,Y(hi)+1.2,z]); if(Lb){ const fz=Math.max(11,Math.min(40,1.3*cam.g/Lb[2]));   // g/w — px на единицу мира в этой точке
           x.globalAlpha=Math.min(1,a*1.3); x.fillStyle='#C9CEDA'; x.font=`900 ${fz.toFixed(1)}px Unbounded, sans-serif`; x.textAlign='center';
           x.fillText(dayName(t),Lb[0],Lb[1]); } } }
-    const pAl=1-sst(0,0.4,k);                                            // пыль штрихами; на облёте гаснет
-    if(pAl>0.01){ const sl=Math.min(8,0.08+vel*0.07);
-      for(const q of parts){ const g=fog(q.z); if(g<0.03) continue; const A=scr([q.x,q.y,q.z]); if(!A) continue;
-        line([q.x,q.y,q.z],[q.x,q.y,q.z+sl],Math.max(0.8,Math.min(3.4,0.08*cam.g/A[2])),pAl*g*(q.amber?0.85:0.5),q.amber?'#FFB020':'#C9CEDA'); } }
+    if(k<0.9){ const sl=Math.min(8,0.08+vel*0.07);                     // пыль штрихами; на выезде гаснет вразнобой
+      for(const q of parts){ const fa=1-sst(q.fk,q.fk+q.fd,k); if(fa<0.01) continue;
+        const g=fog(q.z); if(g<0.03) continue; const A=scr([q.x,q.y,q.z]); if(!A) continue;
+        line([q.x,q.y,q.z],[q.x,q.y,q.z+sl],Math.max(0.8,Math.min(3.4,0.08*cam.g/A[2])),fa*g*(q.amber?0.85:0.5),q.amber?'#FFB020':'#C9CEDA'); } }
     /* путь: вся пройденная история (позади камеры погони её срезает ближняя плоскость, на выезде
        она открывается слева). Толщина — по экранному масштабу в точке пути: в погоне толстая трубка
        у камеры, в конце ровно линия цены лестницы. Куски одной толщины рисуются одним штрихом */
@@ -1636,6 +1648,68 @@ function recHud(c,ch){
     hide(){ el.className=''; el.innerHTML=''; }
   };
 }
+/* переход финиш → «N из M»: одна зелёная частица салюта через паузу отделяется, камера фокусируется на ней
+   и ведёт её вниз, к карточке цифр. Карточка стоит в том же мире прямо под графиком (VY = высота кадра),
+   плитка встаёт на место первой ячейки сетки, и от неё проявляются остальные. Камера — центр c и зум z:
+   слой мира со смещением (0, oy) получает translate((0−c.x)·z + W/2, (oy−c.y)·z + H/2) scale(z).
+   Фазы плитки (мс от финиша): салют — летит частицей вместе со всеми; отделение — тормозит, повисает,
+   с поворотом вырастает до размера ячейки, камера наезжает и берёт её в центр; полёт — дугой вниз
+   с переворотом, камера следует с отставанием и к посадке встаёт ровно на карточку */
+async function recTileTo(c,ch,origin,hud){
+  const W=innerWidth, H=innerHeight, VY=H, G=recGrid(c);
+  recShow(recResult(c,ch,{defer:true}),{slide:false});
+  const box=$('#reccard'), pg=box.querySelector('.pg'), grid=pg&&pg.querySelector('.dots'), fx=$('#recfx');
+  const we=$('#recwon'), wn=G.won;
+  const startCount=(from,ms,delay)=>{ if(!we||!wn) return; setTimeout(()=>{ const t0=performance.now();   // счёт идёт за загорающимися ячейками
+    (function f(t){ const k=Math.min(1,(t-t0)/Math.max(1,ms)); we.textContent=String(Math.min(wn,from+Math.floor(k*(wn-from+1))));
+      if(k<1) requestAnimationFrame(f); })(t0); },delay); };
+  if(!grid||!origin||!fx){                                               // нечем лететь — карточка просто въезжает
+    if(grid) grid.innerHTML=recDotsHtml(G,false); hud.hide(); startCount(1,wn*G.step,350); return; }
+  pg.classList.add('pan');
+  const gr=grid.getBoundingClientRect(), P1=[gr.left+G.sz/2, gr.top+G.sz/2+VY];   // первая ячейка в мире
+  const L1=[$('#replay'),$('#rechud')].filter(Boolean);
+  const setCam=(cx,cy,z)=>{ const t1=`translate(${((0-cx)*z+W/2).toFixed(2)}px,${((0-cy)*z+H/2).toFixed(2)}px) scale(${z.toFixed(4)})`;
+    for(const el of L1){ el.style.transformOrigin='0 0'; el.style.transform=t1; }
+    box.style.transformOrigin='0 0'; box.style.transform=`translate(${((0-cx)*z+W/2).toFixed(2)}px,${((VY-cy)*z+H/2).toFixed(2)}px) scale(${z.toFixed(4)})`; };
+  const sst=(a,b,v)=>{ const k=Math.min(1,Math.max(0,(v-a)/(b-a))); return k*k*(3-2*k); }, mix=(a,b,k)=>a+(b-a)*k;
+  const T_SEP=600, T_FOC=900, T_LAND=1900, v0=[-250,-235], GR=330, LAG=140, ZF=1.65;
+  const pA=t=>{ const q=t/1000; return [origin.x+v0[0]*q, origin.y+v0[1]*q+0.5*GR*q*q]; };
+  const ps=pA(T_SEP), vs=[v0[0], v0[1]+GR*T_SEP/1000], D=(T_FOC-T_SEP)/1000;
+  const Hp=[ps[0]+vs[0]*D*0.45, ps[1]+vs[1]*D*0.45];                     // где плитка повисает
+  const back=u=>{ const c1=1.70158, c3=c1+1; return 1+c3*Math.pow(u-1,3)+c1*Math.pow(u-1,2); };
+  function tileAt(t){
+    if(t<=T_SEP) return {p:pA(t), size:4, rot:0};                         // одна из частиц салюта
+    if(t<=T_FOC){ const u=(t-T_SEP)/(T_FOC-T_SEP), h00=2*u**3-3*u**2+1, h10=u**3-2*u**2+u, h01=-2*u**3+3*u**2;
+      return {p:[h00*ps[0]+h10*vs[0]*D+h01*Hp[0], h00*ps[1]+h10*vs[1]*D+h01*Hp[1]],
+        size:4+(G.sz-4)*back(u), rot:Math.PI/2*(1-Math.pow(1-u,3))}; }
+    const u=Math.min(1,(t-T_FOC)/(T_LAND-T_FOC)), e=u<.5?4*u**3:1-Math.pow(-2*u+2,3)/2, m=1-e;
+    const C1=[Hp[0]-40,Hp[1]-110], C2=[P1[0],P1[1]-300];
+    return {p:[m*m*m*Hp[0]+3*m*m*e*C1[0]+3*m*e*e*C2[0]+e*e*e*P1[0], m*m*m*Hp[1]+3*m*m*e*C1[1]+3*m*e*e*C2[1]+e*e*e*P1[1]],
+      size:G.sz*(1+0.25*Math.sin(Math.PI*e)), rot:Math.PI/2+Math.PI/2*e}; }
+  function camAt(t){ const a=sst(T_SEP-100,T_FOC+150,t), b=sst(T_LAND-550,T_LAND,t), tf=tileAt(Math.max(0,t-LAG)).p;
+    const cx=mix(mix(W/2,tf[0],a),W/2,b), cy=mix(mix(H/2,tf[1],a),VY+H/2,b);
+    return {cx,cy,z:1+(ZF-1)*sst(T_SEP-100,T_FOC+100,t)*(1-b)}; }
+  const dpr=window.devicePixelRatio||1; fx.width=Math.round(W*dpr); fx.height=Math.round(H*dpr); fx.style.display='block';
+  const x=fx.getContext('2d'); x.setTransform(dpr,0,0,dpr,0,0);
+  const col=wn?'#2CE08B':'#5A6070', glow=wn?'rgba(44,224,139,.85)':'rgba(90,96,112,.6)';
+  const drawTile=(t,al)=>{ const T=tileAt(t), K=camAt(t), sx=(T.p[0]-K.cx)*K.z+W/2, sy=(T.p[1]-K.cy)*K.z+H/2, sz=T.size*K.z;
+    x.save(); x.translate(sx,sy); x.rotate(T.rot); x.globalAlpha=al; x.fillStyle=col; x.shadowColor=glow; x.shadowBlur=Math.min(22,sz*0.7);
+    x.beginPath(); x.roundRect(-sz/2,-sz/2,sz,sz,Math.min(sz/2,3*sz/G.sz)); x.fill(); x.restore(); };
+  setCam(W/2,H/2,1);
+  await new Promise(res=>{ const t0=performance.now();
+    (function f(){ const t=Math.min(T_LAND,performance.now()-t0), K=camAt(t); setCam(K.cx,K.cy,K.z); x.clearRect(0,0,W,H);
+      if(t>T_FOC) for(let j=5;j>=1;j--) drawTile(t-j*18,0.28*(1-j/6));   // шлейф в полёте
+      drawTile(t,1);
+      if(t<T_LAND) requestAnimationFrame(f); else res(); })(); });
+  /* посадка: плитка стала первой ячейкой — дальше обычная сетка, слои мира на место */
+  x.clearRect(0,0,W,H); fx.style.display='none';
+  grid.innerHTML=recDotsHtml(G,true);
+  for(const el of L1){ el.style.transform=''; el.style.transformOrigin=''; }
+  box.style.transform=''; box.style.transformOrigin='';
+  hud.hide();
+  if(we){ we.textContent=wn?'1':'0'; we.classList.add('go'); }
+  startCount(2,Math.max(0,wn-1)*G.step,120);
+}
 /* сегментный прогресс-бар: i — активный сегмент, ms — сколько он длится */
 function recBar(i,ms){ $$('#recbar i').forEach((el,k)=>{ el.classList.toggle('done',k<i); el.classList.toggle('active',k===i);
   if(k===i) el.style.setProperty('--d',ms+'ms'); }); }
@@ -1651,17 +1725,23 @@ function recHook(c,ch){
     <div class="arrow">↓</div>`;
 }
 const recDotStep=won=>Math.min(45,900/Math.max(1,won));      // мс между загоранием квадратов угадавших
-function recResult(c,ch){
-  const won=(c.winners||[]).length, total=Math.max(c.total||0,won);
-  /* сетка: квадрат на голос в поле ~320×210, угадавшие идут первыми и загораются по очереди */
+/* сетка: квадрат на голос в поле ~320×210, угадавшие идут первыми и загораются по очереди */
+function recGrid(c){ const won=(c.winners||[]).length, total=Math.max(c.total||0,won);
   const n=Math.max(1,total), cols=Math.max(5,Math.ceil(Math.sqrt(n*320/210))), rows=Math.ceil(n/cols);
-  const cell=Math.min(30,Math.floor(Math.min(320/cols,210/rows))), gap=cell>=16?5:2, sz=cell-gap, step=recDotStep(won);
-  const dots=Array.from({length:total},(_,i)=>`<i style="animation-delay:${Math.min(i*5,350)}ms">${
-    i<won?`<b style="animation-delay:${Math.round(350+i*step)}ms"></b>`:''}</i>`).join('');
+  const cell=Math.min(30,Math.floor(Math.min(320/cols,210/rows))), gap=cell>=16?5:2, sz=cell-gap;
+  return {won,total,cols,rows,sz,gap,step:recDotStep(won), w:cols*sz+(cols-1)*gap, h:rows*sz+(rows-1)*gap}; }
+/* ячейки сетки. landed — первая ячейка уже стоит (в неё села плитка): она горит сразу, остальные
+   проявляются как обычно, зелёные — по очереди от неё */
+function recDotsHtml(G,landed){ return Array.from({length:G.total},(_,i)=>{
+  if(landed&&i===0) return `<i class="land">${G.won?'<b></b>':''}</i>`;
+  const d0=Math.min(i*5,350), dw=Math.round(landed?120+(i-1)*G.step:350+i*G.step);
+  return `<i style="animation-delay:${d0}ms">${i<G.won?`<b style="animation-delay:${dw}ms"></b>`:''}</i>`; }).join(''); }
+function recResult(c,ch,{defer=false}={}){
+  const G=recGrid(c), {won,total}=G;
   return `<div class="k">финиш · ${esc(symName(ch&&ch.symbol))} · ${esc(recDate(c))}</div>
     <div class="huge">${fmtP(c.winner_price)}</div>
     <div class="sub">зона ${esc(zoneShort(ch.ranges,c.winner_option))}</div>
-    ${total?`<div class="dots" style="grid-template-columns:repeat(${cols},${sz}px);--c:${sz}px;--g:${gap}px">${dots}</div>`:''}
+    ${total?`<div class="dots" style="grid-template-columns:repeat(${G.cols},${G.sz}px);--c:${G.sz}px;--g:${G.gap}px;width:${G.w}px;height:${G.h}px">${defer?'':recDotsHtml(G,false)}</div>`:''}
     <div class="score"><span class="num" id="recwon">0</span>${total?`<span class="of">из ${total}</span>`:''}</div>
     <div class="k" style="margin-top:6px">${won?'угадали · каждому медаль':'не угадал никто — рынок победил всех'}</div>`;
 }
@@ -1686,8 +1766,9 @@ function recCta(){
     <div class="ctabtn">t.me/RBCCrypto_forum</div>
     <div class="dim">новый опрос каждую неделю · итог по цене Binance</div>`;
 }
-/* Сценарий (~21 с): хук 1.3 → наезд в «О» 0.9 (под ним уже идёт гонка) → гонка ~6 + финиш 1.0 (табло внизу кадра) →
-   цифры финиша 2.6 → звания ≤4.4 → топ-10 ≤3.9 → призыв 2.6 (остаётся). Карточки сменяются «пушем» (recShow) */
+/* Сценарий (~21 с): хук 1.3 → наезд в «О» 0.9 (под ним уже идёт гонка) → гонка ~6 (табло внизу кадра) → финиш:
+   салют, плитка из него и камера за ней к карточке цифр 1.9 → сетка «N из M» 2.1 → звания ≤4.4 → топ-10 ≤3.9 →
+   призыв 2.6 (остаётся). Остальные карточки сменяются «пушем» (recShow) */
 async function runRecording(id){
   const c=contests().find(x=>x.status==='resolved'&&chartIdOf(x)===id); const ch=S.charts[id];
   const ups=readUpsParam();
@@ -1706,15 +1787,11 @@ async function runRecording(id){
   await recFrames(2);                                                    // первый кадр тоннеля нарисован под листом хука
   if(O) await recPush($('#reccard .pg'));                                // окно «О» накрыло кадр — лист больше не нужен
   recHide();
-  await race;
+  const origin=await race;                                               // точка финиша, откуда бьёт салют
   window.__recCam=null; window.__recFin=null;
-  recBar(2,2600); recShow(recResult(c,ch));                             // карточка цифр въезжает поверх финиша
-  setTimeout(()=>hud.hide(),400);                                        // табло уходит под въехавшей карточкой
-  const we=$('#recwon'), won=(c.winners||[]).length, dw=Math.max(1,won)*recDotStep(won);
-  if(we&&won) setTimeout(()=>{ const t0=performance.now();               // счёт идёт ровно за загорающимися квадратами
-    (function f(t){ const k=Math.min(1,(t-t0)/dw); we.textContent=String(Math.min(won,Math.floor(k*won)+1));
-      if(k<1) requestAnimationFrame(f); })(t0); },350);
-  await recSleep(2600);
+  recBar(2,4000);
+  await recTileTo(c,ch,origin,hud);                                      // плитка из салюта садится в первую ячейку
+  await recSleep(2100);                                                  // сетка заполняется, «N из M» держится
   if(ups.length){ const ms=Math.min(4400,2000+300*Math.min(ups.length,8)); recBar(2,ms); recShow(recUps(ups)); await recSleep(ms); }
   const top=(S.preds.board||[]).slice(0,10);         // рейтинг уже пересчитан: JSON перегенерирован до записи
   if(top.length){ const ms=Math.min(4200,2200+170*top.length); recBar(3,ms); recShow(recTop(top,c)); await recSleep(ms); }
