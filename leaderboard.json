@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T15:03:17+00:00",
+  "updated": "2026-10-22T15:43:12+00:00",
   "count": 235,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1904,
+      "value": 1905,
       "move": 0
     },
     {
@@ -1418,7 +1418,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 219
+      "value": 216
     },
     {
       "rank": 2,
@@ -1433,7 +1433,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 77
+      "value": 78
     },
     {
       "rank": 5,
@@ -1592,23 +1592,23 @@
     },
     {
       "rank": 36,
-      "name": "L G",
-      "value": 6
-    },
-    {
-      "rank": 37,
       "name": "Евгений",
       "value": 6
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "@wavesscalper",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Don Michele Corleone",
       "value": 6
+    },
+    {
+      "rank": 39,
+      "name": "L G",
+      "value": 5
     },
     {
       "rank": 40,
@@ -1670,12 +1670,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 3,
@@ -1695,7 +1695,7 @@
     {
       "rank": 6,
       "name": ".",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 7,
@@ -1784,48 +1784,48 @@
     },
     {
       "rank": 24,
-      "name": "Andrey Tugarin",
-      "value": 2
-    },
-    {
-      "rank": 25,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "AnTon",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "zomg",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Andrey",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "🌝",
       "value": 2
+    },
+    {
+      "rank": 32,
+      "name": "Andrey Tugarin",
+      "value": 1
     },
     {
       "rank": 33,
