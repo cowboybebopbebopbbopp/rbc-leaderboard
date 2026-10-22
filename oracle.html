@@ -1354,17 +1354,34 @@ function recFlight(ch){
   const lo=bounds[0], hi=bounds[bounds.length-1], span=hi-lo;
   const step=[0.5,1,2,5,10,20,50,100,200,500,1000,2000,5000,10000].find(s=>span/s<=14)||10000;
   const minor=[]; for(let v=Math.ceil(lo/step)*step; v<=hi+1e-9; v+=step) if(!bounds.some(b=>Math.abs(b-v)<1e-9)) minor.push(v);
-  const HOUR=3600e3, LEAD=9, FAR=60, NEAR=0.7, HW=22, TH=40;   // часов до точки, глубина, ближняя плоскость, полуширина, высота
-  const f=W*0.95, cx=W/2, cy=H*0.45;
+  /* мир: x — поперёк тоннеля, y — цена (высота), z — время в часах от камеры.
+     Камера сзади-слева-сверху от точки (CAMX, CAMY) и смотрит на неё (look-at):
+     путь цены идёт из нижнего угла кадра вверх к точке, рельсы уходят в перспективу. */
+  const HOUR=3600e3, LEAD=8, FAR=60, NEAR=0.5, HW=22, TH=40, CAMX=-4.5, CAMY=3.2, NEARC=0.3;
+  const f=W*0.9, cx=W/2, cy=H*0.42;
   const Y=p=>(p-lo)/span*TH-TH/2;
-  let ycam=null;
-  const proj=(px,py,pz)=>pz<=NEAR*0.5?null:[cx+f*px/pz, cy-f*(py-ycam)/pz, pz];
-  function line(a,b,w,alpha,color){ const A=proj(...a),B=proj(...b); if(!A||!B) return;
-    x.strokeStyle=color; x.globalAlpha=alpha; x.lineWidth=w; x.beginPath(); x.moveTo(A[0],A[1]); x.lineTo(B[0],B[1]); x.stroke(); }
+  let ysm=null, cam=null;
+  function setCamera(pcur){
+    const C=[CAMX, ysm+CAMY, 0], T=[0, Y(pcur), LEAD];
+    let fx=T[0]-C[0], fy=T[1]-C[1], fz=T[2]-C[2]; const fl=Math.hypot(fx,fy,fz); fx/=fl; fy/=fl; fz/=fl;
+    let rx=fz, rz=-fx; const rl=Math.hypot(rx,rz)||1; rx/=rl; rz/=rl;          // right = up × forward
+    cam={C, F:[fx,fy,fz], R:[rx,0,rz], U:[fy*rz, fz*rx-fx*rz, -fy*rx]};          // up = forward × right
+  }
+  const toCam=([px,py,pz])=>{ const {C,F,R,U}=cam, vx=px-C[0], vy=py-C[1], vz=pz-C[2];
+    return [vx*R[0]+vy*R[1]+vz*R[2], vx*U[0]+vy*U[1]+vz*U[2], vx*F[0]+vy*F[1]+vz*F[2]]; };
+  const proj=(px,py,pz)=>{ const [xc,yc,zc]=toCam([px,py,pz]); return zc<=NEARC?null:[cx+f*xc/zc, cy-f*yc/zc, zc]; };
+  function line(a,b,w,alpha,color){
+    let A=toCam(a), B=toCam(b);
+    if(A[2]<=NEARC&&B[2]<=NEARC) return;
+    if(A[2]<=NEARC||B[2]<=NEARC){ const [P,Q]=A[2]<=NEARC?[A,B]:[B,A]; const k=(NEARC-P[2])/(Q[2]-P[2]);   // обрезка по ближней плоскости
+      const M=[P[0]+(Q[0]-P[0])*k, P[1]+(Q[1]-P[1])*k, NEARC]; if(A[2]<=NEARC) A=M; else B=M; }
+    x.strokeStyle=color; x.globalAlpha=alpha; x.lineWidth=w; x.beginPath();
+    x.moveTo(cx+f*A[0]/A[2], cy-f*A[1]/A[2]); x.lineTo(cx+f*B[0]/B[2], cy-f*B[1]/B[2]); x.stroke(); }
   function draw(info){
     if(!info||!info.cur) return;
     const tcur=info.cur[0], pcur=info.cur[1];
-    ycam=ycam==null?Y(pcur):ycam+(Y(pcur)-ycam)*0.12;
+    ysm=ysm==null?Y(pcur):ysm+(Y(pcur)-ysm)*0.12;
+    setCamera(pcur);
     const zcam=tcur-LEAD*HOUR, Z=t=>(t-zcam)/HOUR;
     x.globalAlpha=1; x.shadowBlur=0; x.fillStyle='#07080B'; x.fillRect(0,0,W,H);
     x.lineCap='round'; x.lineJoin='round';
@@ -1374,17 +1391,17 @@ function recFlight(ch){
     for(let t=t6; Z(t)<FAR; t+=6*HOUR){ const z=Z(t); if(z<NEAR) continue; const a=0.3*(1-z/FAR);
       for(const b of bounds) line([-HW,Y(b),z],[HW,Y(b),z],1,a,'#8A8F9C'); }
     x.font='600 12px IBM Plex Mono, monospace'; x.textAlign='left'; x.fillStyle='#8A8F9C';   // подписи зон на левой стенке
-    rr.forEach((r,i)=>{ const yz=r[0]==null?lo-span*.06:(r[1]==null?hi+span*.06:(r[0]+r[1])/2); const P=proj(-HW+1.5,Y(yz),LEAD*0.7);
-      if(P&&P[1]>20&&P[1]<H-20){ x.globalAlpha=0.75; x.fillText(zoneShort(rr,i),P[0],P[1]+4); } });
-    const pts=[]; for(const [t,p] of ser){ if(t>tcur) break; const z=Z(t); if(z>NEAR) pts.push([0,Y(p),z]); }
+    rr.forEach((r,i)=>{ const yz=r[0]==null?lo-span*.06:(r[1]==null?hi+span*.06:(r[0]+r[1])/2); const P=proj(HW-1.5,Y(yz),LEAD*1.6);
+      if(P&&P[1]>20&&P[1]<H-20){ x.globalAlpha=0.75; x.textAlign='right'; x.fillText(zoneShort(rr,i),P[0],P[1]+4); } });
+    const pts=[]; for(const [t,p] of ser){ if(t>tcur) break; const z=Z(t); if(z>-2) pts.push([0,Y(p),z]); }
     pts.push([0,Y(pcur),LEAD]);
     x.shadowColor='#FFB020';
-    for(let i=1;i<pts.length;i++){ const d=pts[i][2]; x.shadowBlur=10; line(pts[i-1],pts[i],Math.max(1.6,22/d),Math.min(1,1.25-d/FAR),'#FFB020'); }
-    const D=proj(0,Y(pcur),LEAD); if(D){ const s=11; x.globalAlpha=1; x.fillStyle='#FFB020'; x.shadowBlur=24; x.fillRect(D[0]-s/2,D[1]-s/2,s,s); }
+    for(let i=1;i<pts.length;i++){ const d=Math.max(0.6,pts[i][2]); x.shadowBlur=10; line(pts[i-1],pts[i],Math.max(1.6,26/d),Math.min(1,1.25-d/FAR),'#FFB020'); }
+    const D=proj(0,Y(pcur),LEAD); if(D){ const s=12; x.globalAlpha=1; x.fillStyle='#FFB020'; x.shadowBlur=26; x.fillRect(D[0]-s/2,D[1]-s/2,s,s); }
     x.shadowBlur=0; x.globalAlpha=0.75; x.fillStyle='#8A8F9C'; x.font='13px IBM Plex Mono, monospace'; x.textAlign='center';
     x.fillText(fmtDT(tcur),cx,34); x.globalAlpha=1;
   }
-  function fade(){ cv.style.transition='opacity .6s ease-out'; cv.style.opacity='0'; setTimeout(()=>{ cv.style.display='none'; },700); }
+  function fade(){ cv.style.transition='opacity .45s ease-out'; cv.style.opacity='0'; setTimeout(()=>{ cv.style.display='none'; },520); }
   return {draw,fade};
 }
 /* «камера» 2D-гонки: от доли FROM до доли TO гонки плавно уходит с зума S0 на общий план
