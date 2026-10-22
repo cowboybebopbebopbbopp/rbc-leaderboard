@@ -235,6 +235,8 @@
   #reccard .pg.pan .score .num{opacity:0}
   #reccard .pg.pan .score .num.go{opacity:1; animation:recSlam .35s both}
   #reccard .dots i.land{animation:none}
+  #reccard .dots.hold{visibility:hidden}
+  #reccard .dots.hold i, #reccard .dots.hold i b{animation-play-state:paused}
   #reccard .dots i.land b{animation:recLand .36s both}
   @keyframes recLand{0%{transform:scale(1.35)} 55%{transform:scale(.88)} 100%{transform:none}}
   /* табло гонки (запись): время, цена крупно, зона и голоса за неё. Висит поверх и 3D-пролёта, и лестницы —
@@ -1697,6 +1699,9 @@ async function recTileTo(c,ch,origin,hud){
   const drawTile=(t,al)=>{ const T=tileAt(t), K=camAt(t), sx=(T.p[0]-K.cx)*K.z+W/2, sy=(T.p[1]-K.cy)*K.z+H/2, sz=T.size*K.z;
     x.save(); x.translate(sx,sy); x.rotate(T.rot); x.globalAlpha=al; x.fillStyle=col; x.shadowColor=glow; x.shadowBlur=Math.min(22,sz*0.7);
     x.beginPath(); x.roundRect(-sz/2,-sz/2,sz,sz,Math.min(sz/2,3*sz/G.sz)); x.fill(); x.restore(); };
+  /* ячейки вставляем заранее — скрытыми и с остановленными анимациями: в момент посадки 70 новых элементов
+     со свечением давали подвисание записи ~0.3 с (сетка проявлялась рывком, сразу с 5 горящими) */
+  grid.innerHTML=recDotsHtml(G,true); grid.classList.add('hold');
   setCam(W/2,H/2,1);
   await new Promise(res=>{ const t0=performance.now();
     (function f(){ const t=Math.min(T_LAND,performance.now()-t0), K=camAt(t); setCam(K.cx,K.cy,K.z); x.clearRect(0,0,W,H);
@@ -1705,10 +1710,9 @@ async function recTileTo(c,ch,origin,hud){
       if(t<T_LAND) requestAnimationFrame(f); else res(); })(); });
   /* посадка: плитка стала первой ячейкой — дальше обычная сетка, слои мира на место */
   x.clearRect(0,0,W,H); fx.style.display='none';
-  grid.innerHTML=recDotsHtml(G,true);
-  for(const el of L1){ el.style.transform=''; el.style.transformOrigin=''; }
-  box.style.transform=''; box.style.transformOrigin='';
-  hud.hide();
+  grid.classList.remove('hold');                                         // анимации ячеек пошли с этого кадра
+  for(const el of L1) el.style.visibility='hidden';                      // график ушёл за кадр: прячем, не пересчитывая масштаб
+  hud.hide();                                                            // (карточка уже стоит в identity: translate(0,0) scale(1))
   if(we){ we.textContent=wn?'1':'0'; we.classList.add('go'); }
   startCount(2,Math.max(0,wn-1)*G.step,120);
 }
