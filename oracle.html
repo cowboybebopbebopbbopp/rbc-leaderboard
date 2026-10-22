@@ -140,6 +140,22 @@
   body.rec #replay .bar button{visibility:hidden}
   body.rec #resheet .cta, body.rec #resheet .wtag{pointer-events:none}
   body.rec #resheet .cta{display:none}
+  /* карточки сценария записи: интро → (реплей) → новые звания → призыв голосовать */
+  #reccard{position:fixed; inset:0; z-index:120; background:var(--ink); display:none; flex-direction:column;
+    align-items:center; justify-content:center; text-align:center; padding:0 28px; opacity:0; transition:opacity .25s}
+  #reccard.on{display:flex; opacity:1}
+  #reccard .k{font-family:var(--f-mono); font-size:13px; color:var(--mut); letter-spacing:.08em; text-transform:uppercase; animation:fade .4s both}
+  #reccard .big{font-family:var(--f-disp); font-weight:900; font-size:34px; line-height:1.08; color:var(--amber); margin:14px 0 10px; animation:pop .5s both}
+  #reccard .sub{font-family:var(--f-disp); font-weight:700; font-size:18px; color:var(--fg); margin-top:6px; animation:enter .5s .15s both}
+  #reccard .dim{font-family:var(--f-mono); font-size:13px; color:var(--mut); margin-top:18px; animation:enter .5s .3s both}
+  #reccard .ups{display:flex; flex-direction:column; gap:10px; margin-top:18px; width:100%; max-width:420px}
+  #reccard .up{display:flex; align-items:center; gap:12px; padding:8px 12px; border:1px solid #1F232C; border-radius:12px;
+    background:var(--ink2); text-align:left; animation:enter .45s both; animation-delay:calc(.35s + var(--i)*.4s)}
+  #reccard .up img{width:48px; height:48px; image-rendering:pixelated; flex:none}
+  #reccard .up .n{font-family:var(--f-disp); font-weight:700; font-size:16px; color:var(--fg); flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+  #reccard .up .t{font-family:var(--f-mono); font-size:13px; color:var(--amber); white-space:nowrap}
+  #reccard .ctabtn{margin-top:26px; padding:14px 24px; border-radius:14px; background:var(--amber); color:var(--ink);
+    font-family:var(--f-disp); font-weight:900; font-size:18px; animation:pop .5s .25s both}
   #rstage{position:relative}
   #rstage.shake{animation:shake .18s linear}
   @keyframes shake{0%,100%{transform:none}25%{transform:translate(3px,-2px)}50%{transform:translate(-3px,2px)}75%{transform:translate(2px,1px)}}
@@ -462,6 +478,7 @@
   </div>
 </div>
 
+<div id="reccard"></div>
 <div id="unlock"></div>
 <div id="levelup"></div>
 <div id="sheet" onclick="if(event.target===this)closeSheet()"><div class="panel"><div class="grip"></div><div id="sheetbody"></div></div></div>
@@ -1244,11 +1261,52 @@ function finishReplay(instant){
       :'<div class="r-sub" style="margin-top:14px">не угадал никто — рынок победил всех</div>'}
     <button class="cta ghost" style="margin-top:20px" onclick="closeReplay()">закрыть</button>`;
   const pv=$('#rpricev'); if(!instant&&pv) countTo(pv,c.winner_price,{fmt:v=>fmtP(v),from:c.winner_price*.97,dur:700});
-  /* запись ролика: сигнал «финиш отыгран» (конфетти и счётчик цены успели) — его ждёт render_replay.py */
-  if(document.body.classList.contains('rec')) setTimeout(()=>{ window.__replayDone=performance.now(); document.title='replay-done'; },2200);
+  /* запись ролика: «финиш отыгран» (конфетти и счётчик цены успели) — отдаём ход сценарию runRecording */
+  if(document.body.classList.contains('rec')) setTimeout(()=>{ const r=window.__recResolve; window.__recResolve=null;
+    if(r) r(); else { window.__replayDone=performance.now(); document.title='replay-done'; } },2200);
 }
-/* #replay=<msg_id>&rec=1 — автозапуск реплея для записи ролика (render_replay.py) */
+
+/* ===== Запись ролика для поста (render_replay.py): #replay=<msg_id>&rec=1[&ups=<json>]
+   Сценарий: интро (о чём ролик) → реплей гонки и финиш → новые звания крупно → призыв голосовать.
+   ups — список {name, n} (новый уровень) считает бэкенд (predictions._post_result). ===== */
 function readReplayParam(){ const m=(location.hash||'').match(/replay=(\d+)/); return m&&/rec=1/.test(location.hash)?m[1]:null; }
+function readUpsParam(){ try{ const m=(location.hash||'').match(/ups=([^&]+)/); const v=m?JSON.parse(decodeURIComponent(m[1])):[];
+  return Array.isArray(v)?v.filter(u=>u&&u.name):[]; }catch(e){ return []; } }
+const recSleep=ms=>new Promise(r=>setTimeout(r,ms));
+async function recCard(html,ms){ const el=$('#reccard'); el.innerHTML=html; el.classList.add('on'); await recSleep(ms); el.classList.remove('on'); await recSleep(280); }
+function recIntro(c,ch){
+  const d=new Date(c.target_time);
+  const day=new Intl.DateTimeFormat('ru-RU',{...MSK,weekday:'short',day:'numeric',month:'long'}).format(d);
+  const tm=new Intl.DateTimeFormat('ru-RU',{...MSK,hour:'2-digit',minute:'2-digit'}).format(d);
+  return `<div class="k">#ктоточнее · лига форума «РБК Крипто»</div>
+    <div class="big">ИТОГ<br>КОНКУРСА</div>
+    <div class="sub">${esc(symName(ch&&ch.symbol))} · ${esc(day)}, ${esc(tm)} МСК</div>
+    <div class="dim">реплей финиша: как цена шла к цели</div>`;
+}
+function recUps(ups){
+  const show=ups.slice(0,8);
+  return `<div class="k">после финиша</div><div class="big">НОВЫЕ ЗВАНИЯ</div>
+    <div class="ups">${show.map((u,i)=>{ const n=Math.max(1,Math.min(LEVELS.length,u.n|0)); const lv={...LEVELS[n-1],n};
+      return `<div class="up" style="--i:${i}">${beastImg(lv,48)}<span class="n">${esc(u.name)}</span><span class="t">→ ${esc(lv.name)}</span></div>`; }).join('')}</div>
+    ${ups.length>show.length?`<div class="dim">и ещё ${ups.length-show.length}</div>`:''}`;
+}
+function recCta(){
+  return `<div class="k">каждую неделю</div><div class="big">ГОЛОСУЙ<br>В НОВОМ КОНКУРСЕ</div>
+    <div class="sub">#ктоточнее в чате форума РБК Крипто</div>
+    <div class="ctabtn">@RBC_oracle_bot</div>
+    <div class="dim">звания · серии · медали · реплеи</div>`;
+}
+async function runRecording(id){
+  const c=contests().find(x=>x.status==='resolved'&&chartIdOf(x)===id); const ch=S.charts[id];
+  const ups=readUpsParam();
+  window.__replayStart=performance.now();
+  await recCard(recIntro(c,ch),2600);
+  await new Promise(res=>{ window.__recResolve=res; openReplay(id); });   // finishReplay отдаст ход через 2.2 с после финиша
+  await recSleep(300);
+  if(ups.length) await recCard(recUps(ups),Math.min(7000,2200+450*Math.min(ups.length,8)));
+  await recCard(recCta(),3200);
+  window.__replayDone=performance.now(); document.title='replay-done';
+}
 function closeReplay(){ cancelAnimationFrame(RP.raf); $('#replay').classList.remove('on'); document.body.style.overflow=''; tgBack(); }
 
 /* ============================== Я ============================== */
@@ -1647,7 +1705,7 @@ function renderAll(){
   const recId=readReplayParam();
   if(recId){ document.body.classList.add('rec'); S.sound=false;
     if(!contests().some(c=>c.status==='resolved'&&chartIdOf(c)===recId)){ document.title='replay-missing'; return; }
-    window.__replayStart=performance.now(); openReplay(recId); return; }
+    runRecording(recId); return; }
   setInterval(async()=>{ try{ await loadData(); renderAll(); }catch(e){} },3e5);
   document.addEventListener('visibilitychange',async()=>{ if(!document.hidden){
     try{ await loadData(); renderAll(); }catch(e){} maybeAskMark(); } });
