@@ -183,6 +183,12 @@
   #recflash{position:fixed; inset:0; z-index:125; background:var(--amber); opacity:0; pointer-events:none; display:none}
   body.rec #recflash.go{display:block; animation:recFlash .22s both}
   body.rec .ladderwrap.punch{animation:recPunch .5s cubic-bezier(.2,.8,.2,1) both}
+  /* переход хук → гонка: «ИТОГ» раздувается до жёлтой заливки (#reccover держит цвет, пока камера
+     встаёт на точку), затем заливка уходит и камера отзумливается от летящей точки (recCamera) */
+  @keyframes recZoomIn{to{transform:scale(34)}}
+  #reccard .big.zoom{animation:recZoomIn .42s cubic-bezier(.55,0,.9,.35) forwards}
+  #reccover{position:fixed; inset:0; z-index:140; background:var(--amber); display:none; opacity:0; transition:opacity .26s ease-out}
+  body.rec .ladderwrap{will-change:transform}
   /* карточка «Топ-10 рейтинга»: плотнее, спрайты мельче, строки быстрее, лидер подсвечен */
   #reccard .top{gap:7px; margin-top:12px}
   #reccard .top .up{padding:5px 10px; gap:10px; animation-delay:calc(.1s + var(--i)*.15s)}
@@ -518,6 +524,7 @@
 <div id="reccard"></div>
 <div id="recbar"><i></i><i></i><i></i><i></i><i></i></div>
 <div id="recflash"></div>
+<div id="reccover"></div>
 <div id="unlock"></div>
 <div id="levelup"></div>
 <div id="sheet" onclick="if(event.target===this)closeSheet()"><div class="panel"><div class="grip"></div><div id="sheetbody"></div></div></div>
@@ -1265,6 +1272,7 @@ function openReplay(id){
     const p=timeRemap(u);
     const info=drawLadder(cv,ch,{progress:p,votes:c.votes,myZone:(myVote(c)||{}).zone,
       deadline:c.deadline,h:Math.min(innerHeight*.56,520)});
+    if(window.__recCam) window.__recCam(info,u);     // запись ролика: «камера» бежит за точкой (recCamera)
     if(info.cur){ $('#rclock').textContent=fmtDT(info.cur[0]);
       if(info.curZone!==lastZone&&lastZone!==-1) sTick(); lastZone=info.curZone; }
     if(u<1) RP.raf=requestAnimationFrame(step); else finishReplay();
@@ -1321,6 +1329,28 @@ function recShow(html,{slide=true}={}){ const el=$('#reccard'); el.classList.add
   el.innerHTML=html; el.style.display='flex'; void el.offsetWidth; if(slide) el.classList.remove('cut'); el.classList.add('on'); }
 function recHide(){ const el=$('#reccard'); el.classList.add('cut'); el.classList.remove('on'); el.style.display='none'; }
 function recFlash(){ const f=$('#recflash'); if(!f) return; f.classList.remove('go'); void f.offsetWidth; f.classList.add('go'); }
+/* сплошная жёлтая заливка: on — мгновенно, off — растворяется за .26 с */
+function recCover(on){ const el=$('#reccover'); if(!el) return;
+  if(on){ el.style.transition='none'; el.style.display='block'; el.style.opacity='1'; void el.offsetWidth; el.style.transition=''; }
+  else { el.style.opacity='0'; setTimeout(()=>{ el.style.display='none'; },320); } }
+/* «камера» гонки: стартует крупным планом на точке цены (зум S0), бежит за ней и к доле END
+   гонки плавно выходит на общий план (трансформ снимается — финишные shake/punch не задеты) */
+function recCamera(S0=4.2,END=0.5){
+  const wrap=$('#rstage .ladderwrap'); let base=null, off=false;
+  function update(info,u){
+    if(off||!wrap||!info||!info.cur) return;
+    if(!base){ const r=wrap.getBoundingClientRect(); base={left:r.left,top:r.top}; }   // первый кадр — без трансформа
+    const k=Math.min(1,u/END), e=1-Math.pow(1-k,3);
+    if(k>=1){ wrap.style.transform=''; wrap.style.transformOrigin=''; off=true; return; }
+    const S=1+(S0-1)*(1-e);
+    const dx=info.px(info.cur[0]), dy=info.py(info.cur[1]);
+    const tx=(1-e)*(innerWidth/2-base.left-dx*S), ty=(1-e)*(innerHeight*.42-base.top-dy*S);
+    wrap.style.transformOrigin='0 0';
+    wrap.style.transform=`translate(${tx.toFixed(1)}px,${ty.toFixed(1)}px) scale(${S.toFixed(3)})`;
+  }
+  function reset(){ off=true; if(wrap){ wrap.style.transform=''; wrap.style.transformOrigin=''; } }
+  return {update,reset};
+}
 /* сегментный прогресс-бар: i — активный сегмент, ms — сколько он длится */
 function recBar(i,ms){ $$('#recbar i').forEach((el,k)=>{ el.classList.toggle('done',k<i); el.classList.toggle('active',k===i);
   if(k===i) el.style.setProperty('--d',ms+'ms'); }); }
@@ -1367,9 +1397,18 @@ async function runRecording(id){
   const c=contests().find(x=>x.status==='resolved'&&chartIdOf(x)===id); const ch=S.charts[id];
   const ups=readUpsParam();
   window.__replayStart=performance.now();
-  recBar(0,1800); recShow(recHook(c,ch),{slide:false}); await recSleep(1800);
-  recBar(1,7400); recHide(); recFlash();
-  await new Promise(res=>{ window.__recResolve=res; openReplay(id); });   // finishReplay: punch + вспышка, ход через 1.3 с
+  recBar(0,1800); recShow(recHook(c,ch),{slide:false}); await recSleep(1300);
+  const big=$('#reccard .big'); if(big) big.classList.add('zoom');       // «ИТОГ» раздувается на весь экран
+  await recSleep(380);
+  recCover(true);                                                        // сплошной жёлтый
+  recBar(1,7400); recHide();
+  const cam=recCamera(); window.__recCam=cam.update;                     // камера встанет на точку с первого кадра
+  const race=new Promise(res=>{ window.__recResolve=res; });            // finishReplay: punch + вспышка, ход через 1.3 с
+  openReplay(id);
+  await recSleep(90);                                                    // первый кадр нарисован под заливкой
+  recCover(false);                                                       // заливка уходит — точка крупным планом
+  await race;
+  window.__recCam=null; cam.reset();
   recBar(2,2200); recShow(recResult(c,ch));
   const pe=$('#recprice'), we=$('#recwon');
   if(pe&&c.winner_price!=null) countTo(pe,c.winner_price,{fmt:v=>fmtP(v),from:c.winner_price*.96,dur:800});
