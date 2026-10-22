@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-22T00:50:55+00:00",
+  "updated": "2026-10-22T01:19:50+00:00",
   "count": 234,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5780,
+      "value": 5781,
       "move": 0
     },
     {
@@ -1606,37 +1606,37 @@
     },
     {
       "rank": 40,
-      "name": "Olga Goncharova",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
       "rank": 41,
-      "name": "Ponemonec",
+      "name": "Olga Goncharova",
       "value": 5
     },
     {
       "rank": 42,
+      "name": "Ponemonec",
+      "value": 5
+    },
+    {
+      "rank": 43,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 45,
-      "name": "Сергей",
-      "value": 4
-    },
-    {
       "rank": 46,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Сергей",
       "value": 4
     },
     {
@@ -1743,32 +1743,32 @@
     },
     {
       "rank": 17,
-      "name": "ᴦоᴧод",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
       "rank": 18,
-      "name": "Don Michele Corleone",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
       "rank": 19,
+      "name": "Don Michele Corleone",
+      "value": 4
+    },
+    {
+      "rank": 20,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Pavel",
       "value": 3
     },
     {
-      "rank": 21,
-      "name": "Vitaliy",
-      "value": 3
-    },
-    {
       "rank": 22,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Vitaliy",
       "value": 3
     },
     {
