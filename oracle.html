@@ -1282,7 +1282,7 @@ function renderMe(){
   <div class="plinth">
     ${beastImg(lv,108)}
     <div class="pname">${esc(b.name)}</div>
-    <div class="plvl">${pos===1?icon('crown','width:13px;height:13px;vertical-align:-2px')+' ':''}ур.${lv.n} · ${lv.name}${pos>0?' · №'+pos:''}</div>
+    <div class="plvl">${pos===1?icon('crown','width:13px;height:13px;vertical-align:-2px')+' ':''}ур.${lv.n} · ${lv.name}${pos>0?' · №'+pos:''}${b.rated===false?' · вне зачёта':''}</div>
     <div class="phint">«${lv.hint}»</div>
     ${champTitles(b.pid,b.name).length?`<div class="ctitle">${icon('crown')} ${champTitles(b.pid,b.name).map(k=>'оракул '+seasonGen(k)).join(' · ')}</div>`:''}
     ${lv.next?`<div class="xp"><div class="lbl"><span>до «${lv.next.name}»</span><span>${lv.xp} / ${lv.next.xp} xp</span></div>
@@ -1312,7 +1312,8 @@ function renderMe(){
   ${wins.length?`<div class="medals">${wins.map((c,i)=>{ const sym=S.charts[chartIdOf(c)]?.symbol;
     return `<div class="medal" style="--i:${i}"><div class="coin">${medalImg(sym,58)}</div>
       <div class="cap">${symName(sym)} · ${new Intl.DateTimeFormat('ru-RU',{...MSK,day:'2-digit',month:'2-digit'}).format(new Date(c.target_time))}</div></div>`;}).join('')}</div>`
-    :`<div class="undernote">сыграно: ${b.games}</div>`}
+    :`<div class="undernote">сыграно: ${b.games}${(()=>{ if(b.rated!==false) return ''; const left=((S.preds.rating||{}).rated_games||3)-b.games;
+        return left>0?' · до зачёта '+(left===1?'ещё 1 игра':'ещё '+left+' игры'):''; })()}</div>`}
   ${S.verified?'':`<div class="idwarn" onclick="openBot()">${icon('target')}
     <span>профиль подобран по имени — бот определит точно</span><b>проверить →</b></div>`}
   <button class="cta ghost" style="margin-top:var(--s4)" onclick="remindMe()">${icon('radio')} Напоминать про дедлайн</button>
@@ -1488,7 +1489,7 @@ function renderLeague(){
       $('#lrows').innerHTML=list.map(x=>{ const i=b.indexOf(x), lv=levelOf(x);
         return `<div class="lrow ${isMeRow(x)?'meish':''}" data-i="${i}">
           <div class="pos">${i+1}</div>${beastImg(lv,46)}
-          <div class="nm">${esc(x.name)}<small>ур.${lv.n} ${lv.name}${x.streak>=2?' · '+icon('fire','width:11px;height:11px;vertical-align:-2px')+x.streak:''}</small></div>
+          <div class="nm">${esc(x.name)}<small>ур.${lv.n} ${lv.name}${x.rated===false?' · вне зачёта':''}${x.streak>=2?' · '+icon('fire','width:11px;height:11px;vertical-align:-2px')+x.streak:''}</small></div>
           <div class="sc"><b>${x.wins}/${x.games}</b><span>${Math.round(x.win_pct)}%</span></div>
           ${meRow()&&!isMeRow(x)?`<button class="duelbtn" data-dueli="${i}">${icon('sword')}</button>`:''}</div>`;}).join('')
         +(!qq&&!S.lgAll&&full.length>LIMIT
@@ -1539,7 +1540,7 @@ function openPlayerIdx(idx){
   $('#sheetbody').innerHTML=`<div style="text-align:center;padding-top:8px">
     <div style="display:flex;justify-content:center">${beastImg(lv,72)}</div>
     <div class="sh-title" style="margin-top:10px">${esc(name)}</div>
-    <div class="plvl">ур.${lv.n} · ${lv.name} · №${pos}</div>
+    <div class="plvl">ур.${lv.n} · ${lv.name} · №${pos}${b.rated===false?' · вне зачёта':''}</div>
     ${champTitles(b.pid,name).length?`<div class="ctitle">${icon('crown')} ${champTitles(b.pid,name).map(k=>'оракул '+seasonGen(k)).join(' · ')}</div>`:''}
     <div class="stats4" style="margin-top:14px">
       <div class="st"><b class="grn">${b.wins}</b><span>побед</span></div>
@@ -1567,14 +1568,14 @@ function duel(ref){
       <div class="vs">VS</div>
       <div class="side">${beastImg(lb,58)}<div class="n">${esc(name)}</div></div>
     </div>
-    ${row('рейтинг лиги',Math.round(a.score*1000)/10,Math.round(b.score*1000)/10,x=>x+'%')}
+    ${row('рейтинг',Math.round(a.score*1000),Math.round(b.score*1000))}
     ${row('точность',Math.round(a.win_pct),Math.round(b.win_pct),x=>x+'%')}
     ${row('побед',a.wins,b.wins)}
     ${row('серия сейчас',a.streak,b.streak)}
     ${row('рекорд серии',a.best_streak,b.best_streak)}
     ${row('сыграно',a.games,b.games)}
     <div class="dverdict">${verdict}</div>
-    <div class="k" style="text-align:center;margin-top:6px">вердикт — по рейтингу лиги · серия побед на него не влияет</div>
+    <div class="k" style="text-align:center;margin-top:6px">вердикт — по рейтингу (0–1000): точность с поправкой на число игр · серия побед на него не влияет</div>
     <button class="cta ghost" style="margin-top:16px" onclick="closeSheet()">закрыть</button>`;
   showSheet();
   requestAnimationFrame(()=>requestAnimationFrame(()=>$$('#sheetbody .dbar i').forEach(i=>i.style.width=i.dataset.w+'%')));

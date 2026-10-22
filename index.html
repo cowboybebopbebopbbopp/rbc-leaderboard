@@ -427,13 +427,15 @@
     if(PRED&&PRED.board&&PRED.board.length){const p=el('div','panel');clickable(p,()=>goPred('board'),'Рейтинг точности — все участники');
       p.appendChild(head('🏅','Рейтинг точности — топ-10','весь рейтинг →'));
       /* лидер по точности — только если он единоличный; при ничьей не называем
-         кого-то одного «точнее всех», а показываем размер группы лидеров */
-      const rb=(PRED.board||[]).filter(b=>b.games!=null);
+         кого-то одного «точнее всех», а показываем размер группы лидеров.
+         Игроки «вне зачёта» (rated:false, < 3 игр) в лидерах не называются —
+         место в списке у них есть, звание «точнее всех» надо заслужить */
+      const rb=(PRED.board||[]).filter(b=>b.games!=null&&b.rated!==false);
       if(rb.length){const t0=rb[0],co=rb.filter(b=>b.win_pct===t0.win_pct&&b.wins===t0.wins).length;
         if(co===1)p.appendChild(el('div','psub','Точнее всех: '+anon(t0.name)+' — '+t0.wins+'/'+t0.games+' ('+t0.win_pct+'%)'+(t0.streak>=2?' 🔥'+t0.streak:'')));
         else{const a=co%10,b2=co%100;p.appendChild(el('div','psub','Лучшая точность: '+t0.win_pct+'% — у '+co+' '+((a===1&&b2!==11)?'участника':'участников')));}}
       const g=el('div','rank');PRED.board.slice(0,10).forEach((b,i)=>{const rk=el('div','rk');
-        rk.append(el('span','rn',String(medal(i+1))),el('span','rnm',anon(b.name)),el('span','rv',b.games!=null?b.wins+'/'+b.games:'🎯'+b.points));g.appendChild(rk);});
+        rk.append(el('span','rn',String(medal(i+1))),el('span','rnm',anon(b.name)),el('span','rv',(b.games!=null?b.wins+'/'+b.games:'🎯'+b.points)+(b.rated===false?' · вне зачёта':'')));g.appendChild(rk);});
       p.appendChild(g);box.appendChild(p);}
     if(LB&&LB.all&&LB.all.length){const p=el('div','panel');clickable(p,()=>switchTab('rating'),'Рейтинг участников');
       p.appendChild(head('🏆','Рейтинг — топ-10','весь рейтинг + график →'));
@@ -598,11 +600,15 @@
     predCharts.forEach(ch=>{try{ch.dispose();}catch(e){}});predCharts=[];cbox.textContent='';bbox.textContent='';
     /* вкладка «Рейтинг точности» — весь список, без обрезки в топ-50 */
     if(PRED&&PRED.board&&PRED.board.length){
-      bbox.appendChild(el('div','sub','Место — по сглаженной точности: (угадано+1)/(сыграно+2). Малую выборку тянет к 50%, поэтому 100% с одной игры стоит выше 50%, но ниже проверенного 100% с нескольких. 🔥 — активная серия угадываний, «рекорд» — лучшая серия.'));
+      /* параметры формулы приходят в predictions.json → rating (база пересчитывается
+         каждую генерацию); без них — текст с округлёнными значениями */
+      const RT=PRED.rating||{},baseP=RT.base_rate!=null?Math.round(RT.base_rate*100)+'%':'около 25%',KG=RT.prior_games||5,MG=RT.rated_games||3;
+      bbox.appendChild(el('div','sub','Место — по точности с поправкой на число игр: каждый стартует от средней доли угадавших в чате ('+baseP+', вес — '+KG+' игр), и каждая сыгранная среда сдвигает счёт к его реальной точности. Одна-две удачи проверенного игрока не перебивают. До '+MG+' сыгранных — «вне зачёта»: место видно, но в лидерах не называем. 🔥 — активная серия угадываний, «рекорд» — лучшая серия.'));
       const l=el('div','list');let rank=0;
       PRED.board.forEach(b=>{const r=el('div','row');const rk=el('div','r');
         rk.append(document.createTextNode(String(medal(++rank))));
         const nm=el('div','nm');nm.append(document.createTextNode(anon(b.name)));
+        if(b.rated===false)nm.appendChild(el('span','strk','вне зачёта'));
         if(b.streak>=2)nm.appendChild(el('span','mv up','🔥'+b.streak));
         if(b.best_streak>=2)nm.appendChild(el('span','strk','рекорд: '+b.best_streak));
         const val=b.games!=null?b.wins+'/'+b.games+' · '+b.win_pct+'%':'🎯 '+b.points;
