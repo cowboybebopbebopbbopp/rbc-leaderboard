@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T16:15:44+00:00",
+  "updated": "2026-10-22T16:19:34+00:00",
   "count": 235,
   "has_movement": true,
   "all": [
@@ -324,7 +324,7 @@
     {
       "rank": 54,
       "name": "Руслан Иванов",
-      "value": 84,
+      "value": 85,
       "move": 0
     },
     {
@@ -1443,7 +1443,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 54
+      "value": 55
     },
     {
       "rank": 7,
@@ -1607,37 +1607,37 @@
     },
     {
       "rank": 39,
-      "name": "L G",
-      "value": 5
-    },
-    {
-      "rank": 40,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Ponemonec",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Юрий",
+      "value": 4
+    },
+    {
+      "rank": 45,
+      "name": "L G",
       "value": 4
     },
     {
@@ -1695,7 +1695,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 7,
