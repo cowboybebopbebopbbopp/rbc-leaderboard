@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T06:20:13+00:00",
+  "updated": "2026-10-22T07:20:18+00:00",
   "count": 234,
   "has_movement": true,
   "all": [
@@ -1636,12 +1636,12 @@
     },
     {
       "rank": 46,
-      "name": "Сергей",
-      "value": 4
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 3
     },
     {
       "rank": 47,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Сергей",
       "value": 3
     },
     {
@@ -1679,7 +1679,7 @@
     {
       "rank": 4,
       "name": "Князь Владимир С",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 5,
@@ -1689,12 +1689,12 @@
     {
       "rank": 6,
       "name": ".",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 7,
       "name": "Archie",
-      "value": 13
+      "value": 11
     },
     {
       "rank": 8,
@@ -1708,23 +1708,23 @@
     },
     {
       "rank": 10,
-      "name": "SPM",
-      "value": 9
-    },
-    {
-      "rank": 11,
       "name": "LlirikMK",
       "value": 9
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Zero-sum Gamer",
       "value": 9
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Max",
       "value": 8
+    },
+    {
+      "rank": 13,
+      "name": "SPM",
+      "value": 7
     },
     {
       "rank": 14,
@@ -1808,62 +1808,62 @@
     },
     {
       "rank": 30,
-      "name": "🤗",
-      "value": 2
-    },
-    {
-      "rank": 31,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "🌝",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Vlad",
+      "value": 1
+    },
+    {
+      "rank": 41,
+      "name": "🤗",
       "value": 1
     },
     {
