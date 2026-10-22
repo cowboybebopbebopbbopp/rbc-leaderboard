@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T18:32:47+00:00",
+  "updated": "2026-10-22T19:32:52+00:00",
   "count": 235,
   "has_movement": true,
   "all": [
@@ -317,15 +317,15 @@
     },
     {
       "rank": 53,
-      "name": "Павел Корчагин",
+      "name": "Руслан Иванов",
       "value": 86,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 54,
-      "name": "Руслан Иванов",
-      "value": 85,
-      "move": 0
+      "name": "Павел Корчагин",
+      "value": 86,
+      "move": -1
     },
     {
       "rank": 55,
@@ -569,15 +569,15 @@
     },
     {
       "rank": 95,
-      "name": "vpidelks",
-      "value": 14,
-      "move": -2
+      "name": "Marina",
+      "value": 15,
+      "move": 7
     },
     {
       "rank": 96,
-      "name": "Marina",
+      "name": "vpidelks",
       "value": 14,
-      "move": 6
+      "move": -3
     },
     {
       "rank": 97,
@@ -1443,7 +1443,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 55
+      "value": 56
     },
     {
       "rank": 7,
@@ -1517,12 +1517,12 @@
     },
     {
       "rank": 21,
-      "name": "Александр",
-      "value": 12
+      "name": "Marina",
+      "value": 13
     },
     {
       "rank": 22,
-      "name": "Marina",
+      "name": "Александр",
       "value": 12
     },
     {
@@ -1670,7 +1670,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 2,
@@ -1680,7 +1680,7 @@
     {
       "rank": 3,
       "name": "Синдбад Мореход",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 4,
@@ -1700,7 +1700,7 @@
     {
       "rank": 7,
       "name": "Руслан Иванов",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 8,
@@ -1739,12 +1739,12 @@
     },
     {
       "rank": 15,
-      "name": "Pavel",
-      "value": 4
+      "name": "Marina",
+      "value": 5
     },
     {
       "rank": 16,
-      "name": "Сергей",
+      "name": "Pavel",
       "value": 4
     },
     {
@@ -1759,22 +1759,22 @@
     },
     {
       "rank": 19,
-      "name": "Marina",
-      "value": 4
-    },
-    {
-      "rank": 20,
       "name": "Don Michele Corleone",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Vitaliy",
+      "value": 3
+    },
+    {
+      "rank": 22,
+      "name": "Сергей",
       "value": 3
     },
     {
