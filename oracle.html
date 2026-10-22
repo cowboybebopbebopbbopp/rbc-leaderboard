@@ -220,25 +220,18 @@
   #reccard .ups.few .up .n{font-size:20px}
   #reccard .ups.few .up .t{font-size:16px}
   /* карточка финиша: «18 из 70» сеткой — квадрат на голос, угадавшие загораются зелёным по очереди */
-  #reccard .dots{display:grid; gap:var(--g); margin-top:26px}
-  #reccard .dots i{position:relative; width:var(--c); height:var(--c); border-radius:3px; background:#1A1E27; animation:recDot .25s both}
-  #reccard .dots i b{position:absolute; inset:0; border-radius:3px; background:var(--green); box-shadow:0 0 10px rgba(44,224,139,.5);
-    animation:recDotW .32s both}
-  @keyframes recDot{from{opacity:0; transform:scale(.4)} to{opacity:1; transform:none}}
-  @keyframes recDotW{0%{opacity:0; transform:scale(.3)} 60%{opacity:1; transform:scale(1.35)} 100%{opacity:1; transform:none}}
+  /* ячейки — на одном холсте внутри карточки (recGridRun): 70 отдельных CSS-анимаций при старте давали
+     в записи замирание картинки ~0.2 с (каждая ячейка — свой слой, кадр ждал их растеризации) */
+  #reccard .dots{margin-top:26px}
+  #reccard .dots canvas{position:absolute; left:-14px; top:-14px}
   #reccard .score{display:flex; align-items:baseline; justify-content:center; gap:14px; margin-top:22px}
   #reccard .score .num{margin-top:0}
   #reccard .score .of{font-family:var(--f-disp); font-weight:900; font-size:30px; color:var(--mut)}
   /* карточка, к которой камера ведёт плитку (recTileTo): уже стоит на месте, въездные анимации не нужны;
-     число угадавших появляется, когда плитка села в первую ячейку; посадка — короткий «шлёп» */
+     число угадавших появляется, когда плитка села в первую ячейку */
   #reccard .pg.pan .k, #reccard .pg.pan .huge, #reccard .pg.pan .sub, #reccard .pg.pan .num{animation:none}
   #reccard .pg.pan .score .num{opacity:0}
   #reccard .pg.pan .score .num.go{opacity:1; animation:recSlam .35s both}
-  #reccard .dots i.land{animation:none}
-  #reccard .dots.hold{visibility:hidden}
-  #reccard .dots.hold i, #reccard .dots.hold i b{animation-play-state:paused}
-  #reccard .dots i.land b{animation:recLand .36s both}
-  @keyframes recLand{0%{transform:scale(1.35)} 55%{transform:scale(.88)} 100%{transform:none}}
   /* табло гонки (запись): время, цена крупно, зона и голоса за неё. Висит поверх и 3D-пролёта, и лестницы —
      один якорь для глаза через смену сцены; на финише зеленеет. Заполняет пустой низ вертикального кадра */
   #rechud{position:fixed; left:0; right:0; bottom:0; z-index:117; display:none; flex-direction:column; align-items:center;
@@ -1659,14 +1652,14 @@ function recHud(c,ch){
    с переворотом, камера следует с упреждением и к посадке встаёт ровно на карточку */
 async function recTileTo(c,ch,origin,hud){
   const W=innerWidth, H=innerHeight, VY=H, G=recGrid(c);
-  recShow(recResult(c,ch,{defer:true}),{slide:false});
+  recShow(recResult(c,ch),{slide:false});
   const box=$('#reccard'), pg=box.querySelector('.pg'), grid=pg&&pg.querySelector('.dots'), fx=$('#recfx');
   const we=$('#recwon'), wn=G.won;
   const startCount=(from,ms,delay)=>{ if(!we||!wn) return; setTimeout(()=>{ const t0=performance.now();   // счёт идёт за загорающимися ячейками
     (function f(t){ const k=Math.min(1,(t-t0)/Math.max(1,ms)); we.textContent=String(Math.min(wn,from+Math.floor(k*(wn-from+1))));
       if(k<1) requestAnimationFrame(f); })(t0); },delay); };
   if(!grid||!origin||!fx){                                               // нечем лететь — карточка просто въезжает
-    if(grid) grid.innerHTML=recDotsHtml(G,false); hud.hide(); startCount(1,wn*G.step,350); return; }
+    if(grid) recGridRun(grid.querySelector('canvas'),G,false); hud.hide(); startCount(1,wn*G.step,350); return; }
   pg.classList.add('pan');
   const gr=grid.getBoundingClientRect(), P1=[gr.left+G.sz/2, gr.top+G.sz/2+VY];   // первая ячейка в мире
   const L1=[$('#replay'),$('#rechud')].filter(Boolean);
@@ -1702,9 +1695,6 @@ async function recTileTo(c,ch,origin,hud){
   const drawTile=(t,al)=>{ const T=tileAt(t), K=camAt(t), sx=(T.p[0]-K.cx)*K.z+W/2, sy=(T.p[1]-K.cy)*K.z+H/2, sz=T.size*K.z;
     x.save(); x.translate(sx,sy); x.rotate(T.rot); x.globalAlpha=al; x.fillStyle=col; x.shadowColor=glow; x.shadowBlur=Math.min(22,sz*0.7);
     x.beginPath(); x.roundRect(-sz/2,-sz/2,sz,sz,Math.min(sz/2,3*sz/G.sz)); x.fill(); x.restore(); };
-  /* ячейки вставляем заранее — скрытыми и с остановленными анимациями: в момент посадки 70 новых элементов
-     со свечением давали подвисание записи ~0.3 с (сетка проявлялась рывком, сразу с 5 горящими) */
-  grid.innerHTML=recDotsHtml(G,true); grid.classList.add('hold');
   setCam(W/2,H/2,1);
   await new Promise(res=>{ const t0=performance.now();
     (function f(){ const t=Math.min(T_LAND,performance.now()-t0), K=camAt(t); setCam(K.cx,K.cy,K.z); x.clearRect(0,0,W,H);
@@ -1713,7 +1703,7 @@ async function recTileTo(c,ch,origin,hud){
       if(t<T_LAND) requestAnimationFrame(f); else res(); })(); });
   /* посадка: плитка стала первой ячейкой — дальше обычная сетка, слои мира на место */
   x.clearRect(0,0,W,H); fx.style.display='none';
-  grid.classList.remove('hold');                                         // анимации ячеек пошли с этого кадра
+  recGridRun(grid.querySelector('canvas'),G,true);                       // первая ячейка — плитка, от неё остальные
   for(const el of L1) el.style.visibility='hidden';                      // график ушёл за кадр: прячем, не пересчитывая масштаб
   hud.hide();                                                            // (карточка уже стоит в identity: translate(0,0) scale(1))
   if(we){ we.textContent=wn?'1':'0'; we.classList.add('go'); }
@@ -1739,18 +1729,37 @@ function recGrid(c){ const won=(c.winners||[]).length, total=Math.max(c.total||0
   const n=Math.max(1,total), cols=Math.max(5,Math.ceil(Math.sqrt(n*320/210))), rows=Math.ceil(n/cols);
   const cell=Math.min(30,Math.floor(Math.min(320/cols,210/rows))), gap=cell>=16?5:2, sz=cell-gap;
   return {won,total,cols,rows,sz,gap,step:recDotStep(won), w:cols*sz+(cols-1)*gap, h:rows*sz+(rows-1)*gap}; }
-/* ячейки сетки. landed — первая ячейка уже стоит (в неё села плитка): она горит сразу, остальные
-   проявляются как обычно, зелёные — по очереди от неё */
-function recDotsHtml(G,landed){ return Array.from({length:G.total},(_,i)=>{
-  if(landed&&i===0) return `<i class="land">${G.won?'<b></b>':''}</i>`;
-  const d0=Math.min(i*5,350), dw=Math.round(landed?120+(i-1)*G.step:350+i*G.step);
-  return `<i style="animation-delay:${d0}ms">${i<G.won?`<b style="animation-delay:${dw}ms"></b>`:''}</i>`; }).join(''); }
-function recResult(c,ch,{defer=false}={}){
+/* анимация сетки на холсте карточки. Серая ячейка проявляется (0→1, масштаб .4→1, 250 мс) с шагом 5 мс,
+   угадавшая загорается зелёным с пружинкой (масштаб .3→1.35→1, 320 мс) по очереди. landed — в первую
+   ячейку только что села плитка: она горит сразу с «шлёпом» (1.35→.88→1), остальные идут от неё */
+function recGridRun(cv,G,landed){
+  const dpr=window.devicePixelRatio||1, PAD=14, w=G.w+2*PAD, h=G.h+2*PAD;
+  cv.width=Math.round(w*dpr); cv.height=Math.round(h*dpr); cv.style.width=w+'px'; cv.style.height=h+'px';
+  const x=cv.getContext('2d'); x.setTransform(dpr,0,0,dpr,0,0);
+  const io=k=>1-Math.pow(1-k,3), lerp=(a,b,k)=>a+(b-a)*k;
+  const cells=Array.from({length:G.total},(_,i)=>({cx:PAD+(i%G.cols)*(G.sz+G.gap)+G.sz/2, cy:PAD+Math.floor(i/G.cols)*(G.sz+G.gap)+G.sz/2,
+    d0:landed&&i===0?-1e9:Math.min(i*5,350), dw:i>=G.won?null:landed?(i===0?0:120+(i-1)*G.step):350+i*G.step, land:landed&&i===0}));
+  const END=Math.max(...cells.map(c=>Math.max(c.d0+250,c.dw==null?0:c.dw+360)))+40;
+  const sq=(cx,cy,s)=>{ x.beginPath(); x.roundRect(cx-s/2,cy-s/2,s,s,3*s/G.sz); x.fill(); };
+  const t0=performance.now();
+  (function f(){ const t=performance.now()-t0; x.clearRect(0,0,w,h);
+    x.shadowBlur=0; x.fillStyle='#1A1E27';
+    for(const c of cells){ const k=Math.min(1,Math.max(0,(t-c.d0)/250)); if(k<=0) continue;
+      x.globalAlpha=k; sq(c.cx,c.cy,G.sz*lerp(.4,1,io(k))); }
+    x.fillStyle='#2CE08B'; x.shadowColor='rgba(44,224,139,.5)'; x.shadowBlur=10;
+    for(const c of cells){ if(c.dw==null) continue; const D=c.land?360:320, k=Math.min(1,(t-c.dw)/D); if(k<=0) continue;
+      let sc, al=1;
+      if(c.land) sc=k<.55?lerp(1.35,.88,io(k/.55)):lerp(.88,1,io((k-.55)/.45));
+      else { sc=k<.6?lerp(.3,1.35,io(k/.6)):lerp(1.35,1,io((k-.6)/.4)); al=Math.min(1,k/.6); }
+      x.globalAlpha=al; sq(c.cx,c.cy,G.sz*sc); }
+    x.globalAlpha=1; if(t<END) requestAnimationFrame(f); })();
+}
+function recResult(c,ch){
   const G=recGrid(c), {won,total}=G;
   return `<div class="k">финиш · ${esc(symName(ch&&ch.symbol))} · ${esc(recDate(c))}</div>
     <div class="huge">${fmtP(c.winner_price)}</div>
     <div class="sub">зона ${esc(zoneShort(ch.ranges,c.winner_option))}</div>
-    ${total?`<div class="dots" style="grid-template-columns:repeat(${G.cols},${G.sz}px);--c:${G.sz}px;--g:${G.gap}px;width:${G.w}px;height:${G.h}px">${defer?'':recDotsHtml(G,false)}</div>`:''}
+    ${total?`<div class="dots" style="width:${G.w}px;height:${G.h}px"><canvas></canvas></div>`:''}
     <div class="score"><span class="num" id="recwon">0</span>${total?`<span class="of">из ${total}</span>`:''}</div>
     <div class="k" style="margin-top:6px">${won?'угадали · каждому медаль':'не угадал никто — рынок победил всех'}</div>`;
 }
