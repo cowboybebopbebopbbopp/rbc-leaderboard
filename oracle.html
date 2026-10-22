@@ -156,6 +156,14 @@
   #reccard .up .t{font-family:var(--f-mono); font-size:13px; color:var(--amber); white-space:nowrap}
   #reccard .ctabtn{margin-top:26px; padding:14px 24px; border-radius:14px; background:var(--amber); color:var(--ink);
     font-family:var(--f-disp); font-weight:900; font-size:18px; animation:pop .5s .25s both}
+  /* карточка «Топ-10 рейтинга»: плотнее, спрайты мельче, строки быстрее */
+  #reccard .top{gap:7px; margin-top:14px}
+  #reccard .top .up{padding:5px 10px; gap:10px; animation-delay:calc(.3s + var(--i)*.3s)}
+  #reccard .top .up img{width:40px; height:40px}
+  #reccard .top .n{font-size:15px}
+  #reccard .pos{font-family:var(--f-mono); font-size:14px; color:var(--amber); width:22px; text-align:right; flex:none}
+  #reccard .sc{font-family:var(--f-mono); font-size:12px; color:var(--mut); white-space:nowrap}
+  #reccard .won{font-style:normal; font-family:var(--f-mono); font-size:12px; color:var(--green); margin-left:6px}
   #rstage{position:relative}
   #rstage.shake{animation:shake .18s linear}
   @keyframes shake{0%,100%{transform:none}25%{transform:translate(3px,-2px)}50%{transform:translate(-3px,2px)}75%{transform:translate(2px,1px)}}
@@ -1292,11 +1300,19 @@ function recUps(ups){
       return `<div class="up" style="--i:${i}">${beastImg(lv,48)}<span class="n">${esc(u.name)}</span><span class="t">→ ${esc(lv.name)}</span></div>`; }).join('')}</div>
     ${ups.length>show.length?`<div class="dim">и ещё ${ups.length-show.length}</div>`:''}`;
 }
+function recTop(top,c){
+  const won=new Set(c.winner_pids||[]);          // угадавшие в этом конкурсе — зелёный «+1»
+  return `<div class="k">рейтинг точности</div><div class="big">ТОП-10</div>
+    <div class="ups top">${top.map((b,i)=>{ const lv=levelOf(b);
+      return `<div class="up" style="--i:${i}"><span class="pos">${i+1}</span>${beastImg(lv,40)}
+        <span class="n">${esc(b.name)}${won.has(b.pid)?'<i class="won">+1</i>':''}</span>
+        <span class="sc">${b.wins}/${b.games} · ${Math.round(b.win_pct)}%${b.rated===false?' · вне зачёта':''}</span></div>`; }).join('')}</div>`;
+}
 function recCta(){
   return `<div class="k">каждую неделю</div><div class="big">ГОЛОСУЙ<br>В НОВОМ КОНКУРСЕ</div>
     <div class="sub">#ктоточнее в чате форума РБК Крипто</div>
-    <div class="ctabtn">@RBC_oracle_bot</div>
-    <div class="dim">звания · серии · медали · реплеи</div>`;
+    <div class="ctabtn">t.me/RBCCrypto_forum</div>
+    <div class="dim">новый опрос каждую неделю · итог по цене Binance</div>`;
 }
 async function runRecording(id){
   const c=contests().find(x=>x.status==='resolved'&&chartIdOf(x)===id); const ch=S.charts[id];
@@ -1306,6 +1322,8 @@ async function runRecording(id){
   await new Promise(res=>{ window.__recResolve=res; openReplay(id); });   // finishReplay отдаст ход через 2.2 с после финиша
   await recSleep(300);
   if(ups.length) await recCard(recUps(ups),Math.min(7000,2200+450*Math.min(ups.length,8)));
+  const top=(S.preds.board||[]).slice(0,10);         // рейтинг уже пересчитан: JSON перегенерирован до записи
+  if(top.length) await recCard(recTop(top,c),Math.min(6500,2000+380*top.length));
   await recCard(recCta(),3200,true);                 // ролик заканчивается на призыве, без возврата к финишу
   window.__replayDone=performance.now(); document.title='replay-done';
 }
