@@ -143,14 +143,19 @@
   /* карточки сценария записи (shorts-монтаж): хук → реплей → финиш-цифры → звания → топ-10 → призыв.
      Карточка въезжает снизу (slide-cut), заголовки «вбиваются» (slam), строки влетают справа,
      сверху — сегментный прогресс-бар как в сторис, на склейках — вспышка */
-  #reccard{position:fixed; inset:0; z-index:120; background:var(--ink); display:none; flex-direction:column;
+  /* #reccard — прозрачный контейнер, каждая карточка — свой лист .pg с фоном. Смена карточек — «пуш»:
+     старый лист уезжает вверх, новый в тот же момент въезжает снизу, шов между ними не расходится
+     (раньше на стыке на кадр-другой проглядывала застывшая лестница гонки) */
+  #reccard{position:fixed; inset:0; z-index:120; display:none; overflow:hidden}
+  #reccard .pg{position:absolute; inset:0; background:var(--ink); display:flex; flex-direction:column;
     align-items:center; justify-content:center; text-align:center; padding:0 28px;
-    transform:translateY(100%); transition:transform .24s cubic-bezier(.2,.8,.2,1)}
-  #reccard.on{transform:none}
-  #reccard.cut{transition:none}
-  #reccard::before{content:''; position:absolute; left:50%; top:46%; width:440px; height:440px; transform:translate(-50%,-50%);
+    transform:translateY(100%); transition:transform .3s cubic-bezier(.2,.8,.2,1)}
+  #reccard .pg.on{transform:none}
+  #reccard .pg.out{transform:translateY(-100%)}
+  #reccard .pg.cut{transition:none}
+  #reccard .pg::before{content:''; position:absolute; left:50%; top:46%; width:440px; height:440px; transform:translate(-50%,-50%);
     border-radius:50%; background:radial-gradient(closest-side, rgba(255,176,32,.16), transparent 72%); pointer-events:none}
-  #reccard>*{position:relative}
+  #reccard .pg>*{position:relative}
   @keyframes recSlam{0%{opacity:0; transform:scale(2.4)} 55%{opacity:1; transform:scale(.95)} 100%{transform:scale(1)}}
   @keyframes recRise{from{opacity:0; transform:translateY(34px)} to{opacity:1; transform:none}}
   @keyframes recSlide{from{opacity:0; transform:translateX(52px)} to{opacity:1; transform:none}}
@@ -158,11 +163,11 @@
   @keyframes recPunch{0%{transform:scale(1)} 30%{transform:scale(1.08)} 100%{transform:scale(1)}}
   @keyframes recFlash{from{opacity:.65} to{opacity:0}}
   @keyframes recBounce{0%,100%{transform:translateY(0)} 50%{transform:translateY(9px)}}
-  #reccard .k{font-family:var(--f-mono); font-size:13px; color:var(--mut); letter-spacing:.08em; text-transform:uppercase; animation:recRise .35s both}
+  #reccard .k{font-family:var(--f-mono); font-size:15px; color:var(--mut); letter-spacing:.08em; text-transform:uppercase; animation:recRise .35s both}
   #reccard .big{font-family:var(--f-disp); font-weight:900; font-size:40px; line-height:1.04; color:var(--amber); margin:14px 0 10px;
     animation:recSlam .42s cubic-bezier(.2,.9,.3,1.15) both}
   #reccard .sub{font-family:var(--f-disp); font-weight:700; font-size:18px; color:var(--fg); margin-top:6px; animation:recRise .4s .16s both}
-  #reccard .dim{font-family:var(--f-mono); font-size:13px; color:var(--mut); margin-top:18px; animation:recRise .4s .3s both}
+  #reccard .dim{font-family:var(--f-mono); font-size:15px; color:var(--mut); margin-top:18px; animation:recRise .4s .3s both}
   #reccard .huge{font-family:var(--f-disp); font-weight:900; font-size:54px; line-height:1; color:var(--green); margin:10px 0 2px; animation:recSlam .45s both}
   #reccard .num{font-family:var(--f-disp); font-weight:900; font-size:72px; line-height:1; color:var(--amber); margin-top:26px; animation:recSlam .45s .1s both}
   #reccard .arrow{margin-top:22px; color:var(--amber); font-size:30px; animation:recBounce .8s .5s infinite}
@@ -171,7 +176,7 @@
     background:var(--ink2); text-align:left; animation:recSlide .3s cubic-bezier(.2,.8,.2,1) both; animation-delay:calc(.15s + var(--i)*.2s)}
   #reccard .up img{width:48px; height:48px; image-rendering:pixelated; flex:none}
   #reccard .up .n{font-family:var(--f-disp); font-weight:700; font-size:16px; color:var(--fg); flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
-  #reccard .up .t{font-family:var(--f-mono); font-size:13px; color:var(--amber); white-space:nowrap}
+  #reccard .up .t{font-family:var(--f-mono); font-size:15px; color:var(--amber); white-space:nowrap}
   #reccard .ctabtn{margin-top:24px; padding:14px 26px; border-radius:14px; background:var(--amber); color:var(--ink);
     font-family:var(--f-disp); font-weight:900; font-size:18px; animation:recSlam .45s .2s both, recPulse 1.1s 1s infinite}
   #recbar{position:fixed; top:10px; left:14px; right:14px; z-index:130; display:none; gap:5px}
@@ -200,9 +205,46 @@
   #reccard .top .n{font-size:15px}
   #reccard .top .up.first{border-color:var(--amber); box-shadow:0 0 0 1px rgba(255,176,32,.35), 0 0 26px rgba(255,176,32,.18)}
   #reccard .top .up.first .n svg{width:14px; height:14px; color:var(--amber); vertical-align:-2px; margin-right:6px}
-  #reccard .pos{font-family:var(--f-mono); font-size:14px; color:var(--amber); width:22px; text-align:right; flex:none}
-  #reccard .sc{font-family:var(--f-mono); font-size:12px; color:var(--mut); white-space:nowrap}
-  #reccard .won{font-style:normal; font-family:var(--f-mono); font-size:12px; color:var(--green); margin-left:6px}
+  #reccard .pos{font-family:var(--f-mono); font-size:15px; color:var(--amber); width:22px; text-align:right; flex:none}
+  #reccard .sc{font-family:var(--f-mono); font-size:13px; color:var(--mut); white-space:nowrap}
+  #reccard .won{font-style:normal; font-family:var(--f-mono); font-size:13px; color:var(--green); margin-left:6px}
+  /* хук: вопрос-зацепка под «ИТОГ» */
+  #reccard .q{font-family:var(--f-disp); font-weight:900; font-size:30px; line-height:1.15; color:var(--fg); margin-top:26px;
+    animation:recRise .4s .22s both}
+  /* «Новые звания», когда их мало (≤4): строки крупнее, кадр не пустеет */
+  #reccard .ups.few{gap:12px}
+  #reccard .ups.few .up{padding:12px 16px; gap:16px}
+  #reccard .ups.few .up img{width:64px; height:64px}
+  #reccard .ups.few .up .n{font-size:20px}
+  #reccard .ups.few .up .t{font-size:16px}
+  /* карточка финиша: «18 из 70» сеткой — квадрат на голос, угадавшие загораются зелёным по очереди */
+  #reccard .dots{display:grid; gap:var(--g); margin-top:26px}
+  #reccard .dots i{position:relative; width:var(--c); height:var(--c); border-radius:3px; background:#1A1E27; animation:recDot .25s both}
+  #reccard .dots i b{position:absolute; inset:0; border-radius:3px; background:var(--green); box-shadow:0 0 10px rgba(44,224,139,.5);
+    animation:recDotW .32s both}
+  @keyframes recDot{from{opacity:0; transform:scale(.4)} to{opacity:1; transform:none}}
+  @keyframes recDotW{0%{opacity:0; transform:scale(.3)} 60%{opacity:1; transform:scale(1.35)} 100%{opacity:1; transform:none}}
+  #reccard .score{display:flex; align-items:baseline; justify-content:center; gap:14px; margin-top:22px}
+  #reccard .score .num{margin-top:0}
+  #reccard .score .of{font-family:var(--f-disp); font-weight:900; font-size:30px; color:var(--mut)}
+  /* табло гонки (запись): время, цена крупно, зона и голоса за неё. Висит поверх и 3D-пролёта, и лестницы —
+     один якорь для глаза через смену сцены; на финише зеленеет. Заполняет пустой низ вертикального кадра */
+  #rechud{position:fixed; left:0; right:0; bottom:0; z-index:117; display:none; flex-direction:column; align-items:center;
+    justify-content:flex-end; height:270px; padding-bottom:64px; text-align:center; pointer-events:none;
+    background:linear-gradient(to bottom, rgba(7,8,11,0), rgba(7,8,11,.92) 38%)}
+  body.rec #rechud.on{display:flex}
+  #rechud .t{font-family:var(--f-mono); font-weight:500; font-size:15px; color:var(--mut); letter-spacing:.06em; text-transform:uppercase}
+  #rechud .p{font-family:var(--f-disp); font-weight:900; font-size:56px; line-height:1.05; color:var(--amber); margin-top:6px;
+    font-variant-numeric:tabular-nums}
+  #rechud .z{font-family:var(--f-disp); font-weight:700; font-size:19px; color:var(--fg); margin-top:8px}
+  #rechud .z b{color:var(--amber)}
+  #rechud .z.tick{animation:recTick .3s ease-out}
+  @keyframes recTick{0%{transform:scale(1.14)} 100%{transform:none}}
+  #rechud.fin .t, #rechud.fin .z b{color:var(--green)}
+  #rechud.fin .p{color:var(--green); animation:recPunch .5s cubic-bezier(.2,.8,.2,1) both}
+  /* в записи время показывает табло, а итог — карточки сценария: часы и лист финиша приложения не нужны */
+  body.rec #rclock{visibility:hidden}
+  body.rec #resheet{display:none}
   #rstage{position:relative}
   #rstage.shake{animation:shake .18s linear}
   @keyframes shake{0%,100%{transform:none}25%{transform:translate(3px,-2px)}50%{transform:translate(-3px,2px)}75%{transform:translate(2px,1px)}}
@@ -530,6 +572,7 @@
 <div id="recflash"></div>
 <div id="reccover"></div>
 <canvas id="rec3d"></canvas>
+<div id="rechud"></div>
 <div id="unlock"></div>
 <div id="levelup"></div>
 <div id="sheet" onclick="if(event.target===this)closeSheet()"><div class="panel"><div class="grip"></div><div id="sheetbody"></div></div></div>
@@ -1018,7 +1061,8 @@ function drawLadder(cv,ch,opt={}){
   cv.style.height=H+'px';
   if(cv.width!==Math.round(W*dpr)||cv.height!==Math.round(H*dpr)){cv.width=Math.round(W*dpr); cv.height=Math.round(H*dpr);}
   const x=cv.getContext('2d'); x.setTransform(dpr,0,0,dpr,0,0); x.clearRect(0,0,W,H);
-  const L=4,Rt=W-4,T=6,Bm=H-18, rr=ch.ranges, ser=ch.series||[];
+  const fs=document.body.classList.contains('rec')?1.35:1;      // запись ролика: мелочь крупнее
+  const L=4,Rt=W-4,T=6,Bm=H-18*fs, rr=ch.ranges, ser=ch.series||[];
   let lo=Infinity,hi=-Infinity;
   for(const[,p]of ser){lo=Math.min(lo,p);hi=Math.max(hi,p);}
   for(const[a,b]of rr){ if(a!=null){lo=Math.min(lo,a);hi=Math.max(hi,a);} if(b!=null){lo=Math.min(lo,b);hi=Math.max(hi,b);} }
@@ -1041,7 +1085,7 @@ function drawLadder(cv,ch,opt={}){
       x.fillStyle='#FFB020'; x.fillRect(L,y1,2,y2-y1); }
   }
   /* дни недели */
-  x.font='500 10px "IBM Plex Mono",monospace'; x.textAlign='center'; x.textBaseline='alphabetic';
+  x.font=`500 ${10*fs}px "IBM Plex Mono",monospace`; x.textAlign='center'; x.textBaseline='alphabetic';
   for(let t=Math.ceil(t0/864e5)*864e5;t<t1;t+=864e5){
     const xx=px(t); if(xx<L+16||xx>Rt-16) continue;
     x.fillStyle='rgba(86,93,110,.9)';
@@ -1054,16 +1098,16 @@ function drawLadder(cv,ch,opt={}){
     x.strokeStyle='rgba(244,241,232,.07)'; x.lineWidth=1;
     x.beginPath(); x.moveTo(L,y2+.5); x.lineTo(Rt,y2+.5); x.stroke();
     const lab=zoneShort(rr,i,ch.symbol);
-    x.font='600 11px "IBM Plex Mono",monospace'; x.textBaseline='middle';
+    x.font=`600 ${11*fs}px "IBM Plex Mono",monospace`; x.textBaseline='middle';
     x.fillStyle= i===opt.winnerZone?'#2CE08B': (i===curZone&&opt.live)?'#FFB020': i===opt.myZone?'rgba(255,176,32,.85)':'rgba(139,147,167,.55)';
     x.fillText(lab,L+7,ym);
-    if(i===opt.myZone){ x.font='600 9.5px "IBM Plex Mono",monospace';
-      x.fillText('ТЫ',L+7+x.measureText(lab).width+18,ym); x.font='600 11px "IBM Plex Mono",monospace'; }
+    if(i===opt.myZone){ x.font=`600 ${9.5*fs}px "IBM Plex Mono",monospace`;
+      x.fillText('ТЫ',L+7+x.measureText(lab).width+18,ym); x.font=`600 ${11*fs}px "IBM Plex Mono",monospace`; }
     if(opt.votes&&opt.votes[i]>0){
       const w=8+40*(opt.votes[i]/maxV), bx=Rt-8-w;
       x.fillStyle= i===opt.winnerZone?'rgba(44,224,139,.7)':'rgba(139,147,167,.35)';
       x.fillRect(bx,ym-1.5,w,3);
-      x.fillStyle='rgba(139,147,167,.8)'; x.font='500 10.5px "IBM Plex Mono",monospace';
+      x.fillStyle='rgba(139,147,167,.8)'; x.font=`500 ${10.5*fs}px "IBM Plex Mono",monospace`;
       x.textAlign='right'; x.fillText(opt.votes[i],bx-5,ym); x.textAlign='left';
     }
   }
@@ -1071,7 +1115,7 @@ function drawLadder(cv,ch,opt={}){
   if(opt.deadline){ const dx=px(+new Date(opt.deadline));
     if(dx>L&&dx<Rt){ x.fillStyle='rgba(255,82,82,.8)'; x.fillRect(dx-1,Bm-6,2,6); } }
   /* линия цены */
-  if(n>1){ x.strokeStyle='rgba(255,176,32,.9)'; x.lineWidth=1.6; x.lineJoin='round';
+  if(n>1){ x.strokeStyle='rgba(255,176,32,.9)'; x.lineWidth=1.6*fs; x.lineJoin='round';
     x.save(); x.shadowColor='rgba(255,176,32,.35)'; x.shadowBlur=6; x.beginPath();
     for(let i=0;i<n;i++){const[t,p]=ser[i]; const X=px(t),Y=py(p); i?x.lineTo(X,Y):x.moveTo(X,Y);}
     x.stroke(); x.restore(); }
@@ -1079,7 +1123,7 @@ function drawLadder(cv,ch,opt={}){
   if(cur){ const X=px(cur[0]),Y=py(cur[1]);
     const pulse=opt.live?(0.7+0.3*Math.sin(Date.now()/420)):1;
     x.save(); x.shadowColor='rgba(255,176,32,.9)'; x.shadowBlur=12*pulse;
-    x.fillStyle='#FFB020'; x.fillRect(X-3,Y-3,6,6); x.restore();
+    const cs=3*fs; x.fillStyle='#FFB020'; x.fillRect(X-cs,Y-cs,2*cs,2*cs); x.restore();
     x.fillStyle='#F2EFE6'; x.fillRect(X-1,Y-1,2,2);
   }
   /* точка финиша */
@@ -1258,6 +1302,7 @@ function finList(){
 
 /* ============================== РЕПЛЕЙ ============================== */
 let RP={raf:0,skip:false};
+const repH=()=>document.body.classList.contains('rec')?Math.min(innerHeight*.63,620):Math.min(innerHeight*.56,520);
 function timeRemap(u){ // фазы: разгон → полёт → слоу-мо у финиша
   if(u<.1){ const k=u/.1; return .06*k*k; }
   if(u<.75){ return .06+.82*((u-.1)/.65); }
@@ -1276,7 +1321,7 @@ function openReplay(id){
     let u=Math.min(1,(t-t0)/DUR); if(RP.skip) u=1;
     const p=timeRemap(u);
     const info=drawLadder(cv,ch,{progress:p,votes:c.votes,myZone:(myVote(c)||{}).zone,
-      deadline:c.deadline,h:Math.min(innerHeight*.56,520)});
+      deadline:c.deadline,h:repH(),live:document.body.classList.contains('rec')});
     if(window.__recCam) window.__recCam(info,u);     // запись ролика: «камера» бежит за точкой (recCamera)
     if(info.cur){ $('#rclock').textContent=fmtDT(info.cur[0]);
       if(info.curZone!==lastZone&&lastZone!==-1) sTick(); lastZone=info.curZone; }
@@ -1287,7 +1332,7 @@ function openReplay(id){
 }
 function finishReplay(instant){
   const {c,ch,id}=RP;
-  const H=Math.min(innerHeight*.56,520);
+  const H=repH();
   const mv=myVote(c);
   const info=drawLadder($('#rcanvas'),ch,{progress:1,votes:c.votes,myZone:mv?mv.zone:null,
     deadline:c.deadline,winnerZone:c.winner_option,winnerPrice:c.winner_price,h:H});
@@ -1316,7 +1361,7 @@ function finishReplay(instant){
   /* запись ролика: punch-зум сцены и вспышка на финише, через 1.3 с — ход сценарию runRecording */
   if(document.body.classList.contains('rec')){
     const w=$('#rstage .ladderwrap'); if(w){ w.classList.remove('punch'); void w.offsetWidth; w.classList.add('punch'); }
-    recFlash();
+    recFlash(); if(window.__recFin) window.__recFin();        // табло: «финиш», цена и зона зеленеют
     setTimeout(()=>{ const r=window.__recResolve; window.__recResolve=null;
       if(r) r(); else { window.__replayDone=performance.now(); document.title='replay-done'; } },1000);
   }
@@ -1329,11 +1374,17 @@ function readReplayParam(){ const m=(location.hash||'').match(/replay=(\d+)/); r
 function readUpsParam(){ try{ const m=(location.hash||'').match(/ups=([^&]+)/); const v=m?JSON.parse(decodeURIComponent(m[1])):[];
   return Array.isArray(v)?v.filter(u=>u&&u.name):[]; }catch(e){ return []; } }
 const recSleep=ms=>new Promise(r=>setTimeout(r,ms));
-/* показать карточку: содержимое новое, въезд снизу (slide=false — мгновенно); скрыть — жёсткий cut */
-function recShow(html,{slide=true,jolt=false}={}){ const el=$('#reccard'); el.classList.add('cut'); el.classList.remove('on','jolt');
-  el.innerHTML=html; el.style.display='flex'; void el.offsetWidth; if(slide) el.classList.remove('cut'); el.classList.add('on');
-  if(jolt) el.classList.add('jolt'); }
-function recHide(){ const el=$('#reccard'); el.classList.add('cut'); el.classList.remove('on'); el.style.display='none'; }
+/* показать карточку новым листом: въезд снизу, прежний лист одновременно уезжает вверх («пуш»);
+   slide=false — мгновенно. Скрыть — жёсткий cut */
+function recShow(html,{slide=true,jolt=false}={}){ const box=$('#reccard'); box.classList.remove('jolt'); box.style.display='block';
+  const old=[...box.querySelectorAll('.pg')];
+  const pg=document.createElement('div'); pg.className=slide?'pg':'pg cut on'; pg.innerHTML=html; box.appendChild(pg);
+  if(slide){ void pg.offsetWidth; pg.classList.add('on'); old.forEach(o=>{ o.classList.remove('cut'); o.classList.add('out'); });
+    setTimeout(()=>old.forEach(o=>o.remove()),420); }
+  else old.forEach(o=>o.remove());
+  if(jolt){ void box.offsetWidth; box.classList.add('jolt'); } }
+function recHide(){ const box=$('#reccard'); box.innerHTML=''; box.classList.remove('jolt'); box.style.display='none'; }
+const plRu=(n,[one,few,many])=>{ const a=Math.abs(n)%100, b=a%10; return a>10&&a<20?many:b===1?one:b>=2&&b<=4?few:many; };
 function recFlash(){ const f=$('#recflash'); if(!f) return; f.classList.remove('go'); void f.offsetWidth; f.classList.add('go'); }
 /* сплошная жёлтая заливка: on — мгновенно; off — схлопывается кругом в точку цены
    (она в кадре тоннеля стоит в 50%/42%), будто жёлтое и было этой точкой */
@@ -1369,6 +1420,7 @@ function recFlight(ch){
   const HOUR=3600e3, LEAD=8, FAR=60, NEAR=0.5, HW=13, TH=40, CAMX=-1.6, CAMY=3.4, NEARC=0.3;   // HW узкий — обе стенки в кадре
   const f=W*0.9, cx=W/2, cy=H*0.42;
   const Y=p=>(p-lo)/span*TH-TH/2;
+  const wdF=new Intl.DateTimeFormat('ru-RU',{...MSK,weekday:'short'}), dayName=t=>wdF.format(new Date(t)).toUpperCase();
   let ysm=null, cam=null, camX=CAMX, camY=CAMY, lead=LEAD, swayK=1;
   function setCamera(pcur){
     const sway=0.55*Math.sin(performance.now()/650)*swayK;               // лёгкое покачивание — живая камера, не рельса
@@ -1400,14 +1452,36 @@ function recFlight(ch){
     const zcam=tcur-lead*HOUR, Z=t=>(t-zcam)/HOUR;
     x.globalAlpha=1; x.shadowBlur=0; x.fillStyle='#07080B'; x.fillRect(0,0,W,H);
     x.lineCap='round'; x.lineJoin='round';
-    for(const m of minor) for(const sx of [-HW,HW]) line([sx,Y(m),NEAR],[sx,Y(m),FAR],1,0.2,'#8A8F9C');
-    for(const b of bounds) for(const sx of [-HW,HW]) line([sx,Y(b),NEAR],[sx,Y(b),FAR],1.8,0.65,'#8A8F9C');
-    const t6=Math.ceil(zcam/(6*HOUR))*6*HOUR;                           // перекладины времени
-    for(let t=t6; Z(t)<FAR; t+=6*HOUR){ const z=Z(t); if(z<NEAR) continue; const a=0.45*(1-z/FAR);
-      for(const b of bounds) line([-HW,Y(b),z],[HW,Y(b),z],1.2,a,'#8A8F9C'); }
-    x.font='600 12px IBM Plex Mono, monospace'; x.textAlign='left'; x.fillStyle='#8A8F9C';   // подписи зон на левой стенке
+    /* туман глубины: рельс бьётся на отрезки, яркость гаснет к дальнему концу — тоннель читается
+       глубиной, а не клубком линий у точки схода */
+    const fog=z=>Math.pow(Math.max(0,1-z/FAR),1.6);
+    function rail(a,b,w,alpha,color,seg=6){ if(alpha<0.01) return;
+      for(let s=0;s<seg;s++){ const k0=s/seg, k1=(s+1)/seg;
+        const P=a.map((v,j)=>v+(b[j]-v)*k0), Q=a.map((v,j)=>v+(b[j]-v)*k1), g=fog((P[2]+Q[2])/2);
+        if(g>0.02) line(P,Q,w,alpha*g,color); } }
+    /* на облёте ближняя к камере правая стенка и ворота гаснут; остаётся дальняя стенка —
+       её рельсы ложатся горизонталями за графиком, ровно как линии зон на лестнице */
+    const wallA=sx=>sx>0?1-e:1, gateA=1-e;
+    const zc=zoneOf(rr,pcur), zb=zc>=0?rr[zc]:null;                    // зона, где сейчас цена: её рельсы янтарные
+    const zLo=zb?(zb[0]==null?lo:zb[0]):null, zHi=zb?(zb[1]==null?hi:zb[1]):null;
+    for(const m of minor) for(const sx of [-HW,HW]) rail([sx,Y(m),NEAR],[sx,Y(m),FAR],1,0.16*wallA(sx),'#8A8F9C');
+    for(const b of bounds){ const hot=b===zLo||b===zHi;
+      for(const sx of [-HW,HW]) rail([sx,Y(b),NEAR],[sx,Y(b),FAR],hot?2.4:1.8,(hot?0.9:0.6)*wallA(sx),hot?'#FFB020':'#8A8F9C'); }
+    const t6=Math.ceil(zcam/(6*HOUR))*6*HOUR;                           // перекладины времени каждые 6 ч
+    for(let t=t6; Z(t)<FAR; t+=6*HOUR){ const z=Z(t); if(z<NEAR) continue; const a=0.32*fog(z)*gateA;
+      if(a>0.01) for(const b of bounds) line([-HW,Y(b),z],[HW,Y(b),z],1.1,a,'#8A8F9C'); }
+    /* ворота суток (полночь МСК): рамка во всю высоту и день недели над ней — пролетаем дни */
+    const DAY=24*HOUR, OFF=3*HOUR;
+    for(let t=Math.ceil((zcam+OFF)/DAY)*DAY-OFF; Z(t)<FAR; t+=DAY){ const z=Z(t); if(z<NEAR) continue;
+      const a=0.75*fog(z)*gateA; if(a<0.02) continue;
+      for(const sx of [-HW,HW]) line([sx,Y(lo),z],[sx,Y(hi),z],2,a,'#8A8F9C');
+      line([-HW,Y(hi),z],[HW,Y(hi),z],2,a,'#8A8F9C'); line([-HW,Y(lo),z],[HW,Y(lo),z],2,a,'#8A8F9C');
+      const Lb=proj(0,Y(hi)+1.2,z); if(Lb){ const fz=Math.max(11,Math.min(40,f*1.3/Lb[2]));
+        x.globalAlpha=Math.min(1,a*1.3); x.fillStyle='#C9CEDA'; x.font=`900 ${fz.toFixed(1)}px Unbounded, sans-serif`; x.textAlign='center';
+        x.fillText(dayName(t),Lb[0],Lb[1]); } }
+    x.font='600 15px IBM Plex Mono, monospace'; x.textAlign='right';      // подписи зон на стенке; на облёте их сменяют подписи лестницы
     rr.forEach((r,i)=>{ const yz=r[0]==null?lo-span*.06:(r[1]==null?hi+span*.06:(r[0]+r[1])/2); const P=proj(HW-5,Y(yz),LEAD*1.6);
-      if(P&&P[1]>20&&P[1]<H-20){ x.globalAlpha=0.75; x.textAlign='right'; x.fillText(zoneShort(rr,i),P[0],P[1]+4); } });
+      if(P&&P[1]>20&&P[1]<H-20){ x.globalAlpha=0.85*(1-e); x.fillStyle=i===zc?'#FFB020':'#8A8F9C'; x.fillText(zoneShort(rr,i),P[0],P[1]+5); } });
     const pts=[]; for(const [t,p] of ser){ if(t>tcur) break; const z=Z(t); if(z>-2) pts.push([0,Y(p),z]); }
     pts.push([0,Y(pcur),lead]);
     x.shadowColor='#FFB020';
@@ -1419,9 +1493,7 @@ function recFlight(ch){
     x.shadowBlur=0;
     const vg=x.createRadialGradient(cx,cy,H*0.18,cx,cy,H*0.75);          // виньетка — глубина и фокус на точке
     vg.addColorStop(0,'rgba(7,8,11,0)'); vg.addColorStop(1,'rgba(7,8,11,.78)');
-    x.globalAlpha=1; x.fillStyle=vg; x.fillRect(0,0,W,H);
-    x.globalAlpha=0.8; x.fillStyle='#8A8F9C'; x.font='13px IBM Plex Mono, monospace'; x.textAlign='center';
-    x.fillText(fmtDT(tcur),cx,34); x.globalAlpha=1;
+    x.globalAlpha=1; x.fillStyle=vg; x.fillRect(0,0,W,H);              // время — на табло (recHud), не на холсте
   }
   function fade(){ cv.style.transition='opacity .35s ease-out'; cv.style.opacity='0'; setTimeout(()=>{ cv.style.display='none'; },420); }
   return {draw,fade};
@@ -1444,6 +1516,26 @@ function recCamera(S0=1.7,FROM=0.5,TO=0.68){
   function reset(){ off=true; if(wrap){ wrap.style.transform=''; wrap.style.transformOrigin=''; } }
   return {update,reset};
 }
+/* табло гонки (#rechud): время, цена и зона с числом голосов за неё — меняется на ходу, при смене зоны
+   строка «тикает»; на финише всё зеленеет: «финиш», точная цена итога, «угадали N» */
+function recHud(c,ch){
+  const el=$('#rechud'); if(!el) return {update(){},finish(){},hide(){}};
+  el.innerHTML='<div class="t"></div><div class="p"></div><div class="z"></div>'; el.className='on';
+  const T=el.querySelector('.t'), P=el.querySelector('.p'), Z=el.querySelector('.z'), rr=ch.ranges||[], votes=c.votes||[];
+  let lastT=null, lastP=null, lastZ=null;
+  const zl=(z,tail)=>`зона <b>${esc(zoneShort(rr,z))}</b> · ${tail}`;
+  return {
+    update(info){ if(!info||!info.cur) return; const [t,p]=info.cur;
+      if(t!==lastT){ lastT=t; lastP=p; T.textContent=fmtDT(t); P.textContent=fmtP(p); }
+      const z=info.curZone; if(z>=0&&z!==lastZ){ const first=lastZ==null; lastZ=z; const n=votes[z]||0;
+        Z.innerHTML=zl(z,`${n} ${plRu(n,['голос','голоса','голосов'])}`);
+        if(!first){ Z.classList.remove('tick'); void Z.offsetWidth; Z.classList.add('tick'); } } },
+    finish(){ el.classList.add('fin'); T.textContent='финиш · '+fmtDT(c.target_time);
+      if(c.winner_price!=null) countTo(P,c.winner_price,{fmt:v=>fmtP(v),from:lastP!=null?lastP:c.winner_price,dur:500});
+      if(c.winner_option!=null&&c.winner_option>=0) Z.innerHTML=zl(c.winner_option,`угадали ${(c.winners||[]).length}`); },
+    hide(){ el.className=''; el.innerHTML=''; }
+  };
+}
 /* сегментный прогресс-бар: i — активный сегмент, ms — сколько он длится */
 function recBar(i,ms){ $$('#recbar i').forEach((el,k)=>{ el.classList.toggle('done',k<i); el.classList.toggle('active',k===i);
   if(k===i) el.style.setProperty('--d',ms+'ms'); }); }
@@ -1451,24 +1543,33 @@ function recDate(c){ const d=new Date(c.target_time);
   return new Intl.DateTimeFormat('ru-RU',{...MSK,weekday:'short',day:'numeric',month:'long'}).format(d)+', '
     +new Intl.DateTimeFormat('ru-RU',{...MSK,hour:'2-digit',minute:'2-digit'}).format(d)+' МСК'; }
 function recHook(c,ch){
-  return `<div class="big" style="font-size:66px">ИТОГ</div>
+  const total=c.total||0;
+  return `<div class="big" style="font-size:100px">ИТОГ</div>
     <div class="sub" style="font-size:22px">#ктоточнее · ${esc(symName(ch&&ch.symbol))}</div>
-    <div class="dim">${esc(recDate(c))} · лига форума «РБК Крипто»</div>
+    ${total?`<div class="q">${total} ${plRu(total,['прогноз','прогноза','прогнозов'])}.<br>Кто угадал?</div>`:''}
+    <div class="dim">${esc(recDate(c))}</div>
     <div class="arrow">↓</div>`;
 }
+const recDotStep=won=>Math.min(45,900/Math.max(1,won));      // мс между загоранием квадратов угадавших
 function recResult(c,ch){
-  const total=c.total||0;
+  const won=(c.winners||[]).length, total=Math.max(c.total||0,won);
+  /* сетка: квадрат на голос в поле ~320×210, угадавшие идут первыми и загораются по очереди */
+  const n=Math.max(1,total), cols=Math.max(5,Math.ceil(Math.sqrt(n*320/210))), rows=Math.ceil(n/cols);
+  const cell=Math.min(30,Math.floor(Math.min(320/cols,210/rows))), gap=cell>=16?5:2, sz=cell-gap, step=recDotStep(won);
+  const dots=Array.from({length:total},(_,i)=>`<i style="animation-delay:${Math.min(i*5,350)}ms">${
+    i<won?`<b style="animation-delay:${Math.round(350+i*step)}ms"></b>`:''}</i>`).join('');
   return `<div class="k">финиш · ${esc(symName(ch&&ch.symbol))} · ${esc(recDate(c))}</div>
-    <div class="huge" id="recprice">${fmtP(c.winner_price)}</div>
+    <div class="huge">${fmtP(c.winner_price)}</div>
     <div class="sub">зона ${esc(zoneShort(ch.ranges,c.winner_option))}</div>
-    <div class="num" id="recwon">0</div>
-    <div class="k" style="margin-top:6px">угадали из ${total} · каждому медаль</div>`;
+    ${total?`<div class="dots" style="grid-template-columns:repeat(${cols},${sz}px);--c:${sz}px;--g:${gap}px">${dots}</div>`:''}
+    <div class="score"><span class="num" id="recwon">0</span>${total?`<span class="of">из ${total}</span>`:''}</div>
+    <div class="k" style="margin-top:6px">${won?'угадали · каждому медаль':'не угадал никто — рынок победил всех'}</div>`;
 }
 function recUps(ups){
-  const show=ups.slice(0,8);
+  const show=ups.slice(0,8), few=show.length<=4, sz=few?64:48;
   return `<div class="k">после финиша</div><div class="big">НОВЫЕ ЗВАНИЯ</div>
-    <div class="ups">${show.map((u,i)=>{ const n=Math.max(1,Math.min(LEVELS.length,u.n|0)); const lv={...LEVELS[n-1],n};
-      return `<div class="up" style="--i:${i}">${beastImg(lv,48)}<span class="n">${esc(u.name)}</span><span class="t">→ ${esc(lv.name)}</span></div>`; }).join('')}</div>
+    <div class="ups${few?' few':''}">${show.map((u,i)=>{ const n=Math.max(1,Math.min(LEVELS.length,u.n|0)); const lv={...LEVELS[n-1],n};
+      return `<div class="up" style="--i:${i}">${beastImg(lv,sz)}<span class="n">${esc(u.name)}</span><span class="t">→ ${esc(lv.name)}</span></div>`; }).join('')}</div>
     ${ups.length>show.length?`<div class="dim">и ещё ${ups.length-show.length}</div>`:''}`;
 }
 function recTop(top,c){
@@ -1485,7 +1586,8 @@ function recCta(){
     <div class="ctabtn">t.me/RBCCrypto_forum</div>
     <div class="dim">новый опрос каждую неделю · итог по цене Binance</div>`;
 }
-/* Сценарий (~22 с): хук 1.8 → реплей ~6 + финиш 1.3 → цифры финиша 2.2 → звания ≤4.4 → топ-10 ≤3.9 → призыв 2.6 (остаётся) */
+/* Сценарий (~22 с): хук 1.7 → реплей ~6 + финиш 1.0 (табло гонки внизу кадра) → цифры финиша 2.6 → звания ≤4.4 →
+   топ-10 ≤3.9 → призыв 2.6 (остаётся). Карточки сменяются «пушем» (recShow) */
 async function runRecording(id){
   const c=contests().find(x=>x.status==='resolved'&&chartIdOf(x)===id); const ch=S.charts[id];
   const ups=readUpsParam();
@@ -1497,20 +1599,23 @@ async function runRecording(id){
   recBar(1,7400); recHide();
   /* первая половина гонки — 3D-пролёт за точкой; на половине тоннель растворяется,
      а 2D-лестница под ним за 1 с выезжает с лёгкого зума на общий план */
-  const flight=recFlight(ch), cam=recCamera(1.7,0.5,0.68); let fading=false;
-  window.__recCam=(info,u)=>{ if(u<0.6) flight.draw(info,u);
+  const flight=recFlight(ch), cam=recCamera(1.7,0.5,0.68), hud=recHud(c,ch); let fading=false;
+  window.__recCam=(info,u)=>{ hud.update(info); if(u<0.6) flight.draw(info,u);
     if(u>=0.5){ if(!fading){ fading=true; flight.fade(); } cam.update(info,u); } };
+  window.__recFin=()=>hud.finish();
   const race=new Promise(res=>{ window.__recResolve=res; });            // finishReplay: punch + вспышка, ход через 1.3 с
   openReplay(id);
   await recSleep(90);                                                    // первый кадр тоннеля нарисован под заливкой
   recCover(false);                                                       // заливка уходит — мы летим за точкой
   await race;
-  window.__recCam=null; cam.reset();
-  recBar(2,2200); recFlash(); recShow(recResult(c,ch));                 // вспышка на склейке в цифры
-  const pe=$('#recprice'), we=$('#recwon');
-  if(pe&&c.winner_price!=null) countTo(pe,c.winner_price,{fmt:v=>fmtP(v),from:c.winner_price*.96,dur:800});
-  if(we) countTo(we,(c.winners||[]).length,{fmt:v=>String(Math.round(v)),from:0,dur:900});
-  await recSleep(2200);
+  window.__recCam=null; window.__recFin=null; cam.reset();
+  recBar(2,2600); recFlash(); recShow(recResult(c,ch));                 // вспышка на склейке в цифры
+  setTimeout(()=>hud.hide(),400);                                        // табло уходит под въехавшей карточкой
+  const we=$('#recwon'), won=(c.winners||[]).length, dw=Math.max(1,won)*recDotStep(won);
+  if(we&&won) setTimeout(()=>{ const t0=performance.now();               // счёт идёт ровно за загорающимися квадратами
+    (function f(t){ const k=Math.min(1,(t-t0)/dw); we.textContent=String(Math.min(won,Math.floor(k*won)+1));
+      if(k<1) requestAnimationFrame(f); })(t0); },350);
+  await recSleep(2600);
   if(ups.length){ const ms=Math.min(4400,2000+300*Math.min(ups.length,8)); recBar(2,ms); recShow(recUps(ups)); await recSleep(ms); }
   const top=(S.preds.board||[]).slice(0,10);         // рейтинг уже пересчитан: JSON перегенерирован до записи
   if(top.length){ const ms=Math.min(4200,2200+170*top.length); recBar(3,ms); recShow(recTop(top,c)); await recSleep(ms); }
