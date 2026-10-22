@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T05:20:08+00:00",
+  "updated": "2026-10-22T06:20:13+00:00",
   "count": 234,
   "has_movement": true,
   "all": [
@@ -395,15 +395,15 @@
     },
     {
       "rank": 66,
-      "name": "SyslikJan",
-      "value": 43,
-      "move": -1
+      "name": "A.",
+      "value": 44,
+      "move": 0
     },
     {
       "rank": 67,
-      "name": "A.",
+      "name": "SyslikJan",
       "value": 43,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 68,
@@ -1516,18 +1516,18 @@
     },
     {
       "rank": 22,
-      "name": "Viktor",
-      "value": 11
-    },
-    {
-      "rank": 23,
       "name": "Manis Love",
       "value": 11
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 11
+    },
+    {
+      "rank": 24,
+      "name": "Viktor",
+      "value": 10
     },
     {
       "rank": 25,
@@ -1546,13 +1546,13 @@
     },
     {
       "rank": 28,
-      "name": "L G",
+      "name": "A.",
       "value": 8
     },
     {
       "rank": 29,
-      "name": "A.",
-      "value": 7
+      "name": "L G",
+      "value": 8
     },
     {
       "rank": 30,
@@ -1679,7 +1679,7 @@
     {
       "rank": 4,
       "name": "Князь Владимир С",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 5,
@@ -1689,7 +1689,7 @@
     {
       "rank": 6,
       "name": ".",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 7,
@@ -1699,7 +1699,7 @@
     {
       "rank": 8,
       "name": "Руслан Иванов",
-      "value": 13
+      "value": 11
     },
     {
       "rank": 9,
@@ -1833,36 +1833,41 @@
     },
     {
       "rank": 35,
-      "name": "Виталий",
+      "name": "A.",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "E X O",
+      "name": "Виталий",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "Logrus",
+      "name": "E X O",
       "value": 1
     },
     {
       "rank": 38,
-      "name": "iDiklonius",
+      "name": "Logrus",
       "value": 1
     },
     {
       "rank": 39,
-      "name": "Charlie Shefelman",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 40,
-      "name": "Vlad",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 41,
+      "name": "Vlad",
+      "value": 1
+    },
+    {
+      "rank": 42,
       "name": "Роман",
       "value": 1
     }
