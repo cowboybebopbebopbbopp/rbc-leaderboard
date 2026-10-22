@@ -1357,7 +1357,9 @@ function recFlight(ch){
   /* мир: x — поперёк тоннеля, y — цена (высота), z — время в часах от камеры.
      Камера сзади-слева-сверху от точки (CAMX, CAMY) и смотрит на неё (look-at):
      путь цены идёт из нижнего угла кадра вверх к точке, рельсы уходят в перспективу. */
-  const HOUR=3600e3, LEAD=8, FAR=60, NEAR=0.5, HW=22, TH=40, CAMX=-4.5, CAMY=3.2, NEARC=0.3;
+  /* CAMX небольшой: при большом смещении камера «смотрит» вбок и левая стенка уходит за край кадра;
+     CAMY выше точки даёт наклон вниз — путь выходит из низа кадра, рельсы сходятся вверху */
+  const HOUR=3600e3, LEAD=8, FAR=60, NEAR=0.5, HW=22, TH=40, CAMX=-1.6, CAMY=3.4, NEARC=0.3;
   const f=W*0.9, cx=W/2, cy=H*0.42;
   const Y=p=>(p-lo)/span*TH-TH/2;
   let ysm=null, cam=null;
@@ -1391,7 +1393,7 @@ function recFlight(ch){
     for(let t=t6; Z(t)<FAR; t+=6*HOUR){ const z=Z(t); if(z<NEAR) continue; const a=0.3*(1-z/FAR);
       for(const b of bounds) line([-HW,Y(b),z],[HW,Y(b),z],1,a,'#8A8F9C'); }
     x.font='600 12px IBM Plex Mono, monospace'; x.textAlign='left'; x.fillStyle='#8A8F9C';   // подписи зон на левой стенке
-    rr.forEach((r,i)=>{ const yz=r[0]==null?lo-span*.06:(r[1]==null?hi+span*.06:(r[0]+r[1])/2); const P=proj(HW-1.5,Y(yz),LEAD*1.6);
+    rr.forEach((r,i)=>{ const yz=r[0]==null?lo-span*.06:(r[1]==null?hi+span*.06:(r[0]+r[1])/2); const P=proj(HW-5,Y(yz),LEAD*1.6);
       if(P&&P[1]>20&&P[1]<H-20){ x.globalAlpha=0.75; x.textAlign='right'; x.fillText(zoneShort(rr,i),P[0],P[1]+4); } });
     const pts=[]; for(const [t,p] of ser){ if(t>tcur) break; const z=Z(t); if(z>-2) pts.push([0,Y(p),z]); }
     pts.push([0,Y(pcur),LEAD]);
