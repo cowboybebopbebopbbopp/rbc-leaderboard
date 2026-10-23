@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T19:19:58+00:00",
+  "updated": "2026-10-23T20:20:03+00:00",
   "count": 237,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1337,
+      "value": 1338,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 935,
+      "value": 936,
       "move": 0
     },
     {
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 695,
+      "value": 696,
       "move": 0
     },
     {
@@ -1435,7 +1435,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 106
+      "value": 107
     },
     {
       "rank": 3,
@@ -1450,26 +1450,26 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 58
+      "value": 56
     },
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 57
+      "value": 55
     },
     {
       "rank": 7,
       "name": "Князь Владимир С",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 8,
-      "name": "Синдбад Мореход",
-      "value": 42
+      "name": "Zero-sum Gamer",
+      "value": 43
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
+      "name": "Синдбад Мореход",
       "value": 42
     },
     {
@@ -1525,7 +1525,7 @@
     {
       "rank": 20,
       "name": "Серхио Ле'Трас",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 21,
@@ -1544,22 +1544,22 @@
     },
     {
       "rank": 24,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
-      "value": 11
-    },
-    {
-      "rank": 25,
       "name": "@wavesscalper",
       "value": 10
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Max",
       "value": 10
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "iDiklonius",
+      "value": 9
+    },
+    {
+      "rank": 27,
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 9
     },
     {
@@ -1682,7 +1682,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 47
     },
     {
       "rank": 2,
@@ -1697,12 +1697,12 @@
     {
       "rank": 4,
       "name": "Князь Владимир С",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 5,
       "name": "Синдбад Мореход",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 6,
@@ -1732,7 +1732,7 @@
     {
       "rank": 11,
       "name": "Zero-sum Gamer",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 12,
@@ -1881,16 +1881,11 @@
     },
     {
       "rank": 41,
-      "name": "Charlie Shefelman",
-      "value": 1
-    },
-    {
-      "rank": 42,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Роман",
       "value": 1
     }
