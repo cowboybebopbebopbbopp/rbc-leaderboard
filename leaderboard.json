@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T06:18:56+00:00",
+  "updated": "2026-10-23T07:19:00+00:00",
   "count": 237,
   "has_movement": true,
   "all": [
@@ -1484,13 +1484,13 @@
     },
     {
       "rank": 12,
-      "name": "Aся",
+      "name": "LlirikMK",
       "value": 29
     },
     {
       "rank": 13,
-      "name": "LlirikMK",
-      "value": 29
+      "name": "Aся",
+      "value": 26
     },
     {
       "rank": 14,
@@ -1761,23 +1761,23 @@
     },
     {
       "rank": 17,
-      "name": "Pavel",
-      "value": 4
-    },
-    {
-      "rank": 18,
       "name": "Евгений",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Don Michele Corleone",
       "value": 4
+    },
+    {
+      "rank": 20,
+      "name": "Pavel",
+      "value": 3
     },
     {
       "rank": 21,
