@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T08:19:05+00:00",
+  "updated": "2026-10-23T09:19:10+00:00",
   "count": 237,
   "has_movement": true,
   "all": [
@@ -1430,7 +1430,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 218
+      "value": 217
     },
     {
       "rank": 2,
@@ -1509,12 +1509,12 @@
     },
     {
       "rank": 17,
-      "name": "Серхио Ле'Трас",
-      "value": 20
+      "name": "Pavel",
+      "value": 19
     },
     {
       "rank": 18,
-      "name": "Pavel",
+      "name": "Серхио Ле'Трас",
       "value": 19
     },
     {
@@ -1534,13 +1534,13 @@
     },
     {
       "rank": 22,
-      "name": "Manis Love",
+      "name": "Александр",
       "value": 12
     },
     {
       "rank": 23,
-      "name": "Александр",
-      "value": 12
+      "name": "Manis Love",
+      "value": 11
     },
     {
       "rank": 24,
@@ -1732,7 +1732,7 @@
     {
       "rank": 11,
       "name": "Zero-sum Gamer",
-      "value": 9
+      "value": 8
     },
     {
       "rank": 12,
@@ -1746,47 +1746,47 @@
     },
     {
       "rank": 14,
-      "name": "Max",
-      "value": 5
-    },
-    {
-      "rank": 15,
       "name": "Marina",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Евгений",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Don Michele Corleone",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Pavel",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Vitaliy",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Александр",
+      "value": 3
+    },
+    {
+      "rank": 22,
+      "name": "Max",
       "value": 3
     },
     {
