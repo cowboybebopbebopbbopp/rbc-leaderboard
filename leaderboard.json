@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T11:19:20+00:00",
+  "updated": "2026-10-23T12:19:24+00:00",
   "count": 237,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4546,
+      "value": 4547,
       "move": 0
     },
     {
@@ -114,7 +114,7 @@
     {
       "rank": 19,
       "name": "@wavesscalper",
-      "value": 354,
+      "value": 355,
       "move": 0
     },
     {
@@ -288,7 +288,7 @@
     {
       "rank": 48,
       "name": "Max",
-      "value": 99,
+      "value": 100,
       "move": 0
     },
     {
@@ -1430,7 +1430,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 215
+      "value": 216
     },
     {
       "rank": 2,
@@ -1460,7 +1460,7 @@
     {
       "rank": 7,
       "name": "Синдбад Мореход",
-      "value": 50
+      "value": 46
     },
     {
       "rank": 8,
@@ -1489,13 +1489,13 @@
     },
     {
       "rank": 13,
-      "name": "Aся",
+      "name": ".",
       "value": 26
     },
     {
       "rank": 14,
-      "name": ".",
-      "value": 26
+      "name": "Aся",
+      "value": 25
     },
     {
       "rank": 15,
@@ -1554,17 +1554,17 @@
     },
     {
       "rank": 26,
-      "name": "X888",
-      "value": 9
+      "name": "@wavesscalper",
+      "value": 10
     },
     {
       "rank": 27,
-      "name": "@wavesscalper",
-      "value": 9
+      "name": "Max",
+      "value": 10
     },
     {
       "rank": 28,
-      "name": "Max",
+      "name": "X888",
       "value": 9
     },
     {
@@ -1682,7 +1682,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 2,
@@ -1751,17 +1751,17 @@
     },
     {
       "rank": 15,
-      "name": "SPM",
-      "value": 4
-    },
-    {
-      "rank": 16,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Jekago |РБК Крипто, мод.",
+      "value": 4
+    },
+    {
+      "rank": 17,
+      "name": "@wavesscalper",
       "value": 4
     },
     {
@@ -1771,67 +1771,67 @@
     },
     {
       "rank": 19,
-      "name": "Pavel",
+      "name": "SPM",
       "value": 3
     },
     {
       "rank": 20,
-      "name": "Vitaliy",
+      "name": "Pavel",
       "value": 3
     },
     {
       "rank": 21,
-      "name": "Александр",
+      "name": "Vitaliy",
       "value": 3
     },
     {
       "rank": 22,
-      "name": "@wavesscalper",
+      "name": "Александр",
       "value": 3
     },
     {
       "rank": 23,
-      "name": "ᴦоᴧод",
+      "name": "Max",
       "value": 3
     },
     {
       "rank": 24,
+      "name": "ᴦоᴧод",
+      "value": 3
+    },
+    {
+      "rank": 25,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "AnTon",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "zomg",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Andrey",
       "value": 2
     },
     {
-      "rank": 30,
-      "name": "I",
-      "value": 2
-    },
-    {
       "rank": 31,
-      "name": "Max",
+      "name": "I",
       "value": 2
     },
     {
@@ -1881,26 +1881,21 @@
     },
     {
       "rank": 41,
-      "name": "Aleksey",
-      "value": 1
-    },
-    {
-      "rank": 42,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Роман",
       "value": 1
     }
