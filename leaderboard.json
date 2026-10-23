@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T04:37:41+00:00",
+  "updated": "2026-10-23T05:37:46+00:00",
   "count": 237,
   "has_movement": true,
   "all": [
@@ -1440,12 +1440,12 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 98
+      "value": 96
     },
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 76
+      "value": 74
     },
     {
       "rank": 5,
@@ -1896,11 +1896,6 @@
     },
     {
       "rank": 44,
-      "name": "🤗",
-      "value": 1
-    },
-    {
-      "rank": 45,
       "name": "Роман",
       "value": 1
     }
