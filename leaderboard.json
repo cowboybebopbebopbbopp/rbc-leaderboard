@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T18:19:53+00:00",
+  "updated": "2026-10-23T19:19:58+00:00",
   "count": 237,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1336,
+      "value": 1337,
       "move": 0
     },
     {
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 694,
+      "value": 695,
       "move": 0
     },
     {
@@ -1435,7 +1435,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 105
+      "value": 106
     },
     {
       "rank": 3,
@@ -1460,7 +1460,7 @@
     {
       "rank": 7,
       "name": "Князь Владимир С",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 8,
@@ -1499,12 +1499,12 @@
     },
     {
       "rank": 15,
-      "name": "🤗",
-      "value": 21
+      "name": "Юрий",
+      "value": 20
     },
     {
       "rank": 16,
-      "name": "Юрий",
+      "name": "🤗",
       "value": 20
     },
     {
@@ -1697,7 +1697,7 @@
     {
       "rank": 4,
       "name": "Князь Владимир С",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 5,
@@ -1707,17 +1707,17 @@
     {
       "rank": 6,
       "name": "Crypto Panda",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
+      "name": "a l",
       "value": 11
     },
     {
       "rank": 8,
-      "name": "a l",
-      "value": 10
+      "name": "Руслан Иванов",
+      "value": 11
     },
     {
       "rank": 9,
