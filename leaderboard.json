@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T07:19:00+00:00",
+  "updated": "2026-10-23T08:19:05+00:00",
   "count": 237,
   "has_movement": true,
   "all": [
@@ -1430,7 +1430,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 220
+      "value": 218
     },
     {
       "rank": 2,
@@ -1480,7 +1480,7 @@
     {
       "rank": 11,
       "name": "Vitaliy",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 12,
@@ -1499,17 +1499,17 @@
     },
     {
       "rank": 15,
-      "name": "Серхио Ле'Трас",
-      "value": 21
-    },
-    {
-      "rank": 16,
       "name": "🤗",
       "value": 21
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Юрий",
+      "value": 20
+    },
+    {
+      "rank": 17,
+      "name": "Серхио Ле'Трас",
       "value": 20
     },
     {
