@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T14:19:34+00:00",
+  "updated": "2026-10-23T15:19:39+00:00",
   "count": 237,
   "has_movement": true,
   "all": [
@@ -1514,18 +1514,18 @@
     },
     {
       "rank": 18,
-      "name": "Серхио Ле'Трас",
-      "value": 19
-    },
-    {
-      "rank": 19,
       "name": "Crypto Panda",
       "value": 18
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "terminal lucidity",
       "value": 17
+    },
+    {
+      "rank": 20,
+      "name": "Серхио Ле'Трас",
+      "value": 16
     },
     {
       "rank": 21,
@@ -1682,7 +1682,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 48
     },
     {
       "rank": 2,
@@ -1706,12 +1706,12 @@
     },
     {
       "rank": 6,
-      "name": "Crypto Panda",
-      "value": 15
+      "name": "Руслан Иванов",
+      "value": 14
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
+      "name": "Crypto Panda",
       "value": 14
     },
     {
@@ -1806,96 +1806,91 @@
     },
     {
       "rank": 26,
-      "name": "terminal lucidity",
-      "value": 2
-    },
-    {
-      "rank": 27,
       "name": "AnTon",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "zomg",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Andrey",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "🌝",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Snowflake ❄️",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Роман",
       "value": 1
     }
