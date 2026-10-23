@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T09:19:10+00:00",
+  "updated": "2026-10-23T10:19:15+00:00",
   "count": 237,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4543,
+      "value": 4546,
       "move": 0
     },
     {
@@ -186,7 +186,7 @@
     {
       "rank": 31,
       "name": "Юрий",
-      "value": 163,
+      "value": 164,
       "move": 1
     },
     {
@@ -545,15 +545,15 @@
     },
     {
       "rank": 91,
-      "name": "Money",
+      "name": "Евгений",
       "value": 17,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 92,
-      "name": "Евгений",
-      "value": 16,
-      "move": 0
+      "name": "Money",
+      "value": 17,
+      "move": -1
     },
     {
       "rank": 93,
@@ -1430,7 +1430,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 217
+      "value": 216
     },
     {
       "rank": 2,
@@ -1579,72 +1579,72 @@
     },
     {
       "rank": 31,
-      "name": "lefkorosos",
+      "name": "Евгений",
       "value": 7
     },
     {
       "rank": 32,
-      "name": "ᴦоᴧод",
+      "name": "lefkorosos",
       "value": 7
     },
     {
       "rank": 33,
-      "name": "AnTon",
-      "value": 6
+      "name": "ᴦоᴧод",
+      "value": 7
     },
     {
       "rank": 34,
-      "name": "Aleksey",
+      "name": "Юрий",
       "value": 6
     },
     {
       "rank": 35,
-      "name": "Анастасия",
+      "name": "AnTon",
       "value": 6
     },
     {
       "rank": 36,
-      "name": "Евгений",
+      "name": "Aleksey",
       "value": 6
     },
     {
       "rank": 37,
-      "name": "@wavesscalper",
+      "name": "Анастасия",
       "value": 6
     },
     {
       "rank": 38,
-      "name": "Don Michele Corleone",
+      "name": "@wavesscalper",
       "value": 6
     },
     {
       "rank": 39,
-      "name": "Юрий",
-      "value": 5
-    },
-    {
-      "rank": 40,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Ponemonec",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Olga Goncharova",
+      "value": 4
+    },
+    {
+      "rank": 44,
+      "name": "Don Michele Corleone",
       "value": 4
     },
     {
@@ -1682,7 +1682,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 46
     },
     {
       "rank": 2,
@@ -1701,12 +1701,12 @@
     },
     {
       "rank": 5,
-      "name": "Crypto Panda",
-      "value": 16
+      "name": "Синдбад Мореход",
+      "value": 15
     },
     {
       "rank": 6,
-      "name": "Синдбад Мореход",
+      "name": "Crypto Panda",
       "value": 15
     },
     {
@@ -1741,8 +1741,8 @@
     },
     {
       "rank": 13,
-      "name": "SPM",
-      "value": 6
+      "name": "Евгений",
+      "value": 5
     },
     {
       "rank": 14,
@@ -1751,12 +1751,12 @@
     },
     {
       "rank": 15,
-      "name": "Manis Love",
+      "name": "SPM",
       "value": 4
     },
     {
       "rank": 16,
-      "name": "Евгений",
+      "name": "Manis Love",
       "value": 4
     },
     {
@@ -1786,13 +1786,13 @@
     },
     {
       "rank": 22,
-      "name": "Max",
+      "name": "ᴦоᴧод",
       "value": 3
     },
     {
       "rank": 23,
-      "name": "ᴦоᴧод",
-      "value": 3
+      "name": "Юрий",
+      "value": 2
     },
     {
       "rank": 24,
@@ -1826,27 +1826,27 @@
     },
     {
       "rank": 30,
-      "name": "Renat 🇷🇺🏴‍☠️",
+      "name": "Max",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "🌝",
+      "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Sonic",
+      "name": "🌝",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Andrey Tugarin",
-      "value": 1
+      "name": "Sonic",
+      "value": 2
     },
     {
       "rank": 34,
-      "name": "Юрий",
+      "name": "Andrey Tugarin",
       "value": 1
     },
     {
