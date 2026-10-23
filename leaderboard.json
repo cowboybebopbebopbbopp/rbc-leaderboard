@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T02:37:32+00:00",
-  "count": 236,
+  "updated": "2026-10-23T03:37:37+00:00",
+  "count": 237,
   "has_movement": true,
   "all": [
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1332,
+      "value": 1334,
       "move": 0
     },
     {
@@ -318,7 +318,7 @@
     {
       "rank": 53,
       "name": "Руслан Иванов",
-      "value": 86,
+      "value": 87,
       "move": 1
     },
     {
@@ -1415,9 +1415,15 @@
     },
     {
       "rank": 236,
+      "name": "Sonic",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 237,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
@@ -1429,7 +1435,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 101
+      "value": 103
     },
     {
       "rank": 3,
@@ -1449,7 +1455,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 56
+      "value": 57
     },
     {
       "rank": 7,
@@ -1695,13 +1701,13 @@
     },
     {
       "rank": 5,
-      "name": "Синдбад Мореход",
-      "value": 17
+      "name": "Crypto Panda",
+      "value": 16
     },
     {
       "rank": 6,
-      "name": "Crypto Panda",
-      "value": 16
+      "name": "Синдбад Мореход",
+      "value": 15
     },
     {
       "rank": 7,
@@ -1710,18 +1716,18 @@
     },
     {
       "rank": 8,
+      "name": "a l",
+      "value": 11
+    },
+    {
+      "rank": 9,
       "name": "LlirikMK",
       "value": 10
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": ".",
       "value": 10
-    },
-    {
-      "rank": 10,
-      "name": "a l",
-      "value": 9
     },
     {
       "rank": 11,
@@ -1870,31 +1876,26 @@
     },
     {
       "rank": 40,
-      "name": "Сергей",
-      "value": 1
-    },
-    {
-      "rank": 41,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Роман",
       "value": 1
     }
