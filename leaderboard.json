@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T16:19:43+00:00",
+  "updated": "2026-10-23T17:19:48+00:00",
   "count": 237,
   "has_movement": true,
   "all": [
@@ -1430,7 +1430,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 219
+      "value": 218
     },
     {
       "rank": 2,
@@ -1465,7 +1465,7 @@
     {
       "rank": 8,
       "name": "Синдбад Мореход",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 9,
@@ -1525,7 +1525,7 @@
     {
       "rank": 20,
       "name": "Серхио Ле'Трас",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 21,
@@ -1549,18 +1549,18 @@
     },
     {
       "rank": 25,
-      "name": "iDiklonius",
-      "value": 10
-    },
-    {
-      "rank": 26,
       "name": "@wavesscalper",
       "value": 10
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Max",
       "value": 10
+    },
+    {
+      "rank": 27,
+      "name": "iDiklonius",
+      "value": 9
     },
     {
       "rank": 28,
@@ -1687,7 +1687,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 30
+      "value": 28
     },
     {
       "rank": 3,
@@ -1697,22 +1697,22 @@
     {
       "rank": 4,
       "name": "Князь Владимир С",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 5,
       "name": "Синдбад Мореход",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
+      "name": "Crypto Panda",
       "value": 14
     },
     {
       "rank": 7,
-      "name": "Crypto Panda",
-      "value": 14
+      "name": "Руслан Иванов",
+      "value": 13
     },
     {
       "rank": 8,
@@ -1771,33 +1771,33 @@
     },
     {
       "rank": 19,
-      "name": "SPM",
-      "value": 3
-    },
-    {
-      "rank": 20,
       "name": "Pavel",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Vitaliy",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Александр",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Max",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "ᴦоᴧод",
       "value": 3
+    },
+    {
+      "rank": 24,
+      "name": "SPM",
+      "value": 2
     },
     {
       "rank": 25,
