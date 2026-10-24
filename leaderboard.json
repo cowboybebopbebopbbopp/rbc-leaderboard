@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T07:20:53+00:00",
-  "count": 238,
+  "updated": "2026-10-24T08:20:58+00:00",
+  "count": 239,
   "has_movement": true,
   "all": [
     {
@@ -575,21 +575,21 @@
     },
     {
       "rank": 96,
-      "name": "vpidelks",
-      "value": 14,
-      "move": 0
+      "name": "Анастасия",
+      "value": 15,
+      "move": 2
     },
     {
       "rank": 97,
-      "name": "Aleksey",
+      "name": "vpidelks",
       "value": 14,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 98,
-      "name": "Анастасия",
+      "name": "Aleksey",
       "value": 14,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 99,
@@ -1427,9 +1427,15 @@
     },
     {
       "rank": 238,
+      "name": "Калашников Георгий Николаевич KalashnikovGN",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 239,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
@@ -1615,32 +1621,32 @@
     },
     {
       "rank": 37,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Анастасия",
       "value": 5
     },
     {
       "rank": 38,
-      "name": "Ponemonec",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
       "rank": 39,
+      "name": "Ponemonec",
+      "value": 5
+    },
+    {
+      "rank": 40,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 41,
-      "name": "Юрий",
-      "value": 4
-    },
-    {
       "rank": 42,
-      "name": "Анастасия",
+      "name": "Юрий",
       "value": 4
     },
     {
@@ -1782,47 +1788,47 @@
     },
     {
       "rank": 20,
-      "name": "Александр",
+      "name": "Анастасия",
       "value": 3
     },
     {
       "rank": 21,
-      "name": "I",
+      "name": "Александр",
       "value": 3
     },
     {
       "rank": 22,
-      "name": "Max",
+      "name": "I",
       "value": 3
     },
     {
       "rank": 23,
-      "name": "ᴦоᴧод",
+      "name": "Max",
       "value": 3
     },
     {
       "rank": 24,
+      "name": "ᴦоᴧод",
+      "value": 3
+    },
+    {
+      "rank": 25,
       "name": "SPM",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "E X O",
       "value": 2
     },
     {
-      "rank": 27,
-      "name": "AnTon",
-      "value": 2
-    },
-    {
       "rank": 28,
-      "name": "Анастасия",
+      "name": "AnTon",
       "value": 2
     },
     {
