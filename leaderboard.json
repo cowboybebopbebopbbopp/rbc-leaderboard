@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T06:20:48+00:00",
+  "updated": "2026-10-24T07:20:53+00:00",
   "count": 238,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4554,
+      "value": 4555,
       "move": 0
     },
     {
@@ -1436,7 +1436,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 215
+      "value": 216
     },
     {
       "rank": 2,
@@ -1456,7 +1456,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 6,
@@ -1688,7 +1688,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 50
     },
     {
       "rank": 2,
