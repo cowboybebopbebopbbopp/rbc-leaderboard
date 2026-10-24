@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T16:21:36+00:00",
+  "updated": "2026-10-24T17:21:41+00:00",
   "count": 239,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1906,
+      "value": 1908,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 877,
+      "value": 881,
       "move": 0
     },
     {
@@ -1447,7 +1447,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 106
+      "value": 101
     },
     {
       "rank": 3,
@@ -1457,7 +1457,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 71
+      "value": 73
     },
     {
       "rank": 5,
@@ -1471,13 +1471,13 @@
     },
     {
       "rank": 7,
-      "name": "Князь Владимир С",
-      "value": 49
+      "name": "Синдбад Мореход",
+      "value": 52
     },
     {
       "rank": 8,
-      "name": "Синдбад Мореход",
-      "value": 48
+      "name": "Князь Владимир С",
+      "value": 49
     },
     {
       "rank": 9,
@@ -1699,22 +1699,22 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 28
+      "value": 30
     },
     {
       "rank": 3,
+      "name": "Синдбад Мореход",
+      "value": 23
+    },
+    {
+      "rank": 4,
       "name": "Князь Владимир С",
       "value": 21
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Viktor",
       "value": 20
-    },
-    {
-      "rank": 5,
-      "name": "Синдбад Мореход",
-      "value": 19
     },
     {
       "rank": 6,
@@ -1758,22 +1758,22 @@
     },
     {
       "rank": 14,
-      "name": "Marina",
-      "value": 5
-    },
-    {
-      "rank": 15,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "@wavesscalper",
+      "value": 4
+    },
+    {
+      "rank": 17,
+      "name": "Marina",
       "value": 4
     },
     {
