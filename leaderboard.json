@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T23:20:17+00:00",
-  "count": 237,
+  "updated": "2026-10-24T00:20:21+00:00",
+  "count": 238,
   "has_movement": true,
   "all": [
     {
@@ -187,13 +187,13 @@
       "rank": 31,
       "name": "Юрий",
       "value": 164,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 32,
       "name": "Юрий",
       "value": 163,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 33,
@@ -319,13 +319,13 @@
       "rank": 53,
       "name": "Руслан Иванов",
       "value": 87,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 54,
       "name": "Павел Корчагин",
       "value": 86,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 55,
@@ -379,31 +379,31 @@
       "rank": 63,
       "name": "I",
       "value": 52,
-      "move": 2
+      "move": 0
     },
     {
       "rank": 64,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 50,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 65,
       "name": "Sergei IVANOV",
       "value": 49,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 66,
       "name": "A.",
       "value": 44,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 67,
       "name": "SyslikJan",
       "value": 43,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 68,
@@ -439,25 +439,25 @@
       "rank": 73,
       "name": "Олег",
       "value": 31,
-      "move": 3
+      "move": 0
     },
     {
       "rank": 74,
       "name": "Iodva",
       "value": 30,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 75,
       "name": "Юрий",
       "value": 30,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 76,
       "name": "Мое имя Максим",
       "value": 30,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 77,
@@ -499,19 +499,19 @@
       "rank": 83,
       "name": "Pavel",
       "value": 20,
-      "move": 2
+      "move": 0
     },
     {
       "rank": 84,
       "name": "Максим",
       "value": 20,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 85,
       "name": "Vladimir Magrin",
       "value": 19,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 86,
@@ -571,13 +571,13 @@
       "rank": 95,
       "name": "Marina",
       "value": 15,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 96,
       "name": "vpidelks",
       "value": 14,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 97,
@@ -1411,19 +1411,25 @@
       "rank": 235,
       "name": "стас",
       "value": 1,
-      "move": null
+      "move": -1
     },
     {
       "rank": 236,
       "name": "Марина Кузьмина",
       "value": 1,
-      "move": null
+      "move": -1
     },
     {
       "rank": 237,
+      "name": "P!xel.Cat",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 238,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -2
     }
   ],
   "month": [
@@ -1440,7 +1446,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 95
+      "value": 94
     },
     {
       "rank": 4,
