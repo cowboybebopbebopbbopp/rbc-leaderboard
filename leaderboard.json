@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T19:21:50+00:00",
-  "count": 239,
+  "updated": "2026-10-24T20:21:55+00:00",
+  "count": 240,
   "has_movement": true,
   "all": [
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1909,
+      "value": 1910,
       "move": 0
     },
     {
@@ -743,117 +743,117 @@
     },
     {
       "rank": 124,
-      "name": "Mikhail",
+      "name": "Max⚡️",
       "value": 5,
-      "move": 0
+      "move": 18
     },
     {
       "rank": 125,
-      "name": "Renat 🇷🇺🏴‍☠️",
+      "name": "Mikhail",
       "value": 5,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 126,
-      "name": "🌝",
+      "name": "Renat 🇷🇺🏴‍☠️",
       "value": 5,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 127,
-      "name": "Sila",
-      "value": 4,
-      "move": 0
+      "name": "🌝",
+      "value": 5,
+      "move": -1
     },
     {
       "rank": 128,
-      "name": "xv",
+      "name": "Sila",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 129,
-      "name": "Slawik",
+      "name": "xv",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 130,
-      "name": "Артем",
+      "name": "Slawik",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 131,
-      "name": "Simany",
+      "name": "Артем",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 132,
-      "name": "Марина",
+      "name": "Simany",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 133,
-      "name": "Ilya",
-      "value": 3,
-      "move": 0
+      "name": "Марина",
+      "value": 4,
+      "move": -1
     },
     {
       "rank": 134,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 135,
-      "name": "Sviat",
+      "name": "Samurai_1",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 136,
-      "name": "1",
+      "name": "Sviat",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 137,
-      "name": "Neztor",
+      "name": "1",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 138,
-      "name": "Максим",
+      "name": "Neztor",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 139,
-      "name": "Денис Сергеевич",
+      "name": "Максим",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 140,
-      "name": "ц",
+      "name": "Денис Сергеевич",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 141,
-      "name": "Stepan",
+      "name": "ц",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 142,
-      "name": "Max⚡️",
+      "name": "Stepan",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 143,
@@ -1433,9 +1433,15 @@
     },
     {
       "rank": 239,
+      "name": "Андрей",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 240,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -4
     }
   ],
   "month": [
@@ -1457,7 +1463,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 74
+      "value": 75
     },
     {
       "rank": 5,
@@ -1467,7 +1473,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 54
+      "value": 53
     },
     {
       "rank": 7,
@@ -1699,7 +1705,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 3,
@@ -1838,66 +1844,71 @@
     },
     {
       "rank": 30,
-      "name": "Andrey",
+      "name": "Max⚡️",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "Renat 🇷🇺🏴‍☠️",
+      "name": "Andrey",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "🌝",
+      "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Sonic",
+      "name": "🌝",
       "value": 2
     },
     {
       "rank": 34,
+      "name": "Sonic",
+      "value": 2
+    },
+    {
+      "rank": 35,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "P!xel.Cat",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Роман",
       "value": 1
     }
