@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T17:21:41+00:00",
+  "updated": "2026-10-24T18:21:45+00:00",
   "count": 239,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1908,
+      "value": 1909,
       "move": 0
     },
     {
@@ -1442,7 +1442,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 206
+      "value": 205
     },
     {
       "rank": 2,
@@ -1457,7 +1457,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 73
+      "value": 74
     },
     {
       "rank": 5,
@@ -1699,7 +1699,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 3,
@@ -1863,46 +1863,41 @@
     },
     {
       "rank": 35,
-      "name": "Snowflake ❄️",
-      "value": 1
-    },
-    {
-      "rank": 36,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "P!xel.Cat",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Роман",
       "value": 1
     }
