@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T14:21:26+00:00",
+  "updated": "2026-10-24T15:21:31+00:00",
   "count": 239,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 875,
+      "value": 876,
       "move": 0
     },
     {
@@ -342,7 +342,7 @@
     {
       "rank": 57,
       "name": "LlirikMK",
-      "value": 76,
+      "value": 77,
       "move": 0
     },
     {
@@ -1442,12 +1442,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 207
+      "value": 206
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 107
+      "value": 106
     },
     {
       "rank": 3,
@@ -1477,7 +1477,7 @@
     {
       "rank": 8,
       "name": "Синдбад Мореход",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 9,
@@ -1491,12 +1491,12 @@
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
-      "value": 28
+      "name": "LlirikMK",
+      "value": 29
     },
     {
       "rank": 12,
-      "name": "LlirikMK",
+      "name": "Vitaliy",
       "value": 28
     },
     {
@@ -1714,7 +1714,7 @@
     {
       "rank": 5,
       "name": "Синдбад Мореход",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 6,
@@ -1734,7 +1734,7 @@
     {
       "rank": 9,
       "name": "LlirikMK",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 10,
