@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T11:21:12+00:00",
+  "updated": "2026-10-24T12:21:17+00:00",
   "count": 239,
   "has_movement": true,
   "all": [
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 698,
+      "value": 699,
       "move": 0
     },
     {
@@ -509,15 +509,15 @@
     },
     {
       "rank": 85,
-      "name": "Vladimir Magrin",
-      "value": 19,
-      "move": 0
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 20,
+      "move": 1
     },
     {
       "rank": 86,
-      "name": "Crypto Panda",
+      "name": "Vladimir Magrin",
       "value": 19,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 87,
@@ -1442,7 +1442,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 211
+      "value": 209
     },
     {
       "rank": 2,
@@ -1467,12 +1467,12 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 55
+      "value": 54
     },
     {
       "rank": 7,
       "name": "Князь Владимир С",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 8,
@@ -1527,7 +1527,7 @@
     {
       "rank": 18,
       "name": "Crypto Panda",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 19,
@@ -1703,12 +1703,12 @@
     },
     {
       "rank": 3,
-      "name": "Viktor",
-      "value": 20
+      "name": "Князь Владимир С",
+      "value": 21
     },
     {
       "rank": 4,
-      "name": "Князь Владимир С",
+      "name": "Viktor",
       "value": 20
     },
     {
@@ -1719,7 +1719,7 @@
     {
       "rank": 6,
       "name": "Crypto Panda",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 7,
