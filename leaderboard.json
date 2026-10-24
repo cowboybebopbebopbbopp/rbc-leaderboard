@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T00:50:30+00:00",
+  "updated": "2026-10-24T01:20:26+00:00",
   "count": 238,
   "has_movement": true,
   "all": [
@@ -1436,7 +1436,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 216
+      "value": 215
     },
     {
       "rank": 2,
@@ -1565,27 +1565,27 @@
     },
     {
       "rank": 27,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
-      "value": 9
-    },
-    {
-      "rank": 28,
       "name": "X888",
       "value": 9
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Сергей",
       "value": 7
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Евгений",
+      "value": 7
+    },
+    {
+      "rank": 31,
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 7
     },
     {
