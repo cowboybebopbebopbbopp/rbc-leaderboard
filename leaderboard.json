@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:21:18+00:00",
+  "updated": "2026-10-25T19:21:18+00:00",
   "count": 240,
   "has_movement": true,
   "all": [
@@ -330,7 +330,7 @@
     {
       "rank": 55,
       "name": "LlirikMK",
-      "value": 79,
+      "value": 81,
       "move": 2
     },
     {
@@ -1453,7 +1453,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 97
+      "value": 95
     },
     {
       "rank": 3,
@@ -1493,7 +1493,7 @@
     {
       "rank": 10,
       "name": "LlirikMK",
-      "value": 31
+      "value": 33
     },
     {
       "rank": 11,
@@ -1724,17 +1724,17 @@
     },
     {
       "rank": 6,
+      "name": "LlirikMK",
+      "value": 15
+    },
+    {
+      "rank": 7,
       "name": "a l",
       "value": 13
     },
     {
-      "rank": 7,
-      "name": "Руслан Иванов",
-      "value": 13
-    },
-    {
       "rank": 8,
-      "name": "LlirikMK",
+      "name": "Руслан Иванов",
       "value": 13
     },
     {
