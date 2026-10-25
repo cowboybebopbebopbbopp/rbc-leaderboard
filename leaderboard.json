@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T15:21:16+00:00",
+  "updated": "2026-10-25T16:21:16+00:00",
   "count": 240,
   "has_movement": true,
   "all": [
@@ -329,21 +329,21 @@
     },
     {
       "rank": 55,
-      "name": "Andrey Kuimov",
-      "value": 78,
-      "move": 0
+      "name": "LlirikMK",
+      "value": 79,
+      "move": 2
     },
     {
       "rank": 56,
-      "name": "SPM",
+      "name": "Andrey Kuimov",
       "value": 78,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 57,
-      "name": "LlirikMK",
-      "value": 77,
-      "move": 0
+      "name": "SPM",
+      "value": 78,
+      "move": -1
     },
     {
       "rank": 58,
@@ -1492,13 +1492,13 @@
     },
     {
       "rank": 10,
-      "name": "Viktor",
-      "value": 30
+      "name": "LlirikMK",
+      "value": 31
     },
     {
       "rank": 11,
-      "name": "LlirikMK",
-      "value": 29
+      "name": "Viktor",
+      "value": 30
     },
     {
       "rank": 12,
@@ -1729,18 +1729,18 @@
     },
     {
       "rank": 7,
+      "name": "LlirikMK",
+      "value": 13
+    },
+    {
+      "rank": 8,
       "name": "a l",
       "value": 12
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Crypto Panda",
       "value": 12
-    },
-    {
-      "rank": 9,
-      "name": "LlirikMK",
-      "value": 11
     },
     {
       "rank": 10,
