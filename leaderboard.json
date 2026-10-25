@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T21:21:19+00:00",
-  "count": 240,
+  "updated": "2026-10-25T22:21:20+00:00",
+  "count": 241,
   "has_movement": true,
   "all": [
     {
@@ -635,33 +635,33 @@
     },
     {
       "rank": 106,
-      "name": "Олег",
+      "name": "Don Michele Corleone",
       "value": 10,
-      "move": 0
+      "move": 4
     },
     {
       "rank": 107,
-      "name": "Dede",
+      "name": "Олег",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 108,
-      "name": "Snowflake ❄️",
+      "name": "Dede",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 109,
-      "name": "***",
-      "value": 9,
-      "move": 0
+      "name": "Snowflake ❄️",
+      "value": 10,
+      "move": -1
     },
     {
       "rank": 110,
-      "name": "Don Michele Corleone",
+      "name": "***",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 111,
@@ -1439,9 +1439,15 @@
     },
     {
       "rank": 240,
+      "name": "разбитые руки",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 241,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
@@ -1557,27 +1563,27 @@
     },
     {
       "rank": 23,
-      "name": "Александр",
-      "value": 10
-    },
-    {
-      "rank": 24,
       "name": "@wavesscalper",
       "value": 10
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Max",
       "value": 10
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "X888",
       "value": 9
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "iDiklonius",
+      "value": 8
+    },
+    {
+      "rank": 27,
+      "name": "Александр",
       "value": 8
     },
     {
@@ -1642,22 +1648,22 @@
     },
     {
       "rank": 40,
+      "name": "Don Michele Corleone",
+      "value": 5
+    },
+    {
+      "rank": 41,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Olga Goncharova",
       "value": 4
     },
     {
-      "rank": 42,
-      "name": "Ponemonec",
-      "value": 4
-    },
-    {
       "rank": 43,
-      "name": "Don Michele Corleone",
+      "name": "Ponemonec",
       "value": 4
     },
     {
@@ -1769,32 +1775,32 @@
     },
     {
       "rank": 15,
+      "name": "Don Michele Corleone",
+      "value": 5
+    },
+    {
+      "rank": 16,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Виталий",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "@wavesscalper",
       "value": 4
     },
     {
-      "rank": 19,
-      "name": "Marina",
-      "value": 4
-    },
-    {
       "rank": 20,
-      "name": "Don Michele Corleone",
+      "name": "Marina",
       "value": 4
     },
     {
