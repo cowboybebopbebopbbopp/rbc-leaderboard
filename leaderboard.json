@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T14:22:51+00:00",
+  "updated": "2026-10-25T15:21:16+00:00",
   "count": 240,
   "has_movement": true,
   "all": [
@@ -311,15 +311,15 @@
     },
     {
       "rank": 52,
-      "name": "Sergey СЕО",
-      "value": 88,
-      "move": 0
+      "name": "Руслан Иванов",
+      "value": 89,
+      "move": 1
     },
     {
       "rank": 53,
-      "name": "Руслан Иванов",
-      "value": 87,
-      "move": 0
+      "name": "Sergey СЕО",
+      "value": 88,
+      "move": -1
     },
     {
       "rank": 54,
@@ -1468,7 +1468,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 53
+      "value": 55
     },
     {
       "rank": 6,
@@ -1724,18 +1724,18 @@
     },
     {
       "rank": 6,
+      "name": "Руслан Иванов",
+      "value": 13
+    },
+    {
+      "rank": 7,
       "name": "a l",
       "value": 12
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Crypto Panda",
       "value": 12
-    },
-    {
-      "rank": 8,
-      "name": "Руслан Иванов",
-      "value": 11
     },
     {
       "rank": 9,
