@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T02:21:22+00:00",
-  "count": 241,
+  "updated": "2026-10-26T03:21:23+00:00",
+  "count": 242,
   "has_movement": true,
   "all": [
     {
@@ -227,21 +227,21 @@
     },
     {
       "rank": 38,
-      "name": "Sergey",
+      "name": "Charlie Shefelman",
       "value": 129,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 39,
-      "name": "Роман",
+      "name": "Sergey",
       "value": 129,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 40,
-      "name": "Charlie Shefelman",
-      "value": 128,
-      "move": 0
+      "name": "Роман",
+      "value": 129,
+      "move": -1
     },
     {
       "rank": 41,
@@ -378,7 +378,7 @@
     {
       "rank": 63,
       "name": "I",
-      "value": 52,
+      "value": 53,
       "move": 0
     },
     {
@@ -1445,9 +1445,15 @@
     },
     {
       "rank": 241,
+      "name": "Milan Sklenář",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 242,
       "name": "vitaliy",
       "value": 0,
-      "move": -1
+      "move": -2
     }
   ],
   "month": [
@@ -1459,7 +1465,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 96
+      "value": 95
     },
     {
       "rank": 3,
@@ -1504,7 +1510,7 @@
     {
       "rank": 11,
       "name": "Viktor",
-      "value": 28
+      "value": 27
     },
     {
       "rank": 12,
@@ -1658,42 +1664,42 @@
     },
     {
       "rank": 42,
-      "name": "Olga Goncharova",
+      "name": "Charlie Shefelman",
       "value": 4
     },
     {
       "rank": 43,
-      "name": "Ponemonec",
+      "name": "I",
       "value": 4
     },
     {
       "rank": 44,
+      "name": "Olga Goncharova",
+      "value": 4
+    },
+    {
+      "rank": 45,
+      "name": "Ponemonec",
+      "value": 4
+    },
+    {
+      "rank": 46,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 45,
-      "name": "Charlie Shefelman",
-      "value": 3
-    },
-    {
-      "rank": 46,
+      "rank": 47,
       "name": "Lina",
       "value": 3
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Mikhail",
       "value": 3
     },
     {
-      "rank": 48,
-      "name": "Мое имя Максим",
-      "value": 3
-    },
-    {
       "rank": 49,
-      "name": "I",
+      "name": "Мое имя Максим",
       "value": 3
     },
     {
@@ -1795,27 +1801,27 @@
     },
     {
       "rank": 19,
-      "name": "@wavesscalper",
+      "name": "I",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "Marina",
+      "name": "@wavesscalper",
       "value": 4
     },
     {
       "rank": 21,
+      "name": "Marina",
+      "value": 4
+    },
+    {
+      "rank": 22,
       "name": "Pavel",
       "value": 3
     },
     {
-      "rank": 22,
-      "name": "Александр",
-      "value": 3
-    },
-    {
       "rank": 23,
-      "name": "I",
+      "name": "Александр",
       "value": 3
     },
     {
@@ -1915,16 +1921,21 @@
     },
     {
       "rank": 43,
-      "name": "Олег",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 44,
-      "name": "Роман",
+      "name": "Олег",
       "value": 1
     },
     {
       "rank": 45,
+      "name": "Роман",
+      "value": 1
+    },
+    {
+      "rank": 46,
       "name": "Мое имя Максим",
       "value": 1
     }
