@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T20:21:42+00:00",
+  "updated": "2026-10-26T21:21:42+00:00",
   "count": 243,
   "has_movement": true,
   "all": [
@@ -299,15 +299,15 @@
     },
     {
       "rank": 50,
-      "name": "Сергей",
+      "name": "Руслан Иванов",
       "value": 93,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 51,
-      "name": "Руслан Иванов",
-      "value": 92,
-      "move": 2
+      "name": "Сергей",
+      "value": 93,
+      "move": -1
     },
     {
       "rank": 52,
@@ -1485,12 +1485,12 @@
     },
     {
       "rank": 5,
-      "name": "SPM",
-      "value": 56
+      "name": "Руслан Иванов",
+      "value": 57
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
+      "name": "SPM",
       "value": 56
     },
     {
@@ -1700,17 +1700,17 @@
     },
     {
       "rank": 48,
-      "name": "Roman Polyakov",
-      "value": 3
-    },
-    {
-      "rank": 49,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "E X O",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "Lina",
       "value": 3
     }
   ],
@@ -1743,7 +1743,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 7,
