@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T18:21:40+00:00",
-  "count": 242,
+  "updated": "2026-10-26T19:21:41+00:00",
+  "count": 243,
   "has_movement": true,
   "all": [
     {
@@ -305,15 +305,15 @@
     },
     {
       "rank": 51,
-      "name": "Vlad",
+      "name": "Руслан Иванов",
       "value": 92,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 52,
-      "name": "Руслан Иванов",
-      "value": 91,
-      "move": 1
+      "name": "Vlad",
+      "value": 92,
+      "move": -1
     },
     {
       "rank": 53,
@@ -1451,9 +1451,15 @@
     },
     {
       "rank": 242,
+      "name": "FiveFingers",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 243,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
@@ -1485,7 +1491,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 55
+      "value": 56
     },
     {
       "rank": 7,
@@ -1509,13 +1515,13 @@
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
-      "value": 28
+      "name": "Viktor",
+      "value": 27
     },
     {
       "rank": 12,
-      "name": "Viktor",
-      "value": 27
+      "name": "Vitaliy",
+      "value": 25
     },
     {
       "rank": 13,
@@ -1737,7 +1743,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 7,
