@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T09:21:26+00:00",
+  "updated": "2026-10-26T10:21:26+00:00",
   "count": 242,
   "has_movement": true,
   "all": [
@@ -216,7 +216,7 @@
     {
       "rank": 36,
       "name": "Vitaliy",
-      "value": 134,
+      "value": 135,
       "move": 0
     },
     {
@@ -1510,7 +1510,7 @@
     {
       "rank": 11,
       "name": "Vitaliy",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 12,
@@ -1644,37 +1644,37 @@
     },
     {
       "rank": 38,
-      "name": "Aleksey",
-      "value": 5
-    },
-    {
-      "rank": 39,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "I",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Don Michele Corleone",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 4
+    },
+    {
+      "rank": 44,
+      "name": "Aleksey",
       "value": 4
     },
     {
@@ -1836,32 +1836,32 @@
     },
     {
       "rank": 26,
-      "name": "Александр",
+      "name": "Vitaliy",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "Max",
+      "name": "Александр",
       "value": 3
     },
     {
       "rank": 28,
-      "name": "ᴦоᴧод",
+      "name": "Max",
       "value": 3
     },
     {
       "rank": 29,
+      "name": "ᴦоᴧод",
+      "value": 3
+    },
+    {
+      "rank": 30,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 30,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 2
-    },
-    {
       "rank": 31,
-      "name": "Vitaliy",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
