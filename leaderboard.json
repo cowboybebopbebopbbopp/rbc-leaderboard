@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T12:21:33+00:00",
+  "updated": "2026-10-26T13:21:33+00:00",
   "count": 242,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1028,
+      "value": 1029,
       "move": 0
     },
     {
@@ -1515,12 +1515,12 @@
     {
       "rank": 12,
       "name": "Viktor",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 13,
       "name": ".",
-      "value": 26
+      "value": 25
     },
     {
       "rank": 14,
@@ -1559,12 +1559,12 @@
     },
     {
       "rank": 21,
-      "name": "Marina",
-      "value": 12
+      "name": "Manis Love",
+      "value": 11
     },
     {
       "rank": 22,
-      "name": "Manis Love",
+      "name": "Marina",
       "value": 11
     },
     {
@@ -1726,13 +1726,13 @@
     },
     {
       "rank": 4,
-      "name": "Князь Владимир С",
+      "name": "Viktor",
       "value": 21
     },
     {
       "rank": 5,
-      "name": "Viktor",
-      "value": 20
+      "name": "Князь Владимир С",
+      "value": 21
     },
     {
       "rank": 6,
