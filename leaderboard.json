@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T08:21:25+00:00",
+  "updated": "2026-10-26T09:21:26+00:00",
   "count": 242,
   "has_movement": true,
   "all": [
@@ -521,33 +521,33 @@
     },
     {
       "rank": 87,
-      "name": "Алина",
+      "name": "Анастасия",
       "value": 18,
-      "move": 0
+      "move": 9
     },
     {
       "rank": 88,
-      "name": "Антон",
-      "value": 17,
-      "move": 0
+      "name": "Алина",
+      "value": 18,
+      "move": -1
     },
     {
       "rank": 89,
-      "name": "Anatoly Shadrin",
+      "name": "Антон",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 90,
-      "name": "Advokat Krysanov",
+      "name": "Anatoly Shadrin",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 91,
-      "name": "Анастасия",
+      "name": "Advokat Krysanov",
       "value": 17,
-      "move": 5
+      "move": -1
     },
     {
       "rank": 92,
@@ -1584,17 +1584,17 @@
     },
     {
       "rank": 26,
-      "name": "Александр",
+      "name": "Анастасия",
       "value": 8
     },
     {
       "rank": 27,
-      "name": "DenisNazarov",
-      "value": 7
+      "name": "Александр",
+      "value": 8
     },
     {
       "rank": 28,
-      "name": "Анастасия",
+      "name": "DenisNazarov",
       "value": 7
     },
     {
@@ -1777,7 +1777,7 @@
     {
       "rank": 14,
       "name": "Анастасия",
-      "value": 5
+      "value": 6
     },
     {
       "rank": 15,
