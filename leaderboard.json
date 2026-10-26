@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T14:21:34+00:00",
+  "updated": "2026-10-26T15:21:35+00:00",
   "count": 242,
   "has_movement": true,
   "all": [
@@ -479,39 +479,39 @@
     },
     {
       "rank": 80,
-      "name": "Толян",
-      "value": 21,
-      "move": 0
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 22,
+      "move": 5
     },
     {
       "rank": 81,
-      "name": "X888",
+      "name": "Толян",
       "value": 21,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 82,
-      "name": "Претор",
+      "name": "X888",
       "value": 21,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 83,
-      "name": "Pavel",
-      "value": 20,
-      "move": 0
+      "name": "Претор",
+      "value": 21,
+      "move": -1
     },
     {
       "rank": 84,
-      "name": "Максим",
+      "name": "Pavel",
       "value": 20,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 85,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Максим",
       "value": 20,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 86,
@@ -1509,12 +1509,12 @@
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
-      "value": 29
+      "name": "Viktor",
+      "value": 28
     },
     {
       "rank": 12,
-      "name": "Viktor",
+      "name": "Vitaliy",
       "value": 28
     },
     {
@@ -1529,22 +1529,22 @@
     },
     {
       "rank": 15,
+      "name": "Crypto Panda",
+      "value": 21
+    },
+    {
+      "rank": 16,
       "name": "Юрий",
       "value": 20
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "🤗",
       "value": 20
     },
     {
-      "rank": 17,
-      "name": "Pavel",
-      "value": 19
-    },
-    {
       "rank": 18,
-      "name": "Crypto Panda",
+      "name": "Pavel",
       "value": 19
     },
     {
@@ -1752,7 +1752,7 @@
     {
       "rank": 9,
       "name": "Crypto Panda",
-      "value": 12
+      "value": 14
     },
     {
       "rank": 10,
