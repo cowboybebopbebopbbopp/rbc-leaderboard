@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T05:21:24+00:00",
+  "updated": "2026-10-26T06:21:24+00:00",
   "count": 242,
   "has_movement": true,
   "all": [
@@ -378,7 +378,7 @@
     {
       "rank": 63,
       "name": "I",
-      "value": 53,
+      "value": 54,
       "move": 0
     },
     {
@@ -431,15 +431,15 @@
     },
     {
       "rank": 72,
-      "name": "𝑽",
-      "value": 31,
-      "move": 0
+      "name": "Мое имя Максим",
+      "value": 32,
+      "move": 4
     },
     {
       "rank": 73,
-      "name": "Мое имя Максим",
+      "name": "𝑽",
       "value": 31,
-      "move": 3
+      "move": -1
     },
     {
       "rank": 74,
@@ -1584,27 +1584,27 @@
     },
     {
       "rank": 26,
-      "name": "iDiklonius",
-      "value": 8
-    },
-    {
-      "rank": 27,
       "name": "Александр",
       "value": 8
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Анастасия",
       "value": 7
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Сергей",
+      "value": 7
+    },
+    {
+      "rank": 30,
+      "name": "iDiklonius",
       "value": 7
     },
     {
@@ -1654,57 +1654,57 @@
     },
     {
       "rank": 40,
-      "name": "Андрей",
+      "name": "I",
       "value": 5
     },
     {
       "rank": 41,
-      "name": "Don Michele Corleone",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 42,
+      "name": "Don Michele Corleone",
+      "value": 5
+    },
+    {
+      "rank": 43,
       "name": "Roman Polyakov",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Charlie Shefelman",
       "value": 4
     },
     {
-      "rank": 44,
-      "name": "I",
-      "value": 4
-    },
-    {
       "rank": 45,
-      "name": "Olga Goncharova",
+      "name": "Мое имя Максим",
       "value": 4
     },
     {
       "rank": 46,
-      "name": "Ponemonec",
+      "name": "Olga Goncharova",
       "value": 4
     },
     {
       "rank": 47,
+      "name": "Ponemonec",
+      "value": 4
+    },
+    {
+      "rank": 48,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Lina",
       "value": 3
     },
     {
-      "rank": 49,
-      "name": "Mikhail",
-      "value": 3
-    },
-    {
       "rank": 50,
-      "name": "Мое имя Максим",
+      "name": "Mikhail",
       "value": 3
     }
   ],
@@ -1786,32 +1786,32 @@
     },
     {
       "rank": 16,
-      "name": "Андрей",
+      "name": "I",
       "value": 5
     },
     {
       "rank": 17,
-      "name": "Don Michele Corleone",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 18,
+      "name": "Don Michele Corleone",
+      "value": 5
+    },
+    {
+      "rank": 19,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Виталий",
       "value": 4
     },
     {
-      "rank": 20,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 4
-    },
-    {
       "rank": 21,
-      "name": "I",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
@@ -1876,72 +1876,72 @@
     },
     {
       "rank": 34,
-      "name": "Renat 🇷🇺🏴‍☠️",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "🌝",
+      "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Sonic",
+      "name": "🌝",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "разбитые руки",
+      "name": "Sonic",
       "value": 2
     },
     {
       "rank": 38,
+      "name": "разбитые руки",
+      "value": 2
+    },
+    {
+      "rank": 39,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "P!xel.Cat",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 46,
-      "name": "Роман",
-      "value": 1
-    },
-    {
       "rank": 47,
-      "name": "Мое имя Максим",
+      "name": "Роман",
       "value": 1
     }
   ]
