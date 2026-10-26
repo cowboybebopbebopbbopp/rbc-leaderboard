@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T06:21:24+00:00",
+  "updated": "2026-10-26T07:21:25+00:00",
   "count": 242,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4555,
+      "value": 4558,
       "move": 0
     },
     {
@@ -216,7 +216,7 @@
     {
       "rank": 36,
       "name": "Vitaliy",
-      "value": 133,
+      "value": 134,
       "move": 0
     },
     {
@@ -803,81 +803,81 @@
     },
     {
       "rank": 134,
-      "name": "Марина",
+      "name": "E X O",
       "value": 4,
-      "move": -1
+      "move": 11
     },
     {
       "rank": 135,
-      "name": "Ilya",
-      "value": 3,
-      "move": -1
+      "name": "Марина",
+      "value": 4,
+      "move": -2
     },
     {
       "rank": 136,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 137,
-      "name": "Sviat",
+      "name": "Samurai_1",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 138,
-      "name": "1",
+      "name": "Sviat",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 139,
-      "name": "Neztor",
+      "name": "1",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 140,
-      "name": "Максим",
+      "name": "Neztor",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 141,
-      "name": "Денис Сергеевич",
+      "name": "Максим",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 142,
-      "name": "ц",
+      "name": "Денис Сергеевич",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 143,
-      "name": "Stepan",
+      "name": "ц",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 144,
-      "name": "İl",
+      "name": "Stepan",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 145,
-      "name": "Roman",
+      "name": "İl",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 146,
-      "name": "E X O",
+      "name": "Roman",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 147,
@@ -1460,7 +1460,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 193
+      "value": 196
     },
     {
       "rank": 2,
@@ -1470,7 +1470,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 91
+      "value": 90
     },
     {
       "rank": 4,
@@ -1509,12 +1509,12 @@
     },
     {
       "rank": 11,
-      "name": "Viktor",
-      "value": 27
+      "name": "Vitaliy",
+      "value": 28
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
+      "name": "Viktor",
       "value": 27
     },
     {
@@ -1699,12 +1699,12 @@
     },
     {
       "rank": 49,
-      "name": "Lina",
+      "name": "E X O",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "Mikhail",
+      "name": "Lina",
       "value": 3
     }
   ],
@@ -1712,7 +1712,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 50
+      "value": 53
     },
     {
       "rank": 2,
@@ -1831,87 +1831,87 @@
     },
     {
       "rank": 25,
-      "name": "Александр",
+      "name": "E X O",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "Max",
+      "name": "Александр",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "ᴦоᴧод",
+      "name": "Max",
       "value": 3
     },
     {
       "rank": 28,
+      "name": "ᴦоᴧод",
+      "value": 3
+    },
+    {
+      "rank": 29,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 29,
-      "name": "E X O",
-      "value": 2
-    },
-    {
       "rank": 30,
-      "name": "AnTon",
+      "name": "Vitaliy",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "zomg",
+      "name": "AnTon",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Max⚡️",
+      "name": "zomg",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Andrey",
+      "name": "Max⚡️",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Мое имя Максим",
+      "name": "Andrey",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "Renat 🇷🇺🏴‍☠️",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "🌝",
+      "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "Sonic",
+      "name": "🌝",
       "value": 2
     },
     {
       "rank": 38,
-      "name": "разбитые руки",
+      "name": "Sonic",
       "value": 2
     },
     {
       "rank": 39,
+      "name": "разбитые руки",
+      "value": 2
+    },
+    {
+      "rank": 40,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 40,
-      "name": "A.",
-      "value": 1
-    },
-    {
       "rank": 41,
-      "name": "Vitaliy",
+      "name": "A.",
       "value": 1
     },
     {
