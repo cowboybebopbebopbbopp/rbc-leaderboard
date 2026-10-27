@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T09:56:29+00:00",
+  "updated": "2026-10-27T10:56:30+00:00",
   "count": 243,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4562,
+      "value": 4563,
       "move": 0
     },
     {
@@ -1466,7 +1466,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 199
+      "value": 197
     },
     {
       "rank": 2,
@@ -1476,7 +1476,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 85
+      "value": 81
     },
     {
       "rank": 4,
@@ -1495,13 +1495,13 @@
     },
     {
       "rank": 7,
-      "name": "Князь Владимир С",
-      "value": 49
+      "name": "Синдбад Мореход",
+      "value": 48
     },
     {
       "rank": 8,
-      "name": "Синдбад Мореход",
-      "value": 48
+      "name": "Князь Владимир С",
+      "value": 47
     },
     {
       "rank": 9,
@@ -1525,13 +1525,13 @@
     },
     {
       "rank": 13,
-      "name": "Aся",
+      "name": ".",
       "value": 24
     },
     {
       "rank": 14,
-      "name": ".",
-      "value": 24
+      "name": "Aся",
+      "value": 23
     },
     {
       "rank": 15,
@@ -1551,7 +1551,7 @@
     {
       "rank": 18,
       "name": "Юрий",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 19,
@@ -1585,132 +1585,132 @@
     },
     {
       "rank": 25,
-      "name": "X888",
-      "value": 9
-    },
-    {
-      "rank": 26,
       "name": "Анастасия",
       "value": 8
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "ᴦоᴧод",
       "value": 8
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Сергей",
       "value": 7
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 7
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Евгений",
       "value": 7
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Александр",
       "value": 7
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "lefkorosos",
       "value": 7
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "A.",
       "value": 6
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 6
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "I",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Don Michele Corleone",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Charlie Shefelman",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Мое имя Максим",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Olga Goncharova",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "E X O",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Lina",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "Mikhail",
       "value": 3
     }
   ],
@@ -1718,7 +1718,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 2,
