@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T22:21:43+00:00",
+  "updated": "2026-10-27T04:56:26+00:00",
   "count": 243,
   "has_movement": true,
   "all": [
@@ -301,7 +301,7 @@
       "rank": 50,
       "name": "Руслан Иванов",
       "value": 93,
-      "move": 3
+      "move": 2
     },
     {
       "rank": 51,
@@ -319,7 +319,7 @@
       "rank": 53,
       "name": "Sergey СЕО",
       "value": 88,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 54,
@@ -331,19 +331,19 @@
       "rank": 55,
       "name": "SPM",
       "value": 84,
-      "move": 1
+      "move": 2
     },
     {
       "rank": 56,
       "name": "LlirikMK",
       "value": 81,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 57,
       "name": "Andrey Kuimov",
       "value": 78,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 58,
@@ -523,7 +523,7 @@
       "rank": 87,
       "name": "Анастасия",
       "value": 18,
-      "move": 9
+      "move": 4
     },
     {
       "rank": 88,
@@ -553,31 +553,31 @@
       "rank": 92,
       "name": "Евгений",
       "value": 17,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 93,
       "name": "Money",
       "value": 17,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 94,
       "name": "lefkorosos",
       "value": 16,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 95,
       "name": "Turchyn Gennadii",
       "value": 15,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 96,
       "name": "Marina",
       "value": 15,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 97,
@@ -637,91 +637,91 @@
       "rank": 106,
       "name": "Don Michele Corleone",
       "value": 10,
-      "move": 4
+      "move": 0
     },
     {
       "rank": 107,
       "name": "Олег",
       "value": 10,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 108,
       "name": "Dede",
       "value": 10,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 109,
       "name": "Snowflake ❄️",
       "value": 10,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 110,
       "name": "***",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 111,
       "name": "Виталий",
       "value": 9,
-      "move": 9
+      "move": 0
     },
     {
       "rank": 112,
       "name": "Demius",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 113,
       "name": "Sergey",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 114,
       "name": "Юрий",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 115,
       "name": "xxx",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 116,
       "name": "Kirill",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 117,
       "name": "Ingvar 604",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 118,
       "name": "Daniil",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 119,
       "name": "Homelander",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 120,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 121,
@@ -901,7 +901,7 @@
       "rank": 150,
       "name": "разбитые руки",
       "value": 3,
-      "move": null
+      "move": 90
     },
     {
       "rank": 151,
@@ -1459,7 +1459,7 @@
       "rank": 243,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -2
     }
   ],
   "month": [
@@ -1476,7 +1476,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 90
+      "value": 87
     },
     {
       "rank": 4,
@@ -1545,13 +1545,13 @@
     },
     {
       "rank": 17,
-      "name": "Юрий",
+      "name": "Pavel",
       "value": 19
     },
     {
       "rank": 18,
-      "name": "Pavel",
-      "value": 19
+      "name": "Юрий",
+      "value": 18
     },
     {
       "rank": 19,
