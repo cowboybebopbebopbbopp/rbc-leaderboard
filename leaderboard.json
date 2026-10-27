@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T15:56:33+00:00",
+  "updated": "2026-10-27T16:56:34+00:00",
   "count": 246,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4568,
+      "value": 4569,
       "move": 0
     },
     {
@@ -168,7 +168,7 @@
     {
       "rank": 28,
       "name": "Manis Love",
-      "value": 208,
+      "value": 210,
       "move": 0
     },
     {
@@ -1484,7 +1484,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 202
+      "value": 203
     },
     {
       "rank": 2,
@@ -1578,28 +1578,28 @@
     },
     {
       "rank": 20,
-      "name": "@wavesscalper",
+      "name": "Manis Love",
       "value": 11
     },
     {
       "rank": 21,
-      "name": "Marina",
+      "name": "@wavesscalper",
       "value": 11
     },
     {
       "rank": 22,
+      "name": "Marina",
+      "value": 11
+    },
+    {
+      "rank": 23,
       "name": "Юрий",
       "value": 10
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Max",
       "value": 10
-    },
-    {
-      "rank": 24,
-      "name": "Manis Love",
-      "value": 9
     },
     {
       "rank": 25,
@@ -1736,7 +1736,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 2,
@@ -1800,92 +1800,92 @@
     },
     {
       "rank": 14,
-      "name": "Crypto Panda",
-      "value": 6
-    },
-    {
-      "rank": 15,
       "name": "Евгений",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "I",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Андрей",
       "value": 5
     },
     {
+      "rank": 18,
+      "name": "Crypto Panda",
+      "value": 5
+    },
+    {
       "rank": 19,
-      "name": "Виталий",
+      "name": "Manis Love",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Виталий",
       "value": 4
     },
     {
       "rank": 21,
-      "name": "ᴦоᴧод",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
       "rank": 22,
-      "name": "Marina",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
       "rank": 23,
+      "name": "Marina",
+      "value": 4
+    },
+    {
+      "rank": 24,
       "name": "Pavel",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "E X O",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Vitaliy",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Max⚡️",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Александр",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Олег",
       "value": 3
     },
     {
-      "rank": 30,
-      "name": "Max",
-      "value": 3
-    },
-    {
       "rank": 31,
-      "name": "Don Michele Corleone",
+      "name": "Max",
       "value": 3
     },
     {
@@ -1895,42 +1895,42 @@
     },
     {
       "rank": 33,
-      "name": "Manis Love",
-      "value": 2
-    },
-    {
-      "rank": 34,
       "name": "AnTon",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "zomg",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "🌝",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Sonic",
+      "value": 2
+    },
+    {
+      "rank": 40,
+      "name": "Don Michele Corleone",
       "value": 2
     },
     {
