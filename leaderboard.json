@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T20:56:37+00:00",
-  "count": 246,
+  "updated": "2026-10-27T21:56:37+00:00",
+  "count": 247,
   "has_movement": true,
   "all": [
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 171,
+      "value": 173,
       "move": 0
     },
     {
@@ -300,7 +300,7 @@
     {
       "rank": 50,
       "name": "Руслан Иванов",
-      "value": 95,
+      "value": 96,
       "move": 2
     },
     {
@@ -378,13 +378,13 @@
     {
       "rank": 63,
       "name": "I",
-      "value": 54,
+      "value": 55,
       "move": 0
     },
     {
       "rank": 64,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 53,
+      "value": 54,
       "move": 0
     },
     {
@@ -1475,9 +1475,15 @@
     },
     {
       "rank": 246,
+      "name": "Sem TS",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 247,
       "name": "vitaliy",
       "value": 0,
-      "move": -5
+      "move": -6
     }
   ],
   "month": [
@@ -1494,7 +1500,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 82
+      "value": 81
     },
     {
       "rank": 4,
@@ -1504,7 +1510,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 6,
@@ -1538,13 +1544,13 @@
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
-      "value": 25
+      "name": ".",
+      "value": 26
     },
     {
       "rank": 13,
-      "name": ".",
-      "value": 24
+      "name": "Vitaliy",
+      "value": 25
     },
     {
       "rank": 14,
@@ -1648,32 +1654,32 @@
     },
     {
       "rank": 34,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 6
     },
     {
       "rank": 35,
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 6
+    },
+    {
+      "rank": 36,
+      "name": "I",
+      "value": 6
+    },
+    {
+      "rank": 37,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 36,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 5
-    },
-    {
-      "rank": 37,
+      "rank": 38,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 38,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 5
-    },
-    {
       "rank": 39,
-      "name": "I",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
@@ -1751,7 +1757,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 5,
@@ -1795,17 +1801,17 @@
     },
     {
       "rank": 13,
+      "name": "I",
+      "value": 6
+    },
+    {
+      "rank": 14,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 14,
-      "name": "Евгений",
-      "value": 5
-    },
-    {
       "rank": 15,
-      "name": "I",
+      "name": "Евгений",
       "value": 5
     },
     {
@@ -1825,42 +1831,42 @@
     },
     {
       "rank": 19,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "Crypto Panda",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
       "rank": 21,
-      "name": "Marina",
+      "name": "Crypto Panda",
       "value": 4
     },
     {
       "rank": 22,
+      "name": "Marina",
+      "value": 4
+    },
+    {
+      "rank": 23,
+      "name": ".",
+      "value": 4
+    },
+    {
+      "rank": 24,
       "name": "E X O",
       "value": 3
     },
     {
-      "rank": 23,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 3
-    },
-    {
-      "rank": 24,
+      "rank": 25,
       "name": "Vitaliy",
       "value": 3
     },
     {
-      "rank": 25,
-      "name": "Max⚡️",
-      "value": 3
-    },
-    {
       "rank": 26,
-      "name": "Александр",
+      "name": "Max⚡️",
       "value": 3
     },
     {
@@ -1900,17 +1906,17 @@
     },
     {
       "rank": 34,
-      "name": "Мое имя Максим",
+      "name": "Александр",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "ᴦоᴧод",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
       "rank": 36,
-      "name": ".",
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
@@ -1965,11 +1971,6 @@
     },
     {
       "rank": 47,
-      "name": "🌝",
-      "value": 1
-    },
-    {
-      "rank": 48,
       "name": "Don Michele Corleone",
       "value": 1
     }
