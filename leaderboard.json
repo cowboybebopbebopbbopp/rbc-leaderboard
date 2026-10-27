@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T08:56:29+00:00",
+  "updated": "2026-10-27T09:56:29+00:00",
   "count": 243,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4560,
+      "value": 4562,
       "move": 0
     },
     {
@@ -216,7 +216,7 @@
     {
       "rank": 36,
       "name": "Vitaliy",
-      "value": 135,
+      "value": 136,
       "move": 0
     },
     {
@@ -1466,7 +1466,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 197
+      "value": 199
     },
     {
       "rank": 2,
@@ -1486,12 +1486,12 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 57
+      "value": 56
     },
     {
       "rank": 6,
       "name": "SPM",
-      "value": 56
+      "value": 52
     },
     {
       "rank": 7,
@@ -1520,7 +1520,7 @@
     },
     {
       "rank": 12,
-      "name": ".",
+      "name": "Vitaliy",
       "value": 25
     },
     {
@@ -1530,7 +1530,7 @@
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
+      "name": ".",
       "value": 24
     },
     {
@@ -1595,32 +1595,32 @@
     },
     {
       "rank": 27,
-      "name": "Александр",
-      "value": 8
-    },
-    {
-      "rank": 28,
       "name": "ᴦоᴧод",
       "value": 8
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Сергей",
       "value": 7
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "iDiklonius",
       "value": 7
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Евгений",
+      "value": 7
+    },
+    {
+      "rank": 32,
+      "name": "Александр",
       "value": 7
     },
     {
@@ -1718,7 +1718,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 55
+      "value": 57
     },
     {
       "rank": 2,
@@ -1817,37 +1817,37 @@
     },
     {
       "rank": 21,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Vitaliy",
       "value": 4
     },
     {
       "rank": 22,
-      "name": "@wavesscalper",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
       "rank": 23,
-      "name": "ᴦоᴧод",
+      "name": "@wavesscalper",
       "value": 4
     },
     {
       "rank": 24,
-      "name": "Marina",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
       "rank": 25,
+      "name": "Marina",
+      "value": 4
+    },
+    {
+      "rank": 26,
       "name": "Pavel",
       "value": 3
     },
     {
-      "rank": 26,
-      "name": "E X O",
-      "value": 3
-    },
-    {
       "rank": 27,
-      "name": "Vitaliy",
+      "name": "E X O",
       "value": 3
     },
     {
