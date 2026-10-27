@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T14:56:32+00:00",
+  "updated": "2026-10-27T15:56:33+00:00",
   "count": 246,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 936,
+      "value": 938,
       "move": 0
     },
     {
@@ -1524,7 +1524,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 41
+      "value": 43
     },
     {
       "rank": 10,
@@ -1549,7 +1549,7 @@
     {
       "rank": 14,
       "name": "Aся",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 15,
@@ -1593,13 +1593,13 @@
     },
     {
       "rank": 23,
-      "name": "Manis Love",
+      "name": "Max",
       "value": 10
     },
     {
       "rank": 24,
-      "name": "Max",
-      "value": 10
+      "name": "Manis Love",
+      "value": 9
     },
     {
       "rank": 25,
@@ -1736,57 +1736,57 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 63
+      "value": 45
     },
     {
       "rank": 2,
-      "name": "🅾🅻🅶🅰",
-      "value": 25
-    },
-    {
-      "rank": 3,
       "name": "Viktor",
       "value": 24
     },
     {
-      "rank": 4,
-      "name": "Синдбад Мореход",
-      "value": 23
+      "rank": 3,
+      "name": "🅾🅻🅶🅰",
+      "value": 19
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Руслан Иванов",
       "value": 17
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "a l",
       "value": 14
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Князь Владимир С",
       "value": 13
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "LlirikMK",
       "value": 12
     },
     {
+      "rank": 8,
+      "name": "Синдбад Мореход",
+      "value": 12
+    },
+    {
       "rank": 9,
+      "name": "Zero-sum Gamer",
+      "value": 11
+    },
+    {
+      "rank": 10,
       "name": "Archie",
       "value": 10
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": ".",
       "value": 10
-    },
-    {
-      "rank": 11,
-      "name": "Zero-sum Gamer",
-      "value": 9
     },
     {
       "rank": 12,
@@ -1795,12 +1795,12 @@
     },
     {
       "rank": 13,
-      "name": "Crypto Panda",
-      "value": 7
+      "name": "Анастасия",
+      "value": 6
     },
     {
       "rank": 14,
-      "name": "Анастасия",
+      "name": "Crypto Panda",
       "value": 6
     },
     {
@@ -1845,57 +1845,57 @@
     },
     {
       "rank": 23,
-      "name": "Manis Love",
-      "value": 3
-    },
-    {
-      "rank": 24,
       "name": "Pavel",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "E X O",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Vitaliy",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Max⚡️",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Александр",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Олег",
       "value": 3
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Max",
       "value": 3
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Don Michele Corleone",
       "value": 3
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Юрий",
+      "value": 2
+    },
+    {
+      "rank": 33,
+      "name": "Manis Love",
       "value": 2
     },
     {
@@ -1915,62 +1915,62 @@
     },
     {
       "rank": 37,
-      "name": "Andrey",
-      "value": 2
-    },
-    {
-      "rank": 38,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "🌝",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "разбитые руки",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "P!xel.Cat",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Charlie Shefelman",
+      "value": 1
+    },
+    {
+      "rank": 48,
+      "name": "Andrey",
       "value": 1
     },
     {
