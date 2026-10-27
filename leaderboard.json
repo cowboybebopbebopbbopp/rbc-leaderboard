@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:56:31+00:00",
+  "updated": "2026-10-27T12:56:31+00:00",
   "count": 244,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4563,
+      "value": 4565,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1029,
+      "value": 1030,
       "move": 0
     },
     {
@@ -1472,7 +1472,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 197
+      "value": 199
     },
     {
       "rank": 2,
@@ -1502,12 +1502,12 @@
     {
       "rank": 7,
       "name": "Синдбад Мореход",
-      "value": 48
+      "value": 47
     },
     {
       "rank": 8,
       "name": "Князь Владимир С",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 9,
@@ -1522,7 +1522,7 @@
     {
       "rank": 11,
       "name": "Viktor",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 12,
@@ -1724,7 +1724,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 58
+      "value": 60
     },
     {
       "rank": 2,
@@ -1739,7 +1739,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 5,
