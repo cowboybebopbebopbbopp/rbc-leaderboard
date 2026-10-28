@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T11:50:16+00:00",
+  "updated": "2026-10-28T12:50:16+00:00",
   "count": 249,
   "has_movement": true,
   "all": [
@@ -1502,7 +1502,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 206
+      "value": 205
     },
     {
       "rank": 2,
@@ -1552,7 +1552,7 @@
     {
       "rank": 11,
       "name": "LlirikMK",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 12,
@@ -1769,7 +1769,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 5,
@@ -1783,23 +1783,23 @@
     },
     {
       "rank": 7,
-      "name": "Archie",
-      "value": 9
-    },
-    {
-      "rank": 8,
       "name": "Князь Владимир С",
       "value": 9
     },
     {
+      "rank": 8,
+      "name": "Archie",
+      "value": 7
+    },
+    {
       "rank": 9,
-      "name": "SPM",
-      "value": 8
+      "name": "LlirikMK",
+      "value": 7
     },
     {
       "rank": 10,
-      "name": "LlirikMK",
-      "value": 7
+      "name": "SPM",
+      "value": 6
     },
     {
       "rank": 11,
@@ -1858,32 +1858,32 @@
     },
     {
       "rank": 22,
-      "name": "Crypto Panda",
-      "value": 4
-    },
-    {
-      "rank": 23,
       "name": "Marina",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Max⚡️",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Max",
+      "value": 3
+    },
+    {
+      "rank": 27,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 3
     },
     {
@@ -1918,47 +1918,47 @@
     },
     {
       "rank": 34,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 2
-    },
-    {
-      "rank": 35,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "разбитые руки",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "P!xel.Cat",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Charlie Shefelman",
+      "value": 1
+    },
+    {
+      "rank": 42,
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
