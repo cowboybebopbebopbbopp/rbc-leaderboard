@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T17:50:33+00:00",
+  "updated": "2026-10-28T18:50:38+00:00",
   "count": 249,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4580,
+      "value": 4581,
       "move": 0
     },
     {
@@ -246,7 +246,7 @@
     {
       "rank": 41,
       "name": "ᴦоᴧод",
-      "value": 125,
+      "value": 126,
       "move": 0
     },
     {
@@ -1502,7 +1502,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 206
+      "value": 205
     },
     {
       "rank": 2,
@@ -1517,7 +1517,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 79
+      "value": 78
     },
     {
       "rank": 5,
@@ -1556,13 +1556,13 @@
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
+      "name": ".",
       "value": 26
     },
     {
       "rank": 13,
-      "name": ".",
-      "value": 26
+      "name": "Vitaliy",
+      "value": 25
     },
     {
       "rank": 14,
@@ -1611,17 +1611,17 @@
     },
     {
       "rank": 23,
+      "name": "ᴦоᴧод",
+      "value": 10
+    },
+    {
+      "rank": 24,
       "name": "Серхио Ле'Трас",
       "value": 9
     },
     {
-      "rank": 24,
-      "name": "Сергей",
-      "value": 9
-    },
-    {
       "rank": 25,
-      "name": "ᴦоᴧод",
+      "name": "Сергей",
       "value": 9
     },
     {
@@ -1631,83 +1631,83 @@
     },
     {
       "rank": 27,
-      "name": "DenisNazarov",
-      "value": 7
-    },
-    {
-      "rank": 28,
       "name": "iDiklonius",
       "value": 7
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Евгений",
       "value": 7
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Александр",
       "value": 7
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "lefkorosos",
       "value": 7
     },
     {
-      "rank": 32,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "rank": 31,
+      "name": "DenisNazarov",
       "value": 6
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 6
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "I",
       "value": 6
     },
     {
-      "rank": 35,
-      "name": "Юрий",
-      "value": 5
-    },
-    {
-      "rank": 36,
+      "rank": 34,
       "name": "A.",
       "value": 5
     },
     {
-      "rank": 37,
+      "rank": 35,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 36,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 5
+    },
+    {
+      "rank": 37,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Sonic",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Don Michele Corleone",
       "value": 5
+    },
+    {
+      "rank": 42,
+      "name": "Юрий",
+      "value": 4
     },
     {
       "rank": 43,
@@ -1754,7 +1754,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 2,
@@ -1853,17 +1853,17 @@
     },
     {
       "rank": 21,
+      "name": "ᴦоᴧод",
+      "value": 4
+    },
+    {
+      "rank": 22,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 22,
-      "name": "Max⚡️",
-      "value": 3
-    },
-    {
       "rank": 23,
-      "name": "ᴦоᴧод",
+      "name": "Max⚡️",
       "value": 3
     },
     {
@@ -1888,47 +1888,47 @@
     },
     {
       "rank": 28,
-      "name": "Pavel",
-      "value": 2
-    },
-    {
-      "rank": 29,
       "name": "E X O",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "AnTon",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "разбитые руки",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "A.",
+      "value": 1
+    },
+    {
+      "rank": 36,
+      "name": "Pavel",
       "value": 1
     },
     {
@@ -1963,16 +1963,11 @@
     },
     {
       "rank": 43,
-      "name": "Renat 🇷🇺🏴‍☠️",
-      "value": 1
-    },
-    {
-      "rank": 44,
       "name": "Marina",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Don Michele Corleone",
       "value": 1
     }
