@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T19:50:43+00:00",
+  "updated": "2026-10-28T20:50:48+00:00",
   "count": 249,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 881,
+      "value": 882,
       "move": 0
     },
     {
@@ -468,7 +468,7 @@
     {
       "rank": 78,
       "name": "Lina",
-      "value": 27,
+      "value": 28,
       "move": -1
     },
     {
@@ -1532,7 +1532,7 @@
     {
       "rank": 7,
       "name": "Синдбад Мореход",
-      "value": 47
+      "value": 48
     },
     {
       "rank": 8,
@@ -1721,32 +1721,32 @@
     },
     {
       "rank": 45,
-      "name": "Олег",
+      "name": "Lina",
       "value": 4
     },
     {
       "rank": 46,
-      "name": "Мое имя Максим",
+      "name": "Олег",
       "value": 4
     },
     {
       "rank": 47,
-      "name": "Olga Goncharova",
+      "name": "Мое имя Максим",
       "value": 4
     },
     {
       "rank": 48,
-      "name": "Ponemonec",
+      "name": "Olga Goncharova",
       "value": 4
     },
     {
       "rank": 49,
-      "name": "Юрий",
-      "value": 3
+      "name": "Ponemonec",
+      "value": 4
     },
     {
       "rank": 50,
-      "name": "E X O",
+      "name": "Юрий",
       "value": 3
     }
   ],
@@ -1774,7 +1774,7 @@
     {
       "rank": 5,
       "name": "Синдбад Мореход",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 6,
@@ -1888,62 +1888,62 @@
     },
     {
       "rank": 28,
-      "name": "AnTon",
-      "value": 2
-    },
-    {
-      "rank": 29,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "разбитые руки",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "P!xel.Cat",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Евгений",
+      "value": 1
+    },
+    {
+      "rank": 39,
+      "name": "Lina",
       "value": 1
     },
     {
