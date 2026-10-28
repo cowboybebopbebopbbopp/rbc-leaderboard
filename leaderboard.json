@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T05:56:42+00:00",
+  "updated": "2026-10-28T08:27:18+00:00",
   "count": 249,
   "has_movement": true,
   "all": [
@@ -1502,7 +1502,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 204
+      "value": 202
     },
     {
       "rank": 2,
@@ -1517,7 +1517,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 80
+      "value": 79
     },
     {
       "rank": 5,
@@ -1611,18 +1611,18 @@
     },
     {
       "rank": 23,
-      "name": "Анастасия",
-      "value": 10
-    },
-    {
-      "rank": 24,
       "name": "Max",
       "value": 10
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Сергей",
       "value": 9
+    },
+    {
+      "rank": 25,
+      "name": "Анастасия",
+      "value": 8
     },
     {
       "rank": 26,
@@ -1631,53 +1631,53 @@
     },
     {
       "rank": 27,
-      "name": "Юрий",
-      "value": 7
-    },
-    {
-      "rank": 28,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "iDiklonius",
       "value": 7
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Евгений",
       "value": 7
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Александр",
       "value": 7
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "lefkorosos",
       "value": 7
     },
     {
-      "rank": 33,
-      "name": "A.",
-      "value": 6
-    },
-    {
-      "rank": 34,
+      "rank": 32,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 6
     },
     {
-      "rank": 35,
+      "rank": 33,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 6
     },
     {
-      "rank": 36,
+      "rank": 34,
       "name": "I",
       "value": 6
+    },
+    {
+      "rank": 35,
+      "name": "Юрий",
+      "value": 5
+    },
+    {
+      "rank": 36,
+      "name": "A.",
+      "value": 5
     },
     {
       "rank": 37,
@@ -1778,77 +1778,77 @@
     },
     {
       "rank": 6,
-      "name": "Zero-sum Gamer",
-      "value": 11
-    },
-    {
-      "rank": 7,
       "name": "Archie",
       "value": 10
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "a l",
       "value": 9
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Князь Владимир С",
       "value": 9
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "SPM",
       "value": 8
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Анастасия",
       "value": 8
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "LlirikMK",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "I",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "@wavesscalper",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Евгений",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Олег",
+      "value": 4
+    },
+    {
+      "rank": 20,
+      "name": "Zero-sum Gamer",
       "value": 4
     },
     {
