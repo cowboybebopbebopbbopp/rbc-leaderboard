@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T01:56:39+00:00",
+  "updated": "2026-10-28T02:56:40+00:00",
   "count": 247,
   "has_movement": true,
   "all": [
@@ -114,7 +114,7 @@
     {
       "rank": 19,
       "name": "@wavesscalper",
-      "value": 356,
+      "value": 357,
       "move": 0
     },
     {
@@ -1590,7 +1590,7 @@
     {
       "rank": 21,
       "name": "@wavesscalper",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 22,
@@ -1806,17 +1806,17 @@
     },
     {
       "rank": 14,
+      "name": "@wavesscalper",
+      "value": 6
+    },
+    {
+      "rank": 15,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 15,
-      "name": "Евгений",
-      "value": 5
-    },
-    {
       "rank": 16,
-      "name": "@wavesscalper",
+      "name": "Евгений",
       "value": 5
     },
     {
