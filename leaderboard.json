@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:50:48+00:00",
+  "updated": "2026-10-28T21:50:53+00:00",
   "count": 249,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1876,
+      "value": 1878,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 882,
+      "value": 883,
       "move": 0
     },
     {
@@ -1502,7 +1502,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 206
+      "value": 205
     },
     {
       "rank": 2,
@@ -1517,7 +1517,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 78
+      "value": 80
     },
     {
       "rank": 5,
@@ -1532,7 +1532,7 @@
     {
       "rank": 7,
       "name": "Синдбад Мореход",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 8,
@@ -1774,7 +1774,7 @@
     {
       "rank": 5,
       "name": "Синдбад Мореход",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 6,
@@ -1784,31 +1784,31 @@
     {
       "rank": 7,
       "name": "Archie",
-      "value": 7
+      "value": 9
     },
     {
       "rank": 8,
-      "name": "Князь Владимир С",
-      "value": 7
-    },
-    {
-      "rank": 9,
-      "name": "LlirikMK",
-      "value": 7
-    },
-    {
-      "rank": 10,
       "name": "SPM",
       "value": 6
     },
     {
-      "rank": 11,
+      "rank": 9,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 6
     },
     {
-      "rank": 12,
+      "rank": 10,
       "name": "Анастасия",
+      "value": 6
+    },
+    {
+      "rank": 11,
+      "name": "Князь Владимир С",
+      "value": 6
+    },
+    {
+      "rank": 12,
+      "name": "LlirikMK",
       "value": 6
     },
     {
@@ -1898,62 +1898,62 @@
     },
     {
       "rank": 30,
-      "name": "Max",
-      "value": 2
-    },
-    {
-      "rank": 31,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "разбитые руки",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Pavel",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "P!xel.Cat",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Lina",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Александр",
+      "value": 1
+    },
+    {
+      "rank": 41,
+      "name": "Max",
       "value": 1
     },
     {
