@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T09:01:57+00:00",
+  "updated": "2026-10-28T09:27:18+00:00",
   "count": 249,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1916,
+      "value": 1917,
       "move": 0
     },
     {
@@ -827,87 +827,87 @@
     },
     {
       "rank": 138,
-      "name": "Ilya",
-      "value": 3,
-      "move": -2
+      "name": "Sonic",
+      "value": 4,
+      "move": 11
     },
     {
       "rank": 139,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 140,
-      "name": "Sviat",
+      "name": "Samurai_1",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 141,
-      "name": "1",
+      "name": "Sviat",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 142,
-      "name": "Neztor",
+      "name": "1",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 143,
-      "name": "Максим",
+      "name": "Neztor",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 144,
-      "name": "Денис Сергеевич",
+      "name": "Максим",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 145,
-      "name": "ц",
+      "name": "Денис Сергеевич",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 146,
-      "name": "Stepan",
+      "name": "ц",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 147,
-      "name": "İl",
+      "name": "Stepan",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 148,
-      "name": "Roman",
+      "name": "İl",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 149,
-      "name": "zomg",
+      "name": "Roman",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 150,
-      "name": "Logrus",
+      "name": "zomg",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 151,
-      "name": "Sonic",
+      "name": "Logrus",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 152,
@@ -1512,7 +1512,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 81
+      "value": 82
     },
     {
       "rank": 4,
@@ -1546,12 +1546,12 @@
     },
     {
       "rank": 10,
-      "name": "LlirikMK",
-      "value": 31
+      "name": "Viktor",
+      "value": 30
     },
     {
       "rank": 11,
-      "name": "Viktor",
+      "name": "LlirikMK",
       "value": 30
     },
     {
@@ -1764,12 +1764,12 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 5,
@@ -1838,52 +1838,52 @@
     },
     {
       "rank": 18,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 4
-    },
-    {
-      "rank": 19,
       "name": "Олег",
       "value": 4
     },
     {
-      "rank": 20,
-      "name": "Zero-sum Gamer",
-      "value": 4
-    },
-    {
-      "rank": 21,
+      "rank": 19,
       "name": "Crypto Panda",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 20,
       "name": "Marina",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 21,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 22,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 23,
       "name": "Vitaliy",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 24,
       "name": "Max⚡️",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 25,
+      "name": "Zero-sum Gamer",
+      "value": 3
+    },
+    {
+      "rank": 26,
       "name": "Max",
+      "value": 3
+    },
+    {
+      "rank": 27,
+      "name": "Sonic",
       "value": 3
     },
     {
@@ -1918,22 +1918,22 @@
     },
     {
       "rank": 34,
-      "name": "Александр",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "Мое имя Максим",
+      "name": "Александр",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "ᴦоᴧод",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "Sonic",
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
