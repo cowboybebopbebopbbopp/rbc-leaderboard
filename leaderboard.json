@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T04:56:41+00:00",
+  "updated": "2026-10-28T05:56:42+00:00",
   "count": 249,
   "has_movement": true,
   "all": [
@@ -156,7 +156,7 @@
     {
       "rank": 26,
       "name": "Алексей",
-      "value": 216,
+      "value": 217,
       "move": 1
     },
     {
@@ -1522,7 +1522,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 58
+      "value": 57
     },
     {
       "rank": 6,
@@ -1809,7 +1809,7 @@
     {
       "rank": 12,
       "name": "LlirikMK",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 13,
@@ -1838,58 +1838,58 @@
     },
     {
       "rank": 18,
-      "name": "Виталий",
-      "value": 4
-    },
-    {
-      "rank": 19,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Олег",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Crypto Panda",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Marina",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 25,
-      "name": "E X O",
+      "rank": 24,
+      "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Vitaliy",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Max⚡️",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Max",
       "value": 3
+    },
+    {
+      "rank": 28,
+      "name": "Алексей",
+      "value": 2
     },
     {
       "rank": 29,
@@ -1903,43 +1903,43 @@
     },
     {
       "rank": 31,
-      "name": "AnTon",
+      "name": "E X O",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Сергей",
+      "name": "AnTon",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Александр",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Мое имя Максим",
+      "name": "Александр",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "ᴦоᴧод",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Sonic",
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "разбитые руки",
+      "name": "Sonic",
       "value": 2
     },
     {
       "rank": 38,
-      "name": "Алексей",
-      "value": 1
+      "name": "разбитые руки",
+      "value": 2
     },
     {
       "rank": 39,
