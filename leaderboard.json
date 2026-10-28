@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T02:56:40+00:00",
-  "count": 247,
+  "updated": "2026-10-28T03:56:41+00:00",
+  "count": 249,
   "has_movement": true,
   "all": [
     {
@@ -1481,9 +1481,21 @@
     },
     {
       "rank": 247,
+      "name": "Selina Lyn",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 248,
+      "name": "Ashly Jez",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 249,
       "name": "vitaliy",
       "value": 0,
-      "move": -4
+      "move": -6
     }
   ],
   "month": [
@@ -1761,18 +1773,18 @@
     },
     {
       "rank": 5,
-      "name": "a l",
-      "value": 14
-    },
-    {
-      "rank": 6,
       "name": "Синдбад Мореход",
       "value": 11
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Zero-sum Gamer",
       "value": 11
+    },
+    {
+      "rank": 7,
+      "name": "a l",
+      "value": 10
     },
     {
       "rank": 8,
@@ -1941,36 +1953,31 @@
     },
     {
       "rank": 41,
-      "name": "Logrus",
-      "value": 1
-    },
-    {
-      "rank": 42,
       "name": "P!xel.Cat",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Роман",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "FiveFingers",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Don Michele Corleone",
       "value": 1
     }
