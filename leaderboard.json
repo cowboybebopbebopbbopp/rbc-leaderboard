@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T10:50:16+00:00",
+  "updated": "2026-10-28T11:50:16+00:00",
   "count": 249,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4573,
+      "value": 4575,
       "move": 0
     },
     {
@@ -300,7 +300,7 @@
     {
       "rank": 50,
       "name": "Руслан Иванов",
-      "value": 96,
+      "value": 97,
       "move": 0
     },
     {
@@ -827,87 +827,87 @@
     },
     {
       "rank": 138,
-      "name": "Марина",
+      "name": "Logrus",
       "value": 4,
-      "move": -3
+      "move": 10
     },
     {
       "rank": 139,
-      "name": "Ilya",
-      "value": 3,
-      "move": -3
+      "name": "Марина",
+      "value": 4,
+      "move": -4
     },
     {
       "rank": 140,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 141,
-      "name": "Sviat",
+      "name": "Samurai_1",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 142,
-      "name": "1",
+      "name": "Sviat",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 143,
-      "name": "Neztor",
+      "name": "1",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 144,
-      "name": "Максим",
+      "name": "Neztor",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 145,
-      "name": "Денис Сергеевич",
+      "name": "Максим",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 146,
-      "name": "ц",
+      "name": "Денис Сергеевич",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 147,
-      "name": "Stepan",
+      "name": "ц",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 148,
-      "name": "İl",
+      "name": "Stepan",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 149,
-      "name": "Roman",
+      "name": "İl",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 150,
-      "name": "zomg",
+      "name": "Roman",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 151,
-      "name": "Logrus",
+      "name": "zomg",
       "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 152,
@@ -1502,7 +1502,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 204
+      "value": 206
     },
     {
       "rank": 2,
@@ -1522,7 +1522,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 6,
@@ -1758,12 +1758,12 @@
     },
     {
       "rank": 2,
-      "name": "🅾🅻🅶🅰",
-      "value": 25
+      "name": "Viktor",
+      "value": 24
     },
     {
       "rank": 3,
-      "name": "Viktor",
+      "name": "🅾🅻🅶🅰",
       "value": 24
     },
     {
@@ -1798,13 +1798,13 @@
     },
     {
       "rank": 10,
-      "name": "Анастасия",
-      "value": 8
+      "name": "LlirikMK",
+      "value": 7
     },
     {
       "rank": 11,
-      "name": "LlirikMK",
-      "value": 7
+      "name": "Анастасия",
+      "value": 6
     },
     {
       "rank": 12,
@@ -1923,32 +1923,32 @@
     },
     {
       "rank": 35,
-      "name": "Александр",
-      "value": 2
-    },
-    {
-      "rank": 36,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "разбитые руки",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "A.",
+      "value": 1
+    },
+    {
+      "rank": 40,
+      "name": "Logrus",
       "value": 1
     },
     {
@@ -1963,21 +1963,26 @@
     },
     {
       "rank": 43,
-      "name": "Роман",
+      "name": "Александр",
       "value": 1
     },
     {
       "rank": 44,
-      "name": "FiveFingers",
+      "name": "Роман",
       "value": 1
     },
     {
       "rank": 45,
-      "name": "Renat 🇷🇺🏴‍☠️",
+      "name": "FiveFingers",
       "value": 1
     },
     {
       "rank": 46,
+      "name": "Renat 🇷🇺🏴‍☠️",
+      "value": 1
+    },
+    {
+      "rank": 47,
       "name": "Don Michele Corleone",
       "value": 1
     }
