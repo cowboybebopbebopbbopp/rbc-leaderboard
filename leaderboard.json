@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T16:55:26+00:00",
+  "updated": "2026-10-29T17:55:32+00:00",
   "count": 250,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4590,
+      "value": 4593,
       "move": 0
     },
     {
@@ -1508,7 +1508,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 209
+      "value": 212
     },
     {
       "rank": 2,
@@ -1712,43 +1712,43 @@
     },
     {
       "rank": 42,
-      "name": "Юрий",
-      "value": 4
-    },
-    {
-      "rank": 43,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Charlie Shefelman",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Lina",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Олег",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Мое имя Максим",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Olga Goncharova",
       "value": 4
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Ponemonec",
       "value": 4
+    },
+    {
+      "rank": 49,
+      "name": "Юрий",
+      "value": 3
     },
     {
       "rank": 50,
@@ -1764,33 +1764,33 @@
     },
     {
       "rank": 2,
-      "name": "Viktor",
-      "value": 25
-    },
-    {
-      "rank": 3,
       "name": "🅾🅻🅶🅰",
       "value": 15
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Синдбад Мореход",
       "value": 15
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Руслан Иванов",
       "value": 14
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "a l",
       "value": 9
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "SPM",
       "value": 9
+    },
+    {
+      "rank": 7,
+      "name": "Viktor",
+      "value": 8
     },
     {
       "rank": 8,
