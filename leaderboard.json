@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T15:55:20+00:00",
-  "count": 249,
+  "updated": "2026-10-29T16:55:26+00:00",
+  "count": 250,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4589,
+      "value": 4590,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1032,
+      "value": 1033,
       "move": 0
     },
     {
@@ -366,7 +366,7 @@
     {
       "rank": 61,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 57,
+      "value": 58,
       "move": 3
     },
     {
@@ -377,15 +377,15 @@
     },
     {
       "rank": 63,
-      "name": "Ars",
+      "name": "I",
       "value": 56,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 64,
-      "name": "I",
-      "value": 55,
-      "move": -1
+      "name": "Ars",
+      "value": 56,
+      "move": -2
     },
     {
       "rank": 65,
@@ -1493,16 +1493,22 @@
     },
     {
       "rank": 249,
+      "name": "Alix Alix",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 250,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 208
+      "value": 209
     },
     {
       "rank": 2,
@@ -1547,7 +1553,7 @@
     {
       "rank": 10,
       "name": "Viktor",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 11,
@@ -1621,37 +1627,37 @@
     },
     {
       "rank": 25,
-      "name": "Анастасия",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
       "rank": 26,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 7
+      "name": "Анастасия",
+      "value": 8
     },
     {
       "rank": 27,
-      "name": "Серхио Ле'Трас",
-      "value": 7
-    },
-    {
-      "rank": 28,
       "name": "iDiklonius",
       "value": 7
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Евгений",
       "value": 7
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Александр",
       "value": 7
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "lefkorosos",
+      "value": 7
+    },
+    {
+      "rank": 31,
+      "name": "I",
       "value": 7
     },
     {
@@ -1666,27 +1672,27 @@
     },
     {
       "rank": 34,
-      "name": "I",
-      "value": 6
-    },
-    {
-      "rank": 35,
       "name": "Don Michele Corleone",
       "value": 6
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "A.",
       "value": 5
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "AnTon",
+      "value": 5
+    },
+    {
+      "rank": 38,
+      "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
@@ -1754,27 +1760,27 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 51
+      "value": 52
     },
     {
       "rank": 2,
       "name": "Viktor",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 3,
-      "name": "Руслан Иванов",
-      "value": 16
-    },
-    {
-      "rank": 4,
       "name": "🅾🅻🅶🅰",
       "value": 15
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Синдбад Мореход",
       "value": 15
+    },
+    {
+      "rank": 5,
+      "name": "Руслан Иванов",
+      "value": 14
     },
     {
       "rank": 6,
@@ -1788,32 +1794,32 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
       "rank": 9,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 7
+      "name": "Archie",
+      "value": 8
     },
     {
       "rank": 10,
+      "name": "I",
+      "value": 7
+    },
+    {
+      "rank": 11,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Анастасия",
       "value": 6
     },
     {
-      "rank": 12,
-      "name": "Князь Владимир С",
-      "value": 6
-    },
-    {
       "rank": 13,
-      "name": "I",
+      "name": "Князь Владимир С",
       "value": 6
     },
     {
