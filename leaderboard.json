@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:55:53+00:00",
+  "updated": "2026-10-29T22:55:58+00:00",
   "count": 252,
   "has_movement": true,
   "all": [
@@ -1801,12 +1801,12 @@
     },
     {
       "rank": 7,
-      "name": "Archie",
-      "value": 9
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 8
     },
     {
       "rank": 8,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Archie",
       "value": 8
     },
     {
@@ -1826,18 +1826,18 @@
     },
     {
       "rank": 12,
-      "name": "Manis Love",
-      "value": 6
-    },
-    {
-      "rank": 13,
       "name": "Анастасия",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "@wavesscalper",
       "value": 6
+    },
+    {
+      "rank": 14,
+      "name": "Manis Love",
+      "value": 5
     },
     {
       "rank": 15,
@@ -1906,38 +1906,38 @@
     },
     {
       "rank": 28,
-      "name": "Юрий",
-      "value": 2
-    },
-    {
-      "rank": 29,
       "name": "E X O",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "разбитые руки",
       "value": 2
+    },
+    {
+      "rank": 34,
+      "name": "Юрий",
+      "value": 1
     },
     {
       "rank": 35,
