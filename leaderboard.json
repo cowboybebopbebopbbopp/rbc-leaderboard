@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T07:51:43+00:00",
+  "updated": "2026-10-29T08:51:48+00:00",
   "count": 249,
   "has_movement": true,
   "all": [
@@ -1536,12 +1536,12 @@
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
-      "value": 45
+      "name": "Князь Владимир С",
+      "value": 44
     },
     {
       "rank": 9,
-      "name": "Князь Владимир С",
+      "name": "Zero-sum Gamer",
       "value": 44
     },
     {
@@ -1913,51 +1913,46 @@
     },
     {
       "rank": 33,
-      "name": "Pavel",
-      "value": 1
-    },
-    {
-      "rank": 34,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "P!xel.Cat",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Lina",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "FiveFingers",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Marina",
       "value": 1
     }
