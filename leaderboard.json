@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T09:51:54+00:00",
+  "updated": "2026-10-29T10:51:59+00:00",
   "count": 249,
   "has_movement": true,
   "all": [
@@ -323,15 +323,15 @@
     },
     {
       "rank": 54,
-      "name": "Павел Корчагин",
-      "value": 86,
-      "move": 0
+      "name": "SPM",
+      "value": 87,
+      "move": 1
     },
     {
       "rank": 55,
-      "name": "SPM",
-      "value": 85,
-      "move": 0
+      "name": "Павел Корчагин",
+      "value": 86,
+      "move": -1
     },
     {
       "rank": 56,
@@ -1502,7 +1502,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 204
+      "value": 203
     },
     {
       "rank": 2,
@@ -1522,17 +1522,17 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 60
+      "value": 59
     },
     {
       "rank": 6,
-      "name": "Синдбад Мореход",
+      "name": "SPM",
       "value": 52
     },
     {
       "rank": 7,
-      "name": "SPM",
-      "value": 50
+      "name": "Синдбад Мореход",
+      "value": 52
     },
     {
       "rank": 8,
@@ -1542,7 +1542,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 10,
@@ -1783,13 +1783,13 @@
     },
     {
       "rank": 7,
-      "name": "Archie",
-      "value": 8
+      "name": "SPM",
+      "value": 9
     },
     {
       "rank": 8,
-      "name": "SPM",
-      "value": 7
+      "name": "Archie",
+      "value": 8
     },
     {
       "rank": 9,
