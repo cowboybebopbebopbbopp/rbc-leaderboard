@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T20:55:48+00:00",
-  "count": 251,
+  "updated": "2026-10-29T21:55:53+00:00",
+  "count": 252,
   "has_movement": true,
   "all": [
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1878,
+      "value": 1879,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 173,
+      "value": 174,
       "move": 0
     },
     {
@@ -1505,9 +1505,15 @@
     },
     {
       "rank": 251,
+      "name": "Bresman Ospina",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 252,
       "name": "vitaliy",
       "value": 0,
-      "move": -4
+      "move": -5
     }
   ],
   "month": [
@@ -1529,7 +1535,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 79
+      "value": 80
     },
     {
       "rank": 5,
@@ -1569,7 +1575,7 @@
     {
       "rank": 12,
       "name": ".",
-      "value": 26
+      "value": 27
     },
     {
       "rank": 13,
@@ -1795,12 +1801,12 @@
     },
     {
       "rank": 7,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 8
+      "name": "Archie",
+      "value": 9
     },
     {
       "rank": 8,
-      "name": "Archie",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
@@ -1885,47 +1891,47 @@
     },
     {
       "rank": 25,
-      "name": "Don Michele Corleone",
+      "name": ".",
       "value": 3
     },
     {
       "rank": 26,
+      "name": "Don Michele Corleone",
+      "value": 3
+    },
+    {
+      "rank": 27,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "E X O",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Евгений",
       "value": 2
     },
     {
-      "rank": 32,
-      "name": "Мое имя Максим",
-      "value": 2
-    },
-    {
       "rank": 33,
-      "name": ".",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
