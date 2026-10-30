@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T21:58:03+00:00",
-  "count": 257,
+  "updated": "2026-10-30T22:58:09+00:00",
+  "count": 260,
   "has_movement": true,
   "all": [
     {
@@ -1541,9 +1541,27 @@
     },
     {
       "rank": 257,
+      "name": "Мухич",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 258,
+      "name": "МС💬💪",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 259,
+      "name": "Александр",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 260,
       "name": "vitaliy",
       "value": 0,
-      "move": -8
+      "move": -11
     }
   ],
   "month": [
@@ -1555,7 +1573,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 89
+      "value": 88
     },
     {
       "rank": 3,
@@ -1640,7 +1658,7 @@
     {
       "rank": 19,
       "name": "terminal lucidity",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 20,
@@ -1724,77 +1742,77 @@
     },
     {
       "rank": 36,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
-      "value": 6
-    },
-    {
-      "rank": 37,
       "name": "Ponemonec",
       "value": 6
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "DenisNazarov",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Lina",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Sonic",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Олег",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Мое имя Максим",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Olga Goncharova",
       "value": 4
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "E X O",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Logrus",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "Max⚡️",
       "value": 3
     }
   ],
@@ -1802,7 +1820,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 53
+      "value": 52
     },
     {
       "rank": 2,
@@ -1881,82 +1899,82 @@
     },
     {
       "rank": 17,
-      "name": "Князь Владимир С",
-      "value": 4
-    },
-    {
-      "rank": 18,
       "name": "I",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Don Michele Corleone",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Max⚡️",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Олег",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "@wavesscalper",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": ".",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Sonic",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "E X O",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Сергей",
+      "value": 2
+    },
+    {
+      "rank": 32,
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
