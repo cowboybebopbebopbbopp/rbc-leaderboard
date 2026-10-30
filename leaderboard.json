@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T02:56:18+00:00",
+  "updated": "2026-10-30T03:56:23+00:00",
   "count": 252,
   "has_movement": true,
   "all": [
@@ -221,21 +221,21 @@
     },
     {
       "rank": 37,
-      "name": "Charlie Shefelman",
-      "value": 130,
-      "move": 1
+      "name": "ᴦоᴧод",
+      "value": 133,
+      "move": 4
     },
     {
       "rank": 38,
-      "name": "Andrey Tugarin",
+      "name": "Charlie Shefelman",
       "value": 130,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 39,
-      "name": "ᴦоᴧод",
-      "value": 129,
-      "move": 2
+      "name": "Andrey Tugarin",
+      "value": 130,
+      "move": -2
     },
     {
       "rank": 40,
@@ -1599,23 +1599,23 @@
     },
     {
       "rank": 17,
+      "name": "ᴦоᴧод",
+      "value": 17
+    },
+    {
+      "rank": 18,
       "name": "🤗",
       "value": 16
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "terminal lucidity",
       "value": 15
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Manis Love",
       "value": 14
-    },
-    {
-      "rank": 20,
-      "name": "ᴦоᴧод",
-      "value": 13
     },
     {
       "rank": 21,
@@ -1787,12 +1787,12 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 5,
-      "name": "a l",
-      "value": 9
+      "name": "ᴦоᴧод",
+      "value": 10
     },
     {
       "rank": 6,
@@ -1811,22 +1811,22 @@
     },
     {
       "rank": 9,
-      "name": "Анастасия",
+      "name": "a l",
       "value": 7
     },
     {
       "rank": 10,
-      "name": "Князь Владимир С",
+      "name": "Анастасия",
       "value": 7
     },
     {
       "rank": 11,
-      "name": "@wavesscalper",
-      "value": 6
+      "name": "Князь Владимир С",
+      "value": 7
     },
     {
       "rank": 12,
-      "name": "ᴦоᴧод",
+      "name": "@wavesscalper",
       "value": 6
     },
     {
