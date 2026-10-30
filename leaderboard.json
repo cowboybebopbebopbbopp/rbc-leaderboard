@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T06:56:38+00:00",
+  "updated": "2026-10-30T07:56:44+00:00",
   "count": 254,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4595,
+      "value": 4598,
       "move": 0
     },
     {
@@ -168,7 +168,7 @@
     {
       "rank": 28,
       "name": "Manis Love",
-      "value": 213,
+      "value": 214,
       "move": 0
     },
     {
@@ -366,7 +366,7 @@
     {
       "rank": 61,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 58,
+      "value": 60,
       "move": 1
     },
     {
@@ -468,7 +468,7 @@
     {
       "rank": 78,
       "name": "Lina",
-      "value": 28,
+      "value": 29,
       "move": 0
     },
     {
@@ -599,21 +599,21 @@
     },
     {
       "rank": 100,
-      "name": "Антон",
+      "name": "Don Michele Corleone",
       "value": 13,
-      "move": 0
+      "move": 7
     },
     {
       "rank": 101,
-      "name": "ki6ers",
+      "name": "Антон",
       "value": 13,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 102,
-      "name": "Don Michele Corleone",
-      "value": 12,
-      "move": 5
+      "name": "ki6ers",
+      "value": 13,
+      "move": -1
     },
     {
       "rank": 103,
@@ -1532,7 +1532,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 211
+      "value": 214
     },
     {
       "rank": 2,
@@ -1572,7 +1572,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 40
+      "value": 39
     },
     {
       "rank": 10,
@@ -1621,13 +1621,13 @@
     },
     {
       "rank": 19,
-      "name": "terminal lucidity",
+      "name": "Manis Love",
       "value": 15
     },
     {
       "rank": 20,
-      "name": "Manis Love",
-      "value": 14
+      "name": "terminal lucidity",
+      "value": 15
     },
     {
       "rank": 21,
@@ -1641,23 +1641,23 @@
     },
     {
       "rank": 23,
-      "name": "Анастасия",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 10
     },
     {
       "rank": 24,
-      "name": "Max",
+      "name": "Анастасия",
       "value": 10
     },
     {
       "rank": 25,
-      "name": "Сергей",
-      "value": 9
+      "name": "Max",
+      "value": 10
     },
     {
       "rank": 26,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 8
+      "name": "Сергей",
+      "value": 9
     },
     {
       "rank": 27,
@@ -1666,27 +1666,27 @@
     },
     {
       "rank": 28,
+      "name": "Don Michele Corleone",
+      "value": 8
+    },
+    {
+      "rank": 29,
       "name": "iDiklonius",
       "value": 7
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Александр",
       "value": 7
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "lefkorosos",
       "value": 7
     },
     {
-      "rank": 31,
-      "name": "I",
-      "value": 7
-    },
-    {
       "rank": 32,
-      "name": "Don Michele Corleone",
+      "name": "I",
       "value": 7
     },
     {
@@ -1726,27 +1726,27 @@
     },
     {
       "rank": 40,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Lina",
       "value": 5
     },
     {
       "rank": 41,
-      "name": "Андрей",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
       "rank": 42,
-      "name": "Sonic",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 43,
-      "name": "Aleksey",
-      "value": 4
+      "name": "Sonic",
+      "value": 5
     },
     {
       "rank": 44,
-      "name": "Lina",
+      "name": "Aleksey",
       "value": 4
     },
     {
@@ -1784,7 +1784,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 55
     },
     {
       "rank": 2,
@@ -1813,13 +1813,13 @@
     },
     {
       "rank": 7,
-      "name": "Archie",
-      "value": 9
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 10
     },
     {
       "rank": 8,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 8
+      "name": "Archie",
+      "value": 9
     },
     {
       "rank": 9,
@@ -1838,17 +1838,17 @@
     },
     {
       "rank": 12,
-      "name": "@wavesscalper",
+      "name": "Manis Love",
       "value": 6
     },
     {
       "rank": 13,
-      "name": "Viktor",
-      "value": 5
+      "name": "@wavesscalper",
+      "value": 6
     },
     {
       "rank": 14,
-      "name": "Manis Love",
+      "name": "Viktor",
       "value": 5
     },
     {
@@ -1878,37 +1878,37 @@
     },
     {
       "rank": 20,
+      "name": "Don Michele Corleone",
+      "value": 4
+    },
+    {
+      "rank": 21,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Max⚡️",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Олег",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": ".",
       "value": 3
     },
     {
-      "rank": 25,
-      "name": "Sonic",
-      "value": 3
-    },
-    {
       "rank": 26,
-      "name": "Don Michele Corleone",
+      "name": "Sonic",
       "value": 3
     },
     {
@@ -1938,52 +1938,52 @@
     },
     {
       "rank": 32,
-      "name": "Мое имя Максим",
+      "name": "Lina",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "разбитые руки",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
       "rank": 34,
+      "name": "разбитые руки",
+      "value": 2
+    },
+    {
+      "rank": 35,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "P!xel.Cat",
       "value": 1
     },
     {
-      "rank": 40,
-      "name": "Олег Галицин",
-      "value": 1
-    },
-    {
       "rank": 41,
-      "name": "Lina",
+      "name": "Олег Галицин",
       "value": 1
     },
     {
