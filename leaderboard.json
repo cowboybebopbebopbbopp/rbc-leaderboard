@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:57:47+00:00",
+  "updated": "2026-10-30T19:57:52+00:00",
   "count": 257,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1033,
+      "value": 1034,
       "move": 0
     },
     {
@@ -114,7 +114,7 @@
     {
       "rank": 19,
       "name": "@wavesscalper",
-      "value": 357,
+      "value": 358,
       "move": 0
     },
     {
@@ -1550,7 +1550,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 214
+      "value": 213
     },
     {
       "rank": 2,
@@ -1595,7 +1595,7 @@
     {
       "rank": 10,
       "name": "Viktor",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 11,
@@ -1644,12 +1644,12 @@
     },
     {
       "rank": 20,
-      "name": "Manis Love",
-      "value": 12
+      "name": "@wavesscalper",
+      "value": 13
     },
     {
       "rank": 21,
-      "name": "@wavesscalper",
+      "name": "Manis Love",
       "value": 12
     },
     {
@@ -1836,52 +1836,52 @@
     },
     {
       "rank": 8,
-      "name": "a l",
-      "value": 9
-    },
-    {
-      "rank": 9,
       "name": "Archie",
       "value": 9
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Анастасия",
       "value": 8
     },
     {
+      "rank": 10,
+      "name": "a l",
+      "value": 7
+    },
+    {
       "rank": 11,
       "name": "Zero-sum Gamer",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 12,
-      "name": "Manis Love",
+      "name": "Viktor",
       "value": 6
     },
     {
       "rank": 13,
-      "name": "Князь Владимир С",
+      "name": "Manis Love",
       "value": 6
     },
     {
       "rank": 14,
-      "name": "Viktor",
-      "value": 5
-    },
-    {
-      "rank": 15,
       "name": "LlirikMK",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Vitaliy",
+      "value": 4
+    },
+    {
+      "rank": 17,
+      "name": "Князь Владимир С",
       "value": 4
     },
     {
@@ -1916,57 +1916,57 @@
     },
     {
       "rank": 24,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "@wavesscalper",
       "value": 3
     },
     {
       "rank": 25,
-      "name": "Ponemonec",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 3
     },
     {
       "rank": 26,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "Sonic",
+      "name": ".",
       "value": 3
     },
     {
       "rank": 28,
+      "name": "Sonic",
+      "value": 3
+    },
+    {
+      "rank": 29,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "E X O",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Lina",
       "value": 2
     },
     {
-      "rank": 33,
-      "name": "Мое имя Максим",
-      "value": 2
-    },
-    {
       "rank": 34,
-      "name": "@wavesscalper",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
