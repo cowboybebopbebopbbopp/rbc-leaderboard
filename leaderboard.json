@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T11:57:04+00:00",
+  "updated": "2026-10-30T12:57:09+00:00",
   "count": 256,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4600,
+      "value": 4601,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 941,
+      "value": 942,
       "move": 0
     },
     {
@@ -1544,7 +1544,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 214
+      "value": 215
     },
     {
       "rank": 2,
@@ -1564,7 +1564,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 59
+      "value": 58
     },
     {
       "rank": 6,
@@ -1584,7 +1584,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 39
+      "value": 40
     },
     {
       "rank": 10,
@@ -1633,13 +1633,13 @@
     },
     {
       "rank": 19,
-      "name": "Manis Love",
+      "name": "terminal lucidity",
       "value": 15
     },
     {
       "rank": 20,
-      "name": "terminal lucidity",
-      "value": 15
+      "name": "Manis Love",
+      "value": 13
     },
     {
       "rank": 21,
@@ -1796,7 +1796,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 53
+      "value": 52
     },
     {
       "rank": 2,
@@ -1845,12 +1845,12 @@
     },
     {
       "rank": 11,
-      "name": "Manis Love",
-      "value": 6
+      "name": "Zero-sum Gamer",
+      "value": 7
     },
     {
       "rank": 12,
-      "name": "Zero-sum Gamer",
+      "name": "Manis Love",
       "value": 6
     },
     {
