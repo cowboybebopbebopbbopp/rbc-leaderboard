@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T14:57:21+00:00",
+  "updated": "2026-10-30T15:57:26+00:00",
   "count": 257,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1880,
+      "value": 1881,
       "move": 0
     },
     {
@@ -228,7 +228,7 @@
     {
       "rank": 38,
       "name": "Charlie Shefelman",
-      "value": 130,
+      "value": 131,
       "move": 0
     },
     {
@@ -1550,7 +1550,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 215
+      "value": 214
     },
     {
       "rank": 2,
@@ -1565,7 +1565,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 80
+      "value": 81
     },
     {
       "rank": 5,
@@ -1714,57 +1714,57 @@
     },
     {
       "rank": 34,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Charlie Shefelman",
       "value": 6
     },
     {
       "rank": 35,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 6
     },
     {
       "rank": 36,
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 6
+    },
+    {
+      "rank": 37,
       "name": "DenisNazarov",
       "value": 5
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 39,
-      "name": "Серхио Ле'Трас",
-      "value": 5
-    },
-    {
       "rank": 40,
-      "name": "Charlie Shefelman",
-      "value": 5
-    },
-    {
-      "rank": 41,
       "name": "Lina",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Sonic",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Aleksey",
+      "value": 4
+    },
+    {
+      "rank": 44,
+      "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
@@ -1841,12 +1841,12 @@
     },
     {
       "rank": 9,
-      "name": "Анастасия",
-      "value": 8
+      "name": "Archie",
+      "value": 9
     },
     {
       "rank": 10,
-      "name": "Archie",
+      "name": "Анастасия",
       "value": 8
     },
     {
@@ -1901,47 +1901,47 @@
     },
     {
       "rank": 21,
-      "name": "Max⚡️",
+      "name": "Charlie Shefelman",
       "value": 3
     },
     {
       "rank": 22,
-      "name": "Олег",
+      "name": "Max⚡️",
       "value": 3
     },
     {
       "rank": 23,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Олег",
       "value": 3
     },
     {
       "rank": 24,
-      "name": ".",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 3
     },
     {
       "rank": 25,
-      "name": "Sonic",
+      "name": ".",
       "value": 3
     },
     {
       "rank": 26,
+      "name": "Sonic",
+      "value": 3
+    },
+    {
+      "rank": 27,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "E X O",
       "value": 2
     },
     {
-      "rank": 28,
-      "name": "Сергей",
-      "value": 2
-    },
-    {
       "rank": 29,
-      "name": "Charlie Shefelman",
+      "name": "Сергей",
       "value": 2
     },
     {
