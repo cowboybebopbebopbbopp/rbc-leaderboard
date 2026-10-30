@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T15:57:26+00:00",
+  "updated": "2026-10-30T16:57:32+00:00",
   "count": 257,
   "has_movement": true,
   "all": [
@@ -593,45 +593,45 @@
     },
     {
       "rank": 99,
-      "name": "Aleksey",
+      "name": "Ponemonec",
       "value": 14,
-      "move": 0
+      "move": 5
     },
     {
       "rank": 100,
-      "name": "Don Michele Corleone",
-      "value": 13,
-      "move": 7
+      "name": "Aleksey",
+      "value": 14,
+      "move": -1
     },
     {
       "rank": 101,
-      "name": "Антон",
+      "name": "Don Michele Corleone",
       "value": 13,
-      "move": -1
+      "move": 6
     },
     {
       "rank": 102,
-      "name": "ki6ers",
+      "name": "Антон",
       "value": 13,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 103,
-      "name": "Pike",
-      "value": 12,
-      "move": -1
+      "name": "ki6ers",
+      "value": 13,
+      "move": -2
     },
     {
       "rank": 104,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "name": "Pike",
       "value": 12,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 105,
-      "name": "Ponemonec",
-      "value": 11,
-      "move": -1
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
+      "value": 12,
+      "move": -2
     },
     {
       "rank": 106,
@@ -791,45 +791,45 @@
     },
     {
       "rank": 132,
-      "name": "Sila",
-      "value": 4,
-      "move": 0
+      "name": "Logrus",
+      "value": 5,
+      "move": 6
     },
     {
       "rank": 133,
-      "name": "xv",
+      "name": "Sila",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 134,
-      "name": "Slawik",
+      "name": "xv",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 135,
-      "name": "Артем",
+      "name": "Slawik",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 136,
-      "name": "Simany",
+      "name": "Артем",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 137,
-      "name": "E X O",
+      "name": "Simany",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 138,
-      "name": "Logrus",
+      "name": "E X O",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 139,
@@ -1555,7 +1555,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 88
+      "value": 87
     },
     {
       "rank": 3,
@@ -1729,72 +1729,72 @@
     },
     {
       "rank": 37,
+      "name": "Ponemonec",
+      "value": 6
+    },
+    {
+      "rank": 38,
       "name": "DenisNazarov",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Lina",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Sonic",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Олег",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Мое имя Максим",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Olga Goncharova",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "E X O",
       "value": 3
     },
     {
-      "rank": 49,
-      "name": "Max⚡️",
-      "value": 3
-    },
-    {
       "rank": 50,
-      "name": "Mikhail",
+      "name": "Logrus",
       "value": 3
     }
   ],
@@ -1921,106 +1921,111 @@
     },
     {
       "rank": 25,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "Sonic",
+      "name": ".",
       "value": 3
     },
     {
       "rank": 27,
+      "name": "Sonic",
+      "value": 3
+    },
+    {
+      "rank": 28,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "E X O",
       "value": 2
     },
     {
-      "rank": 29,
-      "name": "Сергей",
-      "value": 2
-    },
-    {
       "rank": 30,
-      "name": "Lina",
+      "name": "Logrus",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "Мое имя Максим",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "@wavesscalper",
+      "name": "Lina",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "разбитые руки",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
       "rank": 34,
+      "name": "@wavesscalper",
+      "value": 2
+    },
+    {
+      "rank": 35,
+      "name": "разбитые руки",
+      "value": 2
+    },
+    {
+      "rank": 36,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 37,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 36,
-      "name": "Logrus",
-      "value": 1
-    },
-    {
-      "rank": 37,
+      "rank": 38,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "P!xel.Cat",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Олег Галицин",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "FiveFingers",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Oleg Maksimov",
       "value": 1
     }
