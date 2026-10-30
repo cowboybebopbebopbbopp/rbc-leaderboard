@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T00:56:53+00:00",
+  "updated": "2026-10-30T01:56:13+00:00",
   "count": 252,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1920,
+      "value": 1922,
       "move": 0
     },
     {
@@ -233,21 +233,21 @@
     },
     {
       "rank": 39,
-      "name": "Sergey",
+      "name": "ᴦоᴧод",
       "value": 129,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 40,
-      "name": "Роман",
+      "name": "Sergey",
       "value": 129,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 41,
-      "name": "ᴦоᴧод",
-      "value": 126,
-      "move": 0
+      "name": "Роман",
+      "value": 129,
+      "move": -1
     },
     {
       "rank": 42,
@@ -1530,7 +1530,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 84
+      "value": 86
     },
     {
       "rank": 4,
@@ -1614,22 +1614,22 @@
     },
     {
       "rank": 20,
+      "name": "ᴦоᴧод",
+      "value": 13
+    },
+    {
+      "rank": 21,
       "name": "@wavesscalper",
       "value": 12
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Marina",
       "value": 11
     },
     {
-      "rank": 22,
-      "name": "Max",
-      "value": 10
-    },
-    {
       "rank": 23,
-      "name": "ᴦоᴧод",
+      "name": "Max",
       "value": 10
     },
     {
@@ -1777,7 +1777,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 15
+      "value": 17
     },
     {
       "rank": 3,
@@ -1826,62 +1826,62 @@
     },
     {
       "rank": 12,
+      "name": "ᴦоᴧод",
+      "value": 6
+    },
+    {
+      "rank": 13,
       "name": "Viktor",
       "value": 5
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "LlirikMK",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "I",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Zero-sum Gamer",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Sonic",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Max⚡️",
       "value": 3
     },
     {
-      "rank": 22,
-      "name": "Олег",
-      "value": 3
-    },
-    {
       "rank": 23,
-      "name": "ᴦоᴧод",
+      "name": "Олег",
       "value": 3
     },
     {
