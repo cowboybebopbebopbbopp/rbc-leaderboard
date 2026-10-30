@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T05:56:33+00:00",
+  "updated": "2026-10-30T06:56:38+00:00",
   "count": 254,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1922,
+      "value": 1923,
       "move": 0
     },
     {
@@ -317,15 +317,15 @@
     },
     {
       "rank": 53,
-      "name": "Sergey СЕО",
-      "value": 88,
-      "move": 0
+      "name": "SPM",
+      "value": 89,
+      "move": 2
     },
     {
       "rank": 54,
-      "name": "SPM",
+      "name": "Sergey СЕО",
       "value": 88,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 55,
@@ -1532,12 +1532,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 212
+      "value": 211
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 86
+      "value": 87
     },
     {
       "rank": 3,
@@ -1557,7 +1557,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 7,
@@ -1572,7 +1572,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 42
+      "value": 40
     },
     {
       "rank": 10,
@@ -1789,7 +1789,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 3,
@@ -1803,13 +1803,13 @@
     },
     {
       "rank": 5,
-      "name": "ᴦоᴧод",
+      "name": "SPM",
       "value": 11
     },
     {
       "rank": 6,
-      "name": "SPM",
-      "value": 10
+      "name": "ᴦоᴧод",
+      "value": 11
     },
     {
       "rank": 7,
