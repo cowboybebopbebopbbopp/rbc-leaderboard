@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T12:16:11+00:00",
+  "updated": "2026-10-31T13:16:16+00:00",
   "count": 261,
   "has_movement": true,
   "all": [
@@ -318,7 +318,7 @@
     {
       "rank": 53,
       "name": "SPM",
-      "value": 89,
+      "value": 91,
       "move": 1
     },
     {
@@ -635,21 +635,21 @@
     },
     {
       "rank": 106,
-      "name": "AnTon",
+      "name": "Олег",
       "value": 11,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 107,
-      "name": "Роман",
-      "value": 10,
-      "move": 0
+      "name": "AnTon",
+      "value": 11,
+      "move": -1
     },
     {
       "rank": 108,
-      "name": "Олег",
+      "name": "Роман",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 109,
@@ -1599,7 +1599,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 51
+      "value": 53
     },
     {
       "rank": 7,
@@ -1634,7 +1634,7 @@
     {
       "rank": 13,
       "name": "Vitaliy",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 14,
@@ -1835,18 +1835,18 @@
     },
     {
       "rank": 3,
-      "name": "Руслан Иванов",
+      "name": "SPM",
       "value": 13
     },
     {
       "rank": 4,
-      "name": "ᴦоᴧод",
+      "name": "Руслан Иванов",
       "value": 13
     },
     {
       "rank": 5,
-      "name": "SPM",
-      "value": 11
+      "name": "ᴦоᴧод",
+      "value": 13
     },
     {
       "rank": 6,
@@ -2045,11 +2045,16 @@
     },
     {
       "rank": 45,
-      "name": "FiveFingers",
+      "name": "Олег",
       "value": 1
     },
     {
       "rank": 46,
+      "name": "FiveFingers",
+      "value": 1
+    },
+    {
+      "rank": 47,
       "name": "Oleg Maksimov",
       "value": 1
     }
