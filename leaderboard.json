@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:16:31+00:00",
+  "updated": "2026-10-31T17:16:36+00:00",
   "count": 261,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1882,
+      "value": 1883,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1347,
+      "value": 1349,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 174,
+      "value": 175,
       "move": 0
     },
     {
@@ -216,7 +216,7 @@
     {
       "rank": 36,
       "name": "ᴦоᴧод",
-      "value": 137,
+      "value": 138,
       "move": 5
     },
     {
@@ -1579,7 +1579,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 85
+      "value": 87
     },
     {
       "rank": 3,
@@ -1623,22 +1623,22 @@
     },
     {
       "rank": 11,
+      "name": ".",
+      "value": 28
+    },
+    {
+      "rank": 12,
       "name": "LlirikMK",
       "value": 27
     },
     {
-      "rank": 12,
-      "name": ".",
-      "value": 27
-    },
-    {
       "rank": 13,
-      "name": "Vitaliy",
-      "value": 21
+      "name": "ᴦоᴧод",
+      "value": 22
     },
     {
       "rank": 14,
-      "name": "ᴦоᴧод",
+      "name": "Vitaliy",
       "value": 21
     },
     {
@@ -1758,33 +1758,33 @@
     },
     {
       "rank": 38,
-      "name": "DenisNazarov",
-      "value": 5
-    },
-    {
-      "rank": 39,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Lina",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Sonic",
       "value": 5
+    },
+    {
+      "rank": 43,
+      "name": "DenisNazarov",
+      "value": 4
     },
     {
       "rank": 44,
@@ -1831,12 +1831,12 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 17
+      "value": 15
     },
     {
       "rank": 3,
       "name": "ᴦоᴧод",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 4,
@@ -1855,47 +1855,47 @@
     },
     {
       "rank": 7,
-      "name": "Синдбад Мореход",
-      "value": 9
+      "name": "a l",
+      "value": 10
     },
     {
       "rank": 8,
-      "name": "a l",
-      "value": 8
+      "name": "Archie",
+      "value": 9
     },
     {
       "rank": 9,
-      "name": "Archie",
-      "value": 8
-    },
-    {
-      "rank": 10,
       "name": "Анастасия",
       "value": 7
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Zero-sum Gamer",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Don Michele Corleone",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Viktor",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Logrus",
+      "value": 5
+    },
+    {
+      "rank": 15,
+      "name": "Синдбад Мореход",
       "value": 5
     },
     {
@@ -1920,42 +1920,42 @@
     },
     {
       "rank": 20,
+      "name": ".",
+      "value": 4
+    },
+    {
+      "rank": 21,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Max⚡️",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Олег",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "@wavesscalper",
       "value": 3
     },
     {
-      "rank": 26,
-      "name": "Ponemonec",
-      "value": 3
-    },
-    {
       "rank": 27,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 3
     },
     {
