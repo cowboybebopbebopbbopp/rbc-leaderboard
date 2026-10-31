@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T10:16:00+00:00",
+  "updated": "2026-10-31T11:16:05+00:00",
   "count": 260,
   "has_movement": true,
   "all": [
@@ -569,45 +569,45 @@
     },
     {
       "rank": 95,
-      "name": "lefkorosos",
+      "name": "Don Michele Corleone",
       "value": 16,
-      "move": 0
+      "move": 7
     },
     {
       "rank": 96,
-      "name": "Turchyn Gennadii",
-      "value": 15,
-      "move": 0
+      "name": "lefkorosos",
+      "value": 16,
+      "move": -1
     },
     {
       "rank": 97,
-      "name": "Marina",
+      "name": "Turchyn Gennadii",
       "value": 15,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 98,
-      "name": "vpidelks",
-      "value": 14,
-      "move": 0
+      "name": "Marina",
+      "value": 15,
+      "move": -1
     },
     {
       "rank": 99,
-      "name": "Ponemonec",
-      "value": 14,
-      "move": 6
-    },
-    {
-      "rank": 100,
-      "name": "Aleksey",
+      "name": "vpidelks",
       "value": 14,
       "move": -1
     },
     {
+      "rank": 100,
+      "name": "Ponemonec",
+      "value": 14,
+      "move": 5
+    },
+    {
       "rank": 101,
-      "name": "Don Michele Corleone",
-      "value": 13,
-      "move": 1
+      "name": "Aleksey",
+      "value": 14,
+      "move": -2
     },
     {
       "rank": 102,
@@ -1682,32 +1682,32 @@
     },
     {
       "rank": 24,
+      "name": "Don Michele Corleone",
+      "value": 11
+    },
+    {
+      "rank": 25,
       "name": "Анастасия",
       "value": 10
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Max",
       "value": 10
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Сергей",
       "value": 9
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "iDiklonius",
       "value": 8
     },
     {
-      "rank": 28,
-      "name": "Евгений",
-      "value": 8
-    },
-    {
       "rank": 29,
-      "name": "Don Michele Corleone",
+      "name": "Евгений",
       "value": 8
     },
     {
@@ -1874,37 +1874,37 @@
     },
     {
       "rank": 12,
+      "name": "Don Michele Corleone",
+      "value": 7
+    },
+    {
+      "rank": 13,
       "name": "Viktor",
       "value": 6
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "LlirikMK",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 17,
-      "name": "I",
-      "value": 4
-    },
-    {
       "rank": 18,
-      "name": "Don Michele Corleone",
+      "name": "I",
       "value": 4
     },
     {
