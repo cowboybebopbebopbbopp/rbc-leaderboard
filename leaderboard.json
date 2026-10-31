@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31T11:16:05+00:00",
-  "count": 260,
+  "updated": "2026-10-31T12:16:11+00:00",
+  "count": 261,
   "has_movement": true,
   "all": [
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1881,
+      "value": 1882,
       "move": 0
     },
     {
@@ -119,15 +119,15 @@
     },
     {
       "rank": 20,
-      "name": "Sergey Saprykin ID: 125370212",
+      "name": "🤗",
       "value": 326,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 21,
-      "name": "🤗",
-      "value": 324,
-      "move": 0
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 326,
+      "move": -1
     },
     {
       "rank": 22,
@@ -731,69 +731,69 @@
     },
     {
       "rank": 122,
-      "name": "Nikita",
+      "name": "Logrus",
       "value": 7,
-      "move": 0
+      "move": 16
     },
     {
       "rank": 123,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": 0
+      "name": "Nikita",
+      "value": 7,
+      "move": -1
     },
     {
       "rank": 124,
-      "name": "Max⚡️",
+      "name": "Александр Николаев",
       "value": 6,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 125,
-      "name": "Sonic",
+      "name": "Max⚡️",
       "value": 6,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 126,
-      "name": "Андрей",
+      "name": "Sonic",
       "value": 6,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 127,
-      "name": "Капибара",
-      "value": 5,
-      "move": 0
+      "name": "Андрей",
+      "value": 6,
+      "move": -1
     },
     {
       "rank": 128,
-      "name": "Станислав Баев",
+      "name": "Капибара",
       "value": 5,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 129,
-      "name": "Mikhail",
+      "name": "Станислав Баев",
       "value": 5,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 130,
-      "name": "Renat 🇷🇺🏴‍☠️",
+      "name": "Mikhail",
       "value": 5,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 131,
-      "name": "🌝",
+      "name": "Renat 🇷🇺🏴‍☠️",
       "value": 5,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 132,
-      "name": "Logrus",
+      "name": "🌝",
       "value": 5,
-      "move": 6
+      "move": -1
     },
     {
       "rank": 133,
@@ -1559,9 +1559,15 @@
     },
     {
       "rank": 260,
+      "name": "K@1dzy",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 261,
       "name": "vitaliy",
       "value": 0,
-      "move": -8
+      "move": -9
     }
   ],
   "month": [
@@ -1577,13 +1583,13 @@
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
+      "name": "Archie",
       "value": 81
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 80
+      "name": "🅾🅻🅶🅰",
+      "value": 81
     },
     {
       "rank": 5,
@@ -1593,7 +1599,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 52
+      "value": 51
     },
     {
       "rank": 7,
@@ -1628,7 +1634,7 @@
     {
       "rank": 13,
       "name": "Vitaliy",
-      "value": 23
+      "value": 22
     },
     {
       "rank": 14,
@@ -1653,7 +1659,7 @@
     {
       "rank": 18,
       "name": "🤗",
-      "value": 15
+      "value": 17
     },
     {
       "rank": 19,
@@ -1762,52 +1768,52 @@
     },
     {
       "rank": 40,
-      "name": "Lina",
+      "name": "Logrus",
       "value": 5
     },
     {
       "rank": 41,
-      "name": "Андрей",
+      "name": "Lina",
       "value": 5
     },
     {
       "rank": 42,
-      "name": "Sonic",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 43,
+      "name": "Sonic",
+      "value": 5
+    },
+    {
+      "rank": 44,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Олег",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Мое имя Максим",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Olga Goncharova",
       "value": 4
     },
     {
-      "rank": 48,
-      "name": "E X O",
-      "value": 3
-    },
-    {
       "rank": 49,
-      "name": "Logrus",
+      "name": "E X O",
       "value": 3
     },
     {
@@ -1854,12 +1860,12 @@
     },
     {
       "rank": 8,
-      "name": "a l",
-      "value": 8
+      "name": "Archie",
+      "value": 9
     },
     {
       "rank": 9,
-      "name": "Archie",
+      "name": "a l",
       "value": 8
     },
     {
@@ -1904,37 +1910,37 @@
     },
     {
       "rank": 18,
-      "name": "I",
+      "name": "Logrus",
       "value": 4
     },
     {
       "rank": 19,
+      "name": "I",
+      "value": 4
+    },
+    {
+      "rank": 20,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Max⚡️",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Олег",
       "value": 3
     },
     {
-      "rank": 23,
-      "name": "@wavesscalper",
-      "value": 3
-    },
-    {
       "rank": 24,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "@wavesscalper",
       "value": 3
     },
     {
@@ -1959,27 +1965,27 @@
     },
     {
       "rank": 29,
-      "name": "Logrus",
-      "value": 2
-    },
-    {
-      "rank": 30,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 31,
-      "name": "Князь Владимир С",
-      "value": 2
-    },
-    {
-      "rank": 32,
+      "rank": 30,
       "name": "Lina",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 31,
+      "name": "🤗",
+      "value": 2
+    },
+    {
+      "rank": 32,
       "name": "Мое имя Максим",
+      "value": 2
+    },
+    {
+      "rank": 33,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 2
     },
     {
@@ -2019,26 +2025,31 @@
     },
     {
       "rank": 41,
-      "name": "Олег Галицин",
+      "name": "Князь Владимир С",
       "value": 1
     },
     {
       "rank": 42,
-      "name": "Евгений",
+      "name": "Олег Галицин",
       "value": 1
     },
     {
       "rank": 43,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Евгений",
       "value": 1
     },
     {
       "rank": 44,
-      "name": "FiveFingers",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
       "rank": 45,
+      "name": "FiveFingers",
+      "value": 1
+    },
+    {
+      "rank": 46,
       "name": "Oleg Maksimov",
       "value": 1
     }
