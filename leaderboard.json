@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T17:16:36+00:00",
+  "updated": "2026-10-31T18:16:41+00:00",
   "count": 261,
   "has_movement": true,
   "all": [
@@ -215,15 +215,15 @@
     },
     {
       "rank": 36,
-      "name": "ᴦоᴧод",
-      "value": 138,
-      "move": 5
+      "name": "Vitaliy",
+      "value": 139,
+      "move": 0
     },
     {
       "rank": 37,
-      "name": "Vitaliy",
-      "value": 137,
-      "move": -1
+      "name": "ᴦоᴧод",
+      "value": 138,
+      "move": 4
     },
     {
       "rank": 38,
@@ -1633,13 +1633,13 @@
     },
     {
       "rank": 13,
-      "name": "ᴦоᴧод",
-      "value": 22
+      "name": "Vitaliy",
+      "value": 23
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
-      "value": 21
+      "name": "ᴦоᴧод",
+      "value": 22
     },
     {
       "rank": 15,
@@ -1830,13 +1830,13 @@
     },
     {
       "rank": 2,
-      "name": "🅾🅻🅶🅰",
+      "name": "ᴦоᴧод",
       "value": 15
     },
     {
       "rank": 3,
-      "name": "ᴦоᴧод",
-      "value": 15
+      "name": "🅾🅻🅶🅰",
+      "value": 14
     },
     {
       "rank": 4,
@@ -1890,23 +1890,23 @@
     },
     {
       "rank": 14,
+      "name": "Vitaliy",
+      "value": 6
+    },
+    {
+      "rank": 15,
       "name": "Logrus",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Синдбад Мореход",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Андрей",
       "value": 5
-    },
-    {
-      "rank": 17,
-      "name": "Vitaliy",
-      "value": 4
     },
     {
       "rank": 18,
