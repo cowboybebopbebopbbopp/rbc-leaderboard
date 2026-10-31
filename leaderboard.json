@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T19:16:46+00:00",
+  "updated": "2026-10-31T20:16:50+00:00",
   "count": 261,
   "has_movement": true,
   "all": [
@@ -216,7 +216,7 @@
     {
       "rank": 36,
       "name": "Vitaliy",
-      "value": 140,
+      "value": 142,
       "move": 0
     },
     {
@@ -479,21 +479,21 @@
     },
     {
       "rank": 80,
-      "name": "ilya Kalashnikov",
-      "value": 23,
-      "move": 0
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 25,
+      "move": 1
     },
     {
       "rank": 81,
-      "name": "Анастасия D",
-      "value": 22,
-      "move": 4
+      "name": "ilya Kalashnikov",
+      "value": 23,
+      "move": -1
     },
     {
       "rank": 82,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Анастасия D",
       "value": 22,
-      "move": -1
+      "move": 3
     },
     {
       "rank": 83,
@@ -1599,7 +1599,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 53
+      "value": 52
     },
     {
       "rank": 7,
@@ -1634,17 +1634,17 @@
     {
       "rank": 13,
       "name": "Vitaliy",
-      "value": 24
+      "value": 26
     },
     {
       "rank": 14,
-      "name": "ᴦоᴧод",
-      "value": 22
+      "name": "Crypto Panda",
+      "value": 24
     },
     {
       "rank": 15,
-      "name": "Crypto Panda",
-      "value": 21
+      "name": "ᴦоᴧод",
+      "value": 22
     },
     {
       "rank": 16,
@@ -1659,7 +1659,7 @@
     {
       "rank": 18,
       "name": "🤗",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 19,
@@ -1835,17 +1835,17 @@
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
-      "value": 14
-    },
-    {
-      "rank": 4,
       "name": "SPM",
       "value": 13
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Руслан Иванов",
+      "value": 13
+    },
+    {
+      "rank": 5,
+      "name": "🅾🅻🅶🅰",
       "value": 13
     },
     {
@@ -1866,7 +1866,7 @@
     {
       "rank": 9,
       "name": "Vitaliy",
-      "value": 7
+      "value": 9
     },
     {
       "rank": 10,
@@ -1910,37 +1910,37 @@
     },
     {
       "rank": 18,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 5
+    },
+    {
+      "rank": 19,
       "name": "LlirikMK",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "I",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 23,
-      "name": "Charlie Shefelman",
-      "value": 3
-    },
-    {
       "rank": 24,
-      "name": "Max⚡️",
+      "name": "Charlie Shefelman",
       "value": 3
     },
     {
@@ -1990,57 +1990,57 @@
     },
     {
       "rank": 34,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 2
-    },
-    {
-      "rank": 35,
       "name": "разбитые руки",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Олег Галицин",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Jekago |РБК Крипто, мод.",
+      "value": 1
+    },
+    {
+      "rank": 44,
+      "name": "Max⚡️",
       "value": 1
     },
     {
