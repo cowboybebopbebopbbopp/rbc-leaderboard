@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T21:16:55+00:00",
+  "updated": "2026-10-31T22:16:56+00:00",
   "count": 261,
   "has_movement": true,
   "all": [
@@ -216,7 +216,7 @@
     {
       "rank": 36,
       "name": "Vitaliy",
-      "value": 143,
+      "value": 144,
       "move": 0
     },
     {
@@ -473,15 +473,15 @@
     },
     {
       "rank": 79,
-      "name": "Константин",
-      "value": 25,
-      "move": 0
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 26,
+      "move": 2
     },
     {
       "rank": 80,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Константин",
       "value": 25,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 81,
@@ -1623,13 +1623,13 @@
     },
     {
       "rank": 11,
-      "name": ".",
+      "name": "Vitaliy",
       "value": 28
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
-      "value": 27
+      "name": ".",
+      "value": 28
     },
     {
       "rank": 13,
@@ -1639,7 +1639,7 @@
     {
       "rank": 14,
       "name": "Crypto Panda",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 15,
@@ -1855,12 +1855,12 @@
     },
     {
       "rank": 7,
-      "name": "a l",
-      "value": 10
+      "name": "Vitaliy",
+      "value": 11
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
+      "name": "a l",
       "value": 10
     },
     {
@@ -1895,22 +1895,22 @@
     },
     {
       "rank": 15,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 6
+    },
+    {
+      "rank": 16,
       "name": "Logrus",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Синдбад Мореход",
       "value": 5
     },
     {
-      "rank": 17,
-      "name": "Андрей",
-      "value": 5
-    },
-    {
       "rank": 18,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Андрей",
       "value": 5
     },
     {
