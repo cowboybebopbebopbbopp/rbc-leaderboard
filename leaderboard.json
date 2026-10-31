@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T14:16:20+00:00",
+  "updated": "2026-10-31T15:16:26+00:00",
   "count": 261,
   "has_movement": true,
   "all": [
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 700,
+      "value": 702,
       "move": 0
     },
     {
@@ -215,15 +215,15 @@
     },
     {
       "rank": 36,
-      "name": "Vitaliy",
+      "name": "ᴦоᴧод",
       "value": 137,
-      "move": 0
+      "move": 5
     },
     {
       "rank": 37,
-      "name": "ᴦоᴧод",
-      "value": 136,
-      "move": 4
+      "name": "Vitaliy",
+      "value": 137,
+      "move": -1
     },
     {
       "rank": 38,
@@ -1574,7 +1574,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 215
+      "value": 211
     },
     {
       "rank": 2,
@@ -1589,7 +1589,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 80
+      "value": 78
     },
     {
       "rank": 5,
@@ -1609,12 +1609,12 @@
     {
       "rank": 8,
       "name": "Князь Владимир С",
-      "value": 43
+      "value": 45
     },
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 41
+      "value": 40
     },
     {
       "rank": 10,
@@ -1638,17 +1638,17 @@
     },
     {
       "rank": 14,
-      "name": "Crypto Panda",
+      "name": "ᴦоᴧод",
       "value": 21
     },
     {
       "rank": 15,
-      "name": "Aся",
-      "value": 20
+      "name": "Crypto Panda",
+      "value": 21
     },
     {
       "rank": 16,
-      "name": "ᴦоᴧод",
+      "name": "Aся",
       "value": 20
     },
     {
@@ -1835,17 +1835,17 @@
     },
     {
       "rank": 3,
+      "name": "ᴦоᴧод",
+      "value": 14
+    },
+    {
+      "rank": 4,
       "name": "SPM",
       "value": 13
     },
     {
-      "rank": 4,
-      "name": "Руслан Иванов",
-      "value": 13
-    },
-    {
       "rank": 5,
-      "name": "ᴦоᴧод",
+      "name": "Руслан Иванов",
       "value": 13
     },
     {
@@ -1856,7 +1856,7 @@
     {
       "rank": 7,
       "name": "Синдбад Мореход",
-      "value": 11
+      "value": 10
     },
     {
       "rank": 8,
@@ -1895,22 +1895,22 @@
     },
     {
       "rank": 15,
-      "name": "LlirikMK",
-      "value": 5
-    },
-    {
-      "rank": 16,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Logrus",
+      "value": 4
+    },
+    {
+      "rank": 18,
+      "name": "LlirikMK",
       "value": 4
     },
     {
@@ -1925,107 +1925,107 @@
     },
     {
       "rank": 21,
-      "name": "Charlie Shefelman",
+      "name": "Князь Владимир С",
       "value": 3
     },
     {
       "rank": 22,
-      "name": "Max⚡️",
+      "name": "Charlie Shefelman",
       "value": 3
     },
     {
       "rank": 23,
-      "name": "Олег",
+      "name": "Max⚡️",
       "value": 3
     },
     {
       "rank": 24,
-      "name": "@wavesscalper",
+      "name": "Олег",
       "value": 3
     },
     {
       "rank": 25,
-      "name": "Ponemonec",
+      "name": "@wavesscalper",
       "value": 3
     },
     {
       "rank": 26,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "Sonic",
+      "name": ".",
       "value": 3
     },
     {
       "rank": 28,
+      "name": "Sonic",
+      "value": 3
+    },
+    {
+      "rank": 29,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Lina",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Мое имя Максим",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "разбитые руки",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 40,
-      "name": "iDiklonius",
-      "value": 1
-    },
-    {
       "rank": 41,
-      "name": "Князь Владимир С",
+      "name": "iDiklonius",
       "value": 1
     },
     {
