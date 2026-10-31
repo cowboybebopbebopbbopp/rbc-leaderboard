@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:16:50+00:00",
+  "updated": "2026-10-31T21:16:55+00:00",
   "count": 261,
   "has_movement": true,
   "all": [
@@ -216,7 +216,7 @@
     {
       "rank": 36,
       "name": "Vitaliy",
-      "value": 142,
+      "value": 143,
       "move": 0
     },
     {
@@ -1594,12 +1594,12 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 58
+      "value": 57
     },
     {
       "rank": 6,
       "name": "SPM",
-      "value": 52
+      "value": 51
     },
     {
       "rank": 7,
@@ -1628,13 +1628,13 @@
     },
     {
       "rank": 12,
-      "name": "LlirikMK",
+      "name": "Vitaliy",
       "value": 27
     },
     {
       "rank": 13,
-      "name": "Vitaliy",
-      "value": 26
+      "name": "LlirikMK",
+      "value": 27
     },
     {
       "rank": 14,
@@ -1860,13 +1860,13 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
+      "name": "Vitaliy",
       "value": 10
     },
     {
       "rank": 9,
-      "name": "Vitaliy",
-      "value": 9
+      "name": "Archie",
+      "value": 10
     },
     {
       "rank": 10,
