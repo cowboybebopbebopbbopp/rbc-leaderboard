@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T19:32:52+00:00",
+  "updated": "2026-11-01T20:32:53+00:00",
   "count": 263,
   "has_movement": true,
   "all": [
@@ -353,15 +353,15 @@
     },
     {
       "rank": 59,
-      "name": "Marat Miheev",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 64,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 60,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 62,
-      "move": 1
+      "name": "Marat Miheev",
+      "value": 64,
+      "move": -1
     },
     {
       "rank": 61,
@@ -1601,7 +1601,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 78
+      "value": 77
     },
     {
       "rank": 5,
@@ -1646,7 +1646,7 @@
     {
       "rank": 13,
       "name": "Vitaliy",
-      "value": 28
+      "value": 27
     },
     {
       "rank": 14,
@@ -1670,22 +1670,22 @@
     },
     {
       "rank": 18,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 14
+    },
+    {
+      "rank": 19,
       "name": "🤗",
       "value": 13
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "@wavesscalper",
       "value": 13
     },
     {
-      "rank": 20,
-      "name": "Manis Love",
-      "value": 12
-    },
-    {
       "rank": 21,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Manis Love",
       "value": 12
     },
     {
@@ -1857,18 +1857,18 @@
     },
     {
       "rank": 5,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 14
+    },
+    {
+      "rank": 6,
       "name": "SPM",
       "value": 13
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Vitaliy",
       "value": 13
-    },
-    {
-      "rank": 7,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 12
     },
     {
       "rank": 8,
