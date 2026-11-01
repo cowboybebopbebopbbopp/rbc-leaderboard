@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T06:16:59+00:00",
+  "updated": "2026-11-01T07:16:59+00:00",
   "count": 263,
   "has_movement": true,
   "all": [
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 745,
+      "value": 746,
       "move": 0
     },
     {
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "ᴦоᴧод",
-      "value": 138,
+      "value": 139,
       "move": 0
     },
     {
@@ -275,15 +275,15 @@
     },
     {
       "rank": 46,
-      "name": "terminal lucidity",
+      "name": "Руслан Иванов",
       "value": 105,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 47,
-      "name": "Руслан Иванов",
-      "value": 100,
-      "move": 0
+      "name": "terminal lucidity",
+      "value": 105,
+      "move": -1
     },
     {
       "rank": 48,
@@ -1590,13 +1590,13 @@
     },
     {
       "rank": 2,
-      "name": "a l",
-      "value": 83
+      "name": "🅾🅻🅶🅰",
+      "value": 82
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
-      "value": 82
+      "name": "a l",
+      "value": 80
     },
     {
       "rank": 4,
@@ -1606,7 +1606,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 57
+      "value": 62
     },
     {
       "rank": 6,
@@ -1656,7 +1656,7 @@
     {
       "rank": 15,
       "name": "ᴦоᴧод",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 16,
@@ -1805,32 +1805,32 @@
     },
     {
       "rank": 45,
-      "name": "Олег",
+      "name": "L G",
       "value": 4
     },
     {
       "rank": 46,
-      "name": "Мое имя Максим",
+      "name": "Олег",
       "value": 4
     },
     {
       "rank": 47,
-      "name": "Olga Goncharova",
+      "name": "Мое имя Максим",
       "value": 4
     },
     {
       "rank": 48,
+      "name": "Olga Goncharova",
+      "value": 4
+    },
+    {
+      "rank": 49,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 49,
-      "name": "E X O",
-      "value": 3
-    },
-    {
       "rank": 50,
-      "name": "Borz",
+      "name": "E X O",
       "value": 3
     }
   ],
@@ -1842,22 +1842,22 @@
     },
     {
       "rank": 2,
+      "name": "Руслан Иванов",
+      "value": 18
+    },
+    {
+      "rank": 3,
       "name": "🅾🅻🅶🅰",
       "value": 16
     },
     {
-      "rank": 3,
-      "name": "ᴦоᴧод",
-      "value": 15
-    },
-    {
       "rank": 4,
-      "name": "SPM",
-      "value": 13
+      "name": "ᴦоᴧод",
+      "value": 16
     },
     {
       "rank": 5,
-      "name": "Руслан Иванов",
+      "name": "SPM",
       "value": 13
     },
     {
@@ -1987,62 +1987,62 @@
     },
     {
       "rank": 31,
-      "name": "Сергей",
+      "name": "L G",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Lina",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "🤗",
+      "name": "Lina",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Мое имя Максим",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "Oleg Maksimov",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "разбитые руки",
+      "name": "Oleg Maksimov",
       "value": 2
     },
     {
       "rank": 37,
+      "name": "разбитые руки",
+      "value": 2
+    },
+    {
+      "rank": 38,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 41,
-      "name": "Константин",
-      "value": 1
-    },
-    {
       "rank": 42,
-      "name": "L G",
+      "name": "Константин",
       "value": 1
     },
     {
