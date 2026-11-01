@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-01T08:17:00+00:00",
+  "updated": "2026-11-01T09:17:00+00:00",
   "count": 263,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5782,
+      "value": 5783,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 175,
+      "value": 176,
       "move": 0
     },
     {
@@ -216,13 +216,13 @@
     {
       "rank": 36,
       "name": "Vitaliy",
-      "value": 145,
+      "value": 146,
       "move": 0
     },
     {
       "rank": 37,
       "name": "ᴦоᴧод",
-      "value": 139,
+      "value": 140,
       "move": 0
     },
     {
@@ -1586,7 +1586,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 210
+      "value": 209
     },
     {
       "rank": 2,
@@ -1636,12 +1636,12 @@
     {
       "rank": 11,
       "name": ".",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 12,
       "name": "Vitaliy",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 13,
@@ -1656,7 +1656,7 @@
     {
       "rank": 15,
       "name": "ᴦоᴧод",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 16,
@@ -1730,32 +1730,32 @@
     },
     {
       "rank": 30,
-      "name": "Александр",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 7
     },
     {
       "rank": 31,
-      "name": "lefkorosos",
+      "name": "Александр",
       "value": 7
     },
     {
       "rank": 32,
-      "name": "I",
+      "name": "lefkorosos",
       "value": 7
     },
     {
       "rank": 33,
+      "name": "I",
+      "value": 7
+    },
+    {
+      "rank": 34,
       "name": "Logrus",
       "value": 6
     },
     {
-      "rank": 34,
-      "name": "Charlie Shefelman",
-      "value": 6
-    },
-    {
       "rank": 35,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Charlie Shefelman",
       "value": 6
     },
     {
@@ -1847,12 +1847,12 @@
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
-      "value": 16
+      "name": "ᴦоᴧод",
+      "value": 17
     },
     {
       "rank": 4,
-      "name": "ᴦоᴧод",
+      "name": "🅾🅻🅶🅰",
       "value": 16
     },
     {
@@ -1863,7 +1863,7 @@
     {
       "rank": 6,
       "name": "Vitaliy",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 7,
@@ -1927,17 +1927,17 @@
     },
     {
       "rank": 19,
+      "name": ".",
+      "value": 5
+    },
+    {
+      "rank": 20,
       "name": "LlirikMK",
       "value": 4
     },
     {
-      "rank": 20,
-      "name": "I",
-      "value": 4
-    },
-    {
       "rank": 21,
-      "name": ".",
+      "name": "I",
       "value": 4
     },
     {
@@ -2002,72 +2002,72 @@
     },
     {
       "rank": 34,
-      "name": "🤗",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Мое имя Максим",
+      "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "Oleg Maksimov",
+      "name": "Мое имя Максим",
       "value": 2
     },
     {
       "rank": 38,
-      "name": "разбитые руки",
+      "name": "Oleg Maksimov",
       "value": 2
     },
     {
       "rank": 39,
+      "name": "разбитые руки",
+      "value": 2
+    },
+    {
+      "rank": 40,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Олег Галицин",
       "value": 1
     },
     {
-      "rank": 46,
-      "name": "Евгений",
-      "value": 1
-    },
-    {
       "rank": 47,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Евгений",
       "value": 1
     },
     {
