@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T16:32:51+00:00",
+  "updated": "2026-11-01T17:32:51+00:00",
   "count": 263,
   "has_movement": true,
   "all": [
@@ -1760,67 +1760,67 @@
     },
     {
       "rank": 36,
-      "name": "Ponemonec",
-      "value": 6
-    },
-    {
-      "rank": 37,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Lina",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Sonic",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "L G",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Олег",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Мое имя Максим",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Olga Goncharova",
+      "value": 4
+    },
+    {
+      "rank": 48,
+      "name": "Ponemonec",
       "value": 4
     },
     {
@@ -1878,7 +1878,7 @@
     {
       "rank": 9,
       "name": "a l",
-      "value": 10
+      "value": 9
     },
     {
       "rank": 10,
