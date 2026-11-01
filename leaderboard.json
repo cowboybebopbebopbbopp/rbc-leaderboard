@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T02:16:57+00:00",
+  "updated": "2026-11-01T03:16:58+00:00",
   "count": 262,
   "has_movement": true,
   "all": [
@@ -18,13 +18,13 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1923,
+      "value": 1925,
       "move": 0
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1885,
+      "value": 1886,
       "move": 0
     },
     {
@@ -797,51 +797,51 @@
     },
     {
       "rank": 133,
-      "name": "Sila",
-      "value": 4,
-      "move": 0
+      "name": "Oleg Maksimov",
+      "value": 5,
+      "move": 7
     },
     {
       "rank": 134,
-      "name": "xv",
+      "name": "Sila",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 135,
-      "name": "Slawik",
+      "name": "xv",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 136,
-      "name": "Артем",
+      "name": "Slawik",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 137,
-      "name": "Simany",
+      "name": "Артем",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 138,
-      "name": "E X O",
+      "name": "Simany",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 139,
-      "name": "Марина",
+      "name": "E X O",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 140,
-      "name": "Oleg Maksimov",
+      "name": "Марина",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 141,
@@ -1590,12 +1590,12 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 81
+      "value": 83
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 78
+      "value": 79
     },
     {
       "rank": 5,
@@ -1836,22 +1836,22 @@
     },
     {
       "rank": 2,
-      "name": "ᴦоᴧод",
+      "name": "🅾🅻🅶🅰",
       "value": 15
     },
     {
       "rank": 3,
+      "name": "ᴦоᴧод",
+      "value": 15
+    },
+    {
+      "rank": 4,
       "name": "SPM",
       "value": 13
     },
     {
-      "rank": 4,
-      "name": "Руслан Иванов",
-      "value": 13
-    },
-    {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
+      "name": "Руслан Иванов",
       "value": 13
     },
     {
@@ -1861,12 +1861,12 @@
     },
     {
       "rank": 7,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 11
+      "name": "Archie",
+      "value": 12
     },
     {
       "rank": 8,
-      "name": "Archie",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 11
     },
     {
@@ -1996,77 +1996,77 @@
     },
     {
       "rank": 34,
-      "name": "разбитые руки",
+      "name": "Oleg Maksimov",
       "value": 2
     },
     {
       "rank": 35,
+      "name": "разбитые руки",
+      "value": 2
+    },
+    {
+      "rank": 36,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Олег Галицин",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Max⚡️",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "t.me/hapexoᚾK1T",
       "value": 1
     },
     {
-      "rank": 47,
-      "name": "FiveFingers",
-      "value": 1
-    },
-    {
       "rank": 48,
-      "name": "Oleg Maksimov",
+      "name": "FiveFingers",
       "value": 1
     }
   ]
