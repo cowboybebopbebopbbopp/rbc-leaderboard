@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T21:32:53+00:00",
+  "updated": "2026-11-01T22:32:54+00:00",
   "count": 263,
   "has_movement": true,
   "all": [
@@ -1586,7 +1586,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 205
+      "value": 203
     },
     {
       "rank": 2,
@@ -1887,32 +1887,32 @@
     },
     {
       "rank": 11,
-      "name": "Don Michele Corleone",
-      "value": 7
-    },
-    {
-      "rank": 12,
       "name": "Viktor",
       "value": 6
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Logrus",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 6
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": ".",
+      "value": 6
+    },
+    {
+      "rank": 16,
+      "name": "Don Michele Corleone",
       "value": 6
     },
     {
