@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T17:32:51+00:00",
+  "updated": "2026-11-01T18:32:52+00:00",
   "count": 263,
   "has_movement": true,
   "all": [
@@ -359,15 +359,15 @@
     },
     {
       "rank": 60,
-      "name": "Алексей",
-      "value": 61,
-      "move": 0
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 62,
+      "move": 1
     },
     {
       "rank": 61,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Алексей",
       "value": 61,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 62,
@@ -1686,7 +1686,7 @@
     {
       "rank": 21,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 22,
@@ -1867,13 +1867,13 @@
     },
     {
       "rank": 7,
-      "name": "Archie",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 12
     },
     {
       "rank": 8,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 11
+      "name": "Archie",
+      "value": 12
     },
     {
       "rank": 9,
@@ -1882,43 +1882,43 @@
     },
     {
       "rank": 10,
-      "name": "Анастасия",
-      "value": 7
-    },
-    {
-      "rank": 11,
       "name": "Zero-sum Gamer",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Don Michele Corleone",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Viktor",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Logrus",
       "value": 6
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": ".",
       "value": 6
+    },
+    {
+      "rank": 17,
+      "name": "Анастасия",
+      "value": 5
     },
     {
       "rank": 18,
