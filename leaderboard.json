@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T18:32:52+00:00",
+  "updated": "2026-11-01T19:32:52+00:00",
   "count": 263,
   "has_movement": true,
   "all": [
@@ -575,21 +575,21 @@
     },
     {
       "rank": 96,
-      "name": "lefkorosos",
+      "name": "Marina",
       "value": 16,
-      "move": -1
+      "move": 1
     },
     {
       "rank": 97,
-      "name": "Turchyn Gennadii",
-      "value": 15,
-      "move": -1
+      "name": "lefkorosos",
+      "value": 16,
+      "move": -2
     },
     {
       "rank": 98,
-      "name": "Marina",
+      "name": "Turchyn Gennadii",
       "value": 15,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 99,
@@ -1596,7 +1596,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 79
+      "value": 78
     },
     {
       "rank": 4,
@@ -1690,12 +1690,12 @@
     },
     {
       "rank": 22,
-      "name": "terminal lucidity",
-      "value": 11
+      "name": "Marina",
+      "value": 12
     },
     {
       "rank": 23,
-      "name": "Marina",
+      "name": "terminal lucidity",
       "value": 11
     },
     {
@@ -1878,7 +1878,7 @@
     {
       "rank": 9,
       "name": "a l",
-      "value": 9
+      "value": 8
     },
     {
       "rank": 10,
@@ -1922,42 +1922,42 @@
     },
     {
       "rank": 18,
-      "name": "LlirikMK",
-      "value": 5
-    },
-    {
-      "rank": 19,
       "name": "Синдбад Мореход",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "I",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Князь Владимир С",
+      "value": 3
+    },
+    {
+      "rank": 25,
+      "name": "LlirikMK",
       "value": 3
     },
     {
