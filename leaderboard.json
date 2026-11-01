@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T12:32:49+00:00",
+  "updated": "2026-11-01T13:32:49+00:00",
   "count": 263,
   "has_movement": true,
   "all": [
@@ -1586,7 +1586,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 207
+      "value": 204
     },
     {
       "rank": 2,
@@ -1740,87 +1740,87 @@
     },
     {
       "rank": 32,
-      "name": "lefkorosos",
-      "value": 7
-    },
-    {
-      "rank": 33,
       "name": "I",
       "value": 7
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Logrus",
       "value": 6
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Charlie Shefelman",
       "value": 6
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Ponemonec",
       "value": 6
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Lina",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Sonic",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "L G",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Олег",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Мое имя Максим",
+      "value": 4
+    },
+    {
+      "rank": 48,
+      "name": "lefkorosos",
       "value": 4
     },
     {
