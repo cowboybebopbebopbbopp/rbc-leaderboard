@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T00:16:56+00:00",
-  "count": 261,
+  "updated": "2026-11-01T00:47:42+00:00",
+  "count": 262,
   "has_movement": true,
   "all": [
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1884,
+      "value": 1885,
       "move": 0
     },
     {
@@ -1565,9 +1565,15 @@
     },
     {
       "rank": 261,
+      "name": "Borz",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 262,
       "name": "vitaliy",
       "value": 0,
-      "move": -1
+      "move": -2
     }
   ],
   "month": [
@@ -1589,7 +1595,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 77
+      "value": 78
     },
     {
       "rank": 5,
@@ -1860,12 +1866,12 @@
     },
     {
       "rank": 8,
-      "name": "a l",
-      "value": 10
+      "name": "Archie",
+      "value": 11
     },
     {
       "rank": 9,
-      "name": "Archie",
+      "name": "a l",
       "value": 10
     },
     {
