@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T13:58:30+00:00",
+  "updated": "2026-11-02T14:17:34+00:00",
   "count": 265,
   "has_movement": true,
   "all": [
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "ᴦоᴧод",
-      "value": 140,
+      "value": 142,
       "move": 0
     },
     {
@@ -1662,13 +1662,13 @@
     },
     {
       "rank": 14,
-      "name": "Crypto Panda",
+      "name": "ᴦоᴧод",
       "value": 26
     },
     {
       "rank": 15,
-      "name": "ᴦоᴧод",
-      "value": 24
+      "name": "Crypto Panda",
+      "value": 26
     },
     {
       "rank": 16,
@@ -1855,7 +1855,7 @@
     {
       "rank": 2,
       "name": "ᴦоᴧод",
-      "value": 17
+      "value": 19
     },
     {
       "rank": 3,
