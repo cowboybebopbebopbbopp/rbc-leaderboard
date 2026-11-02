@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T14:17:34+00:00",
+  "updated": "2026-11-02T15:17:35+00:00",
   "count": 265,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 886,
+      "value": 887,
       "move": 0
     },
     {
@@ -1613,7 +1613,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 73
+      "value": 71
     },
     {
       "rank": 5,
@@ -1628,7 +1628,7 @@
     {
       "rank": 7,
       "name": "Синдбад Мореход",
-      "value": 51
+      "value": 52
     },
     {
       "rank": 8,
@@ -1899,22 +1899,22 @@
     },
     {
       "rank": 11,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 7
-    },
-    {
-      "rank": 12,
       "name": "Don Michele Corleone",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Logrus",
+      "value": 6
+    },
+    {
+      "rank": 14,
+      "name": "Синдбад Мореход",
       "value": 6
     },
     {
@@ -1929,7 +1929,7 @@
     },
     {
       "rank": 17,
-      "name": "Синдбад Мореход",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 5
     },
     {
