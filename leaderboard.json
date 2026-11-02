@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T16:17:36+00:00",
+  "updated": "2026-11-02T17:17:36+00:00",
   "count": 265,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4611,
+      "value": 4612,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1886,
+      "value": 1887,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 887,
+      "value": 888,
       "move": 0
     },
     {
@@ -1598,7 +1598,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 203
+      "value": 204
     },
     {
       "rank": 2,
@@ -1613,7 +1613,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 70
+      "value": 71
     },
     {
       "rank": 5,
@@ -1622,12 +1622,12 @@
     },
     {
       "rank": 6,
-      "name": "SPM",
-      "value": 52
+      "name": "Синдбад Мореход",
+      "value": 53
     },
     {
       "rank": 7,
-      "name": "Синдбад Мореход",
+      "name": "SPM",
       "value": 52
     },
     {
@@ -1850,12 +1850,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 51
+      "value": 52
     },
     {
       "rank": 2,
       "name": "ᴦоᴧод",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 3,
@@ -1874,12 +1874,12 @@
     },
     {
       "rank": 6,
-      "name": "Vitaliy",
-      "value": 11
+      "name": "Archie",
+      "value": 12
     },
     {
       "rank": 7,
-      "name": "Archie",
+      "name": "Vitaliy",
       "value": 11
     },
     {
@@ -1894,27 +1894,27 @@
     },
     {
       "rank": 10,
-      "name": "Zero-sum Gamer",
+      "name": "Синдбад Мореход",
       "value": 7
     },
     {
       "rank": 11,
-      "name": "Don Michele Corleone",
+      "name": "Zero-sum Gamer",
       "value": 7
     },
     {
       "rank": 12,
+      "name": "Don Michele Corleone",
+      "value": 7
+    },
+    {
+      "rank": 13,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 13,
-      "name": "Logrus",
-      "value": 6
-    },
-    {
       "rank": 14,
-      "name": "Синдбад Мореход",
+      "name": "Logrus",
       "value": 6
     },
     {
