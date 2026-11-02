@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T12:33:00+00:00",
+  "updated": "2026-11-02T13:33:01+00:00",
   "count": 265,
   "has_movement": true,
   "all": [
@@ -563,15 +563,15 @@
     },
     {
       "rank": 94,
-      "name": "Money",
+      "name": "Don Michele Corleone",
       "value": 17,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 95,
-      "name": "Don Michele Corleone",
-      "value": 16,
-      "move": 0
+      "name": "Money",
+      "value": 17,
+      "move": -1
     },
     {
       "rank": 96,
@@ -1598,7 +1598,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 204
+      "value": 203
     },
     {
       "rank": 2,
@@ -1707,12 +1707,12 @@
     },
     {
       "rank": 23,
-      "name": "terminal lucidity",
-      "value": 11
+      "name": "Don Michele Corleone",
+      "value": 12
     },
     {
       "rank": 24,
-      "name": "Don Michele Corleone",
+      "name": "terminal lucidity",
       "value": 11
     },
     {
@@ -1904,8 +1904,8 @@
     },
     {
       "rank": 12,
-      "name": "Viktor",
-      "value": 6
+      "name": "Don Michele Corleone",
+      "value": 7
     },
     {
       "rank": 13,
@@ -1924,8 +1924,8 @@
     },
     {
       "rank": 16,
-      "name": "Don Michele Corleone",
-      "value": 6
+      "name": "Viktor",
+      "value": 5
     },
     {
       "rank": 17,
