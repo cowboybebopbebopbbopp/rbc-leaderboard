@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T10:32:59+00:00",
+  "updated": "2026-11-02T11:33:00+00:00",
   "count": 264,
   "has_movement": true,
   "all": [
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "Olga Goncharova",
-      "value": 609,
+      "value": 611,
       "move": 1
     },
     {
@@ -593,15 +593,15 @@
     },
     {
       "rank": 99,
-      "name": "vpidelks",
-      "value": 14,
-      "move": 0
+      "name": "Ponemonec",
+      "value": 15,
+      "move": 1
     },
     {
       "rank": 100,
-      "name": "Ponemonec",
+      "name": "vpidelks",
       "value": 14,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 101,
@@ -1597,7 +1597,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 81
+      "value": 80
     },
     {
       "rank": 3,
@@ -1607,7 +1607,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 74
+      "value": 73
     },
     {
       "rank": 5,
@@ -1632,7 +1632,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 40
+      "value": 39
     },
     {
       "rank": 10,
@@ -1731,37 +1731,37 @@
     },
     {
       "rank": 29,
+      "name": "Olga Goncharova",
+      "value": 9
+    },
+    {
+      "rank": 30,
       "name": "Евгений",
       "value": 8
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "A.",
       "value": 7
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Logrus",
       "value": 7
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 7
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Александр",
       "value": 7
     },
     {
-      "rank": 34,
-      "name": "I",
-      "value": 7
-    },
-    {
       "rank": 35,
-      "name": "Olga Goncharova",
+      "name": "I",
       "value": 7
     },
     {
@@ -1791,42 +1791,42 @@
     },
     {
       "rank": 41,
-      "name": "Sonic",
+      "name": "Ponemonec",
       "value": 5
     },
     {
       "rank": 42,
+      "name": "Sonic",
+      "value": 5
+    },
+    {
+      "rank": 43,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "L G",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Олег",
       "value": 4
     },
     {
-      "rank": 47,
-      "name": "Мое имя Максим",
-      "value": 4
-    },
-    {
       "rank": 48,
-      "name": "Ponemonec",
+      "name": "Мое имя Максим",
       "value": 4
     },
     {
@@ -1928,52 +1928,52 @@
     },
     {
       "rank": 18,
+      "name": "Olga Goncharova",
+      "value": 5
+    },
+    {
+      "rank": 19,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Анастасия",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 22,
+      "name": "Ponemonec",
+      "value": 4
+    },
+    {
+      "rank": 23,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 24,
       "name": "LlirikMK",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 25,
       "name": "Олег",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 26,
       "name": "🤗",
       "value": 3
     },
     {
-      "rank": 25,
-      "name": "@wavesscalper",
-      "value": 3
-    },
-    {
-      "rank": 26,
-      "name": "Olga Goncharova",
-      "value": 3
-    },
-    {
       "rank": 27,
-      "name": "Ponemonec",
+      "name": "@wavesscalper",
       "value": 3
     },
     {
