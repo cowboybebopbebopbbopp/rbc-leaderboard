@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T02:32:55+00:00",
+  "updated": "2026-11-02T03:32:56+00:00",
   "count": 263,
   "has_movement": true,
   "all": [
@@ -1596,7 +1596,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 78
+      "value": 77
     },
     {
       "rank": 4,
@@ -1942,62 +1942,62 @@
     },
     {
       "rank": 22,
-      "name": "I",
-      "value": 4
-    },
-    {
-      "rank": 23,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "LlirikMK",
       "value": 3
     },
     {
-      "rank": 25,
-      "name": "Charlie Shefelman",
-      "value": 3
-    },
-    {
-      "rank": 26,
+      "rank": 24,
       "name": "Олег",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 25,
       "name": "🤗",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 26,
+      "name": "I",
+      "value": 3
+    },
+    {
+      "rank": 27,
       "name": "@wavesscalper",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Sonic",
       "value": 3
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Сергей",
+      "value": 2
+    },
+    {
+      "rank": 33,
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
