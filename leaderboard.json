@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T04:32:56+00:00",
+  "updated": "2026-11-02T05:32:57+00:00",
   "count": 264,
   "has_movement": true,
   "all": [
@@ -269,15 +269,15 @@
     },
     {
       "rank": 45,
-      "name": "Сергей",
+      "name": "Руслан Иванов",
       "value": 106,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 46,
-      "name": "Руслан Иванов",
-      "value": 105,
-      "move": 1
+      "name": "Сергей",
+      "value": 106,
+      "move": -1
     },
     {
       "rank": 47,
@@ -857,93 +857,93 @@
     },
     {
       "rank": 143,
-      "name": "Samurai_1",
+      "name": "Darya",
       "value": 3,
-      "move": -1
+      "move": 45
     },
     {
       "rank": 144,
-      "name": "Sviat",
+      "name": "Samurai_1",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 145,
-      "name": "1",
+      "name": "Sviat",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 146,
-      "name": "Neztor",
+      "name": "1",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 147,
-      "name": "Максим",
+      "name": "Neztor",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 148,
-      "name": "Денис Сергеевич",
+      "name": "Максим",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 149,
-      "name": "ц",
+      "name": "Денис Сергеевич",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 150,
-      "name": "Stepan",
+      "name": "ц",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 151,
-      "name": "İl",
+      "name": "Stepan",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 152,
-      "name": "Roman",
+      "name": "İl",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 153,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Roman",
       "value": 3,
-      "move": 24
+      "move": -2
     },
     {
       "rank": 154,
-      "name": "zomg",
+      "name": "t.me/hapexoᚾK1T",
       "value": 3,
-      "move": -2
+      "move": 23
     },
     {
       "rank": 155,
-      "name": "разбитые руки",
+      "name": "zomg",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 156,
-      "name": "M",
+      "name": "разбитые руки",
       "value": 3,
-      "move": 28
+      "move": -3
     },
     {
       "rank": 157,
-      "name": "Darya",
-      "value": 2,
-      "move": 31
+      "name": "M",
+      "value": 3,
+      "move": 27
     },
     {
       "rank": 158,
@@ -1612,7 +1612,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 62
+      "value": 63
     },
     {
       "rank": 6,
@@ -1853,22 +1853,22 @@
     },
     {
       "rank": 3,
-      "name": "ᴦоᴧод",
+      "name": "Руслан Иванов",
       "value": 17
     },
     {
       "rank": 4,
-      "name": "Руслан Иванов",
-      "value": 16
+      "name": "ᴦоᴧод",
+      "value": 17
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 16
+      "name": "Vitaliy",
+      "value": 13
     },
     {
       "rank": 6,
-      "name": "Vitaliy",
+      "name": "🅾🅻🅶🅰",
       "value": 13
     },
     {
@@ -2013,52 +2013,52 @@
     },
     {
       "rank": 35,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Darya",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Oleg Maksimov",
+      "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
       "rank": 37,
+      "name": "Oleg Maksimov",
+      "value": 2
+    },
+    {
+      "rank": 38,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Олег Галицин",
       "value": 1
     },
     {
-      "rank": 43,
-      "name": "Евгений",
-      "value": 1
-    },
-    {
       "rank": 44,
-      "name": "Darya",
+      "name": "Евгений",
       "value": 1
     },
     {
