@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T15:17:35+00:00",
+  "updated": "2026-11-02T16:17:36+00:00",
   "count": 265,
   "has_movement": true,
   "all": [
@@ -474,7 +474,7 @@
     {
       "rank": 79,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 27,
+      "value": 28,
       "move": 0
     },
     {
@@ -1613,7 +1613,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 71
+      "value": 70
     },
     {
       "rank": 5,
@@ -1662,12 +1662,12 @@
     },
     {
       "rank": 14,
-      "name": "ᴦоᴧод",
-      "value": 26
+      "name": "Crypto Panda",
+      "value": 27
     },
     {
       "rank": 15,
-      "name": "Crypto Panda",
+      "name": "ᴦоᴧод",
       "value": 26
     },
     {
@@ -1850,7 +1850,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 51
     },
     {
       "rank": 2,
@@ -1874,12 +1874,12 @@
     },
     {
       "rank": 6,
-      "name": "Archie",
-      "value": 12
+      "name": "Vitaliy",
+      "value": 11
     },
     {
       "rank": 7,
-      "name": "Vitaliy",
+      "name": "Archie",
       "value": 11
     },
     {
@@ -1919,17 +1919,17 @@
     },
     {
       "rank": 15,
-      "name": ".",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 6
     },
     {
       "rank": 16,
-      "name": "Viktor",
-      "value": 5
+      "name": ".",
+      "value": 6
     },
     {
       "rank": 17,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Viktor",
       "value": 5
     },
     {
