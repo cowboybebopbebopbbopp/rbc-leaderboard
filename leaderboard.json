@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T11:33:00+00:00",
-  "count": 264,
+  "updated": "2026-11-02T12:33:00+00:00",
+  "count": 265,
   "has_movement": true,
   "all": [
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1350,
+      "value": 1351,
       "move": 0
     },
     {
@@ -1583,16 +1583,22 @@
     },
     {
       "rank": 264,
+      "name": "jingcheng Anna Pulitzer",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 265,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -4
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 205
+      "value": 204
     },
     {
       "rank": 2,
@@ -1602,7 +1608,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 78
+      "value": 79
     },
     {
       "rank": 4,
@@ -1879,7 +1885,7 @@
     {
       "rank": 8,
       "name": "a l",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 9,
