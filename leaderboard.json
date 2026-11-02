@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T09:32:59+00:00",
+  "updated": "2026-11-02T10:32:59+00:00",
   "count": 264,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1349,
+      "value": 1350,
       "move": 0
     },
     {
@@ -1597,12 +1597,12 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 82
+      "value": 81
     },
     {
       "rank": 3,
       "name": "a l",
-      "value": 77
+      "value": 78
     },
     {
       "rank": 4,
@@ -1666,12 +1666,12 @@
     },
     {
       "rank": 16,
-      "name": "Aся",
-      "value": 20
+      "name": "Pavel",
+      "value": 18
     },
     {
       "rank": 17,
-      "name": "Pavel",
+      "name": "Aся",
       "value": 18
     },
     {
@@ -1868,18 +1868,18 @@
     },
     {
       "rank": 6,
-      "name": "Vitaliy",
-      "value": 12
-    },
-    {
-      "rank": 7,
       "name": "Archie",
       "value": 12
     },
     {
+      "rank": 7,
+      "name": "Vitaliy",
+      "value": 11
+    },
+    {
       "rank": 8,
       "name": "a l",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 9,
