@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T07:32:58+00:00",
+  "updated": "2026-11-02T08:32:58+00:00",
   "count": 264,
   "has_movement": true,
   "all": [
@@ -474,7 +474,7 @@
     {
       "rank": 79,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 26,
+      "value": 27,
       "move": 0
     },
     {
@@ -1657,7 +1657,7 @@
     {
       "rank": 14,
       "name": "Crypto Panda",
-      "value": 25
+      "value": 26
     },
     {
       "rank": 15,
@@ -1844,22 +1844,22 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 53
+      "value": 52
     },
     {
       "rank": 2,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 18
+      "name": "ᴦоᴧод",
+      "value": 17
     },
     {
       "rank": 3,
-      "name": "Руслан Иванов",
-      "value": 17
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 16
     },
     {
       "rank": 4,
-      "name": "ᴦоᴧод",
-      "value": 17
+      "name": "Руслан Иванов",
+      "value": 15
     },
     {
       "rank": 5,
@@ -1893,22 +1893,22 @@
     },
     {
       "rank": 11,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 7
+    },
+    {
+      "rank": 12,
       "name": "Viktor",
       "value": 6
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 13,
-      "name": "Logrus",
-      "value": 6
-    },
-    {
       "rank": 14,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Logrus",
       "value": 6
     },
     {
