@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T03:32:56+00:00",
-  "count": 263,
+  "updated": "2026-11-02T04:32:56+00:00",
+  "count": 264,
   "has_movement": true,
   "all": [
     {
@@ -1577,9 +1577,15 @@
     },
     {
       "rank": 263,
+      "name": "Виолетта Соколова",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 264,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
@@ -1862,23 +1868,23 @@
     },
     {
       "rank": 6,
-      "name": "SPM",
-      "value": 13
-    },
-    {
-      "rank": 7,
       "name": "Vitaliy",
       "value": 13
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Archie",
       "value": 12
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "a l",
       "value": 8
+    },
+    {
+      "rank": 9,
+      "name": "SPM",
+      "value": 7
     },
     {
       "rank": 10,
@@ -1927,162 +1933,162 @@
     },
     {
       "rank": 19,
-      "name": "Андрей",
-      "value": 5
-    },
-    {
-      "rank": 20,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "LlirikMK",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Олег",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "🤗",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "I",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "@wavesscalper",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Sonic",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Lina",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Oleg Maksimov",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "E X O",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Олег Галицин",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Darya",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Max⚡️",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Мое имя Максим",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "FiveFingers",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "M",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Marina",
       "value": 1
     }
   ]
