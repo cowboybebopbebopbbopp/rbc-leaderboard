@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T17:17:49+00:00",
+  "updated": "2026-11-03T18:17:50+00:00",
   "count": 268,
   "has_movement": true,
   "all": [
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 487,
+      "value": 489,
       "move": 0
     },
     {
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "Руслан Иванов",
-      "value": 109,
+      "value": 110,
       "move": 3
     },
     {
@@ -1626,7 +1626,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 77
+      "value": 74
     },
     {
       "rank": 4,
@@ -1636,7 +1636,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 65
+      "value": 66
     },
     {
       "rank": 6,
@@ -1710,18 +1710,18 @@
     },
     {
       "rank": 20,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "iDiklonius",
       "value": 15
     },
     {
       "rank": 21,
-      "name": "@wavesscalper",
-      "value": 14
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 15
     },
     {
       "rank": 22,
-      "name": "iDiklonius",
-      "value": 13
+      "name": "@wavesscalper",
+      "value": 14
     },
     {
       "rank": 23,
@@ -1878,7 +1878,7 @@
     {
       "rank": 3,
       "name": "Руслан Иванов",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 4,
@@ -1888,7 +1888,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 6,
@@ -1932,18 +1932,18 @@
     },
     {
       "rank": 14,
+      "name": "iDiklonius",
+      "value": 8
+    },
+    {
+      "rank": 15,
       "name": "Logrus",
       "value": 7
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Don Michele Corleone",
       "value": 7
-    },
-    {
-      "rank": 16,
-      "name": "iDiklonius",
-      "value": 6
     },
     {
       "rank": 17,
@@ -1972,18 +1972,18 @@
     },
     {
       "rank": 22,
-      "name": "Manis Love",
-      "value": 4
-    },
-    {
-      "rank": 23,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Ponemonec",
       "value": 4
+    },
+    {
+      "rank": 24,
+      "name": "Manis Love",
+      "value": 3
     },
     {
       "rank": 25,
