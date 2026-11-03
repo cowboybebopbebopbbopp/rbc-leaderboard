@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T08:17:44+00:00",
+  "updated": "2026-11-03T09:17:45+00:00",
   "count": 268,
   "has_movement": true,
   "all": [
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "Сергей Л",
-      "value": 413,
+      "value": 418,
       "move": 0
     },
     {
@@ -461,21 +461,21 @@
     },
     {
       "rank": 77,
-      "name": "Iodva",
-      "value": 30,
-      "move": -1
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 31,
+      "move": 2
     },
     {
       "rank": 78,
-      "name": "Юрий",
+      "name": "Iodva",
       "value": 30,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 79,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Юрий",
       "value": 30,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 80,
@@ -1670,13 +1670,13 @@
     },
     {
       "rank": 12,
-      "name": ".",
+      "name": "Crypto Panda",
       "value": 30
     },
     {
       "rank": 13,
-      "name": "Crypto Panda",
-      "value": 29
+      "name": ".",
+      "value": 30
     },
     {
       "rank": 14,
@@ -1810,57 +1810,57 @@
     },
     {
       "rank": 40,
-      "name": "Андрей",
+      "name": "Сергей Л",
       "value": 5
     },
     {
       "rank": 41,
-      "name": "Ponemonec",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 42,
-      "name": "Sonic",
+      "name": "Ponemonec",
       "value": 5
     },
     {
       "rank": 43,
+      "name": "Sonic",
+      "value": 5
+    },
+    {
+      "rank": 44,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "L G",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Олег",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Мое имя Максим",
       "value": 4
     },
     {
-      "rank": 49,
-      "name": "E X O",
-      "value": 3
-    },
-    {
       "rank": 50,
-      "name": "Max⚡️",
+      "name": "E X O",
       "value": 3
     }
   ],
@@ -1868,7 +1868,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 50
     },
     {
       "rank": 2,
@@ -1907,12 +1907,12 @@
     },
     {
       "rank": 9,
-      "name": "SPM",
-      "value": 8
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 9
     },
     {
       "rank": 10,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "SPM",
       "value": 8
     },
     {
@@ -1962,142 +1962,142 @@
     },
     {
       "rank": 20,
-      "name": "Olga Goncharova",
+      "name": "Сергей Л",
       "value": 5
     },
     {
       "rank": 21,
+      "name": "Olga Goncharova",
+      "value": 5
+    },
+    {
+      "rank": 22,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "@wavesscalper",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "LlirikMK",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "🤗",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Sonic",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Lina",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Darya",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "МС💬💪",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Oleg Maksimov",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Олег Галицин",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 46,
-      "name": "Max⚡️",
-      "value": 1
-    },
-    {
       "rank": 47,
-      "name": "Олег",
+      "name": "Max⚡️",
       "value": 1
     },
     {
@@ -2107,12 +2107,12 @@
     },
     {
       "rank": 49,
-      "name": "M",
+      "name": "Олег",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "Marina",
+      "name": "M",
       "value": 1
     }
   ]
