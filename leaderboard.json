@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-03T15:17:48+00:00",
+  "updated": "2026-11-03T16:17:49+00:00",
   "count": 268,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5790,
+      "value": 5791,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 892,
+      "value": 893,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 486,
+      "value": 487,
       "move": 0
     },
     {
@@ -486,7 +486,7 @@
     {
       "rank": 81,
       "name": "Анастасия D",
-      "value": 27,
+      "value": 28,
       "move": 1
     },
     {
@@ -1641,7 +1641,7 @@
     {
       "rank": 6,
       "name": "Синдбад Мореход",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 7,
@@ -1706,12 +1706,12 @@
     {
       "rank": 19,
       "name": "Анастасия",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 20,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 21,
@@ -1720,17 +1720,17 @@
     },
     {
       "rank": 22,
-      "name": "🤗",
+      "name": "iDiklonius",
       "value": 13
     },
     {
       "rank": 23,
-      "name": "Manis Love",
-      "value": 12
+      "name": "🤗",
+      "value": 13
     },
     {
       "rank": 24,
-      "name": "iDiklonius",
+      "name": "Manis Love",
       "value": 12
     },
     {
@@ -1868,7 +1868,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 2,
@@ -1898,7 +1898,7 @@
     {
       "rank": 7,
       "name": "Синдбад Мореход",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 8,
@@ -1913,12 +1913,12 @@
     {
       "rank": 10,
       "name": "Анастасия",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 11,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 12,
@@ -1937,17 +1937,17 @@
     },
     {
       "rank": 15,
-      "name": "Zero-sum Gamer",
-      "value": 7
-    },
-    {
-      "rank": 16,
       "name": "Don Michele Corleone",
       "value": 7
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Manis Love",
+      "value": 6
+    },
+    {
+      "rank": 17,
+      "name": "iDiklonius",
       "value": 6
     },
     {
@@ -1957,12 +1957,12 @@
     },
     {
       "rank": 19,
-      "name": "iDiklonius",
+      "name": "Сергей Л",
       "value": 5
     },
     {
       "rank": 20,
-      "name": "Сергей Л",
+      "name": "Zero-sum Gamer",
       "value": 5
     },
     {
