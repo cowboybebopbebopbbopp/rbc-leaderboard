@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T16:17:49+00:00",
+  "updated": "2026-11-03T17:17:49+00:00",
   "count": 268,
   "has_movement": true,
   "all": [
@@ -1942,37 +1942,37 @@
     },
     {
       "rank": 16,
-      "name": "Manis Love",
-      "value": 6
-    },
-    {
-      "rank": 17,
       "name": "iDiklonius",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": ".",
       "value": 6
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Zero-sum Gamer",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "A.",
+      "value": 4
+    },
+    {
+      "rank": 22,
+      "name": "Manis Love",
       "value": 4
     },
     {
