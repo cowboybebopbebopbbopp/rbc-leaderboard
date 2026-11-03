@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T06:17:43+00:00",
+  "updated": "2026-11-03T07:17:44+00:00",
   "count": 268,
   "has_movement": true,
   "all": [
@@ -491,15 +491,15 @@
     },
     {
       "rank": 82,
-      "name": "ilya Kalashnikov",
-      "value": 23,
-      "move": -1
+      "name": "Анастасия D",
+      "value": 24,
+      "move": 0
     },
     {
       "rank": 83,
-      "name": "Анастасия D",
+      "name": "ilya Kalashnikov",
       "value": 23,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 84,
@@ -1720,27 +1720,27 @@
     },
     {
       "rank": 22,
-      "name": "iDiklonius",
+      "name": "Анастасия",
       "value": 12
     },
     {
       "rank": 23,
-      "name": "Marina",
+      "name": "iDiklonius",
       "value": 12
     },
     {
       "rank": 24,
-      "name": "Don Michele Corleone",
+      "name": "Marina",
       "value": 12
     },
     {
       "rank": 25,
-      "name": "terminal lucidity",
-      "value": 11
+      "name": "Don Michele Corleone",
+      "value": 12
     },
     {
       "rank": 26,
-      "name": "Анастасия",
+      "name": "terminal lucidity",
       "value": 11
     },
     {
@@ -1942,17 +1942,17 @@
     },
     {
       "rank": 16,
-      "name": ".",
+      "name": "Анастасия",
       "value": 6
     },
     {
       "rank": 17,
-      "name": "Viktor",
-      "value": 5
+      "name": ".",
+      "value": 6
     },
     {
       "rank": 18,
-      "name": "Анастасия",
+      "name": "Viktor",
       "value": 5
     },
     {
@@ -2107,12 +2107,12 @@
     },
     {
       "rank": 49,
-      "name": "FiveFingers",
+      "name": "M",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "M",
+      "name": "Marina",
       "value": 1
     }
   ]
