@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T12:17:46+00:00",
+  "updated": "2026-11-03T13:17:47+00:00",
   "count": 268,
   "has_movement": true,
   "all": [
@@ -1868,7 +1868,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 47
     },
     {
       "rank": 2,
@@ -1957,23 +1957,23 @@
     },
     {
       "rank": 19,
-      "name": "Viktor",
-      "value": 5
-    },
-    {
-      "rank": 20,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Olga Goncharova",
       "value": 5
+    },
+    {
+      "rank": 22,
+      "name": "Viktor",
+      "value": 4
     },
     {
       "rank": 23,
@@ -1987,27 +1987,27 @@
     },
     {
       "rank": 25,
-      "name": "@wavesscalper",
-      "value": 4
-    },
-    {
-      "rank": 26,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "LlirikMK",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "🤗",
+      "value": 3
+    },
+    {
+      "rank": 29,
+      "name": "@wavesscalper",
       "value": 3
     },
     {
