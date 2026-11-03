@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:17:51+00:00",
+  "updated": "2026-11-03T21:17:51+00:00",
   "count": 269,
   "has_movement": true,
   "all": [
@@ -1622,7 +1622,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 204
+      "value": 203
     },
     {
       "rank": 2,
@@ -1736,22 +1736,22 @@
     },
     {
       "rank": 24,
-      "name": "🤗",
-      "value": 12
-    },
-    {
-      "rank": 25,
       "name": "Marina",
       "value": 12
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Don Michele Corleone",
       "value": 12
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "terminal lucidity",
+      "value": 11
+    },
+    {
+      "rank": 27,
+      "name": "🤗",
       "value": 11
     },
     {
@@ -1786,17 +1786,17 @@
     },
     {
       "rank": 34,
-      "name": "Александр",
-      "value": 7
-    },
-    {
-      "rank": 35,
       "name": "I",
       "value": 7
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Charlie Shefelman",
+      "value": 6
+    },
+    {
+      "rank": 36,
+      "name": "Александр",
       "value": 6
     },
     {
@@ -1884,12 +1884,12 @@
     {
       "rank": 3,
       "name": "Руслан Иванов",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 4,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 5,
@@ -2053,47 +2053,47 @@
     },
     {
       "rank": 37,
-      "name": "I",
-      "value": 2
-    },
-    {
-      "rank": 38,
       "name": "МС💬💪",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Oleg Maksimov",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Олег Галицин",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Евгений",
+      "value": 1
+    },
+    {
+      "rank": 45,
+      "name": "Олег",
       "value": 1
     },
     {
@@ -2103,7 +2103,7 @@
     },
     {
       "rank": 47,
-      "name": "Олег",
+      "name": "I",
       "value": 1
     },
     {
