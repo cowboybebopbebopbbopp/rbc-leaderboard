@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T07:17:44+00:00",
+  "updated": "2026-11-03T08:17:44+00:00",
   "count": 268,
   "has_movement": true,
   "all": [
@@ -473,15 +473,15 @@
     },
     {
       "rank": 79,
-      "name": "Lina",
-      "value": 29,
-      "move": -1
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 30,
+      "move": 0
     },
     {
       "rank": 80,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Lina",
       "value": 29,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 81,
@@ -492,7 +492,7 @@
     {
       "rank": 82,
       "name": "Анастасия D",
-      "value": 24,
+      "value": 25,
       "move": 0
     },
     {
@@ -1676,7 +1676,7 @@
     {
       "rank": 13,
       "name": "Crypto Panda",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 14,
@@ -1710,17 +1710,17 @@
     },
     {
       "rank": 20,
-      "name": "🤗",
+      "name": "Анастасия",
       "value": 13
     },
     {
       "rank": 21,
-      "name": "Manis Love",
-      "value": 12
+      "name": "🤗",
+      "value": 13
     },
     {
       "rank": 22,
-      "name": "Анастасия",
+      "name": "Manis Love",
       "value": 12
     },
     {
@@ -1912,37 +1912,37 @@
     },
     {
       "rank": 10,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 8
+    },
+    {
+      "rank": 11,
       "name": "Logrus",
       "value": 7
     },
     {
-      "rank": 11,
-      "name": "Синдбад Мореход",
-      "value": 7
-    },
-    {
       "rank": 12,
-      "name": "Zero-sum Gamer",
+      "name": "Анастасия",
       "value": 7
     },
     {
       "rank": 13,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Синдбад Мореход",
       "value": 7
     },
     {
       "rank": 14,
-      "name": "Don Michele Corleone",
+      "name": "Zero-sum Gamer",
       "value": 7
     },
     {
       "rank": 15,
-      "name": "Manis Love",
-      "value": 6
+      "name": "Don Michele Corleone",
+      "value": 7
     },
     {
       "rank": 16,
-      "name": "Анастасия",
+      "name": "Manis Love",
       "value": 6
     },
     {
