@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T19:17:50+00:00",
-  "count": 268,
+  "updated": "2026-11-03T20:17:51+00:00",
+  "count": 269,
   "has_movement": true,
   "all": [
     {
@@ -455,15 +455,15 @@
     },
     {
       "rank": 76,
-      "name": "𝑽",
-      "value": 31,
-      "move": -1
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 32,
+      "move": 3
     },
     {
       "rank": 77,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "𝑽",
       "value": 31,
-      "move": 2
+      "move": -2
     },
     {
       "rank": 78,
@@ -486,7 +486,7 @@
     {
       "rank": 81,
       "name": "Анастасия D",
-      "value": 28,
+      "value": 29,
       "move": 1
     },
     {
@@ -1607,9 +1607,15 @@
     },
     {
       "rank": 268,
+      "name": "Николь Тарасова",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 269,
       "name": "vitaliy",
       "value": 0,
-      "move": -5
+      "move": -6
     }
   ],
   "month": [
@@ -1666,7 +1672,7 @@
     {
       "rank": 11,
       "name": "Crypto Panda",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 12,
@@ -1706,7 +1712,7 @@
     {
       "rank": 19,
       "name": "Анастасия",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 20,
@@ -1725,12 +1731,12 @@
     },
     {
       "rank": 23,
-      "name": "🤗",
-      "value": 13
+      "name": "Manis Love",
+      "value": 12
     },
     {
       "rank": 24,
-      "name": "Manis Love",
+      "name": "🤗",
       "value": 12
     },
     {
@@ -1918,12 +1924,12 @@
     {
       "rank": 11,
       "name": "Анастасия",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 12,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 13,
