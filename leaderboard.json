@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-03T10:17:45+00:00",
+  "updated": "2026-11-03T11:17:46+00:00",
   "count": 268,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5787,
+      "value": 5788,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1888,
+      "value": 1889,
       "move": 0
     },
     {
@@ -1631,7 +1631,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 71
+      "value": 72
     },
     {
       "rank": 5,
@@ -1730,22 +1730,22 @@
     },
     {
       "rank": 24,
-      "name": "Marina",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 12
     },
     {
       "rank": 25,
-      "name": "Don Michele Corleone",
+      "name": "Marina",
       "value": 12
     },
     {
       "rank": 26,
-      "name": "terminal lucidity",
-      "value": 11
+      "name": "Don Michele Corleone",
+      "value": 12
     },
     {
       "rank": 27,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "terminal lucidity",
       "value": 11
     },
     {
@@ -1868,7 +1868,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 50
+      "value": 49
     },
     {
       "rank": 2,
@@ -1888,7 +1888,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 6,
@@ -1927,27 +1927,27 @@
     },
     {
       "rank": 13,
-      "name": "Синдбад Мореход",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 7
     },
     {
       "rank": 14,
-      "name": "Zero-sum Gamer",
+      "name": "Синдбад Мореход",
       "value": 7
     },
     {
       "rank": 15,
-      "name": "Don Michele Corleone",
+      "name": "Zero-sum Gamer",
       "value": 7
     },
     {
       "rank": 16,
-      "name": "Manis Love",
-      "value": 6
+      "name": "Don Michele Corleone",
+      "value": 7
     },
     {
       "rank": 17,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Manis Love",
       "value": 6
     },
     {
