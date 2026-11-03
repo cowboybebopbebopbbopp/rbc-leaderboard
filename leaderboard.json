@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-03T18:17:50+00:00",
+  "updated": "2026-11-03T19:17:50+00:00",
   "count": 268,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5791,
+      "value": 5792,
       "move": 0
     },
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1926,
+      "value": 1927,
       "move": 0
     },
     {
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "Руслан Иванов",
-      "value": 110,
+      "value": 112,
       "move": 3
     },
     {
@@ -1621,7 +1621,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 78
+      "value": 79
     },
     {
       "rank": 3,
@@ -1636,7 +1636,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 66
+      "value": 68
     },
     {
       "rank": 6,
@@ -1710,12 +1710,12 @@
     },
     {
       "rank": 20,
-      "name": "iDiklonius",
-      "value": 15
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 16
     },
     {
       "rank": 21,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "iDiklonius",
       "value": 15
     },
     {
@@ -1868,7 +1868,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 2,
@@ -1892,33 +1892,33 @@
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
-      "value": 13
-    },
-    {
-      "rank": 7,
       "name": "Синдбад Мореход",
       "value": 12
     },
     {
+      "rank": 7,
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 11
+    },
+    {
       "rank": 8,
+      "name": "🅾🅻🅶🅰",
+      "value": 11
+    },
+    {
+      "rank": 9,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Vitaliy",
       "value": 10
     },
     {
-      "rank": 10,
-      "name": "Анастасия",
-      "value": 10
-    },
-    {
       "rank": 11,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 10
+      "name": "Анастасия",
+      "value": 9
     },
     {
       "rank": 12,
