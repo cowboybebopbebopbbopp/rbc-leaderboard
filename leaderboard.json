@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T14:17:48+00:00",
+  "updated": "2026-11-03T15:17:48+00:00",
   "count": 268,
   "has_movement": true,
   "all": [
@@ -486,7 +486,7 @@
     {
       "rank": 81,
       "name": "Анастасия D",
-      "value": 26,
+      "value": 27,
       "move": 1
     },
     {
@@ -1706,7 +1706,7 @@
     {
       "rank": 19,
       "name": "Анастасия",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 20,
@@ -1868,7 +1868,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 44
     },
     {
       "rank": 2,
@@ -1912,22 +1912,22 @@
     },
     {
       "rank": 10,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Анастасия",
       "value": 9
     },
     {
       "rank": 11,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 9
     },
     {
       "rank": 12,
-      "name": "SPM",
-      "value": 8
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 9
     },
     {
       "rank": 13,
-      "name": "Анастасия",
+      "name": "SPM",
       "value": 8
     },
     {
@@ -1987,37 +1987,37 @@
     },
     {
       "rank": 25,
-      "name": "Viktor",
-      "value": 3
-    },
-    {
-      "rank": 26,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "LlirikMK",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "🤗",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "@wavesscalper",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Sonic",
       "value": 3
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Алексей",
+      "value": 2
+    },
+    {
+      "rank": 31,
+      "name": "Viktor",
       "value": 2
     },
     {
