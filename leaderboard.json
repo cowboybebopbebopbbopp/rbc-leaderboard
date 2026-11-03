@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-03T09:17:45+00:00",
+  "updated": "2026-11-03T10:17:45+00:00",
   "count": 268,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5785,
+      "value": 5787,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1887,
+      "value": 1888,
       "move": 0
     },
     {
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "ᴦоᴧод",
-      "value": 143,
+      "value": 144,
       "move": 0
     },
     {
@@ -1631,7 +1631,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 70
+      "value": 71
     },
     {
       "rank": 5,
@@ -1646,7 +1646,7 @@
     {
       "rank": 7,
       "name": "SPM",
-      "value": 51
+      "value": 50
     },
     {
       "rank": 8,
@@ -1656,7 +1656,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 39
+      "value": 36
     },
     {
       "rank": 10,
@@ -1665,27 +1665,27 @@
     },
     {
       "rank": 11,
-      "name": "LlirikMK",
-      "value": 30
-    },
-    {
-      "rank": 12,
       "name": "Crypto Panda",
       "value": 30
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": ".",
       "value": 30
     },
     {
+      "rank": 13,
+      "name": "LlirikMK",
+      "value": 29
+    },
+    {
       "rank": 14,
-      "name": "Vitaliy",
-      "value": 27
+      "name": "ᴦоᴧод",
+      "value": 28
     },
     {
       "rank": 15,
-      "name": "ᴦоᴧод",
+      "name": "Vitaliy",
       "value": 27
     },
     {
@@ -1745,17 +1745,17 @@
     },
     {
       "rank": 27,
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 11
+    },
+    {
+      "rank": 28,
       "name": "Max",
       "value": 10
     },
     {
-      "rank": 28,
-      "name": "Сергей",
-      "value": 9
-    },
-    {
       "rank": 29,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Сергей",
       "value": 9
     },
     {
@@ -1873,7 +1873,7 @@
     {
       "rank": 2,
       "name": "ᴦоᴧод",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 3,
@@ -1887,22 +1887,22 @@
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
+      "name": "Archie",
       "value": 13
     },
     {
       "rank": 6,
-      "name": "Archie",
-      "value": 12
+      "name": "🅾🅻🅶🅰",
+      "value": 13
     },
     {
       "rank": 7,
-      "name": "Vitaliy",
-      "value": 11
+      "name": "a l",
+      "value": 10
     },
     {
       "rank": 8,
-      "name": "a l",
+      "name": "Vitaliy",
       "value": 10
     },
     {
@@ -1947,42 +1947,42 @@
     },
     {
       "rank": 17,
-      "name": ".",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 6
     },
     {
       "rank": 18,
+      "name": ".",
+      "value": 6
+    },
+    {
+      "rank": 19,
       "name": "Viktor",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 23,
-      "name": "Borz",
-      "value": 4
-    },
-    {
       "rank": 24,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Borz",
       "value": 4
     },
     {
