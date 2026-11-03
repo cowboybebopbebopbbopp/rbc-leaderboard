@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T22:17:52+00:00",
+  "updated": "2026-11-03T23:17:53+00:00",
   "count": 269,
   "has_movement": true,
   "all": [
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "ᴦоᴧод",
-      "value": 144,
+      "value": 145,
       "move": 0
     },
     {
@@ -1687,7 +1687,7 @@
     {
       "rank": 14,
       "name": "ᴦоᴧод",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 15,
@@ -1731,23 +1731,23 @@
     },
     {
       "rank": 23,
-      "name": "Manis Love",
-      "value": 12
-    },
-    {
-      "rank": 24,
       "name": "Marina",
       "value": 12
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Don Michele Corleone",
       "value": 12
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "terminal lucidity",
       "value": 11
+    },
+    {
+      "rank": 26,
+      "name": "Manis Love",
+      "value": 10
     },
     {
       "rank": 27,
@@ -1879,7 +1879,7 @@
     {
       "rank": 2,
       "name": "ᴦоᴧод",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 3,
@@ -1903,27 +1903,27 @@
     },
     {
       "rank": 7,
-      "name": "Анастасия",
-      "value": 11
-    },
-    {
-      "rank": 8,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 11
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "🅾🅻🅶🅰",
       "value": 11
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Vitaliy",
+      "value": 10
+    },
+    {
+      "rank": 11,
+      "name": "Анастасия D",
       "value": 10
     },
     {
@@ -2018,48 +2018,48 @@
     },
     {
       "rank": 30,
-      "name": "Алексей",
-      "value": 2
-    },
-    {
-      "rank": 31,
       "name": "Viktor",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Lina",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Darya",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "МС💬💪",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Oleg Maksimov",
       "value": 2
+    },
+    {
+      "rank": 38,
+      "name": "Алексей",
+      "value": 1
     },
     {
       "rank": 39,
