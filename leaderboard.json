@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T12:18:09+00:00",
-  "count": 270,
+  "updated": "2026-11-04T13:18:14+00:00",
+  "count": 271,
   "has_movement": true,
   "all": [
     {
@@ -1619,9 +1619,15 @@
     },
     {
       "rank": 270,
+      "name": "51",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 271,
       "name": "vitaliy",
       "value": 0,
-      "move": -5
+      "move": -6
     }
   ],
   "month": [
@@ -1643,7 +1649,7 @@
     {
       "rank": 4,
       "name": "a l",
-      "value": 70
+      "value": 69
     },
     {
       "rank": 5,
@@ -1667,18 +1673,18 @@
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
-      "value": 33
-    },
-    {
-      "rank": 10,
       "name": "Crypto Panda",
       "value": 33
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Viktor",
       "value": 32
+    },
+    {
+      "rank": 11,
+      "name": "Zero-sum Gamer",
+      "value": 31
     },
     {
       "rank": 12,
@@ -1880,7 +1886,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 2,
