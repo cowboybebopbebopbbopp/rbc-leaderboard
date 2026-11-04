@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-04T10:17:58+00:00",
-  "count": 269,
+  "updated": "2026-11-04T11:18:04+00:00",
+  "count": 270,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5792,
+      "value": 5793,
       "move": 0
     },
     {
@@ -431,15 +431,15 @@
     },
     {
       "rank": 72,
-      "name": "🇲akⓈ",
-      "value": 33,
-      "move": -1
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 34,
+      "move": 7
     },
     {
       "rank": 73,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "🇲akⓈ",
       "value": 33,
-      "move": 6
+      "move": -2
     },
     {
       "rank": 74,
@@ -1613,9 +1613,15 @@
     },
     {
       "rank": 269,
+      "name": "Александр Гаврилов",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 270,
       "name": "vitaliy",
       "value": 0,
-      "move": -4
+      "move": -5
     }
   ],
   "month": [
@@ -1637,7 +1643,7 @@
     {
       "rank": 4,
       "name": "a l",
-      "value": 71
+      "value": 70
     },
     {
       "rank": 5,
@@ -1651,13 +1657,13 @@
     },
     {
       "rank": 7,
-      "name": "SPM",
-      "value": 46
+      "name": "Князь Владимир С",
+      "value": 45
     },
     {
       "rank": 8,
-      "name": "Князь Владимир С",
-      "value": 45
+      "name": "SPM",
+      "value": 43
     },
     {
       "rank": 9,
@@ -1666,12 +1672,12 @@
     },
     {
       "rank": 10,
-      "name": "Viktor",
-      "value": 32
+      "name": "Crypto Panda",
+      "value": 33
     },
     {
       "rank": 11,
-      "name": "Crypto Panda",
+      "name": "Viktor",
       "value": 32
     },
     {
@@ -1717,7 +1723,7 @@
     {
       "rank": 20,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 21,
@@ -1874,7 +1880,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 39
     },
     {
       "rank": 2,
@@ -1884,7 +1890,7 @@
     {
       "rank": 3,
       "name": "Руслан Иванов",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 4,
@@ -1903,22 +1909,22 @@
     },
     {
       "rank": 7,
-      "name": "Синдбад Мореход",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 12
     },
     {
       "rank": 8,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 11
+      "name": "Синдбад Мореход",
+      "value": 12
     },
     {
       "rank": 9,
-      "name": "🅾🅻🅶🅰",
-      "value": 11
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 12
     },
     {
       "rank": 10,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "🅾🅻🅶🅰",
       "value": 11
     },
     {
@@ -1943,13 +1949,13 @@
     },
     {
       "rank": 15,
-      "name": "Logrus",
+      "name": "Don Michele Corleone",
       "value": 7
     },
     {
       "rank": 16,
-      "name": "Don Michele Corleone",
-      "value": 7
+      "name": "Logrus",
+      "value": 6
     },
     {
       "rank": 17,
