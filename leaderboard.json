@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T15:18:26+00:00",
+  "updated": "2026-11-04T16:18:32+00:00",
   "count": 271,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1893,
+      "value": 1894,
       "move": 0
     },
     {
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 327,
+      "value": 328,
       "move": 0
     },
     {
@@ -287,21 +287,21 @@
     },
     {
       "rank": 48,
-      "name": "shagron2",
+      "name": "Серхио Ле'Трас",
       "value": 100,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 49,
-      "name": "Max",
+      "name": "shagron2",
       "value": 100,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 50,
-      "name": "Серхио Ле'Трас",
-      "value": 98,
-      "move": 0
+      "name": "Max",
+      "value": 100,
+      "move": -1
     },
     {
       "rank": 51,
@@ -389,15 +389,15 @@
     },
     {
       "rank": 65,
-      "name": "Sergei IVANOV",
-      "value": 49,
-      "move": 0
+      "name": "A.",
+      "value": 52,
+      "move": 1
     },
     {
       "rank": 66,
-      "name": "A.",
-      "value": 48,
-      "move": 0
+      "name": "Sergei IVANOV",
+      "value": 49,
+      "move": -1
     },
     {
       "rank": 67,
@@ -425,15 +425,15 @@
     },
     {
       "rank": 71,
-      "name": "Олег",
-      "value": 34,
-      "move": -1
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 35,
+      "move": 8
     },
     {
       "rank": 72,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Олег",
       "value": 34,
-      "move": 7
+      "move": -2
     },
     {
       "rank": 73,
@@ -1634,7 +1634,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 192
+      "value": 190
     },
     {
       "rank": 2,
@@ -1644,7 +1644,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 75
+      "value": 76
     },
     {
       "rank": 4,
@@ -1674,7 +1674,7 @@
     {
       "rank": 9,
       "name": "Crypto Panda",
-      "value": 33
+      "value": 34
     },
     {
       "rank": 10,
@@ -1753,112 +1753,112 @@
     },
     {
       "rank": 25,
-      "name": "terminal lucidity",
+      "name": "A.",
       "value": 11
     },
     {
       "rank": 26,
+      "name": "terminal lucidity",
+      "value": 11
+    },
+    {
+      "rank": 27,
       "name": "Manis Love",
       "value": 10
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Max",
       "value": 10
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Сергей",
       "value": 9
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Olga Goncharova",
       "value": 9
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Logrus",
       "value": 8
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Евгений",
       "value": 8
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Sonic",
       "value": 8
     },
     {
-      "rank": 33,
-      "name": "A.",
-      "value": 7
-    },
-    {
       "rank": 34,
-      "name": "I",
+      "name": "🤗",
       "value": 7
     },
     {
       "rank": 35,
-      "name": "Charlie Shefelman",
-      "value": 6
+      "name": "I",
+      "value": 7
     },
     {
       "rank": 36,
-      "name": "🤗",
+      "name": "Серхио Ле'Трас",
       "value": 6
     },
     {
       "rank": 37,
+      "name": "Charlie Shefelman",
+      "value": 6
+    },
+    {
+      "rank": 38,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Lina",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Александр",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Ponemonec",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 45,
-      "name": "Aleksey",
-      "value": 4
-    },
-    {
       "rank": 46,
-      "name": "Серхио Ле'Трас",
+      "name": "Aleksey",
       "value": 4
     },
     {
@@ -1891,12 +1891,12 @@
     {
       "rank": 2,
       "name": "ᴦоᴧод",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 4,
@@ -1910,22 +1910,22 @@
     },
     {
       "rank": 6,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 13
+    },
+    {
+      "rank": 7,
       "name": "Анастасия D",
       "value": 12
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 12
     },
     {
-      "rank": 8,
-      "name": "Синдбад Мореход",
-      "value": 12
-    },
-    {
       "rank": 9,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Синдбад Мореход",
       "value": 12
     },
     {
@@ -1950,33 +1950,33 @@
     },
     {
       "rank": 14,
-      "name": "iDiklonius",
+      "name": "A.",
       "value": 8
     },
     {
       "rank": 15,
+      "name": "iDiklonius",
+      "value": 8
+    },
+    {
+      "rank": 16,
       "name": "Don Michele Corleone",
       "value": 7
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Logrus",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Olga Goncharova",
       "value": 5
-    },
-    {
-      "rank": 19,
-      "name": "A.",
-      "value": 4
     },
     {
       "rank": 20,
@@ -1985,37 +1985,37 @@
     },
     {
       "rank": 21,
-      "name": "Zero-sum Gamer",
+      "name": "🤗",
       "value": 4
     },
     {
       "rank": 22,
-      "name": "Ponemonec",
+      "name": "Zero-sum Gamer",
       "value": 4
     },
     {
       "rank": 23,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 24,
+      "name": ".",
+      "value": 4
+    },
+    {
+      "rank": 25,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 26,
-      "name": "LlirikMK",
-      "value": 3
-    },
-    {
       "rank": 27,
-      "name": "🤗",
+      "name": "LlirikMK",
       "value": 3
     },
     {
@@ -2030,91 +2030,96 @@
     },
     {
       "rank": 30,
-      "name": "L G",
+      "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "Charlie Shefelman",
+      "name": "L G",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Lina",
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Darya",
+      "name": "Lina",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Darya",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "@wavesscalper",
+      "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "МС💬💪",
+      "name": "@wavesscalper",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "Oleg Maksimov",
+      "name": "МС💬💪",
       "value": 2
     },
     {
       "rank": 38,
+      "name": "Oleg Maksimov",
+      "value": 2
+    },
+    {
+      "rank": 39,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Олег Галицин",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Marina",
       "value": 1
     }
