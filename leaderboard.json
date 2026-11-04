@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T07:17:58+00:00",
+  "updated": "2026-11-04T08:17:58+00:00",
   "count": 269,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1928,
+      "value": 1929,
       "move": 0
     },
     {
@@ -1622,12 +1622,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 201
+      "value": 200
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 80
+      "value": 81
     },
     {
       "rank": 3,
@@ -1652,7 +1652,7 @@
     {
       "rank": 7,
       "name": "SPM",
-      "value": 47
+      "value": 46
     },
     {
       "rank": 8,
@@ -1761,27 +1761,27 @@
     },
     {
       "rank": 29,
-      "name": "🤗",
-      "value": 9
-    },
-    {
-      "rank": 30,
       "name": "Olga Goncharova",
       "value": 9
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Logrus",
       "value": 8
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Евгений",
       "value": 8
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "A.",
+      "value": 7
+    },
+    {
+      "rank": 33,
+      "name": "🤗",
       "value": 7
     },
     {
@@ -1898,12 +1898,12 @@
     },
     {
       "rank": 6,
-      "name": "Анастасия D",
-      "value": 12
+      "name": "🅾🅻🅶🅰",
+      "value": 13
     },
     {
       "rank": 7,
-      "name": "🅾🅻🅶🅰",
+      "name": "Анастасия D",
       "value": 12
     },
     {
