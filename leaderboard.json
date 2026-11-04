@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T20:18:53+00:00",
-  "count": 271,
+  "updated": "2026-11-04T21:18:58+00:00",
+  "count": 272,
   "has_movement": true,
   "all": [
     {
@@ -419,15 +419,15 @@
     },
     {
       "rank": 70,
-      "name": "Roman Polyakov",
-      "value": 38,
-      "move": -1
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 39,
+      "move": 9
     },
     {
       "rank": 71,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Roman Polyakov",
       "value": 38,
-      "move": 8
+      "move": -2
     },
     {
       "rank": 72,
@@ -1625,9 +1625,15 @@
     },
     {
       "rank": 271,
+      "name": "Любовь Григорьева",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 272,
       "name": "vitaliy",
       "value": 0,
-      "move": -6
+      "move": -7
     }
   ],
   "month": [
@@ -1649,7 +1655,7 @@
     {
       "rank": 4,
       "name": "a l",
-      "value": 69
+      "value": 68
     },
     {
       "rank": 5,
@@ -1674,7 +1680,7 @@
     {
       "rank": 9,
       "name": "Crypto Panda",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 10,
@@ -1895,12 +1901,12 @@
     },
     {
       "rank": 3,
-      "name": "Archie",
-      "value": 18
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 17
     },
     {
       "rank": 4,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Archie",
       "value": 16
     },
     {
@@ -1930,12 +1936,12 @@
     },
     {
       "rank": 10,
-      "name": "Синдбад Мореход",
-      "value": 12
+      "name": "a l",
+      "value": 10
     },
     {
       "rank": 11,
-      "name": "a l",
+      "name": "Синдбад Мореход",
       "value": 10
     },
     {
