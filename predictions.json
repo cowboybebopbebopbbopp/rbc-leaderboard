@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-04T08:17:58+00:00",
+  "updated": "2026-11-04T09:01:57+00:00",
   "rating": {
-    "base_rate": 0.2673,
+    "base_rate": 0.2662,
     "prior_games": 5,
     "rated_games": 3
   },
@@ -34,11 +34,51 @@
       "posted": "2026-10-28T15:12:11+00:00",
       "deadline": "2026-10-31T20:59:59+00:00",
       "target_time": "2026-11-04T09:00:00+00:00",
-      "status": "voted",
-      "winner_option": null,
-      "winner_price": null,
-      "winners": [],
-      "winner_pids": [],
+      "status": "resolved",
+      "winner_option": 3,
+      "winner_price": 78499.99,
+      "winners": [
+        "ᴦоᴧод",
+        "Alexandro",
+        "Dmitriy",
+        "Alek$ 🏠",
+        "Владимир",
+        "Николай",
+        "Sergey",
+        "Ponemonec",
+        "Синдбад Мореход",
+        "Оксана",
+        "ingvar 604",
+        "Archie",
+        "Сергей",
+        "Victor Solodnikov",
+        "Андрей",
+        "Vladislav Isakov",
+        "K@1dzy",
+        "жека жека",
+        "Igor"
+      ],
+      "winner_pids": [
+        21,
+        548,
+        550,
+        481,
+        92,
+        98,
+        94,
+        375,
+        89,
+        80,
+        258,
+        61,
+        24,
+        559,
+        529,
+        565,
+        567,
+        510,
+        124
+      ],
       "votes_by_pid": {
         "566": 1,
         "559": 3,
@@ -2873,12 +2913,12 @@
     {
       "pid": 124,
       "name": "Igor",
-      "wins": 8,
-      "games": 10,
-      "win_pct": 80,
-      "score": 0.6224,
+      "wins": 9,
+      "games": 11,
+      "win_pct": 82,
+      "score": 0.6457,
       "rated": true,
-      "streak": 3,
+      "streak": 4,
       "best_streak": 5
     },
     {
@@ -2887,7 +2927,7 @@
       "wins": 9,
       "games": 13,
       "win_pct": 69,
-      "score": 0.5742,
+      "score": 0.5739,
       "rated": true,
       "streak": 4,
       "best_streak": 4
@@ -2896,23 +2936,34 @@
       "pid": 48,
       "name": "Alex Popov",
       "wins": 10,
-      "games": 16,
-      "win_pct": 62,
-      "score": 0.5398,
+      "games": 17,
+      "win_pct": 59,
+      "score": 0.515,
       "rated": true,
-      "streak": 5,
+      "streak": 0,
       "best_streak": 5
     },
     {
       "pid": 8,
       "name": "Денис",
       "wins": 8,
-      "games": 13,
-      "win_pct": 62,
-      "score": 0.5187,
+      "games": 14,
+      "win_pct": 57,
+      "score": 0.4911,
       "rated": true,
-      "streak": 2,
+      "streak": 0,
       "best_streak": 3
+    },
+    {
+      "pid": 89,
+      "name": "Синдбад Мореход",
+      "wins": 5,
+      "games": 8,
+      "win_pct": 62,
+      "score": 0.487,
+      "rated": true,
+      "streak": 4,
+      "best_streak": 4
     },
     {
       "pid": 151,
@@ -2920,7 +2971,7 @@
       "wins": 3,
       "games": 4,
       "win_pct": 75,
-      "score": 0.4818,
+      "score": 0.4812,
       "rated": true,
       "streak": 2,
       "best_streak": 2
@@ -2931,7 +2982,7 @@
       "wins": 2,
       "games": 2,
       "win_pct": 100,
-      "score": 0.4766,
+      "score": 0.4759,
       "rated": false,
       "streak": 2,
       "best_streak": 2
@@ -2942,7 +2993,7 @@
       "wins": 2,
       "games": 2,
       "win_pct": 100,
-      "score": 0.4766,
+      "score": 0.4759,
       "rated": false,
       "streak": 2,
       "best_streak": 2
@@ -2953,18 +3004,7 @@
       "wins": 2,
       "games": 2,
       "win_pct": 100,
-      "score": 0.4766,
-      "rated": false,
-      "streak": 2,
-      "best_streak": 2
-    },
-    {
-      "pid": 406,
-      "name": "Kirill",
-      "wins": 2,
-      "games": 2,
-      "win_pct": 100,
-      "score": 0.4766,
+      "score": 0.4759,
       "rated": false,
       "streak": 2,
       "best_streak": 2
@@ -2975,7 +3015,7 @@
       "wins": 2,
       "games": 2,
       "win_pct": 100,
-      "score": 0.4766,
+      "score": 0.4759,
       "rated": false,
       "streak": 2,
       "best_streak": 2
@@ -2986,7 +3026,18 @@
       "wins": 2,
       "games": 2,
       "win_pct": 100,
-      "score": 0.4766,
+      "score": 0.4759,
+      "rated": false,
+      "streak": 2,
+      "best_streak": 2
+    },
+    {
+      "pid": 529,
+      "name": "Андрей",
+      "wins": 2,
+      "games": 2,
+      "win_pct": 100,
+      "score": 0.4759,
       "rated": false,
       "streak": 2,
       "best_streak": 2
@@ -2995,23 +3046,23 @@
       "pid": 52,
       "name": "Олег",
       "wins": 7,
-      "games": 13,
-      "win_pct": 54,
-      "score": 0.4631,
+      "games": 14,
+      "win_pct": 50,
+      "score": 0.4385,
       "rated": true,
-      "streak": 2,
+      "streak": 0,
       "best_streak": 4
     },
     {
-      "pid": 89,
-      "name": "Синдбад Мореход",
-      "wins": 4,
-      "games": 7,
-      "win_pct": 57,
-      "score": 0.4447,
+      "pid": 98,
+      "name": "Николай",
+      "wins": 7,
+      "games": 14,
+      "win_pct": 50,
+      "score": 0.4385,
       "rated": true,
-      "streak": 3,
-      "best_streak": 3
+      "streak": 5,
+      "best_streak": 5
     },
     {
       "pid": 165,
@@ -3019,7 +3070,7 @@
       "wins": 5,
       "games": 10,
       "win_pct": 50,
-      "score": 0.4224,
+      "score": 0.4221,
       "rated": true,
       "streak": 1,
       "best_streak": 1
@@ -3030,7 +3081,7 @@
       "wins": 2,
       "games": 3,
       "win_pct": 67,
-      "score": 0.4171,
+      "score": 0.4164,
       "rated": true,
       "streak": 0,
       "best_streak": 2
@@ -3041,7 +3092,7 @@
       "wins": 2,
       "games": 3,
       "win_pct": 67,
-      "score": 0.4171,
+      "score": 0.4164,
       "rated": true,
       "streak": 0,
       "best_streak": 2
@@ -3052,7 +3103,7 @@
       "wins": 2,
       "games": 3,
       "win_pct": 67,
-      "score": 0.4171,
+      "score": 0.4164,
       "rated": true,
       "streak": 1,
       "best_streak": 1
@@ -3063,7 +3114,7 @@
       "wins": 2,
       "games": 3,
       "win_pct": 67,
-      "score": 0.4171,
+      "score": 0.4164,
       "rated": true,
       "streak": 0,
       "best_streak": 2
@@ -3074,7 +3125,7 @@
       "wins": 2,
       "games": 3,
       "win_pct": 67,
-      "score": 0.4171,
+      "score": 0.4164,
       "rated": true,
       "streak": 2,
       "best_streak": 2
@@ -3085,7 +3136,7 @@
       "wins": 2,
       "games": 3,
       "win_pct": 67,
-      "score": 0.4171,
+      "score": 0.4164,
       "rated": true,
       "streak": 1,
       "best_streak": 1
@@ -3096,7 +3147,18 @@
       "wins": 2,
       "games": 3,
       "win_pct": 67,
-      "score": 0.4171,
+      "score": 0.4164,
+      "rated": true,
+      "streak": 0,
+      "best_streak": 2
+    },
+    {
+      "pid": 406,
+      "name": "Kirill",
+      "wins": 2,
+      "games": 3,
+      "win_pct": 67,
+      "score": 0.4164,
       "rated": true,
       "streak": 0,
       "best_streak": 2
@@ -3107,7 +3169,7 @@
       "wins": 2,
       "games": 3,
       "win_pct": 67,
-      "score": 0.4171,
+      "score": 0.4164,
       "rated": true,
       "streak": 2,
       "best_streak": 2
@@ -3118,7 +3180,7 @@
       "wins": 4,
       "games": 8,
       "win_pct": 50,
-      "score": 0.4105,
+      "score": 0.4101,
       "rated": true,
       "streak": 1,
       "best_streak": 1
@@ -3129,32 +3191,10 @@
       "wins": 4,
       "games": 8,
       "win_pct": 50,
-      "score": 0.4105,
+      "score": 0.4101,
       "rated": true,
       "streak": 2,
       "best_streak": 2
-    },
-    {
-      "pid": 98,
-      "name": "Николай",
-      "wins": 6,
-      "games": 13,
-      "win_pct": 46,
-      "score": 0.4076,
-      "rated": true,
-      "streak": 4,
-      "best_streak": 4
-    },
-    {
-      "pid": 328,
-      "name": "Aleksey",
-      "wins": 3,
-      "games": 6,
-      "win_pct": 50,
-      "score": 0.3942,
-      "rated": true,
-      "streak": 0,
-      "best_streak": 3
     },
     {
       "pid": 16,
@@ -3162,7 +3202,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3173,7 +3213,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3184,7 +3224,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3195,7 +3235,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3206,7 +3246,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3217,7 +3257,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3228,7 +3268,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3239,7 +3279,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3250,7 +3290,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3261,7 +3301,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3272,7 +3312,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3283,7 +3323,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3294,7 +3334,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3305,7 +3345,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3316,7 +3356,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3327,7 +3367,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3338,7 +3378,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3349,7 +3389,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3360,7 +3400,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3371,7 +3411,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3382,7 +3422,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3393,7 +3433,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3404,7 +3444,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3415,7 +3455,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3426,7 +3466,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3437,7 +3477,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3448,7 +3488,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3459,7 +3499,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3470,7 +3510,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3481,7 +3521,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3492,7 +3532,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3503,7 +3543,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3514,7 +3554,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3525,7 +3565,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3536,7 +3576,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3547,7 +3587,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3558,7 +3598,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3569,7 +3609,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3580,7 +3620,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3591,7 +3631,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3602,7 +3642,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3613,7 +3653,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3624,7 +3664,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3635,7 +3675,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3646,7 +3686,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3657,7 +3697,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3668,7 +3708,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3679,7 +3719,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3690,7 +3730,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3701,7 +3741,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3712,7 +3752,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3723,7 +3763,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3734,7 +3774,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3745,7 +3785,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3756,7 +3796,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3767,7 +3807,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3778,7 +3818,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3789,7 +3829,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3800,7 +3840,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3811,7 +3851,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3822,7 +3862,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3833,7 +3873,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3844,7 +3884,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3855,7 +3895,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3866,7 +3906,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3877,7 +3917,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3888,7 +3928,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3899,7 +3939,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3910,7 +3950,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3921,7 +3961,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3932,7 +3972,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3943,7 +3983,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3954,7 +3994,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3965,7 +4005,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3976,7 +4016,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3987,7 +4027,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -3998,7 +4038,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4009,7 +4049,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4020,7 +4060,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4031,7 +4071,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4042,18 +4082,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 514,
-      "name": "Denis",
-      "wins": 1,
-      "games": 1,
-      "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4064,7 +4093,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4075,7 +4104,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4086,7 +4115,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4097,7 +4126,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4108,7 +4137,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4119,7 +4148,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4130,7 +4159,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4141,18 +4170,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 529,
-      "name": "Андрей",
-      "wins": 1,
-      "games": 1,
-      "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4163,7 +4181,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4174,7 +4192,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4185,18 +4203,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 535,
-      "name": "LL",
-      "wins": 1,
-      "games": 1,
-      "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4207,7 +4214,7 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4218,7 +4225,62 @@
       "wins": 1,
       "games": 1,
       "win_pct": 100,
-      "score": 0.3894,
+      "score": 0.3885,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 548,
+      "name": "Alexandro",
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "score": 0.3885,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 550,
+      "name": "Dmitriy",
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "score": 0.3885,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 559,
+      "name": "Victor Solodnikov",
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "score": 0.3885,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 565,
+      "name": "Vladislav Isakov",
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "score": 0.3885,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 567,
+      "name": "K@1dzy",
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "score": 0.3885,
       "rated": false,
       "streak": 1,
       "best_streak": 1
@@ -4229,7 +4291,7 @@
       "wins": 2,
       "games": 4,
       "win_pct": 50,
-      "score": 0.3707,
+      "score": 0.3701,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4240,20 +4302,9 @@
       "wins": 2,
       "games": 4,
       "win_pct": 50,
-      "score": 0.3707,
+      "score": 0.3701,
       "rated": true,
       "streak": 2,
-      "best_streak": 2
-    },
-    {
-      "pid": 452,
-      "name": "Людмила",
-      "wins": 2,
-      "games": 4,
-      "win_pct": 50,
-      "score": 0.3707,
-      "rated": true,
-      "streak": 0,
       "best_streak": 2
     },
     {
@@ -4262,7 +4313,7 @@
       "wins": 2,
       "games": 4,
       "win_pct": 50,
-      "score": 0.3707,
+      "score": 0.3701,
       "rated": true,
       "streak": 0,
       "best_streak": 2
@@ -4273,21 +4324,32 @@
       "wins": 6,
       "games": 15,
       "win_pct": 40,
-      "score": 0.3668,
+      "score": 0.3666,
       "rated": true,
       "streak": 0,
       "best_streak": 2
     },
     {
-      "pid": 304,
-      "name": "İl",
+      "pid": 80,
+      "name": "Оксана",
+      "wins": 6,
+      "games": 15,
+      "win_pct": 40,
+      "score": 0.3666,
+      "rated": true,
+      "streak": 2,
+      "best_streak": 3
+    },
+    {
+      "pid": 328,
+      "name": "Aleksey",
       "wins": 3,
       "games": 7,
       "win_pct": 43,
-      "score": 0.3614,
+      "score": 0.3609,
       "rated": true,
-      "streak": 1,
-      "best_streak": 1
+      "streak": 0,
+      "best_streak": 3
     },
     {
       "pid": 344,
@@ -4295,7 +4357,7 @@
       "wins": 3,
       "games": 7,
       "win_pct": 43,
-      "score": 0.3614,
+      "score": 0.3609,
       "rated": true,
       "streak": 2,
       "best_streak": 2
@@ -4306,285 +4368,10 @@
       "wins": 4,
       "games": 10,
       "win_pct": 40,
-      "score": 0.3558,
+      "score": 0.3554,
       "rated": true,
       "streak": 0,
       "best_streak": 2
-    },
-    {
-      "pid": 76,
-      "name": "Bogdan",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 96,
-      "name": "Аксель",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 144,
-      "name": "Dmitry",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 153,
-      "name": "BWW",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 161,
-      "name": "Андрей",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 204,
-      "name": "Igor Zau",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 205,
-      "name": "jenya",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 209,
-      "name": "O K",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 294,
-      "name": "Trozou",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 298,
-      "name": "yaroslav salmanov",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 309,
-      "name": "Дмитрий Камерзан",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 313,
-      "name": "Andy",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 330,
-      "name": "Антон",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 345,
-      "name": "Dima",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 348,
-      "name": "Vladimir | Cointelegraph",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 352,
-      "name": "iDiklonius",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 355,
-      "name": "Carmen Rodriguez",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 370,
-      "name": "Али",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 377,
-      "name": "Evgeny _Crypto(P2P)Trader",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 397,
-      "name": "Бурлак",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 443,
-      "name": "Varya.gt",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 453,
-      "name": "Илья Гарасюта",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 484,
-      "name": "Денис Иванович",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 500,
-      "name": "Tassia Varich",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 502,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.3338,
-      "rated": false,
-      "streak": 1,
-      "best_streak": 1
     },
     {
       "pid": 20,
@@ -4592,7 +4379,7 @@
       "wins": 3,
       "games": 8,
       "win_pct": 38,
-      "score": 0.3336,
+      "score": 0.3332,
       "rated": true,
       "streak": 1,
       "best_streak": 1
@@ -4603,9 +4390,20 @@
       "wins": 3,
       "games": 8,
       "win_pct": 38,
-      "score": 0.3336,
+      "score": 0.3332,
       "rated": true,
       "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 304,
+      "name": "İl",
+      "wins": 3,
+      "games": 8,
+      "win_pct": 38,
+      "score": 0.3332,
+      "rated": true,
+      "streak": 0,
       "best_streak": 1
     },
     {
@@ -4614,7 +4412,7 @@
       "wins": 2,
       "games": 5,
       "win_pct": 40,
-      "score": 0.3336,
+      "score": 0.3331,
       "rated": true,
       "streak": 1,
       "best_streak": 1
@@ -4625,10 +4423,21 @@
       "wins": 2,
       "games": 5,
       "win_pct": 40,
-      "score": 0.3336,
+      "score": 0.3331,
       "rated": true,
       "streak": 0,
       "best_streak": 1
+    },
+    {
+      "pid": 452,
+      "name": "Людмила",
+      "wins": 2,
+      "games": 5,
+      "win_pct": 40,
+      "score": 0.3331,
+      "rated": true,
+      "streak": 0,
+      "best_streak": 2
     },
     {
       "pid": 454,
@@ -4636,43 +4445,318 @@
       "wins": 2,
       "games": 5,
       "win_pct": 40,
-      "score": 0.3336,
+      "score": 0.3331,
       "rated": true,
       "streak": 2,
       "best_streak": 2
     },
     {
+      "pid": 76,
+      "name": "Bogdan",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 96,
+      "name": "Аксель",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 144,
+      "name": "Dmitry",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 153,
+      "name": "BWW",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 204,
+      "name": "Igor Zau",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 205,
+      "name": "jenya",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 209,
+      "name": "O K",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 258,
+      "name": "ingvar 604",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 294,
+      "name": "Trozou",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 298,
+      "name": "yaroslav salmanov",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 309,
+      "name": "Дмитрий Камерзан",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 313,
+      "name": "Andy",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 330,
+      "name": "Антон",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 345,
+      "name": "Dima",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 348,
+      "name": "Vladimir | Cointelegraph",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 352,
+      "name": "iDiklonius",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 355,
+      "name": "Carmen Rodriguez",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 370,
+      "name": "Али",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 377,
+      "name": "Evgeny _Crypto(P2P)Trader",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 397,
+      "name": "Бурлак",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 443,
+      "name": "Varya.gt",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 453,
+      "name": "Илья Гарасюта",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 481,
+      "name": "Alek$ 🏠",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 500,
+      "name": "Tassia Varich",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 502,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 514,
+      "name": "Denis",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 535,
+      "name": "LL",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.333,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
       "pid": 19,
       "name": "Juliya",
       "wins": 5,
-      "games": 14,
-      "win_pct": 36,
-      "score": 0.3335,
-      "rated": true,
-      "streak": 0,
-      "best_streak": 3
-    },
-    {
-      "pid": 80,
-      "name": "Оксана",
-      "wins": 5,
-      "games": 14,
-      "win_pct": 36,
-      "score": 0.3335,
-      "rated": true,
-      "streak": 1,
-      "best_streak": 3
-    },
-    {
-      "pid": 66,
-      "name": "Mikhail",
-      "wins": 5,
       "games": 15,
       "win_pct": 33,
-      "score": 0.3168,
+      "score": 0.3166,
       "rated": true,
       "streak": 0,
-      "best_streak": 2
+      "best_streak": 3
     },
     {
       "pid": 141,
@@ -4680,7 +4764,7 @@
       "wins": 3,
       "games": 9,
       "win_pct": 33,
-      "score": 0.3097,
+      "score": 0.3094,
       "rated": true,
       "streak": 0,
       "best_streak": 2
@@ -4691,7 +4775,7 @@
       "wins": 2,
       "games": 6,
       "win_pct": 33,
-      "score": 0.3033,
+      "score": 0.3028,
       "rated": true,
       "streak": 1,
       "best_streak": 1
@@ -4702,7 +4786,7 @@
       "wins": 2,
       "games": 6,
       "win_pct": 33,
-      "score": 0.3033,
+      "score": 0.3028,
       "rated": true,
       "streak": 0,
       "best_streak": 2
@@ -4713,7 +4797,7 @@
       "wins": 2,
       "games": 6,
       "win_pct": 33,
-      "score": 0.3033,
+      "score": 0.3028,
       "rated": true,
       "streak": 1,
       "best_streak": 1
@@ -4724,21 +4808,32 @@
       "wins": 2,
       "games": 6,
       "win_pct": 33,
-      "score": 0.3033,
+      "score": 0.3028,
       "rated": true,
       "streak": 0,
       "best_streak": 2
     },
     {
-      "pid": 4,
-      "name": "Валерий",
+      "pid": 61,
+      "name": "Archie",
       "wins": 5,
       "games": 16,
       "win_pct": 31,
-      "score": 0.3017,
+      "score": 0.3015,
+      "rated": true,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 66,
+      "name": "Mikhail",
+      "wins": 5,
+      "games": 16,
+      "win_pct": 31,
+      "score": 0.3015,
       "rated": true,
       "streak": 0,
-      "best_streak": 4
+      "best_streak": 2
     },
     {
       "pid": 7,
@@ -4746,7 +4841,7 @@
       "wins": 1,
       "games": 3,
       "win_pct": 33,
-      "score": 0.2921,
+      "score": 0.2914,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4757,7 +4852,7 @@
       "wins": 1,
       "games": 3,
       "win_pct": 33,
-      "score": 0.2921,
+      "score": 0.2914,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4768,7 +4863,18 @@
       "wins": 1,
       "games": 3,
       "win_pct": 33,
-      "score": 0.2921,
+      "score": 0.2914,
+      "rated": true,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 161,
+      "name": "Андрей",
+      "wins": 1,
+      "games": 3,
+      "win_pct": 33,
+      "score": 0.2914,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4779,7 +4885,7 @@
       "wins": 1,
       "games": 3,
       "win_pct": 33,
-      "score": 0.2921,
+      "score": 0.2914,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4790,7 +4896,7 @@
       "wins": 1,
       "games": 3,
       "win_pct": 33,
-      "score": 0.2921,
+      "score": 0.2914,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4801,7 +4907,7 @@
       "wins": 1,
       "games": 3,
       "win_pct": 33,
-      "score": 0.2921,
+      "score": 0.2914,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4812,7 +4918,7 @@
       "wins": 1,
       "games": 3,
       "win_pct": 33,
-      "score": 0.2921,
+      "score": 0.2914,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4823,21 +4929,43 @@
       "wins": 1,
       "games": 3,
       "win_pct": 33,
-      "score": 0.2921,
+      "score": 0.2914,
       "rated": true,
       "streak": 0,
       "best_streak": 1
     },
     {
-      "pid": 34,
-      "name": "Manis Love",
-      "wins": 4,
-      "games": 14,
-      "win_pct": 29,
-      "score": 0.2809,
+      "pid": 484,
+      "name": "Денис Иванович",
+      "wins": 1,
+      "games": 3,
+      "win_pct": 33,
+      "score": 0.2914,
+      "rated": true,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 510,
+      "name": "жека жека",
+      "wins": 1,
+      "games": 3,
+      "win_pct": 33,
+      "score": 0.2914,
       "rated": true,
       "streak": 1,
-      "best_streak": 2
+      "best_streak": 1
+    },
+    {
+      "pid": 4,
+      "name": "Валерий",
+      "wins": 5,
+      "games": 17,
+      "win_pct": 29,
+      "score": 0.2878,
+      "rated": true,
+      "streak": 0,
+      "best_streak": 4
     },
     {
       "pid": 26,
@@ -4845,7 +4973,7 @@
       "wins": 2,
       "games": 7,
       "win_pct": 29,
-      "score": 0.278,
+      "score": 0.2776,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4856,7 +4984,7 @@
       "wins": 2,
       "games": 7,
       "win_pct": 29,
-      "score": 0.278,
+      "score": 0.2776,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4867,7 +4995,7 @@
       "wins": 3,
       "games": 11,
       "win_pct": 27,
-      "score": 0.271,
+      "score": 0.2707,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4878,32 +5006,32 @@
       "wins": 3,
       "games": 11,
       "win_pct": 27,
-      "score": 0.271,
+      "score": 0.2707,
       "rated": true,
       "streak": 0,
       "best_streak": 1
     },
     {
-      "pid": 173,
-      "name": "Vitaliy",
-      "wins": 3,
-      "games": 11,
-      "win_pct": 27,
-      "score": 0.271,
-      "rated": true,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 61,
-      "name": "Archie",
+      "pid": 34,
+      "name": "Manis Love",
       "wins": 4,
       "games": 15,
       "win_pct": 27,
-      "score": 0.2668,
+      "score": 0.2666,
       "rated": true,
       "streak": 0,
-      "best_streak": 1
+      "best_streak": 2
+    },
+    {
+      "pid": 94,
+      "name": "Sergey",
+      "wins": 4,
+      "games": 15,
+      "win_pct": 27,
+      "score": 0.2666,
+      "rated": true,
+      "streak": 1,
+      "best_streak": 2
     },
     {
       "pid": 51,
@@ -4911,18 +5039,7 @@
       "wins": 1,
       "games": 4,
       "win_pct": 25,
-      "score": 0.2596,
-      "rated": true,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 56,
-      "name": "~",
-      "wins": 1,
-      "games": 4,
-      "win_pct": 25,
-      "score": 0.2596,
+      "score": 0.259,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4933,7 +5050,7 @@
       "wins": 1,
       "games": 4,
       "win_pct": 25,
-      "score": 0.2596,
+      "score": 0.259,
       "rated": true,
       "streak": 1,
       "best_streak": 1
@@ -4944,7 +5061,7 @@
       "wins": 1,
       "games": 4,
       "win_pct": 25,
-      "score": 0.2596,
+      "score": 0.259,
       "rated": true,
       "streak": 1,
       "best_streak": 1
@@ -4955,7 +5072,7 @@
       "wins": 1,
       "games": 4,
       "win_pct": 25,
-      "score": 0.2596,
+      "score": 0.259,
       "rated": true,
       "streak": 1,
       "best_streak": 1
@@ -4966,7 +5083,7 @@
       "wins": 1,
       "games": 4,
       "win_pct": 25,
-      "score": 0.2596,
+      "score": 0.259,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4977,7 +5094,7 @@
       "wins": 2,
       "games": 8,
       "win_pct": 25,
-      "score": 0.2567,
+      "score": 0.2562,
       "rated": true,
       "streak": 0,
       "best_streak": 2
@@ -4988,7 +5105,7 @@
       "wins": 2,
       "games": 8,
       "win_pct": 25,
-      "score": 0.2567,
+      "score": 0.2562,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -4999,20 +5116,20 @@
       "wins": 3,
       "games": 12,
       "win_pct": 25,
-      "score": 0.2551,
+      "score": 0.2548,
       "rated": true,
       "streak": 0,
       "best_streak": 1
     },
     {
-      "pid": 179,
-      "name": "LlirikMK",
-      "wins": 2,
-      "games": 9,
-      "win_pct": 22,
-      "score": 0.2383,
+      "pid": 173,
+      "name": "Vitaliy",
+      "wins": 3,
+      "games": 12,
+      "win_pct": 25,
+      "score": 0.2548,
       "rated": true,
-      "streak": 1,
+      "streak": 0,
       "best_streak": 1
     },
     {
@@ -5021,21 +5138,43 @@
       "wins": 2,
       "games": 9,
       "win_pct": 22,
-      "score": 0.2383,
+      "score": 0.2379,
       "rated": true,
       "streak": 0,
       "best_streak": 1
     },
     {
-      "pid": 94,
-      "name": "Sergey",
-      "wins": 3,
-      "games": 14,
-      "win_pct": 21,
-      "score": 0.2282,
+      "pid": 56,
+      "name": "~",
+      "wins": 1,
+      "games": 5,
+      "win_pct": 20,
+      "score": 0.2331,
       "rated": true,
       "streak": 0,
-      "best_streak": 2
+      "best_streak": 1
+    },
+    {
+      "pid": 43,
+      "name": "Алексей",
+      "wins": 2,
+      "games": 10,
+      "win_pct": 20,
+      "score": 0.2221,
+      "rated": true,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 179,
+      "name": "LlirikMK",
+      "wins": 2,
+      "games": 10,
+      "win_pct": 20,
+      "score": 0.2221,
+      "rated": true,
+      "streak": 0,
+      "best_streak": 1
     },
     {
       "pid": 3,
@@ -5043,7 +5182,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5054,7 +5193,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5065,7 +5204,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5076,7 +5215,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5087,7 +5226,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5098,7 +5237,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5109,7 +5248,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5120,7 +5259,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5131,7 +5270,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5142,7 +5281,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5153,7 +5292,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5164,7 +5303,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5175,7 +5314,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5186,7 +5325,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5197,7 +5336,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5208,18 +5347,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 79,
-      "name": "Igor",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5230,7 +5358,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5241,7 +5369,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5252,7 +5380,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5263,7 +5391,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5274,7 +5402,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5285,7 +5413,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5296,7 +5424,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5307,7 +5435,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5318,7 +5446,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5329,7 +5457,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5340,7 +5468,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5351,7 +5479,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5362,7 +5490,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5373,7 +5501,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5384,7 +5512,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5395,7 +5523,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5406,7 +5534,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5417,7 +5545,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5428,7 +5556,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5439,7 +5567,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5450,7 +5578,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5461,7 +5589,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5472,7 +5600,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5483,7 +5611,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5494,7 +5622,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5505,7 +5633,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5516,7 +5644,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5527,7 +5655,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5538,7 +5666,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5549,7 +5677,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5560,7 +5688,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5571,7 +5699,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5582,7 +5710,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5593,7 +5721,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5604,7 +5732,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5615,7 +5743,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5626,7 +5754,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5637,7 +5765,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5648,7 +5776,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5659,7 +5787,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5670,7 +5798,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5681,7 +5809,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5692,7 +5820,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5703,7 +5831,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5714,7 +5842,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5725,7 +5853,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5736,7 +5864,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5747,7 +5875,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5758,7 +5886,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5769,7 +5897,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5780,7 +5908,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5791,7 +5919,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5802,7 +5930,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5813,7 +5941,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5824,7 +5952,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5835,7 +5963,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5846,7 +5974,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5857,7 +5985,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5868,7 +5996,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5879,7 +6007,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5890,7 +6018,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5901,7 +6029,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5912,7 +6040,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5923,7 +6051,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5934,7 +6062,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5945,7 +6073,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5956,7 +6084,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5967,7 +6095,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5978,7 +6106,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -5989,7 +6117,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6000,7 +6128,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6011,7 +6139,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6022,7 +6150,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6033,7 +6161,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6044,7 +6172,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6055,7 +6183,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6066,7 +6194,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6077,7 +6205,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6088,7 +6216,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6099,7 +6227,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6110,7 +6238,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6121,7 +6249,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6132,7 +6260,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6143,7 +6271,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6154,7 +6282,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6165,7 +6293,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6176,7 +6304,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6187,7 +6315,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6198,18 +6326,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 258,
-      "name": "ingvar 604",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6220,7 +6337,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6231,7 +6348,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6242,7 +6359,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6253,7 +6370,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6264,7 +6381,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6275,7 +6392,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6286,7 +6403,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6297,7 +6414,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6308,7 +6425,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6319,7 +6436,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6330,7 +6447,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6341,7 +6458,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6352,7 +6469,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6363,7 +6480,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6374,7 +6491,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6385,7 +6502,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6396,7 +6513,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6407,7 +6524,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6418,7 +6535,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6429,7 +6546,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6440,7 +6557,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6451,7 +6568,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6462,7 +6579,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6473,7 +6590,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6484,7 +6601,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6495,7 +6612,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6506,7 +6623,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6517,7 +6634,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6528,7 +6645,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6539,7 +6656,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6550,7 +6667,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6561,7 +6678,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6572,7 +6689,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6583,7 +6700,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6594,7 +6711,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6605,7 +6722,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6616,7 +6733,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6627,7 +6744,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6638,7 +6755,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6649,7 +6766,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6660,7 +6777,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6671,7 +6788,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6682,7 +6799,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6693,7 +6810,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6704,7 +6821,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6715,7 +6832,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6726,7 +6843,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6737,7 +6854,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6748,7 +6865,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6759,7 +6876,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6770,7 +6887,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6781,7 +6898,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6792,7 +6909,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6803,7 +6920,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6814,7 +6931,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6825,7 +6942,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6836,7 +6953,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6847,7 +6964,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6858,7 +6975,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6869,7 +6986,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6880,7 +6997,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6891,7 +7008,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6902,7 +7019,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6913,7 +7030,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6924,7 +7041,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6935,7 +7052,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6946,7 +7063,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6957,7 +7074,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6968,7 +7085,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6979,7 +7096,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -6990,7 +7107,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7001,7 +7118,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7012,7 +7129,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7023,7 +7140,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7034,7 +7151,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7045,7 +7162,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7056,7 +7173,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7067,7 +7184,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7078,7 +7195,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7089,7 +7206,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7100,7 +7217,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7111,7 +7228,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7122,7 +7239,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7133,7 +7250,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7144,7 +7261,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7155,7 +7272,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7166,7 +7283,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7177,7 +7294,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7188,7 +7305,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7199,7 +7316,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7210,7 +7327,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7221,7 +7338,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7232,7 +7349,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7243,7 +7360,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7254,7 +7371,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7265,7 +7382,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7276,7 +7393,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7287,7 +7404,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7298,18 +7415,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 458,
-      "name": "Виктор Матыцин",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7320,7 +7426,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7331,7 +7437,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7342,7 +7448,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7353,7 +7459,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7364,7 +7470,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7375,7 +7481,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7386,7 +7492,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7397,18 +7503,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 475,
-      "name": "Дмитрий Павлов",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7419,7 +7514,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7430,18 +7525,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 481,
-      "name": "Alek$ 🏠",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7452,7 +7536,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7463,7 +7547,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7474,7 +7558,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7485,7 +7569,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7496,7 +7580,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7507,7 +7591,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7518,7 +7602,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7529,7 +7613,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7540,7 +7624,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7551,7 +7635,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7562,7 +7646,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7573,7 +7657,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7584,7 +7668,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7595,7 +7679,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7606,7 +7690,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7617,7 +7701,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7628,7 +7712,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7639,7 +7723,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7650,7 +7734,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7661,7 +7745,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7672,7 +7756,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7683,7 +7767,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7694,7 +7778,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7705,7 +7789,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7716,7 +7800,7 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7727,43 +7811,230 @@
       "wins": 0,
       "games": 1,
       "win_pct": 0,
-      "score": 0.2227,
+      "score": 0.2218,
       "rated": false,
       "streak": 0,
       "best_streak": 0
     },
     {
-      "pid": 43,
-      "name": "Алексей",
-      "wins": 2,
-      "games": 10,
-      "win_pct": 20,
-      "score": 0.2224,
-      "rated": true,
+      "pid": 543,
+      "name": "G.A.A",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
       "streak": 0,
-      "best_streak": 1
+      "best_streak": 0
     },
     {
-      "pid": 106,
-      "name": "Александр Лебедев",
-      "wins": 3,
-      "games": 15,
-      "win_pct": 20,
-      "score": 0.2168,
-      "rated": true,
+      "pid": 544,
+      "name": "Sem TS",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
       "streak": 0,
-      "best_streak": 1
+      "best_streak": 0
     },
     {
-      "pid": 44,
-      "name": "Valeri 🫥",
-      "wins": 1,
-      "games": 6,
-      "win_pct": 17,
-      "score": 0.2124,
-      "rated": true,
+      "pid": 545,
+      "name": "Олег",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
       "streak": 0,
-      "best_streak": 1
+      "best_streak": 0
+    },
+    {
+      "pid": 546,
+      "name": "Коц Матрос",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 547,
+      "name": "M",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 549,
+      "name": "Tatiana Rogozhanskaya",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 551,
+      "name": "Игорь",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 552,
+      "name": "MDV",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 553,
+      "name": "Nikolay Melnik",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 554,
+      "name": "Alexander Kalmykov",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 555,
+      "name": "Кеша Иванов",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 556,
+      "name": "Игорь",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 557,
+      "name": "Egor Popov",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 558,
+      "name": "Sergio",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 560,
+      "name": "*******",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 561,
+      "name": "Юлия",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 562,
+      "name": "果実",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 563,
+      "name": "Timur",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 564,
+      "name": "Сергей",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 566,
+      "name": "Asp",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.2218,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
     },
     {
       "pid": 72,
@@ -7771,7 +8042,7 @@
       "wins": 1,
       "games": 6,
       "win_pct": 17,
-      "score": 0.2124,
+      "score": 0.2119,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -7782,7 +8053,7 @@
       "wins": 1,
       "games": 6,
       "win_pct": 17,
-      "score": 0.2124,
+      "score": 0.2119,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -7793,7 +8064,7 @@
       "wins": 1,
       "games": 6,
       "win_pct": 17,
-      "score": 0.2124,
+      "score": 0.2119,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -7804,7 +8075,7 @@
       "wins": 1,
       "games": 6,
       "win_pct": 17,
-      "score": 0.2124,
+      "score": 0.2119,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -7815,9 +8086,64 @@
       "wins": 1,
       "games": 6,
       "win_pct": 17,
-      "score": 0.2124,
+      "score": 0.2119,
       "rated": true,
       "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 375,
+      "name": "Ponemonec",
+      "wins": 1,
+      "games": 6,
+      "win_pct": 17,
+      "score": 0.2119,
+      "rated": true,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 92,
+      "name": "Владимир",
+      "wins": 2,
+      "games": 11,
+      "win_pct": 18,
+      "score": 0.2082,
+      "rated": true,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 106,
+      "name": "Александр Лебедев",
+      "wins": 3,
+      "games": 16,
+      "win_pct": 19,
+      "score": 0.2062,
+      "rated": true,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "pid": 21,
+      "name": "ᴦоᴧод",
+      "wins": 2,
+      "games": 12,
+      "win_pct": 17,
+      "score": 0.1959,
+      "rated": true,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 24,
+      "name": "Сергей",
+      "wins": 2,
+      "games": 12,
+      "win_pct": 17,
+      "score": 0.1959,
+      "rated": true,
+      "streak": 1,
       "best_streak": 1
     },
     {
@@ -7826,20 +8152,20 @@
       "wins": 2,
       "games": 12,
       "win_pct": 17,
-      "score": 0.1963,
+      "score": 0.1959,
       "rated": true,
       "streak": 0,
       "best_streak": 1
     },
     {
-      "pid": 138,
-      "name": "Алехандро)🍅 Белов🍅",
-      "wins": 2,
-      "games": 12,
-      "win_pct": 17,
-      "score": 0.1963,
+      "pid": 44,
+      "name": "Valeri 🫥",
+      "wins": 1,
+      "games": 7,
+      "win_pct": 14,
+      "score": 0.1943,
       "rated": true,
-      "streak": 1,
+      "streak": 0,
       "best_streak": 1
     },
     {
@@ -7848,18 +8174,7 @@
       "wins": 1,
       "games": 7,
       "win_pct": 14,
-      "score": 0.1947,
-      "rated": true,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 289,
-      "name": "Nikita",
-      "wins": 1,
-      "games": 7,
-      "win_pct": 14,
-      "score": 0.1947,
+      "score": 0.1943,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -7870,7 +8185,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7881,7 +8196,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7892,7 +8207,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7903,7 +8218,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7914,7 +8229,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7925,7 +8240,18 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 79,
+      "name": "Igor",
+      "wins": 0,
+      "games": 2,
+      "win_pct": 0,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7936,7 +8262,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7947,7 +8273,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7958,7 +8284,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7969,7 +8295,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7980,7 +8306,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -7991,7 +8317,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8002,7 +8328,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8013,7 +8339,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8024,7 +8350,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8035,7 +8361,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8046,7 +8372,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8057,7 +8383,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8068,7 +8394,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8079,7 +8405,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8090,7 +8416,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8101,7 +8427,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8112,7 +8438,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8123,7 +8449,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8134,7 +8460,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8145,7 +8471,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8156,7 +8482,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8167,7 +8493,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8178,7 +8504,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8189,7 +8515,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8200,7 +8526,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8211,7 +8537,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8222,7 +8548,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8233,7 +8559,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8244,7 +8570,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8255,18 +8581,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
-      "rated": false,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 446,
-      "name": "Marina",
-      "wins": 0,
-      "games": 2,
-      "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8277,7 +8592,29 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 458,
+      "name": "Виктор Матыцин",
+      "wins": 0,
+      "games": 2,
+      "win_pct": 0,
+      "score": 0.1901,
+      "rated": false,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 475,
+      "name": "Дмитрий Павлов",
+      "wins": 0,
+      "games": 2,
+      "win_pct": 0,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8288,7 +8625,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8299,7 +8636,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8310,7 +8647,7 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
@@ -8321,21 +8658,21 @@
       "wins": 0,
       "games": 2,
       "win_pct": 0,
-      "score": 0.1909,
+      "score": 0.1901,
       "rated": false,
       "streak": 0,
       "best_streak": 0
     },
     {
-      "pid": 510,
-      "name": "жека жека",
-      "wins": 0,
-      "games": 2,
-      "win_pct": 0,
-      "score": 0.1909,
-      "rated": false,
+      "pid": 138,
+      "name": "Алехандро)🍅 Белов🍅",
+      "wins": 2,
+      "games": 13,
+      "win_pct": 15,
+      "score": 0.1851,
+      "rated": true,
       "streak": 0,
-      "best_streak": 0
+      "best_streak": 1
     },
     {
       "pid": 1,
@@ -8343,7 +8680,7 @@
       "wins": 1,
       "games": 8,
       "win_pct": 12,
-      "score": 0.1797,
+      "score": 0.1793,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -8354,7 +8691,7 @@
       "wins": 1,
       "games": 8,
       "win_pct": 12,
-      "score": 0.1797,
+      "score": 0.1793,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -8365,9 +8702,20 @@
       "wins": 1,
       "games": 8,
       "win_pct": 12,
-      "score": 0.1797,
+      "score": 0.1793,
       "rated": true,
       "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "pid": 289,
+      "name": "Nikita",
+      "wins": 1,
+      "games": 8,
+      "win_pct": 12,
+      "score": 0.1793,
+      "rated": true,
+      "streak": 0,
       "best_streak": 1
     },
     {
@@ -8376,7 +8724,7 @@
       "wins": 0,
       "games": 3,
       "win_pct": 0,
-      "score": 0.1671,
+      "score": 0.1664,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8387,7 +8735,7 @@
       "wins": 0,
       "games": 3,
       "win_pct": 0,
-      "score": 0.1671,
+      "score": 0.1664,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8398,7 +8746,7 @@
       "wins": 0,
       "games": 3,
       "win_pct": 0,
-      "score": 0.1671,
+      "score": 0.1664,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8409,7 +8757,7 @@
       "wins": 0,
       "games": 3,
       "win_pct": 0,
-      "score": 0.1671,
+      "score": 0.1664,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8420,18 +8768,7 @@
       "wins": 0,
       "games": 3,
       "win_pct": 0,
-      "score": 0.1671,
-      "rated": true,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 326,
-      "name": "Sergiy",
-      "wins": 0,
-      "games": 3,
-      "win_pct": 0,
-      "score": 0.1671,
+      "score": 0.1664,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8442,7 +8779,7 @@
       "wins": 0,
       "games": 3,
       "win_pct": 0,
-      "score": 0.1671,
+      "score": 0.1664,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8453,7 +8790,18 @@
       "wins": 0,
       "games": 3,
       "win_pct": 0,
-      "score": 0.1671,
+      "score": 0.1664,
+      "rated": true,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 446,
+      "name": "Marina",
+      "wins": 0,
+      "games": 3,
+      "win_pct": 0,
+      "score": 0.1664,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8464,7 +8812,7 @@
       "wins": 0,
       "games": 3,
       "win_pct": 0,
-      "score": 0.1671,
+      "score": 0.1664,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8475,7 +8823,7 @@
       "wins": 0,
       "games": 3,
       "win_pct": 0,
-      "score": 0.1671,
+      "score": 0.1664,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8484,9 +8832,9 @@
       "pid": 9,
       "name": "Ирина",
       "wins": 2,
-      "games": 15,
-      "win_pct": 13,
-      "score": 0.1668,
+      "games": 16,
+      "win_pct": 12,
+      "score": 0.1586,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -8497,40 +8845,7 @@
       "wins": 1,
       "games": 10,
       "win_pct": 10,
-      "score": 0.1558,
-      "rated": true,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 18,
-      "name": "BORIS A.",
-      "wins": 1,
-      "games": 10,
-      "win_pct": 10,
-      "score": 0.1558,
-      "rated": true,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "pid": 92,
-      "name": "Владимир",
-      "wins": 1,
-      "games": 10,
-      "win_pct": 10,
-      "score": 0.1558,
-      "rated": true,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "pid": 198,
-      "name": "A A",
-      "wins": 1,
-      "games": 10,
-      "win_pct": 10,
-      "score": 0.1558,
+      "score": 0.1554,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -8541,7 +8856,7 @@
       "wins": 0,
       "games": 4,
       "win_pct": 0,
-      "score": 0.1485,
+      "score": 0.1479,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8552,7 +8867,7 @@
       "wins": 0,
       "games": 4,
       "win_pct": 0,
-      "score": 0.1485,
+      "score": 0.1479,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8563,7 +8878,7 @@
       "wins": 0,
       "games": 4,
       "win_pct": 0,
-      "score": 0.1485,
+      "score": 0.1479,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8574,40 +8889,40 @@
       "wins": 0,
       "games": 4,
       "win_pct": 0,
-      "score": 0.1485,
+      "score": 0.1479,
       "rated": true,
       "streak": 0,
       "best_streak": 0
     },
     {
-      "pid": 317,
-      "name": "Sergey M.",
+      "pid": 326,
+      "name": "Sergiy",
       "wins": 0,
       "games": 4,
       "win_pct": 0,
-      "score": 0.1485,
+      "score": 0.1479,
       "rated": true,
       "streak": 0,
       "best_streak": 0
     },
     {
-      "pid": 21,
-      "name": "ᴦоᴧод",
+      "pid": 18,
+      "name": "BORIS A.",
       "wins": 1,
       "games": 11,
       "win_pct": 9,
-      "score": 0.146,
+      "score": 0.1457,
       "rated": true,
       "streak": 0,
       "best_streak": 1
     },
     {
-      "pid": 24,
-      "name": "Сергей",
+      "pid": 198,
+      "name": "A A",
       "wins": 1,
       "games": 11,
       "win_pct": 9,
-      "score": 0.146,
+      "score": 0.1457,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -8616,9 +8931,9 @@
       "pid": 99,
       "name": "Александра",
       "wins": 1,
-      "games": 11,
-      "win_pct": 9,
-      "score": 0.146,
+      "games": 12,
+      "win_pct": 8,
+      "score": 0.1371,
       "rated": true,
       "streak": 0,
       "best_streak": 1
@@ -8627,11 +8942,11 @@
       "pid": 186,
       "name": "A.",
       "wins": 1,
-      "games": 11,
-      "win_pct": 9,
-      "score": 0.146,
+      "games": 12,
+      "win_pct": 8,
+      "score": 0.1371,
       "rated": true,
-      "streak": 1,
+      "streak": 0,
       "best_streak": 1
     },
     {
@@ -8640,7 +8955,7 @@
       "wins": 0,
       "games": 5,
       "win_pct": 0,
-      "score": 0.1336,
+      "score": 0.1331,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8651,7 +8966,7 @@
       "wins": 0,
       "games": 5,
       "win_pct": 0,
-      "score": 0.1336,
+      "score": 0.1331,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8662,7 +8977,7 @@
       "wins": 0,
       "games": 5,
       "win_pct": 0,
-      "score": 0.1336,
+      "score": 0.1331,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8673,18 +8988,18 @@
       "wins": 0,
       "games": 5,
       "win_pct": 0,
-      "score": 0.1336,
+      "score": 0.1331,
       "rated": true,
       "streak": 0,
       "best_streak": 0
     },
     {
-      "pid": 375,
-      "name": "Ponemonec",
+      "pid": 317,
+      "name": "Sergey M.",
       "wins": 0,
       "games": 5,
       "win_pct": 0,
-      "score": 0.1336,
+      "score": 0.1331,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8695,7 +9010,7 @@
       "wins": 0,
       "games": 5,
       "win_pct": 0,
-      "score": 0.1336,
+      "score": 0.1331,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8704,9 +9019,9 @@
       "pid": 447,
       "name": "Вика",
       "wins": 0,
-      "games": 5,
+      "games": 6,
       "win_pct": 0,
-      "score": 0.1336,
+      "score": 0.121,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8715,9 +9030,9 @@
       "pid": 449,
       "name": "ПОЛЬЗОВАТЕЛЬ",
       "wins": 0,
-      "games": 5,
+      "games": 6,
       "win_pct": 0,
-      "score": 0.1336,
+      "score": 0.121,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8726,9 +9041,9 @@
       "pid": 64,
       "name": "L G",
       "wins": 0,
-      "games": 6,
+      "games": 7,
       "win_pct": 0,
-      "score": 0.1215,
+      "score": 0.1109,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8737,9 +9052,9 @@
       "pid": 70,
       "name": "🅾🅻🅶🅰",
       "wins": 0,
-      "games": 6,
+      "games": 7,
       "win_pct": 0,
-      "score": 0.1215,
+      "score": 0.1109,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8750,18 +9065,7 @@
       "wins": 0,
       "games": 7,
       "win_pct": 0,
-      "score": 0.1114,
-      "rated": true,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "pid": 132,
-      "name": "Vladimir",
-      "wins": 0,
-      "games": 7,
-      "win_pct": 0,
-      "score": 0.1114,
+      "score": 0.1109,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8772,7 +9076,18 @@
       "wins": 0,
       "games": 8,
       "win_pct": 0,
-      "score": 0.1028,
+      "score": 0.1024,
+      "rated": true,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "pid": 132,
+      "name": "Vladimir",
+      "wins": 0,
+      "games": 8,
+      "win_pct": 0,
+      "score": 0.1024,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8783,7 +9098,7 @@
       "wins": 0,
       "games": 10,
       "win_pct": 0,
-      "score": 0.0891,
+      "score": 0.0887,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8794,7 +9109,7 @@
       "wins": 0,
       "games": 10,
       "win_pct": 0,
-      "score": 0.0891,
+      "score": 0.0887,
       "rated": true,
       "streak": 0,
       "best_streak": 0
@@ -8805,7 +9120,7 @@
       "wins": 0,
       "games": 10,
       "win_pct": 0,
-      "score": 0.0891,
+      "score": 0.0887,
       "rated": true,
       "streak": 0,
       "best_streak": 0
