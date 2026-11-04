@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T03:17:56+00:00",
+  "updated": "2026-11-04T04:17:56+00:00",
   "count": 269,
   "has_movement": true,
   "all": [
@@ -437,33 +437,33 @@
     },
     {
       "rank": 73,
-      "name": "ЦиТуЭль",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 33,
-      "move": -1
+      "move": 6
     },
     {
       "rank": 74,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 32,
-      "move": -1
+      "name": "ЦиТуЭль",
+      "value": 33,
+      "move": -2
     },
     {
       "rank": 75,
-      "name": "Анастасия D",
-      "value": 32,
-      "move": 7
-    },
-    {
-      "rank": 76,
-      "name": "Мое имя Максим",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 32,
       "move": -2
     },
     {
-      "rank": 77,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "rank": 76,
+      "name": "Анастасия D",
       "value": 32,
-      "move": 2
+      "move": 6
+    },
+    {
+      "rank": 77,
+      "name": "Мое имя Максим",
+      "value": 32,
+      "move": -3
     },
     {
       "rank": 78,
@@ -1622,7 +1622,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 203
+      "value": 202
     },
     {
       "rank": 2,
@@ -1672,7 +1672,7 @@
     {
       "rank": 11,
       "name": "Crypto Panda",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 12,
@@ -1918,17 +1918,17 @@
     },
     {
       "rank": 10,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 11
+    },
+    {
+      "rank": 11,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 11,
-      "name": "Vitaliy",
-      "value": 10
-    },
-    {
       "rank": 12,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Vitaliy",
       "value": 10
     },
     {
