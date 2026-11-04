@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T09:01:57+00:00",
+  "updated": "2026-11-04T09:17:58+00:00",
   "count": 269,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4612,
+      "value": 4613,
       "move": 0
     },
     {
@@ -743,27 +743,27 @@
     },
     {
       "rank": 124,
-      "name": "Nikita",
+      "name": "Sonic",
       "value": 7,
-      "move": -1
+      "move": 2
     },
     {
       "rank": 125,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": -1
+      "name": "Nikita",
+      "value": 7,
+      "move": -2
     },
     {
       "rank": 126,
-      "name": "Max⚡️",
+      "name": "Александр Николаев",
       "value": 6,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 127,
-      "name": "Sonic",
+      "name": "Max⚡️",
       "value": 6,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 128,
@@ -1781,57 +1781,57 @@
     },
     {
       "rank": 33,
-      "name": "🤗",
-      "value": 7
-    },
-    {
-      "rank": 34,
       "name": "I",
       "value": 7
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Charlie Shefelman",
       "value": 6
     },
     {
+      "rank": 35,
+      "name": "🤗",
+      "value": 6
+    },
+    {
       "rank": 36,
+      "name": "Sonic",
+      "value": 6
+    },
+    {
+      "rank": 37,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Lina",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Александр",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 42,
-      "name": "Ponemonec",
-      "value": 5
-    },
-    {
       "rank": 43,
-      "name": "Sonic",
+      "name": "Ponemonec",
       "value": 5
     },
     {
@@ -1874,7 +1874,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
@@ -1898,12 +1898,12 @@
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
-      "value": 13
+      "name": "Анастасия D",
+      "value": 12
     },
     {
       "rank": 7,
-      "name": "Анастасия D",
+      "name": "🅾🅻🅶🅰",
       "value": 12
     },
     {
