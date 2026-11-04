@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T17:18:37+00:00",
+  "updated": "2026-11-04T18:18:42+00:00",
   "count": 271,
   "has_movement": true,
   "all": [
@@ -426,7 +426,7 @@
     {
       "rank": 71,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 35,
+      "value": 36,
       "move": 8
     },
     {
@@ -1634,7 +1634,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 189
+      "value": 188
     },
     {
       "rank": 2,
@@ -1654,7 +1654,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 68
+      "value": 66
     },
     {
       "rank": 6,
@@ -1674,7 +1674,7 @@
     {
       "rank": 9,
       "name": "Crypto Panda",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 10,
@@ -1886,7 +1886,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 34
+      "value": 33
     },
     {
       "rank": 2,
@@ -1910,12 +1910,12 @@
     },
     {
       "rank": 6,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 14
     },
     {
       "rank": 7,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 13
     },
     {
@@ -1930,12 +1930,12 @@
     },
     {
       "rank": 10,
-      "name": "🅾🅻🅶🅰",
-      "value": 11
+      "name": "a l",
+      "value": 10
     },
     {
       "rank": 11,
-      "name": "a l",
+      "name": "🅾🅻🅶🅰",
       "value": 10
     },
     {
@@ -2000,32 +2000,32 @@
     },
     {
       "rank": 24,
-      "name": "Manis Love",
-      "value": 3
-    },
-    {
-      "rank": 25,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "LlirikMK",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Zero-sum Gamer",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Sonic",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Viktor",
+      "value": 2
+    },
+    {
+      "rank": 29,
+      "name": "Manis Love",
       "value": 2
     },
     {
