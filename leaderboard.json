@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-04T16:18:32+00:00",
+  "updated": "2026-11-04T17:18:37+00:00",
   "count": 271,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5793,
+      "value": 5796,
       "move": 0
     },
     {
@@ -653,27 +653,27 @@
     },
     {
       "rank": 109,
-      "name": "Роман",
-      "value": 10,
-      "move": -1
+      "name": "Logrus",
+      "value": 11,
+      "move": 6
     },
     {
       "rank": 110,
-      "name": "Dede",
+      "name": "Роман",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 111,
-      "name": "Snowflake ❄️",
+      "name": "Dede",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 112,
-      "name": "Logrus",
+      "name": "Snowflake ❄️",
       "value": 10,
-      "move": 3
+      "move": -2
     },
     {
       "rank": 113,
@@ -1634,7 +1634,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 190
+      "value": 189
     },
     {
       "rank": 2,
@@ -1654,7 +1654,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 69
+      "value": 68
     },
     {
       "rank": 6,
@@ -1713,23 +1713,23 @@
     },
     {
       "rank": 17,
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 20
+    },
+    {
+      "rank": 18,
       "name": "Pavel",
       "value": 18
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Aся",
       "value": 18
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 18
-    },
-    {
-      "rank": 20,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 17
     },
     {
       "rank": 21,
@@ -1773,18 +1773,18 @@
     },
     {
       "rank": 29,
-      "name": "Сергей",
+      "name": "Logrus",
       "value": 9
     },
     {
       "rank": 30,
-      "name": "Olga Goncharova",
+      "name": "Сергей",
       "value": 9
     },
     {
       "rank": 31,
-      "name": "Logrus",
-      "value": 8
+      "name": "Olga Goncharova",
+      "value": 9
     },
     {
       "rank": 32,
@@ -1886,7 +1886,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 2,
@@ -1905,22 +1905,22 @@
     },
     {
       "rank": 5,
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 15
+    },
+    {
+      "rank": 6,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 14
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 13
     },
     {
-      "rank": 7,
-      "name": "Анастасия D",
-      "value": 12
-    },
-    {
       "rank": 8,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Анастасия D",
       "value": 12
     },
     {
@@ -1960,13 +1960,13 @@
     },
     {
       "rank": 16,
-      "name": "Don Michele Corleone",
+      "name": "Logrus",
       "value": 7
     },
     {
       "rank": 17,
-      "name": "Logrus",
-      "value": 6
+      "name": "Don Michele Corleone",
+      "value": 7
     },
     {
       "rank": 18,
@@ -1990,32 +1990,32 @@
     },
     {
       "rank": 22,
-      "name": "Zero-sum Gamer",
-      "value": 4
-    },
-    {
-      "rank": 23,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "LlirikMK",
+      "value": 3
+    },
+    {
+      "rank": 27,
+      "name": "Zero-sum Gamer",
       "value": 3
     },
     {
