@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T14:18:20+00:00",
+  "updated": "2026-11-04T15:18:26+00:00",
   "count": 271,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1892,
+      "value": 1893,
       "move": 0
     },
     {
@@ -1644,7 +1644,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 74
+      "value": 75
     },
     {
       "rank": 4,
@@ -1886,7 +1886,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 36
+      "value": 35
     },
     {
       "rank": 2,
@@ -1895,13 +1895,13 @@
     },
     {
       "rank": 3,
-      "name": "Руслан Иванов",
+      "name": "Archie",
       "value": 17
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 16
+      "name": "Руслан Иванов",
+      "value": 17
     },
     {
       "rank": 5,
