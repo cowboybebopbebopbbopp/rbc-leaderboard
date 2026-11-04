@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T09:17:58+00:00",
+  "updated": "2026-11-04T10:17:58+00:00",
   "count": 269,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1929,
+      "value": 1930,
       "move": 0
     },
     {
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "Руслан Иванов",
-      "value": 113,
+      "value": 114,
       "move": 2
     },
     {
@@ -701,51 +701,51 @@
     },
     {
       "rank": 117,
-      "name": "Юрий",
-      "value": 8,
-      "move": -1
+      "name": "Sonic",
+      "value": 9,
+      "move": 9
     },
     {
       "rank": 118,
-      "name": "xxx",
+      "name": "Юрий",
       "value": 8,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 119,
-      "name": "Kirill",
+      "name": "xxx",
       "value": 8,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 120,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": -1
+      "name": "Kirill",
+      "value": 8,
+      "move": -2
     },
     {
       "rank": 121,
-      "name": "Daniil",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 122,
-      "name": "Homelander",
+      "name": "Daniil",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 123,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "name": "Homelander",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 124,
-      "name": "Sonic",
+      "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 7,
-      "move": 2
+      "move": -2
     },
     {
       "rank": 125,
@@ -1627,7 +1627,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 81
+      "value": 82
     },
     {
       "rank": 3,
@@ -1642,7 +1642,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 68
+      "value": 69
     },
     {
       "rank": 6,
@@ -1776,27 +1776,27 @@
     },
     {
       "rank": 32,
+      "name": "Sonic",
+      "value": 8
+    },
+    {
+      "rank": 33,
       "name": "A.",
       "value": 7
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "I",
       "value": 7
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Charlie Shefelman",
       "value": 6
     },
     {
-      "rank": 35,
-      "name": "🤗",
-      "value": 6
-    },
-    {
       "rank": 36,
-      "name": "Sonic",
+      "name": "🤗",
       "value": 6
     },
     {
@@ -1884,7 +1884,7 @@
     {
       "rank": 3,
       "name": "Руслан Иванов",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 4,
@@ -1903,17 +1903,17 @@
     },
     {
       "rank": 7,
-      "name": "🅾🅻🅶🅰",
-      "value": 12
-    },
-    {
-      "rank": 8,
       "name": "Синдбад Мореход",
       "value": 12
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Jekago |РБК Крипто, мод.",
+      "value": 11
+    },
+    {
+      "rank": 9,
+      "name": "🅾🅻🅶🅰",
       "value": 11
     },
     {
@@ -1929,7 +1929,7 @@
     {
       "rank": 12,
       "name": "Vitaliy",
-      "value": 10
+      "value": 9
     },
     {
       "rank": 13,
@@ -1958,22 +1958,22 @@
     },
     {
       "rank": 18,
-      "name": "Zero-sum Gamer",
-      "value": 5
-    },
-    {
-      "rank": 19,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Borz",
+      "value": 4
+    },
+    {
+      "rank": 21,
+      "name": "Zero-sum Gamer",
       "value": 4
     },
     {
