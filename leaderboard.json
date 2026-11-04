@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T05:17:57+00:00",
+  "updated": "2026-11-04T06:17:57+00:00",
   "count": 269,
   "has_movement": true,
   "all": [
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "Руслан Иванов",
-      "value": 112,
+      "value": 113,
       "move": 2
     },
     {
@@ -1642,7 +1642,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 68
+      "value": 69
     },
     {
       "rank": 6,
@@ -1883,12 +1883,12 @@
     },
     {
       "rank": 3,
-      "name": "Archie",
-      "value": 16
+      "name": "Руслан Иванов",
+      "value": 17
     },
     {
       "rank": 4,
-      "name": "Руслан Иванов",
+      "name": "Archie",
       "value": 16
     },
     {
@@ -2058,56 +2058,51 @@
     },
     {
       "rank": 38,
-      "name": "Алексей",
-      "value": 1
-    },
-    {
-      "rank": 39,
       "name": "Sem TS",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Олег Галицин",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Marina",
       "value": 1
     }
