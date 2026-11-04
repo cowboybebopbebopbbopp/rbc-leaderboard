@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T02:17:55+00:00",
+  "updated": "2026-11-04T03:17:56+00:00",
   "count": 269,
   "has_movement": true,
   "all": [
@@ -18,13 +18,13 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1927,
+      "value": 1928,
       "move": 0
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1890,
+      "value": 1892,
       "move": 0
     },
     {
@@ -449,33 +449,33 @@
     },
     {
       "rank": 75,
-      "name": "Мое имя Максим",
+      "name": "Анастасия D",
       "value": 32,
-      "move": -1
+      "move": 7
     },
     {
       "rank": 76,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Мое имя Максим",
       "value": 32,
-      "move": 3
+      "move": -2
     },
     {
       "rank": 77,
-      "name": "𝑽",
-      "value": 31,
-      "move": -2
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 32,
+      "move": 2
     },
     {
       "rank": 78,
-      "name": "Iodva",
-      "value": 30,
-      "move": -2
+      "name": "𝑽",
+      "value": 31,
+      "move": -3
     },
     {
       "rank": 79,
-      "name": "Анастасия D",
+      "name": "Iodva",
       "value": 30,
-      "move": 3
+      "move": -3
     },
     {
       "rank": 80,
@@ -1627,16 +1627,16 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 79
+      "value": 80
     },
     {
       "rank": 3,
-      "name": "a l",
-      "value": 74
+      "name": "Archie",
+      "value": 75
     },
     {
       "rank": 4,
-      "name": "Archie",
+      "name": "a l",
       "value": 73
     },
     {
@@ -1696,22 +1696,22 @@
     },
     {
       "rank": 16,
+      "name": "Анастасия",
+      "value": 20
+    },
+    {
+      "rank": 17,
       "name": "Pavel",
       "value": 18
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Aся",
       "value": 18
     },
     {
-      "rank": 18,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 18
-    },
-    {
       "rank": 19,
-      "name": "Анастасия",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 18
     },
     {
@@ -1883,47 +1883,47 @@
     },
     {
       "rank": 3,
-      "name": "Руслан Иванов",
+      "name": "Archie",
       "value": 16
     },
     {
       "rank": 4,
+      "name": "Руслан Иванов",
+      "value": 16
+    },
+    {
+      "rank": 5,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 14
     },
     {
-      "rank": 5,
-      "name": "Archie",
-      "value": 14
-    },
-    {
       "rank": 6,
-      "name": "Синдбад Мореход",
+      "name": "Анастасия D",
       "value": 12
     },
     {
       "rank": 7,
+      "name": "🅾🅻🅶🅰",
+      "value": 12
+    },
+    {
+      "rank": 8,
+      "name": "Синдбад Мореход",
+      "value": 12
+    },
+    {
+      "rank": 9,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 11
     },
     {
-      "rank": 8,
-      "name": "🅾🅻🅶🅰",
-      "value": 11
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 10,
-      "name": "Vitaliy",
-      "value": 10
-    },
-    {
       "rank": 11,
-      "name": "Анастасия D",
+      "name": "Vitaliy",
       "value": 10
     },
     {
@@ -2008,42 +2008,42 @@
     },
     {
       "rank": 28,
-      "name": "@wavesscalper",
-      "value": 3
-    },
-    {
-      "rank": 29,
       "name": "Sonic",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Viktor",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Lina",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Darya",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "t.me/hapexoᚾK1T",
+      "value": 2
+    },
+    {
+      "rank": 35,
+      "name": "@wavesscalper",
       "value": 2
     },
     {
