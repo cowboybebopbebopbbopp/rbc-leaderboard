@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-05T15:20:31+00:00",
-  "count": 275,
+  "updated": "2026-11-05T16:20:37+00:00",
+  "count": 276,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5799,
+      "value": 5801,
       "move": 0
     },
     {
@@ -197,27 +197,27 @@
     },
     {
       "rank": 33,
-      "name": "-",
-      "value": 150,
-      "move": 0
+      "name": "ᴦоᴧод",
+      "value": 152,
+      "move": 4
     },
     {
       "rank": 34,
-      "name": "R",
-      "value": 148,
-      "move": 0
+      "name": "-",
+      "value": 150,
+      "move": -1
     },
     {
       "rank": 35,
-      "name": "Александр",
-      "value": 147,
-      "move": 0
+      "name": "R",
+      "value": 148,
+      "move": -1
     },
     {
       "rank": 36,
-      "name": "ᴦоᴧод",
-      "value": 146,
-      "move": 1
+      "name": "Александр",
+      "value": 147,
+      "move": -1
     },
     {
       "rank": 37,
@@ -431,27 +431,27 @@
     },
     {
       "rank": 72,
-      "name": "Олег",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 34,
-      "move": -1
+      "move": 2
     },
     {
       "rank": 73,
-      "name": "🇲akⓈ",
-      "value": 33,
-      "move": -1
+      "name": "Олег",
+      "value": 34,
+      "move": -2
     },
     {
       "rank": 74,
-      "name": "ЦиТуЭль",
+      "name": "🇲akⓈ",
       "value": 33,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 75,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 32,
-      "move": -1
+      "name": "ЦиТуЭль",
+      "value": 33,
+      "move": -2
     },
     {
       "rank": 76,
@@ -1649,16 +1649,22 @@
     },
     {
       "rank": 275,
+      "name": "Roman",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 276,
       "name": "vitaliy",
       "value": 0,
-      "move": -6
+      "move": -7
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 184
+      "value": 183
     },
     {
       "rank": 2,
@@ -1702,23 +1708,23 @@
     },
     {
       "rank": 10,
+      "name": "ᴦоᴧод",
+      "value": 36
+    },
+    {
+      "rank": 11,
       "name": "Zero-sum Gamer",
       "value": 35
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Viktor",
       "value": 32
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": ".",
       "value": 31
-    },
-    {
-      "rank": 13,
-      "name": "ᴦоᴧод",
-      "value": 30
     },
     {
       "rank": 14,
@@ -1733,7 +1739,7 @@
     {
       "rank": 16,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 23
+      "value": 25
     },
     {
       "rank": 17,
@@ -1747,13 +1753,13 @@
     },
     {
       "rank": 19,
-      "name": "Aся",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 18
     },
     {
       "rank": 20,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 18
+      "name": "Aся",
+      "value": 17
     },
     {
       "rank": 21,
@@ -1877,55 +1883,55 @@
     },
     {
       "rank": 45,
-      "name": "Aleksey",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 4
     },
     {
       "rank": 46,
-      "name": "L G",
+      "name": "Aleksey",
       "value": 4
     },
     {
       "rank": 47,
-      "name": "Олег",
+      "name": "L G",
       "value": 4
     },
     {
       "rank": 48,
-      "name": "Мое имя Максим",
+      "name": "Олег",
       "value": 4
     },
     {
       "rank": 49,
-      "name": "lefkorosos",
+      "name": "Мое имя Максим",
       "value": 4
     },
     {
       "rank": 50,
-      "name": "E X O",
-      "value": 3
+      "name": "lefkorosos",
+      "value": 4
     }
   ],
   "week": [
     {
       "rank": 1,
-      "name": "Igor",
-      "value": 25
+      "name": "ᴦоᴧод",
+      "value": 26
     },
     {
       "rank": 2,
-      "name": "ᴦоᴧод",
-      "value": 20
+      "name": "Igor",
+      "value": 24
     },
     {
       "rank": 3,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 19
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 20
     },
     {
       "rank": 4,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 18
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 19
     },
     {
       "rank": 5,
@@ -1949,17 +1955,17 @@
     },
     {
       "rank": 9,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 11
-    },
-    {
-      "rank": 10,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "A.",
+      "value": 10
+    },
+    {
+      "rank": 11,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 10
     },
     {
@@ -2049,97 +2055,97 @@
     },
     {
       "rank": 29,
-      "name": "Серхио Ле'Трас",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "L G",
+      "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "MEMBER.",
+      "name": "L G",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Charlie Shefelman",
+      "name": "MEMBER.",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Darya",
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Darya",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "@wavesscalper",
+      "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "МС💬💪",
+      "name": "@wavesscalper",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "Oleg Maksimov",
+      "name": "МС💬💪",
       "value": 2
     },
     {
       "rank": 38,
-      "name": "M",
+      "name": "Oleg Maksimov",
       "value": 2
     },
     {
       "rank": 39,
+      "name": "M",
+      "value": 2
+    },
+    {
+      "rank": 40,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Олег Галицин",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Lina",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 46,
-      "name": "lefkorosos",
-      "value": 1
-    },
-    {
       "rank": 47,
-      "name": "I",
+      "name": "lefkorosos",
       "value": 1
     },
     {
