@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T01:19:18+00:00",
+  "updated": "2026-11-05T02:19:23+00:00",
   "count": 274,
   "has_movement": true,
   "all": [
@@ -1667,7 +1667,7 @@
     {
       "rank": 4,
       "name": "a l",
-      "value": 68
+      "value": 67
     },
     {
       "rank": 5,
@@ -1881,22 +1881,22 @@
     },
     {
       "rank": 47,
-      "name": "Александр",
-      "value": 4
-    },
-    {
-      "rank": 48,
       "name": "Олег",
       "value": 4
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Мое имя Максим",
       "value": 4
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "E X O",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "Max⚡️",
       "value": 3
     }
   ],
@@ -1973,12 +1973,12 @@
     },
     {
       "rank": 15,
-      "name": "Синдбад Мореход",
-      "value": 8
+      "name": "Logrus",
+      "value": 7
     },
     {
       "rank": 16,
-      "name": "Logrus",
+      "name": "Синдбад Мореход",
       "value": 7
     },
     {
@@ -2093,56 +2093,51 @@
     },
     {
       "rank": 39,
-      "name": "Sem TS",
-      "value": 1
-    },
-    {
-      "rank": 40,
       "name": "Alix Alix",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Олег Галицин",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Lina",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Marina",
       "value": 1
     }
