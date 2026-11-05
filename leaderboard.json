@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-05T08:19:54+00:00",
+  "updated": "2026-11-05T09:19:59+00:00",
   "count": 275,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5796,
+      "value": 5797,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4613,
+      "value": 4614,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 947,
+      "value": 948,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 177,
+      "value": 178,
       "move": 0
     },
     {
@@ -581,21 +581,21 @@
     },
     {
       "rank": 97,
-      "name": "Money",
+      "name": "lefkorosos",
       "value": 17,
-      "move": -1
+      "move": 1
     },
     {
       "rank": 98,
-      "name": "Marina",
-      "value": 16,
-      "move": -1
+      "name": "Money",
+      "value": 17,
+      "move": -2
     },
     {
       "rank": 99,
-      "name": "lefkorosos",
+      "name": "Marina",
       "value": 16,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 100,
@@ -1658,7 +1658,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 185
+      "value": 186
     },
     {
       "rank": 2,
@@ -1668,7 +1668,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 77
+      "value": 76
     },
     {
       "rank": 4,
@@ -1703,7 +1703,7 @@
     {
       "rank": 10,
       "name": "Zero-sum Gamer",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 11,
@@ -1712,12 +1712,12 @@
     },
     {
       "rank": 12,
-      "name": "ᴦоᴧод",
-      "value": 30
+      "name": ".",
+      "value": 31
     },
     {
       "rank": 13,
-      "name": ".",
+      "name": "ᴦоᴧод",
       "value": 30
     },
     {
@@ -1732,12 +1732,12 @@
     },
     {
       "rank": 16,
-      "name": "Анастасия",
-      "value": 20
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 21
     },
     {
       "rank": 17,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Анастасия",
       "value": 20
     },
     {
@@ -1897,12 +1897,12 @@
     },
     {
       "rank": 49,
-      "name": "E X O",
-      "value": 3
+      "name": "lefkorosos",
+      "value": 4
     },
     {
       "rank": 50,
-      "name": "Max⚡️",
+      "name": "E X O",
       "value": 3
     }
   ],
@@ -1934,12 +1934,12 @@
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
-      "value": 15
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 16
     },
     {
       "rank": 7,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Руслан Иванов",
       "value": 15
     },
     {
@@ -1964,13 +1964,13 @@
     },
     {
       "rank": 12,
-      "name": "SPM",
+      "name": "Vitaliy",
       "value": 9
     },
     {
       "rank": 13,
-      "name": "Vitaliy",
-      "value": 9
+      "name": "SPM",
+      "value": 8
     },
     {
       "rank": 14,
@@ -1979,17 +1979,17 @@
     },
     {
       "rank": 15,
+      "name": "Zero-sum Gamer",
+      "value": 8
+    },
+    {
+      "rank": 16,
       "name": "Logrus",
       "value": 7
     },
     {
-      "rank": 16,
-      "name": "Синдбад Мореход",
-      "value": 7
-    },
-    {
       "rank": 17,
-      "name": "Zero-sum Gamer",
+      "name": "Синдбад Мореход",
       "value": 7
     },
     {
@@ -2014,17 +2014,17 @@
     },
     {
       "rank": 22,
+      "name": ".",
+      "value": 5
+    },
+    {
+      "rank": 23,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 23,
-      "name": "🤗",
-      "value": 4
-    },
-    {
       "rank": 24,
-      "name": ".",
+      "name": "🤗",
       "value": 4
     },
     {
@@ -2139,11 +2139,16 @@
     },
     {
       "rank": 47,
-      "name": "I",
+      "name": "lefkorosos",
       "value": 1
     },
     {
       "rank": 48,
+      "name": "I",
+      "value": 1
+    },
+    {
+      "rank": 49,
       "name": "Marina",
       "value": 1
     }
