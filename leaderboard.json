@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T10:20:04+00:00",
+  "updated": "2026-11-05T11:20:10+00:00",
   "count": 275,
   "has_movement": true,
   "all": [
@@ -1910,7 +1910,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 31
+      "value": 29
     },
     {
       "rank": 2,
@@ -1979,18 +1979,18 @@
     },
     {
       "rank": 15,
-      "name": "SPM",
-      "value": 7
-    },
-    {
-      "rank": 16,
       "name": "Logrus",
       "value": 7
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Синдбад Мореход",
       "value": 7
+    },
+    {
+      "rank": 17,
+      "name": "SPM",
+      "value": 6
     },
     {
       "rank": 18,
