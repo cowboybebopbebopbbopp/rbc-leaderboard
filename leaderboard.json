@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T00:49:30+00:00",
-  "count": 273,
+  "updated": "2026-11-05T01:19:18+00:00",
+  "count": 274,
   "has_movement": true,
   "all": [
     {
@@ -1637,9 +1637,15 @@
     },
     {
       "rank": 273,
+      "name": "Denis",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 274,
       "name": "vitaliy",
       "value": 0,
-      "move": -4
+      "move": -5
     }
   ],
   "month": [
@@ -1845,37 +1851,37 @@
     },
     {
       "rank": 41,
-      "name": "Александр",
-      "value": 5
-    },
-    {
-      "rank": 42,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Ponemonec",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Aleksey",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "L G",
+      "value": 4
+    },
+    {
+      "rank": 47,
+      "name": "Александр",
       "value": 4
     },
     {
@@ -1947,27 +1953,27 @@
     },
     {
       "rank": 11,
-      "name": "Синдбад Мореход",
-      "value": 10
-    },
-    {
-      "rank": 12,
       "name": "Vitaliy",
       "value": 9
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "SPM",
       "value": 8
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "A.",
       "value": 8
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "iDiklonius",
+      "value": 8
+    },
+    {
+      "rank": 15,
+      "name": "Синдбад Мореход",
       "value": 8
     },
     {
