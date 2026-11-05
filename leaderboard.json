@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T06:19:44+00:00",
+  "updated": "2026-11-05T07:19:49+00:00",
   "count": 275,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 943,
+      "value": 947,
       "move": 0
     },
     {
@@ -581,27 +581,27 @@
     },
     {
       "rank": 97,
-      "name": "Marina",
+      "name": "Ponemonec",
       "value": 16,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 98,
-      "name": "lefkorosos",
+      "name": "Marina",
       "value": 16,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 99,
-      "name": "Turchyn Gennadii",
-      "value": 15,
-      "move": 0
+      "name": "lefkorosos",
+      "value": 16,
+      "move": -1
     },
     {
       "rank": 100,
-      "name": "Ponemonec",
+      "name": "Turchyn Gennadii",
       "value": 15,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 101,
@@ -1658,7 +1658,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 187
+      "value": 185
     },
     {
       "rank": 2,
@@ -1687,12 +1687,12 @@
     },
     {
       "rank": 7,
-      "name": "Князь Владимир С",
-      "value": 45
+      "name": "SPM",
+      "value": 44
     },
     {
       "rank": 8,
-      "name": "SPM",
+      "name": "Князь Владимир С",
       "value": 44
     },
     {
@@ -1702,13 +1702,13 @@
     },
     {
       "rank": 10,
-      "name": "Viktor",
-      "value": 32
+      "name": "Zero-sum Gamer",
+      "value": 34
     },
     {
       "rank": 11,
-      "name": "Zero-sum Gamer",
-      "value": 31
+      "name": "Viktor",
+      "value": 32
     },
     {
       "rank": 12,
@@ -1842,32 +1842,32 @@
     },
     {
       "rank": 38,
+      "name": "Ponemonec",
+      "value": 6
+    },
+    {
+      "rank": 39,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Lina",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 42,
-      "name": "Андрей",
-      "value": 5
-    },
-    {
       "rank": 43,
-      "name": "Ponemonec",
+      "name": "Андрей",
       "value": 5
     },
     {
@@ -1989,52 +1989,52 @@
     },
     {
       "rank": 17,
+      "name": "Zero-sum Gamer",
+      "value": 7
+    },
+    {
+      "rank": 18,
       "name": "Don Michele Corleone",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 21,
+      "name": "Ponemonec",
+      "value": 5
+    },
+    {
+      "rank": 22,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 23,
       "name": "🤗",
       "value": 4
     },
     {
-      "rank": 22,
-      "name": "Ponemonec",
-      "value": 4
-    },
-    {
-      "rank": 23,
+      "rank": 24,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 25,
-      "name": "LlirikMK",
-      "value": 3
-    },
-    {
       "rank": 26,
-      "name": "Zero-sum Gamer",
+      "name": "LlirikMK",
       "value": 3
     },
     {
