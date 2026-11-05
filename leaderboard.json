@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T04:19:33+00:00",
-  "count": 274,
+  "updated": "2026-11-05T05:19:39+00:00",
+  "count": 275,
   "has_movement": true,
   "all": [
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1936,
+      "value": 1937,
       "move": 0
     },
     {
@@ -311,15 +311,15 @@
     },
     {
       "rank": 52,
-      "name": "Vlad",
-      "value": 92,
-      "move": 0
+      "name": "SPM",
+      "value": 93,
+      "move": 1
     },
     {
       "rank": 53,
-      "name": "SPM",
+      "name": "Vlad",
       "value": 92,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 54,
@@ -390,7 +390,7 @@
     {
       "rank": 65,
       "name": "A.",
-      "value": 53,
+      "value": 54,
       "move": 1
     },
     {
@@ -1643,9 +1643,15 @@
     },
     {
       "rank": 274,
+      "name": "Алёна Панова",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 275,
       "name": "vitaliy",
       "value": 0,
-      "move": -5
+      "move": -6
     }
   ],
   "month": [
@@ -1657,7 +1663,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 88
+      "value": 89
     },
     {
       "rank": 3,
@@ -1687,7 +1693,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 9,
@@ -1762,7 +1768,7 @@
     {
       "rank": 23,
       "name": "A.",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 24,
@@ -1924,7 +1930,7 @@
     {
       "rank": 5,
       "name": "🅾🅻🅶🅰",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 6,
@@ -1954,17 +1960,17 @@
     {
       "rank": 11,
       "name": "A.",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
+      "name": "SPM",
       "value": 9
     },
     {
       "rank": 13,
-      "name": "SPM",
-      "value": 8
+      "name": "Vitaliy",
+      "value": 9
     },
     {
       "rank": 14,
