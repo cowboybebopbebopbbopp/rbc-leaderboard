@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T16:20:37+00:00",
+  "updated": "2026-11-05T17:20:42+00:00",
   "count": 276,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1937,
+      "value": 1938,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 948,
+      "value": 949,
       "move": 0
     },
     {
@@ -1669,7 +1669,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 88
+      "value": 89
     },
     {
       "rank": 3,
@@ -1708,13 +1708,13 @@
     },
     {
       "rank": 10,
-      "name": "ᴦоᴧод",
+      "name": "Zero-sum Gamer",
       "value": 36
     },
     {
       "rank": 11,
-      "name": "Zero-sum Gamer",
-      "value": 35
+      "name": "ᴦоᴧод",
+      "value": 36
     },
     {
       "rank": 12,
@@ -1935,12 +1935,12 @@
     },
     {
       "rank": 5,
-      "name": "Archie",
-      "value": 17
+      "name": "🅾🅻🅶🅰",
+      "value": 18
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
+      "name": "Archie",
       "value": 17
     },
     {
@@ -1975,12 +1975,12 @@
     },
     {
       "rank": 13,
-      "name": "iDiklonius",
-      "value": 8
+      "name": "Zero-sum Gamer",
+      "value": 9
     },
     {
       "rank": 14,
-      "name": "Zero-sum Gamer",
+      "name": "iDiklonius",
       "value": 8
     },
     {
@@ -2050,63 +2050,63 @@
     },
     {
       "rank": 28,
-      "name": "Viktor",
-      "value": 2
-    },
-    {
-      "rank": 29,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "MEMBER.",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Darya",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "МС💬💪",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Oleg Maksimov",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "M",
       "value": 2
+    },
+    {
+      "rank": 39,
+      "name": "Viktor",
+      "value": 1
     },
     {
       "rank": 40,
