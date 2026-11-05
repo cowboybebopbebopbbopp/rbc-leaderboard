@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-05T13:20:20+00:00",
+  "updated": "2026-11-05T14:20:26+00:00",
   "count": 275,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5798,
+      "value": 5799,
       "move": 0
     },
     {
@@ -1672,13 +1672,13 @@
     },
     {
       "rank": 4,
-      "name": "a l",
-      "value": 65
+      "name": "Руслан Иванов",
+      "value": 64
     },
     {
       "rank": 5,
-      "name": "Руслан Иванов",
-      "value": 64
+      "name": "a l",
+      "value": 63
     },
     {
       "rank": 6,
@@ -1687,13 +1687,13 @@
     },
     {
       "rank": 7,
-      "name": "SPM",
+      "name": "Князь Владимир С",
       "value": 44
     },
     {
       "rank": 8,
-      "name": "Князь Владимир С",
-      "value": 44
+      "name": "SPM",
+      "value": 43
     },
     {
       "rank": 9,
@@ -1733,7 +1733,7 @@
     {
       "rank": 16,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 17,
@@ -1822,27 +1822,27 @@
     },
     {
       "rank": 34,
-      "name": "🤗",
-      "value": 7
-    },
-    {
-      "rank": 35,
       "name": "I",
       "value": 7
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Ponemonec",
       "value": 7
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Серхио Ле'Трас",
       "value": 6
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Charlie Shefelman",
+      "value": 6
+    },
+    {
+      "rank": 38,
+      "name": "🤗",
       "value": 6
     },
     {
@@ -1924,12 +1924,12 @@
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 17
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 18
     },
     {
       "rank": 5,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Archie",
       "value": 17
     },
     {
@@ -2049,58 +2049,58 @@
     },
     {
       "rank": 29,
-      "name": "Manis Love",
-      "value": 2
-    },
-    {
-      "rank": 30,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "MEMBER.",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Darya",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "МС💬💪",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Oleg Maksimov",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "M",
       "value": 2
+    },
+    {
+      "rank": 39,
+      "name": "Manis Love",
+      "value": 1
     },
     {
       "rank": 40,
