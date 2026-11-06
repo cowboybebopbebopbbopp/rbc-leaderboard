@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T18:23:00+00:00",
-  "count": 278,
+  "updated": "2026-11-06T19:23:06+00:00",
+  "count": 279,
   "has_movement": true,
   "all": [
     {
@@ -1667,9 +1667,15 @@
     },
     {
       "rank": 278,
+      "name": "НикНик",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 279,
       "name": "vitaliy",
       "value": 0,
-      "move": -5
+      "move": -6
     }
   ],
   "month": [
@@ -1686,7 +1692,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 71
+      "value": 68
     },
     {
       "rank": 4,
@@ -1775,17 +1781,17 @@
     },
     {
       "rank": 21,
-      "name": "Pavel",
-      "value": 16
-    },
-    {
-      "rank": 22,
       "name": "iDiklonius",
       "value": 16
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "A.",
+      "value": 14
+    },
+    {
+      "rank": 23,
+      "name": "Pavel",
       "value": 14
     },
     {
@@ -2012,12 +2018,12 @@
     },
     {
       "rank": 18,
-      "name": "@wavesscalper",
-      "value": 6
+      "name": "Сергей Л",
+      "value": 5
     },
     {
       "rank": 19,
-      "name": "Сергей Л",
+      "name": "@wavesscalper",
       "value": 5
     },
     {
@@ -2122,31 +2128,26 @@
     },
     {
       "rank": 40,
-      "name": "Viktor",
-      "value": 1
-    },
-    {
-      "rank": 41,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Oleg Maksimov",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Marina",
       "value": 1
     }
