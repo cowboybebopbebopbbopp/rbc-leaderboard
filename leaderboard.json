@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T06:21:51+00:00",
+  "updated": "2026-11-06T07:21:57+00:00",
   "count": 278,
   "has_movement": true,
   "all": [
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 178,
+      "value": 179,
       "move": 0
     },
     {
@@ -1676,7 +1676,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 183
+      "value": 180
     },
     {
       "rank": 2,
@@ -1736,7 +1736,7 @@
     {
       "rank": 13,
       "name": ".",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 14,
@@ -1751,7 +1751,7 @@
     {
       "rank": 16,
       "name": "Vitaliy",
-      "value": 26
+      "value": 24
     },
     {
       "rank": 17,
@@ -1765,13 +1765,13 @@
     },
     {
       "rank": 19,
-      "name": "Pavel",
-      "value": 18
+      "name": "Aся",
+      "value": 17
     },
     {
       "rank": 20,
-      "name": "Aся",
-      "value": 17
+      "name": "Pavel",
+      "value": 16
     },
     {
       "rank": 21,
@@ -1932,13 +1932,13 @@
     },
     {
       "rank": 2,
-      "name": "Igor",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 19
     },
     {
       "rank": 3,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 19
+      "name": "Igor",
+      "value": 18
     },
     {
       "rank": 4,
@@ -1962,22 +1962,22 @@
     },
     {
       "rank": 8,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 11
-    },
-    {
-      "rank": 9,
       "name": "Анастасия D",
       "value": 11
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "A.",
+      "value": 10
+    },
+    {
+      "rank": 11,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 10
     },
     {
@@ -2027,27 +2027,27 @@
     },
     {
       "rank": 21,
-      "name": "Don Michele Corleone",
+      "name": ".",
       "value": 5
     },
     {
       "rank": 22,
+      "name": "Don Michele Corleone",
+      "value": 5
+    },
+    {
+      "rank": 23,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "🤗",
       "value": 4
     },
     {
-      "rank": 24,
-      "name": "@wavesscalper",
-      "value": 4
-    },
-    {
       "rank": 25,
-      "name": ".",
+      "name": "@wavesscalper",
       "value": 4
     },
     {
