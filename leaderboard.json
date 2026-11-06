@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T17:22:55+00:00",
+  "updated": "2026-11-06T18:23:00+00:00",
   "count": 278,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1942,
+      "value": 1943,
       "move": 0
     },
     {
@@ -683,33 +683,33 @@
     },
     {
       "rank": 114,
-      "name": "***",
-      "value": 9,
-      "move": -1
+      "name": "Sonic",
+      "value": 10,
+      "move": 3
     },
     {
       "rank": 115,
-      "name": "Виталий",
+      "name": "***",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 116,
-      "name": "Demius",
+      "name": "Виталий",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 117,
-      "name": "Sergey",
+      "name": "Demius",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 118,
-      "name": "Sonic",
+      "name": "Sergey",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 119,
@@ -1681,7 +1681,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 91
+      "value": 92
     },
     {
       "rank": 3,
@@ -1810,23 +1810,23 @@
     },
     {
       "rank": 28,
-      "name": "terminal lucidity",
-      "value": 10
-    },
-    {
-      "rank": 29,
       "name": "Сергей",
       "value": 10
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "I",
       "value": 10
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Max",
       "value": 10
+    },
+    {
+      "rank": 31,
+      "name": "terminal lucidity",
+      "value": 9
     },
     {
       "rank": 32,
@@ -1835,17 +1835,17 @@
     },
     {
       "rank": 33,
+      "name": "Sonic",
+      "value": 9
+    },
+    {
+      "rank": 34,
       "name": "Евгений",
       "value": 8
     },
     {
-      "rank": 34,
-      "name": "Ponemonec",
-      "value": 8
-    },
-    {
       "rank": 35,
-      "name": "Sonic",
+      "name": "Ponemonec",
       "value": 8
     },
     {
@@ -1932,7 +1932,7 @@
     },
     {
       "rank": 2,
-      "name": "Руслан Иванов",
+      "name": "🅾🅻🅶🅰",
       "value": 20
     },
     {
@@ -1942,13 +1942,13 @@
     },
     {
       "rank": 4,
-      "name": "🅾🅻🅶🅰",
+      "name": "Руслан Иванов",
       "value": 19
     },
     {
       "rank": 5,
       "name": "ᴦоᴧод",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 6,
@@ -2057,27 +2057,27 @@
     },
     {
       "rank": 27,
-      "name": "Don Michele Corleone",
+      "name": "Sonic",
       "value": 4
     },
     {
       "rank": 28,
+      "name": "Don Michele Corleone",
+      "value": 4
+    },
+    {
+      "rank": 29,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "LlirikMK",
       "value": 3
     },
     {
-      "rank": 30,
-      "name": "I",
-      "value": 3
-    },
-    {
       "rank": 31,
-      "name": "Sonic",
+      "name": "I",
       "value": 3
     },
     {
