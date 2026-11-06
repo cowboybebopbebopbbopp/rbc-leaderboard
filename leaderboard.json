@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T00:49:39+00:00",
+  "updated": "2026-11-06T01:21:25+00:00",
   "count": 277,
   "has_movement": true,
   "all": [
@@ -305,15 +305,15 @@
     },
     {
       "rank": 51,
-      "name": "Сергей",
-      "value": 93,
-      "move": 0
+      "name": "SPM",
+      "value": 94,
+      "move": 2
     },
     {
       "rank": 52,
-      "name": "SPM",
+      "name": "Сергей",
       "value": 93,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 53,
@@ -348,7 +348,7 @@
     {
       "rank": 58,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 68,
+      "value": 69,
       "move": 0
     },
     {
@@ -647,21 +647,21 @@
     },
     {
       "rank": 108,
-      "name": "Олег",
-      "value": 11,
-      "move": -1
+      "name": "Logrus",
+      "value": 12,
+      "move": 1
     },
     {
       "rank": 109,
-      "name": "AnTon",
+      "name": "Олег",
       "value": 11,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 110,
-      "name": "Logrus",
+      "name": "AnTon",
       "value": 11,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 111,
@@ -1705,7 +1705,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 9,
@@ -1754,12 +1754,12 @@
     },
     {
       "rank": 18,
-      "name": "Pavel",
-      "value": 18
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 19
     },
     {
       "rank": 19,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Pavel",
       "value": 18
     },
     {
@@ -1804,18 +1804,18 @@
     },
     {
       "rank": 28,
-      "name": "Сергей",
+      "name": "Logrus",
       "value": 10
     },
     {
       "rank": 29,
-      "name": "Max",
+      "name": "Сергей",
       "value": 10
     },
     {
       "rank": 30,
-      "name": "Logrus",
-      "value": 9
+      "name": "Max",
+      "value": 10
     },
     {
       "rank": 31,
@@ -1936,13 +1936,13 @@
     },
     {
       "rank": 4,
-      "name": "🅾🅻🅶🅰",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 19
     },
     {
       "rank": 5,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 19
+      "name": "🅾🅻🅶🅰",
+      "value": 18
     },
     {
       "rank": 6,
@@ -1956,22 +1956,22 @@
     },
     {
       "rank": 8,
-      "name": "Анастасия D",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 11
     },
     {
       "rank": 9,
+      "name": "Анастасия D",
+      "value": 11
+    },
+    {
+      "rank": 10,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 10,
-      "name": "A.",
-      "value": 10
-    },
-    {
       "rank": 11,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "A.",
       "value": 10
     },
     {
@@ -1986,28 +1986,28 @@
     },
     {
       "rank": 14,
-      "name": "iDiklonius",
+      "name": "Logrus",
       "value": 8
     },
     {
       "rank": 15,
-      "name": "Logrus",
-      "value": 7
+      "name": "iDiklonius",
+      "value": 8
     },
     {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "SPM",
       "value": 7
     },
     {
       "rank": 17,
-      "name": "Ponemonec",
+      "name": "Синдбад Мореход",
       "value": 7
     },
     {
       "rank": 18,
-      "name": "SPM",
-      "value": 6
+      "name": "Ponemonec",
+      "value": 7
     },
     {
       "rank": 19,
