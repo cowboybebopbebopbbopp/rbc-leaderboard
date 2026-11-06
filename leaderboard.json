@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T02:21:30+00:00",
-  "count": 277,
+  "updated": "2026-11-06T03:21:35+00:00",
+  "count": 278,
   "has_movement": true,
   "all": [
     {
@@ -1661,9 +1661,15 @@
     },
     {
       "rank": 277,
+      "name": "Hannah Yoy",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 278,
       "name": "vitaliy",
       "value": 0,
-      "move": -4
+      "move": -5
     }
   ],
   "month": [
@@ -1921,13 +1927,13 @@
   "week": [
     {
       "rank": 1,
-      "name": "ᴦоᴧод",
-      "value": 23
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 22
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 22
+      "name": "ᴦоᴧод",
+      "value": 20
     },
     {
       "rank": 3,
