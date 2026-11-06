@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-06T19:23:06+00:00",
+  "updated": "2026-11-06T20:23:11+00:00",
   "count": 279,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5812,
+      "value": 5813,
       "move": 0
     },
     {
@@ -1682,7 +1682,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 179
+      "value": 176
     },
     {
       "rank": 2,
@@ -1691,13 +1691,13 @@
     },
     {
       "rank": 3,
-      "name": "Archie",
+      "name": "Руслан Иванов",
       "value": 68
     },
     {
       "rank": 4,
-      "name": "Руслан Иванов",
-      "value": 68
+      "name": "Archie",
+      "value": 66
     },
     {
       "rank": 5,
@@ -1792,7 +1792,7 @@
     {
       "rank": 23,
       "name": "Pavel",
-      "value": 14
+      "value": 12
     },
     {
       "rank": 24,
@@ -1934,7 +1934,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 2,
@@ -1964,7 +1964,7 @@
     {
       "rank": 7,
       "name": "Igor",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 8,
