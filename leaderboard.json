@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T14:22:35+00:00",
+  "updated": "2026-11-06T15:22:41+00:00",
   "count": 278,
   "has_movement": true,
   "all": [
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Руслан Иванов",
-      "value": 117,
+      "value": 118,
       "move": 1
     },
     {
@@ -372,7 +372,7 @@
     {
       "rank": 62,
       "name": "I",
-      "value": 57,
+      "value": 58,
       "move": 1
     },
     {
@@ -1686,17 +1686,17 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 74
+      "value": 72
     },
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 66
+      "value": 67
     },
     {
       "rank": 5,
       "name": "a l",
-      "value": 62
+      "value": 61
     },
     {
       "rank": 6,
@@ -1771,7 +1771,7 @@
     {
       "rank": 20,
       "name": "@wavesscalper",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 21,
@@ -1825,17 +1825,17 @@
     },
     {
       "rank": 31,
-      "name": "Olga Goncharova",
+      "name": "I",
       "value": 9
     },
     {
       "rank": 32,
-      "name": "Евгений",
-      "value": 8
+      "name": "Olga Goncharova",
+      "value": 9
     },
     {
       "rank": 33,
-      "name": "I",
+      "name": "Евгений",
       "value": 8
     },
     {
@@ -1938,7 +1938,7 @@
     {
       "rank": 3,
       "name": "Руслан Иванов",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 4,
@@ -1953,7 +1953,7 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 7,
@@ -1972,38 +1972,38 @@
     },
     {
       "rank": 10,
-      "name": "a l",
-      "value": 10
-    },
-    {
-      "rank": 11,
       "name": "A.",
       "value": 10
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 10
+      "value": 9
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Logrus",
       "value": 9
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "iDiklonius",
       "value": 9
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Синдбад Мореход",
       "value": 7
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Ponemonec",
       "value": 7
+    },
+    {
+      "rank": 16,
+      "name": "a l",
+      "value": 6
     },
     {
       "rank": 17,
@@ -2107,42 +2107,42 @@
     },
     {
       "rank": 37,
-      "name": "МС💬💪",
+      "name": "I",
       "value": 2
     },
     {
       "rank": 38,
-      "name": "M",
+      "name": "МС💬💪",
       "value": 2
     },
     {
       "rank": 39,
+      "name": "M",
+      "value": 2
+    },
+    {
+      "rank": 40,
       "name": "Viktor",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 43,
-      "name": "Олег",
-      "value": 1
-    },
-    {
       "rank": 44,
-      "name": "I",
+      "name": "Олег",
       "value": 1
     },
     {
