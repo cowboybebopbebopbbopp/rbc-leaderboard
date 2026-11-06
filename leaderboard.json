@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-06T10:22:13+00:00",
+  "updated": "2026-11-06T11:22:18+00:00",
   "count": 278,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5807,
+      "value": 5808,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 490,
+      "value": 491,
       "move": 0
     },
     {
@@ -1730,18 +1730,18 @@
     },
     {
       "rank": 12,
-      "name": "Zero-sum Gamer",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 32
     },
     {
       "rank": 13,
-      "name": ".",
+      "name": "Zero-sum Gamer",
       "value": 32
     },
     {
       "rank": 14,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 31
+      "name": ".",
+      "value": 32
     },
     {
       "rank": 15,
@@ -1781,7 +1781,7 @@
     {
       "rank": 22,
       "name": "iDiklonius",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 23,
@@ -1928,7 +1928,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 26
+      "value": 27
     },
     {
       "rank": 2,
@@ -1962,22 +1962,22 @@
     },
     {
       "rank": 8,
-      "name": "A.",
-      "value": 11
-    },
-    {
-      "rank": 9,
       "name": "Vitaliy",
       "value": 11
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Анастасия D",
       "value": 11
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "a l",
+      "value": 10
+    },
+    {
+      "rank": 11,
+      "name": "A.",
       "value": 10
     },
     {
@@ -1992,12 +1992,12 @@
     },
     {
       "rank": 14,
-      "name": "Zero-sum Gamer",
+      "name": "iDiklonius",
       "value": 9
     },
     {
       "rank": 15,
-      "name": "iDiklonius",
+      "name": "Zero-sum Gamer",
       "value": 8
     },
     {
