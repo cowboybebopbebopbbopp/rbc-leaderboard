@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T12:22:23+00:00",
+  "updated": "2026-11-06T13:22:29+00:00",
   "count": 278,
   "has_movement": true,
   "all": [
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Руслан Иванов",
-      "value": 116,
+      "value": 117,
       "move": 1
     },
     {
@@ -1676,7 +1676,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 180
+      "value": 179
     },
     {
       "rank": 2,
@@ -1691,12 +1691,12 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 65
+      "value": 66
     },
     {
       "rank": 5,
       "name": "a l",
-      "value": 63
+      "value": 62
     },
     {
       "rank": 6,
@@ -1751,7 +1751,7 @@
     {
       "rank": 16,
       "name": "Vitaliy",
-      "value": 24
+      "value": 23
     },
     {
       "rank": 17,
@@ -1937,13 +1937,13 @@
     },
     {
       "rank": 3,
-      "name": "ᴦоᴧод",
+      "name": "Руслан Иванов",
       "value": 18
     },
     {
       "rank": 4,
-      "name": "Руслан Иванов",
-      "value": 17
+      "name": "ᴦоᴧод",
+      "value": 18
     },
     {
       "rank": 5,
@@ -1958,7 +1958,7 @@
     {
       "rank": 7,
       "name": "Igor",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 8,
