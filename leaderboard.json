@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T20:23:11+00:00",
+  "updated": "2026-11-06T21:23:16+00:00",
   "count": 279,
   "has_movement": true,
   "all": [
@@ -1963,23 +1963,23 @@
     },
     {
       "rank": 7,
-      "name": "Igor",
-      "value": 11
-    },
-    {
-      "rank": 8,
       "name": "Vitaliy",
       "value": 11
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Анастасия D",
       "value": 11
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "A.",
       "value": 10
+    },
+    {
+      "rank": 10,
+      "name": "Igor",
+      "value": 9
     },
     {
       "rank": 11,
@@ -2003,38 +2003,38 @@
     },
     {
       "rank": 15,
-      "name": "a l",
-      "value": 6
-    },
-    {
-      "rank": 16,
       "name": "SPM",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Zero-sum Gamer",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": ".",
       "value": 5
+    },
+    {
+      "rank": 21,
+      "name": "a l",
+      "value": 4
     },
     {
       "rank": 22,
