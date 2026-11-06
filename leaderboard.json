@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:22:41+00:00",
+  "updated": "2026-11-06T16:22:49+00:00",
   "count": 278,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1940,
+      "value": 1942,
       "move": 0
     },
     {
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Руслан Иванов",
-      "value": 118,
+      "value": 119,
       "move": 1
     },
     {
@@ -372,7 +372,7 @@
     {
       "rank": 62,
       "name": "I",
-      "value": 58,
+      "value": 59,
       "move": 1
     },
     {
@@ -1681,17 +1681,17 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 89
+      "value": 91
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 72
+      "value": 71
     },
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 67
+      "value": 68
     },
     {
       "rank": 5,
@@ -1800,17 +1800,17 @@
     },
     {
       "rank": 26,
-      "name": "terminal lucidity",
-      "value": 11
-    },
-    {
-      "rank": 27,
       "name": "Logrus",
       "value": 11
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Manis Love",
+      "value": 10
+    },
+    {
+      "rank": 28,
+      "name": "terminal lucidity",
       "value": 10
     },
     {
@@ -1820,13 +1820,13 @@
     },
     {
       "rank": 30,
-      "name": "Max",
+      "name": "I",
       "value": 10
     },
     {
       "rank": 31,
-      "name": "I",
-      "value": 9
+      "name": "Max",
+      "value": 10
     },
     {
       "rank": 32,
@@ -1932,18 +1932,18 @@
     },
     {
       "rank": 2,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Руслан Иванов",
       "value": 20
     },
     {
       "rank": 3,
-      "name": "Руслан Иванов",
-      "value": 19
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 20
     },
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 17
+      "value": 19
     },
     {
       "rank": 5,
@@ -1982,13 +1982,13 @@
     },
     {
       "rank": 12,
-      "name": "Logrus",
+      "name": "iDiklonius",
       "value": 9
     },
     {
       "rank": 13,
-      "name": "iDiklonius",
-      "value": 9
+      "name": "Logrus",
+      "value": 8
     },
     {
       "rank": 14,
@@ -2072,42 +2072,42 @@
     },
     {
       "rank": 30,
-      "name": "Sonic",
+      "name": "I",
       "value": 3
     },
     {
       "rank": 31,
+      "name": "Sonic",
+      "value": 3
+    },
+    {
+      "rank": 32,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "MEMBER.",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Darya",
       "value": 2
     },
     {
-      "rank": 36,
-      "name": "lefkorosos",
-      "value": 2
-    },
-    {
       "rank": 37,
-      "name": "I",
+      "name": "lefkorosos",
       "value": 2
     },
     {
@@ -2132,26 +2132,21 @@
     },
     {
       "rank": 42,
-      "name": "Charlie Shefelman",
-      "value": 1
-    },
-    {
-      "rank": 43,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Oleg Maksimov",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Marina",
       "value": 1
     }
