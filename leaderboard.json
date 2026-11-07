@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T07:24:08+00:00",
+  "updated": "2026-11-07T08:24:14+00:00",
   "count": 280,
   "has_movement": true,
   "all": [
@@ -1688,7 +1688,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 176
+      "value": 175
     },
     {
       "rank": 2,
@@ -1717,13 +1717,13 @@
     },
     {
       "rank": 7,
-      "name": "SPM",
+      "name": "Князь Владимир С",
       "value": 45
     },
     {
       "rank": 8,
-      "name": "Князь Владимир С",
-      "value": 45
+      "name": "SPM",
+      "value": 44
     },
     {
       "rank": 9,
@@ -1758,7 +1758,7 @@
     {
       "rank": 15,
       "name": "Zero-sum Gamer",
-      "value": 29
+      "value": 28
     },
     {
       "rank": 16,
