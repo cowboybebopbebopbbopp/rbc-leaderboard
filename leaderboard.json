@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T14:24:48+00:00",
+  "updated": "2026-11-07T15:24:54+00:00",
   "count": 280,
   "has_movement": true,
   "all": [
@@ -372,7 +372,7 @@
     {
       "rank": 62,
       "name": "I",
-      "value": 59,
+      "value": 60,
       "move": 1
     },
     {
@@ -545,51 +545,51 @@
     },
     {
       "rank": 91,
-      "name": "Ponemonec",
+      "name": "Don Michele Corleone",
       "value": 18,
-      "move": 0
+      "move": 7
     },
     {
       "rank": 92,
-      "name": "Евгений",
+      "name": "Ponemonec",
       "value": 18,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 93,
-      "name": "lefkorosos",
+      "name": "Евгений",
       "value": 18,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 94,
-      "name": "Алина",
+      "name": "lefkorosos",
       "value": 18,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 95,
-      "name": "Антон",
-      "value": 17,
-      "move": 0
+      "name": "Алина",
+      "value": 18,
+      "move": -1
     },
     {
       "rank": 96,
-      "name": "Anatoly Shadrin",
+      "name": "Антон",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 97,
-      "name": "Advokat Krysanov",
+      "name": "Anatoly Shadrin",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 98,
-      "name": "Don Michele Corleone",
+      "name": "Advokat Krysanov",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 99,
@@ -671,33 +671,33 @@
     },
     {
       "rank": 112,
-      "name": "Dede",
+      "name": "Виталий",
       "value": 10,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 113,
-      "name": "Snowflake ❄️",
+      "name": "Dede",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 114,
-      "name": "Sonic",
+      "name": "Snowflake ❄️",
       "value": 10,
-      "move": 4
+      "move": -1
     },
     {
       "rank": 115,
-      "name": "***",
-      "value": 9,
-      "move": -1
+      "name": "Sonic",
+      "value": 10,
+      "move": 3
     },
     {
       "rank": 116,
-      "name": "Виталий",
+      "name": "***",
       "value": 9,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 117,
@@ -1702,13 +1702,13 @@
     },
     {
       "rank": 4,
-      "name": "a l",
+      "name": "Archie",
       "value": 61
     },
     {
       "rank": 5,
-      "name": "Archie",
-      "value": 61
+      "name": "a l",
+      "value": 58
     },
     {
       "rank": 6,
@@ -1792,22 +1792,22 @@
     },
     {
       "rank": 22,
-      "name": "A.",
-      "value": 14
-    },
-    {
-      "rank": 23,
       "name": "Logrus",
       "value": 13
     },
     {
+      "rank": 23,
+      "name": "Don Michele Corleone",
+      "value": 13
+    },
+    {
       "rank": 24,
-      "name": "Marina",
+      "name": "A.",
       "value": 12
     },
     {
       "rank": 25,
-      "name": "Don Michele Corleone",
+      "name": "Marina",
       "value": 12
     },
     {
@@ -1817,17 +1817,17 @@
     },
     {
       "rank": 27,
+      "name": "I",
+      "value": 11
+    },
+    {
+      "rank": 28,
       "name": "Manis Love",
       "value": 10
     },
     {
-      "rank": 28,
-      "name": "Сергей",
-      "value": 10
-    },
-    {
       "rank": 29,
-      "name": "I",
+      "name": "Сергей",
       "value": 10
     },
     {
@@ -1872,38 +1872,38 @@
     },
     {
       "rank": 38,
-      "name": "AnTon",
+      "name": "Виталий",
       "value": 5
     },
     {
       "rank": 39,
-      "name": "Lina",
+      "name": "AnTon",
       "value": 5
     },
     {
       "rank": 40,
-      "name": "Сергей Л",
+      "name": "Lina",
       "value": 5
     },
     {
       "rank": 41,
-      "name": "lefkorosos",
+      "name": "Сергей Л",
       "value": 5
     },
     {
       "rank": 42,
-      "name": "Андрей",
+      "name": "lefkorosos",
       "value": 5
     },
     {
       "rank": 43,
-      "name": "Olga Goncharova",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 44,
-      "name": "Виталий",
-      "value": 4
+      "name": "Olga Goncharova",
+      "value": 5
     },
     {
       "rank": 45,
@@ -1960,7 +1960,7 @@
     {
       "rank": 5,
       "name": "ᴦоᴧод",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 6,
@@ -2059,22 +2059,22 @@
     },
     {
       "rank": 25,
-      "name": "Ponemonec",
+      "name": "I",
       "value": 4
     },
     {
       "rank": 26,
-      "name": "Sonic",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 27,
-      "name": "Серхио Ле'Трас",
-      "value": 3
+      "name": "Sonic",
+      "value": 4
     },
     {
       "rank": 28,
-      "name": "Князь Владимир С",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
@@ -2084,77 +2084,82 @@
     },
     {
       "rank": 30,
-      "name": "I",
-      "value": 3
-    },
-    {
-      "rank": 31,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "MEMBER.",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Darya",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "МС💬💪",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "M",
       "value": 2
     },
     {
+      "rank": 38,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
       "rank": 39,
-      "name": "Сергей",
+      "name": "Виталий",
       "value": 1
     },
     {
       "rank": 40,
-      "name": "rozor",
+      "name": "Сергей",
       "value": 1
     },
     {
       "rank": 41,
-      "name": "Olga Scher",
+      "name": "Князь Владимир С",
       "value": 1
     },
     {
       "rank": 42,
-      "name": "Oleg Maksimov",
+      "name": "rozor",
       "value": 1
     },
     {
       "rank": 43,
-      "name": "Marina",
+      "name": "Olga Scher",
       "value": 1
     },
     {
       "rank": 44,
-      "name": "Don Michele Corleone",
+      "name": "Oleg Maksimov",
+      "value": 1
+    },
+    {
+      "rank": 45,
+      "name": "Marina",
       "value": 1
     }
   ]
