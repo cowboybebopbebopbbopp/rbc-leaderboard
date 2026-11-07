@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T04:23:52+00:00",
-  "count": 279,
+  "updated": "2026-11-07T05:23:58+00:00",
+  "count": 280,
   "has_movement": true,
   "all": [
     {
@@ -1673,9 +1673,15 @@
     },
     {
       "rank": 279,
+      "name": "Angel Pus",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 280,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
@@ -1702,7 +1708,7 @@
     {
       "rank": 5,
       "name": "a l",
-      "value": 61
+      "value": 60
     },
     {
       "rank": 6,
@@ -1741,13 +1747,13 @@
     },
     {
       "rank": 13,
-      "name": "Zero-sum Gamer",
+      "name": ".",
       "value": 32
     },
     {
       "rank": 14,
-      "name": ".",
-      "value": 32
+      "name": "Zero-sum Gamer",
+      "value": 31
     },
     {
       "rank": 15,
