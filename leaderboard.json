@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T08:24:14+00:00",
+  "updated": "2026-11-07T09:24:19+00:00",
   "count": 280,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1351,
+      "value": 1353,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 949,
+      "value": 950,
       "move": 0
     },
     {
@@ -1708,7 +1708,7 @@
     {
       "rank": 5,
       "name": "a l",
-      "value": 60
+      "value": 62
     },
     {
       "rank": 6,
@@ -1717,12 +1717,12 @@
     },
     {
       "rank": 7,
-      "name": "Князь Владимир С",
-      "value": 45
+      "name": "SPM",
+      "value": 44
     },
     {
       "rank": 8,
-      "name": "SPM",
+      "name": "Князь Владимир С",
       "value": 44
     },
     {
@@ -1758,7 +1758,7 @@
     {
       "rank": 15,
       "name": "Zero-sum Gamer",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 16,
@@ -1842,23 +1842,23 @@
     },
     {
       "rank": 32,
-      "name": "Olga Goncharova",
-      "value": 9
-    },
-    {
-      "rank": 33,
       "name": "Sonic",
       "value": 9
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Евгений",
       "value": 8
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Ponemonec",
       "value": 8
+    },
+    {
+      "rank": 35,
+      "name": "Olga Goncharova",
+      "value": 7
     },
     {
       "rank": 36,
@@ -2009,38 +2009,38 @@
     },
     {
       "rank": 15,
-      "name": "SPM",
-      "value": 6
+      "name": "Zero-sum Gamer",
+      "value": 7
     },
     {
       "rank": 16,
-      "name": "Zero-sum Gamer",
+      "name": "a l",
       "value": 6
     },
     {
       "rank": 17,
+      "name": "SPM",
+      "value": 6
+    },
+    {
+      "rank": 18,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": ".",
       "value": 5
-    },
-    {
-      "rank": 21,
-      "name": "a l",
-      "value": 4
     },
     {
       "rank": 22,
