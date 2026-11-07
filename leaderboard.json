@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T22:25:18+00:00",
+  "updated": "2026-11-07T23:25:19+00:00",
   "count": 280,
   "has_movement": true,
   "all": [
@@ -288,7 +288,7 @@
     {
       "rank": 48,
       "name": "Серхио Ле'Трас",
-      "value": 102,
+      "value": 103,
       "move": 0
     },
     {
@@ -1872,52 +1872,52 @@
     },
     {
       "rank": 38,
-      "name": "Charlie Shefelman",
+      "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
       "rank": 39,
-      "name": "Lina",
+      "name": "Charlie Shefelman",
       "value": 5
     },
     {
       "rank": 40,
-      "name": "Сергей Л",
+      "name": "Lina",
       "value": 5
     },
     {
       "rank": 41,
-      "name": "lefkorosos",
+      "name": "Сергей Л",
       "value": 5
     },
     {
       "rank": 42,
-      "name": "Андрей",
+      "name": "lefkorosos",
       "value": 5
     },
     {
       "rank": 43,
-      "name": "Olga Goncharova",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 44,
+      "name": "Olga Goncharova",
+      "value": 5
+    },
+    {
+      "rank": 45,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 4
     },
     {
-      "rank": 46,
-      "name": "Aleksey",
-      "value": 4
-    },
-    {
       "rank": 47,
-      "name": "Серхио Ле'Трас",
+      "name": "Aleksey",
       "value": 4
     },
     {
@@ -2014,37 +2014,37 @@
     },
     {
       "rank": 16,
-      "name": "Сергей Л",
+      "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
       "rank": 17,
-      "name": "I",
+      "name": "Сергей Л",
       "value": 5
     },
     {
       "rank": 18,
-      "name": "Olga Goncharova",
+      "name": "I",
       "value": 5
     },
     {
       "rank": 19,
+      "name": "Olga Goncharova",
+      "value": 5
+    },
+    {
+      "rank": 20,
       "name": "a l",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 21,
-      "name": "Aся",
-      "value": 4
-    },
-    {
       "rank": 22,
-      "name": "Vitaliy",
+      "name": "Aся",
       "value": 4
     },
     {
@@ -2054,28 +2054,28 @@
     },
     {
       "rank": 24,
-      "name": "Серхио Ле'Трас",
-      "value": 4
-    },
-    {
-      "rank": 25,
       "name": "LlirikMK",
       "value": 4
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Sonic",
       "value": 4
+    },
+    {
+      "rank": 28,
+      "name": "Vitaliy",
+      "value": 3
     },
     {
       "rank": 29,
