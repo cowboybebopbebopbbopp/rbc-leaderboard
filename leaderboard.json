@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:25:17+00:00",
+  "updated": "2026-11-07T20:25:17+00:00",
   "count": 280,
   "has_movement": true,
   "all": [
@@ -1713,7 +1713,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 7,
@@ -1944,17 +1944,17 @@
     },
     {
       "rank": 2,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 23
-    },
-    {
-      "rank": 3,
       "name": "🅾🅻🅶🅰",
       "value": 21
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Руслан Иванов",
+      "value": 20
+    },
+    {
+      "rank": 4,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 20
     },
     {
@@ -1999,18 +1999,18 @@
     },
     {
       "rank": 13,
-      "name": "Vitaliy",
-      "value": 8
-    },
-    {
-      "rank": 14,
       "name": "Logrus",
       "value": 7
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Синдбад Мореход",
       "value": 7
+    },
+    {
+      "rank": 15,
+      "name": "Vitaliy",
+      "value": 6
     },
     {
       "rank": 16,
