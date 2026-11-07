@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T12:24:36+00:00",
+  "updated": "2026-11-07T13:24:42+00:00",
   "count": 280,
   "has_movement": true,
   "all": [
@@ -288,7 +288,7 @@
     {
       "rank": 48,
       "name": "Серхио Ле'Трас",
-      "value": 100,
+      "value": 101,
       "move": 0
     },
     {
@@ -408,7 +408,7 @@
     {
       "rank": 68,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 42,
+      "value": 43,
       "move": 1
     },
     {
@@ -611,21 +611,21 @@
     },
     {
       "rank": 102,
-      "name": "vpidelks",
-      "value": 14,
-      "move": 0
+      "name": "Logrus",
+      "value": 15,
+      "move": 8
     },
     {
       "rank": 103,
-      "name": "Aleksey",
+      "name": "vpidelks",
       "value": 14,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 104,
-      "name": "Logrus",
+      "name": "Aleksey",
       "value": 14,
-      "move": 6
+      "move": -1
     },
     {
       "rank": 105,
@@ -1702,13 +1702,13 @@
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 63
+      "name": "a l",
+      "value": 62
     },
     {
       "rank": 5,
-      "name": "a l",
-      "value": 62
+      "name": "Archie",
+      "value": 61
     },
     {
       "rank": 6,
@@ -1718,7 +1718,7 @@
     {
       "rank": 7,
       "name": "Князь Владимир С",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 8,
@@ -1728,7 +1728,7 @@
     {
       "rank": 9,
       "name": "Crypto Panda",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 10,
@@ -1798,7 +1798,7 @@
     {
       "rank": 23,
       "name": "Logrus",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 24,
@@ -1858,7 +1858,7 @@
     {
       "rank": 35,
       "name": "Серхио Ле'Трас",
-      "value": 6
+      "value": 7
     },
     {
       "rank": 36,
@@ -1944,12 +1944,12 @@
     },
     {
       "rank": 2,
-      "name": "🅾🅻🅶🅰",
-      "value": 20
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 21
     },
     {
       "rank": 3,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "🅾🅻🅶🅰",
       "value": 20
     },
     {
@@ -2005,7 +2005,7 @@
     {
       "rank": 14,
       "name": "Logrus",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 15,
@@ -2019,28 +2019,28 @@
     },
     {
       "rank": 17,
-      "name": "SPM",
-      "value": 6
-    },
-    {
-      "rank": 18,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": ".",
       "value": 5
+    },
+    {
+      "rank": 21,
+      "name": "SPM",
+      "value": 4
     },
     {
       "rank": 22,
@@ -2069,27 +2069,27 @@
     },
     {
       "rank": 27,
-      "name": "Князь Владимир С",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
       "rank": 28,
-      "name": "LlirikMK",
+      "name": "Князь Владимир С",
       "value": 3
     },
     {
       "rank": 29,
-      "name": "I",
+      "name": "LlirikMK",
       "value": 3
     },
     {
       "rank": 30,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 2
+      "name": "I",
+      "value": 3
     },
     {
       "rank": 31,
-      "name": "Серхио Ле'Трас",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
@@ -2144,21 +2144,16 @@
     },
     {
       "rank": 42,
-      "name": "Олег",
-      "value": 1
-    },
-    {
-      "rank": 43,
       "name": "Oleg Maksimov",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Marina",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Don Michele Corleone",
       "value": 1
     }
