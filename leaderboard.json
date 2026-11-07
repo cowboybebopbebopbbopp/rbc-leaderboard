@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T11:24:30+00:00",
+  "updated": "2026-11-07T12:24:36+00:00",
   "count": 280,
   "has_movement": true,
   "all": [
@@ -1965,7 +1965,7 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 7,
@@ -1994,18 +1994,18 @@
     },
     {
       "rank": 12,
-      "name": "Logrus",
-      "value": 9
-    },
-    {
-      "rank": 13,
       "name": "iDiklonius",
       "value": 9
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Zero-sum Gamer",
       "value": 9
+    },
+    {
+      "rank": 14,
+      "name": "Logrus",
+      "value": 7
     },
     {
       "rank": 15,
@@ -2054,62 +2054,62 @@
     },
     {
       "rank": 24,
-      "name": "🤗",
-      "value": 4
-    },
-    {
-      "rank": 25,
       "name": "t.me/hapexoᚾK1T",
       "value": 4
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Sonic",
       "value": 4
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "LlirikMK",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "I",
       "value": 3
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "MEMBER.",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Darya",
+      "value": 2
+    },
+    {
+      "rank": 35,
+      "name": "🤗",
       "value": 2
     },
     {
