@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-07T17:25:05+00:00",
+  "updated": "2026-11-07T18:25:11+00:00",
   "count": 280,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5815,
+      "value": 5816,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 952,
+      "value": 953,
       "move": 0
     },
     {
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Руслан Иванов",
-      "value": 119,
+      "value": 120,
       "move": 1
     },
     {
@@ -288,7 +288,7 @@
     {
       "rank": 48,
       "name": "Серхио Ле'Трас",
-      "value": 101,
+      "value": 102,
       "move": 0
     },
     {
@@ -1693,12 +1693,12 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 91
+      "value": 90
     },
     {
       "rank": 3,
       "name": "Руслан Иванов",
-      "value": 66
+      "value": 65
     },
     {
       "rank": 4,
@@ -1713,7 +1713,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 50
+      "value": 46
     },
     {
       "rank": 7,
@@ -1728,12 +1728,12 @@
     {
       "rank": 9,
       "name": "SPM",
-      "value": 41
+      "value": 40
     },
     {
       "rank": 10,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 11,
@@ -1752,12 +1752,12 @@
     },
     {
       "rank": 14,
-      "name": "Zero-sum Gamer",
-      "value": 30
+      "name": "LlirikMK",
+      "value": 29
     },
     {
       "rank": 15,
-      "name": "LlirikMK",
+      "name": "Zero-sum Gamer",
       "value": 29
     },
     {
@@ -1812,12 +1812,12 @@
     },
     {
       "rank": 26,
-      "name": "Marina",
-      "value": 12
+      "name": "Pavel",
+      "value": 11
     },
     {
       "rank": 27,
-      "name": "Pavel",
+      "name": "Marina",
       "value": 11
     },
     {
@@ -1917,22 +1917,22 @@
     },
     {
       "rank": 47,
-      "name": "L G",
+      "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
       "rank": 48,
-      "name": "Олег",
+      "name": "L G",
       "value": 4
     },
     {
       "rank": 49,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Олег",
       "value": 4
     },
     {
       "rank": 50,
-      "name": "Мое имя Максим",
+      "name": "t.me/hapexoᚾK1T",
       "value": 4
     }
   ],
@@ -1940,7 +1940,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 33
+      "value": 34
     },
     {
       "rank": 2,
@@ -1955,7 +1955,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 5,
@@ -1969,17 +1969,17 @@
     },
     {
       "rank": 7,
-      "name": "Vitaliy",
-      "value": 11
-    },
-    {
-      "rank": 8,
       "name": "Анастасия D",
       "value": 11
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "A.",
+      "value": 10
+    },
+    {
+      "rank": 9,
+      "name": "Zero-sum Gamer",
       "value": 10
     },
     {
@@ -1994,12 +1994,12 @@
     },
     {
       "rank": 12,
-      "name": "iDiklonius",
+      "name": "Vitaliy",
       "value": 9
     },
     {
       "rank": 13,
-      "name": "Zero-sum Gamer",
+      "name": "iDiklonius",
       "value": 9
     },
     {
@@ -2054,23 +2054,23 @@
     },
     {
       "rank": 24,
-      "name": "Ponemonec",
+      "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
       "rank": 25,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 26,
-      "name": "Sonic",
+      "name": ".",
       "value": 4
     },
     {
       "rank": 27,
-      "name": "Серхио Ле'Трас",
-      "value": 3
+      "name": "Sonic",
+      "value": 4
     },
     {
       "rank": 28,
