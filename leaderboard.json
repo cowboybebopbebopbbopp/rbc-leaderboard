@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T10:24:24+00:00",
+  "updated": "2026-11-07T11:24:30+00:00",
   "count": 280,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 950,
+      "value": 952,
       "move": 0
     },
     {
@@ -1752,12 +1752,12 @@
     },
     {
       "rank": 14,
-      "name": "LlirikMK",
-      "value": 29
+      "name": "Zero-sum Gamer",
+      "value": 31
     },
     {
       "rank": 15,
-      "name": "Zero-sum Gamer",
+      "name": "LlirikMK",
       "value": 29
     },
     {
@@ -2004,12 +2004,12 @@
     },
     {
       "rank": 14,
-      "name": "Синдбад Мореход",
-      "value": 7
+      "name": "Zero-sum Gamer",
+      "value": 9
     },
     {
       "rank": 15,
-      "name": "Zero-sum Gamer",
+      "name": "Синдбад Мореход",
       "value": 7
     },
     {
@@ -2074,92 +2074,92 @@
     },
     {
       "rank": 28,
-      "name": "Don Michele Corleone",
-      "value": 4
-    },
-    {
-      "rank": 29,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "LlirikMK",
       "value": 3
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "I",
       "value": 3
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "MEMBER.",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Darya",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "МС💬💪",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "M",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Oleg Maksimov",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Marina",
+      "value": 1
+    },
+    {
+      "rank": 45,
+      "name": "Don Michele Corleone",
       "value": 1
     }
   ]
