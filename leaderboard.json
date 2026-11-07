@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T18:25:11+00:00",
+  "updated": "2026-11-07T19:25:17+00:00",
   "count": 280,
   "has_movement": true,
   "all": [
@@ -114,7 +114,7 @@
     {
       "rank": 19,
       "name": "@wavesscalper",
-      "value": 363,
+      "value": 364,
       "move": 0
     },
     {
@@ -336,7 +336,7 @@
     {
       "rank": 56,
       "name": "LlirikMK",
-      "value": 84,
+      "value": 85,
       "move": 0
     },
     {
@@ -1698,7 +1698,7 @@
     {
       "rank": 3,
       "name": "Руслан Иванов",
-      "value": 65
+      "value": 63
     },
     {
       "rank": 4,
@@ -1753,7 +1753,7 @@
     {
       "rank": 14,
       "name": "LlirikMK",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 15,
@@ -1783,7 +1783,7 @@
     {
       "rank": 20,
       "name": "@wavesscalper",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 21,
@@ -1857,22 +1857,22 @@
     },
     {
       "rank": 35,
-      "name": "Charlie Shefelman",
-      "value": 6
-    },
-    {
-      "rank": 36,
       "name": "🤗",
       "value": 6
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "AnTon",
+      "value": 5
+    },
+    {
+      "rank": 38,
+      "name": "Charlie Shefelman",
       "value": 5
     },
     {
@@ -1964,12 +1964,12 @@
     },
     {
       "rank": 6,
-      "name": "Archie",
-      "value": 12
+      "name": "Анастасия D",
+      "value": 11
     },
     {
       "rank": 7,
-      "name": "Анастасия D",
+      "name": "Archie",
       "value": 11
     },
     {
@@ -1994,13 +1994,13 @@
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
+      "name": "iDiklonius",
       "value": 9
     },
     {
       "rank": 13,
-      "name": "iDiklonius",
-      "value": 9
+      "name": "Vitaliy",
+      "value": 8
     },
     {
       "rank": 14,
@@ -2014,17 +2014,17 @@
     },
     {
       "rank": 16,
+      "name": "@wavesscalper",
+      "value": 6
+    },
+    {
+      "rank": 17,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 17,
-      "name": "I",
-      "value": 5
-    },
-    {
       "rank": 18,
-      "name": "@wavesscalper",
+      "name": "I",
       "value": 5
     },
     {
@@ -2059,23 +2059,23 @@
     },
     {
       "rank": 25,
-      "name": "Ponemonec",
+      "name": "LlirikMK",
       "value": 4
     },
     {
       "rank": 26,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 27,
-      "name": "Sonic",
+      "name": ".",
       "value": 4
     },
     {
       "rank": 28,
-      "name": "LlirikMK",
-      "value": 3
+      "name": "Sonic",
+      "value": 4
     },
     {
       "rank": 29,
