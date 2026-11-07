@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T16:25:00+00:00",
+  "updated": "2026-11-07T17:25:05+00:00",
   "count": 280,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1943,
+      "value": 1944,
       "move": 0
     },
     {
@@ -402,7 +402,7 @@
     {
       "rank": 67,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 44,
+      "value": 45,
       "move": 2
     },
     {
@@ -1688,22 +1688,22 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 169
+      "value": 168
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 92
+      "value": 91
     },
     {
       "rank": 3,
       "name": "Руслан Иванов",
-      "value": 67
+      "value": 66
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 61
+      "value": 60
     },
     {
       "rank": 5,
@@ -1717,12 +1717,12 @@
     },
     {
       "rank": 7,
-      "name": "Князь Владимир С",
-      "value": 43
+      "name": "Crypto Panda",
+      "value": 44
     },
     {
       "rank": 8,
-      "name": "Crypto Panda",
+      "name": "Князь Владимир С",
       "value": 43
     },
     {
@@ -1842,18 +1842,18 @@
     },
     {
       "rank": 32,
-      "name": "terminal lucidity",
-      "value": 8
-    },
-    {
-      "rank": 33,
       "name": "Евгений",
       "value": 8
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Ponemonec",
       "value": 8
+    },
+    {
+      "rank": 34,
+      "name": "terminal lucidity",
+      "value": 7
     },
     {
       "rank": 35,
@@ -1945,12 +1945,12 @@
     {
       "rank": 2,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 4,
@@ -1960,12 +1960,12 @@
     {
       "rank": 5,
       "name": "ᴦоᴧод",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 6,
       "name": "Archie",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 7,
@@ -2014,52 +2014,52 @@
     },
     {
       "rank": 16,
-      "name": "a l",
-      "value": 6
-    },
-    {
-      "rank": 17,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "I",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 21,
-      "name": ".",
-      "value": 5
+      "rank": 20,
+      "name": "a l",
+      "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Aся",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Ponemonec",
+      "value": 4
+    },
+    {
+      "rank": 25,
+      "name": ".",
       "value": 4
     },
     {
