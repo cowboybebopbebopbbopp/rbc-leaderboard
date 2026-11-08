@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T03:25:21+00:00",
+  "updated": "2026-11-08T04:25:22+00:00",
   "count": 281,
   "has_movement": true,
   "all": [
@@ -353,15 +353,15 @@
     },
     {
       "rank": 59,
-      "name": "AstronaVt",
-      "value": 66,
-      "move": 0
+      "name": "Алексей",
+      "value": 67,
+      "move": 2
     },
     {
       "rank": 60,
-      "name": "Алексей",
+      "name": "AstronaVt",
       "value": 66,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 61,
@@ -1868,37 +1868,37 @@
     },
     {
       "rank": 36,
+      "name": "Алексей",
+      "value": 6
+    },
+    {
+      "rank": 37,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "AnTon",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Charlie Shefelman",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Lina",
       "value": 5
     },
     {
-      "rank": 41,
-      "name": "Сергей Л",
-      "value": 5
-    },
-    {
       "rank": 42,
-      "name": "Алексей",
+      "name": "Сергей Л",
       "value": 5
     },
     {
@@ -2015,22 +2015,22 @@
     },
     {
       "rank": 15,
-      "name": "@wavesscalper",
+      "name": "Алексей",
       "value": 6
     },
     {
       "rank": 16,
+      "name": "@wavesscalper",
+      "value": 6
+    },
+    {
+      "rank": 17,
       "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
-      "rank": 17,
-      "name": "Сергей Л",
-      "value": 5
-    },
-    {
       "rank": 18,
-      "name": "Алексей",
+      "name": "Сергей Л",
       "value": 5
     },
     {
@@ -2060,32 +2060,32 @@
     },
     {
       "rank": 24,
-      "name": "Borz",
-      "value": 4
-    },
-    {
-      "rank": 25,
       "name": "LlirikMK",
       "value": 4
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Sonic",
       "value": 4
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Vitaliy",
+      "value": 3
+    },
+    {
+      "rank": 29,
+      "name": "Borz",
       "value": 3
     },
     {
