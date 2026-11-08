@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:25:28+00:00",
+  "updated": "2026-11-08T15:25:28+00:00",
   "count": 283,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1944,
+      "value": 1945,
       "move": 0
     },
     {
@@ -437,15 +437,15 @@
     },
     {
       "rank": 73,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 34,
-      "move": -1
+      "name": "Олег",
+      "value": 35,
+      "move": 0
     },
     {
       "rank": 74,
-      "name": "Олег",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 34,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 75,
@@ -1706,12 +1706,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 160
+      "value": 159
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 90
+      "value": 91
     },
     {
       "rank": 3,
@@ -1920,32 +1920,32 @@
     },
     {
       "rank": 44,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Олег",
       "value": 5
     },
     {
       "rank": 45,
-      "name": "Андрей",
+      "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
       "rank": 46,
-      "name": "Olga Goncharova",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 47,
+      "name": "Olga Goncharova",
+      "value": 5
+    },
+    {
+      "rank": 48,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 48,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 4
-    },
-    {
       "rank": 49,
-      "name": "Олег",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 4
     },
     {
@@ -1968,7 +1968,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 4,
@@ -2177,11 +2177,16 @@
     },
     {
       "rank": 45,
-      "name": "🤗",
+      "name": "Олег",
       "value": 1
     },
     {
       "rank": 46,
+      "name": "🤗",
+      "value": 1
+    },
+    {
+      "rank": 47,
       "name": "Marina",
       "value": 1
     }
