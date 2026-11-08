@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T05:25:22+00:00",
-  "count": 281,
+  "updated": "2026-11-08T06:25:23+00:00",
+  "count": 282,
   "has_movement": true,
   "all": [
     {
@@ -1685,9 +1685,15 @@
     },
     {
       "rank": 281,
+      "name": "Starr Cur",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 282,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
@@ -1704,7 +1710,7 @@
     {
       "rank": 3,
       "name": "Руслан Иванов",
-      "value": 62
+      "value": 61
     },
     {
       "rank": 4,
@@ -1718,13 +1724,13 @@
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 45
+      "name": "Crypto Panda",
+      "value": 44
     },
     {
       "rank": 7,
-      "name": "Crypto Panda",
-      "value": 44
+      "name": "a l",
+      "value": 43
     },
     {
       "rank": 8,
@@ -1733,13 +1739,13 @@
     },
     {
       "rank": 9,
-      "name": "SPM",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 40
     },
     {
       "rank": 10,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 40
+      "name": "SPM",
+      "value": 37
     },
     {
       "rank": 11,
@@ -1818,17 +1824,17 @@
     },
     {
       "rank": 26,
-      "name": "Pavel",
-      "value": 11
-    },
-    {
-      "rank": 27,
       "name": "Marina",
       "value": 11
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Manis Love",
+      "value": 10
+    },
+    {
+      "rank": 28,
+      "name": "Pavel",
       "value": 10
     },
     {
@@ -1955,13 +1961,13 @@
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 19
     },
     {
       "rank": 4,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 19
+      "name": "🅾🅻🅶🅰",
+      "value": 18
     },
     {
       "rank": 5,
@@ -1985,23 +1991,23 @@
     },
     {
       "rank": 9,
-      "name": "Igor",
-      "value": 9
-    },
-    {
-      "rank": 10,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 9
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Archie",
       "value": 9
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "iDiklonius",
       "value": 9
+    },
+    {
+      "rank": 12,
+      "name": "Igor",
+      "value": 8
     },
     {
       "rank": 13,
@@ -2090,62 +2096,62 @@
     },
     {
       "rank": 30,
-      "name": "Borz",
-      "value": 2
-    },
-    {
-      "rank": 31,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 32,
-      "name": "L G",
-      "value": 2
-    },
-    {
-      "rank": 33,
+      "rank": 31,
       "name": "MEMBER.",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 32,
       "name": "Darya",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 33,
       "name": "AK",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 34,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 35,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 36,
       "name": "МС💬💪",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 37,
       "name": "M",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 38,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 39,
       "name": "Виталий",
+      "value": 1
+    },
+    {
+      "rank": 40,
+      "name": "Borz",
+      "value": 1
+    },
+    {
+      "rank": 41,
+      "name": "L G",
       "value": 1
     },
     {
