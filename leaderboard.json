@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T18:25:30+00:00",
+  "updated": "2026-11-08T19:25:31+00:00",
   "count": 283,
   "has_movement": true,
   "all": [
@@ -354,7 +354,7 @@
     {
       "rank": 59,
       "name": "Алексей",
-      "value": 67,
+      "value": 68,
       "move": 2
     },
     {
@@ -761,33 +761,33 @@
     },
     {
       "rank": 127,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": 0
+      "name": "Oleg Maksimov",
+      "value": 7,
+      "move": 9
     },
     {
       "rank": 128,
-      "name": "Max⚡️",
-      "value": 6,
-      "move": 0
-    },
-    {
-      "rank": 129,
-      "name": "t.me/hapexoᚾK1T",
-      "value": 6,
-      "move": 3
-    },
-    {
-      "rank": 130,
-      "name": "Андрей",
+      "name": "Александр Николаев",
       "value": 6,
       "move": -1
     },
     {
-      "rank": 131,
-      "name": "Oleg Maksimov",
+      "rank": 129,
+      "name": "Max⚡️",
       "value": 6,
-      "move": 5
+      "move": -1
+    },
+    {
+      "rank": 130,
+      "name": "t.me/hapexoᚾK1T",
+      "value": 6,
+      "move": 2
+    },
+    {
+      "rank": 131,
+      "name": "Андрей",
+      "value": 6,
+      "move": -2
     },
     {
       "rank": 132,
@@ -1706,7 +1706,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 159
+      "value": 158
     },
     {
       "rank": 2,
@@ -1870,17 +1870,17 @@
     },
     {
       "rank": 34,
+      "name": "Алексей",
+      "value": 7
+    },
+    {
+      "rank": 35,
       "name": "terminal lucidity",
       "value": 6
     },
     {
-      "rank": 35,
-      "name": "🤗",
-      "value": 6
-    },
-    {
       "rank": 36,
-      "name": "Алексей",
+      "name": "🤗",
       "value": 6
     },
     {
@@ -2017,17 +2017,17 @@
     },
     {
       "rank": 13,
+      "name": "Алексей",
+      "value": 7
+    },
+    {
+      "rank": 14,
       "name": "SPM",
       "value": 6
     },
     {
-      "rank": 14,
-      "name": "Logrus",
-      "value": 6
-    },
-    {
       "rank": 15,
-      "name": "Алексей",
+      "name": "Logrus",
       "value": 6
     },
     {
@@ -2132,67 +2132,62 @@
     },
     {
       "rank": 36,
-      "name": "Сергей Фролов",
+      "name": "Oleg Maksimov",
       "value": 2
     },
     {
       "rank": 37,
-      "name": ".",
+      "name": "Сергей Фролов",
       "value": 2
     },
     {
       "rank": 38,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 39,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 45,
-      "name": "🤗",
-      "value": 1
-    },
-    {
       "rank": 46,
-      "name": "Oleg Maksimov",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 47,
       "name": "M",
-      "value": 1
-    },
-    {
-      "rank": 48,
-      "name": "Marina",
       "value": 1
     }
   ]
