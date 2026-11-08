@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T09:25:25+00:00",
-  "count": 282,
+  "updated": "2026-11-08T10:25:25+00:00",
+  "count": 283,
   "has_movement": true,
   "all": [
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "PiratesOfMining",
-      "value": 921,
+      "value": 922,
       "move": 0
     },
     {
@@ -1691,9 +1691,15 @@
     },
     {
       "rank": 282,
+      "name": "Сергей Фролов",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 283,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -4
     }
   ],
   "month": [
@@ -1774,13 +1780,13 @@
     },
     {
       "rank": 16,
-      "name": "Vitaliy",
+      "name": "Анастасия",
       "value": 23
     },
     {
       "rank": 17,
-      "name": "Анастасия",
-      "value": 23
+      "name": "Vitaliy",
+      "value": 22
     },
     {
       "rank": 18,
@@ -1795,7 +1801,7 @@
     {
       "rank": 20,
       "name": "@wavesscalper",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 21,
@@ -2081,92 +2087,92 @@
     },
     {
       "rank": 27,
-      "name": ".",
-      "value": 3
-    },
-    {
-      "rank": 28,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "MEMBER.",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Darya",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "AK",
       "value": 2
     },
     {
-      "rank": 33,
-      "name": "🤗",
-      "value": 2
-    },
-    {
-      "rank": 34,
+      "rank": 32,
       "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 33,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 34,
       "name": "МС💬💪",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 35,
       "name": "M",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 36,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 37,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 40,
-      "name": "Borz",
+      "rank": 39,
+      "name": "PiratesOfMining",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Olga Scher",
+      "value": 1
+    },
+    {
+      "rank": 44,
+      "name": "🤗",
       "value": 1
     },
     {
