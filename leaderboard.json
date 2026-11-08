@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T07:25:24+00:00",
+  "updated": "2026-11-08T08:25:24+00:00",
   "count": 282,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 894,
+      "value": 895,
       "move": 0
     },
     {
@@ -431,15 +431,15 @@
     },
     {
       "rank": 72,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 34,
-      "move": 0
+      "name": "Анастасия D",
+      "value": 35,
+      "move": 3
     },
     {
       "rank": 73,
-      "name": "Анастасия D",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 34,
-      "move": 2
+      "move": -1
     },
     {
       "rank": 74,
@@ -1720,7 +1720,7 @@
     {
       "rank": 5,
       "name": "Синдбад Мореход",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 6,
@@ -1780,7 +1780,7 @@
     {
       "rank": 17,
       "name": "Анастасия",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 18,
@@ -1971,13 +1971,13 @@
     },
     {
       "rank": 5,
-      "name": "ᴦоᴧод",
+      "name": "Анастасия D",
       "value": 13
     },
     {
       "rank": 6,
-      "name": "Анастасия D",
-      "value": 12
+      "name": "ᴦоᴧод",
+      "value": 13
     },
     {
       "rank": 7,
@@ -2006,13 +2006,13 @@
     },
     {
       "rank": 12,
-      "name": "Igor",
-      "value": 8
+      "name": "Синдбад Мореход",
+      "value": 9
     },
     {
       "rank": 13,
-      "name": "Синдбад Мореход",
-      "value": 8
+      "name": "Igor",
+      "value": 7
     },
     {
       "rank": 14,
@@ -2091,32 +2091,32 @@
     },
     {
       "rank": 29,
-      "name": "t.me/hapexoᚾK1T",
-      "value": 3
-    },
-    {
-      "rank": 30,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "MEMBER.",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Darya",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "AK",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "🤗",
+      "value": 2
+    },
+    {
+      "rank": 34,
+      "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
