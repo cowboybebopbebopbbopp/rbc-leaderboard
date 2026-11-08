@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T13:25:27+00:00",
+  "updated": "2026-11-08T14:25:28+00:00",
   "count": 283,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "PiratesOfMining",
-      "value": 922,
+      "value": 923,
       "move": 0
     },
     {
@@ -348,7 +348,7 @@
     {
       "rank": 58,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 70,
+      "value": 71,
       "move": 0
     },
     {
@@ -1706,7 +1706,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 163
+      "value": 160
     },
     {
       "rank": 2,
@@ -1796,7 +1796,7 @@
     {
       "rank": 19,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 20,
@@ -1845,18 +1845,18 @@
     },
     {
       "rank": 29,
-      "name": "Pavel",
-      "value": 9
-    },
-    {
-      "rank": 30,
       "name": "Max",
       "value": 9
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Sonic",
       "value": 9
+    },
+    {
+      "rank": 31,
+      "name": "Pavel",
+      "value": 8
     },
     {
       "rank": 32,
@@ -1945,12 +1945,12 @@
     },
     {
       "rank": 49,
-      "name": "L G",
+      "name": "Олег",
       "value": 4
     },
     {
       "rank": 50,
-      "name": "Олег",
+      "name": "Мое имя Максим",
       "value": 4
     }
   ],
@@ -1992,13 +1992,13 @@
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 10
     },
     {
       "rank": 9,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 9
+      "name": "Zero-sum Gamer",
+      "value": 10
     },
     {
       "rank": 10,
@@ -2102,57 +2102,57 @@
     },
     {
       "rank": 30,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "PiratesOfMining",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "MEMBER.",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Darya",
+      "name": "MEMBER.",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "AK",
+      "name": "Darya",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "МС💬💪",
+      "name": "AK",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "M",
+      "name": "МС💬💪",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Сергей Фролов",
+      "name": "M",
       "value": 2
     },
     {
       "rank": 37,
-      "name": ".",
+      "name": "Сергей Фролов",
       "value": 2
     },
     {
       "rank": 38,
-      "name": "Don Michele Corleone",
+      "name": ".",
       "value": 2
     },
     {
       "rank": 39,
-      "name": "Виталий",
-      "value": 1
+      "name": "Don Michele Corleone",
+      "value": 2
     },
     {
       "rank": 40,
-      "name": "PiratesOfMining",
+      "name": "Виталий",
       "value": 1
     },
     {
