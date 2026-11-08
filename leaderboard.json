@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T06:25:23+00:00",
+  "updated": "2026-11-08T07:25:24+00:00",
   "count": 282,
   "has_movement": true,
   "all": [
@@ -1834,18 +1834,18 @@
     },
     {
       "rank": 28,
-      "name": "Pavel",
-      "value": 10
-    },
-    {
-      "rank": 29,
       "name": "Сергей",
       "value": 10
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Max",
       "value": 10
+    },
+    {
+      "rank": 30,
+      "name": "Pavel",
+      "value": 9
     },
     {
       "rank": 31,
@@ -1956,23 +1956,23 @@
     },
     {
       "rank": 2,
-      "name": "Руслан Иванов",
-      "value": 20
-    },
-    {
-      "rank": 3,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 19
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "🅾🅻🅶🅰",
       "value": 18
     },
     {
+      "rank": 4,
+      "name": "Руслан Иванов",
+      "value": 15
+    },
+    {
       "rank": 5,
       "name": "ᴦоᴧод",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 6,
@@ -2151,31 +2151,26 @@
     },
     {
       "rank": 41,
-      "name": "L G",
-      "value": 1
-    },
-    {
-      "rank": 42,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Marina",
       "value": 1
     }
