@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-08T17:25:30+00:00",
+  "updated": "2026-11-08T18:25:30+00:00",
   "count": 283,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5817,
+      "value": 5818,
       "move": 0
     },
     {
@@ -306,7 +306,7 @@
     {
       "rank": 51,
       "name": "SPM",
-      "value": 96,
+      "value": 97,
       "move": 0
     },
     {
@@ -785,39 +785,39 @@
     },
     {
       "rank": 131,
-      "name": "Капибара",
-      "value": 5,
-      "move": -1
+      "name": "Oleg Maksimov",
+      "value": 6,
+      "move": 5
     },
     {
       "rank": 132,
+      "name": "Капибара",
+      "value": 5,
+      "move": -2
+    },
+    {
+      "rank": 133,
       "name": "Станислав Баев",
+      "value": 5,
+      "move": -2
+    },
+    {
+      "rank": 134,
+      "name": "Mikhail",
       "value": 5,
       "move": -1
     },
     {
-      "rank": 133,
-      "name": "Mikhail",
-      "value": 5,
-      "move": 0
-    },
-    {
-      "rank": 134,
+      "rank": 135,
       "name": "Renat 🇷🇺🏴‍☠️",
       "value": 5,
-      "move": 0
-    },
-    {
-      "rank": 135,
-      "name": "🌝",
-      "value": 5,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 136,
-      "name": "Oleg Maksimov",
+      "name": "🌝",
       "value": 5,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 137,
@@ -1735,23 +1735,23 @@
     },
     {
       "rank": 7,
-      "name": "a l",
-      "value": 42
-    },
-    {
-      "rank": 8,
       "name": "Князь Владимир С",
       "value": 42
     },
     {
+      "rank": 8,
+      "name": "a l",
+      "value": 41
+    },
+    {
       "rank": 9,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 40
+      "value": 41
     },
     {
       "rank": 10,
       "name": "SPM",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 11,
@@ -1958,7 +1958,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 2,
@@ -1987,13 +1987,13 @@
     },
     {
       "rank": 7,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Zero-sum Gamer",
       "value": 10
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
-      "value": 10
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 9
     },
     {
       "rank": 9,
@@ -2017,23 +2017,23 @@
     },
     {
       "rank": 13,
-      "name": "Logrus",
+      "name": "SPM",
       "value": 6
     },
     {
       "rank": 14,
-      "name": "Алексей",
+      "name": "Logrus",
       "value": 6
     },
     {
       "rank": 15,
-      "name": "@wavesscalper",
+      "name": "Алексей",
       "value": 6
     },
     {
       "rank": 16,
-      "name": "SPM",
-      "value": 5
+      "name": "@wavesscalper",
+      "value": 6
     },
     {
       "rank": 17,
@@ -2182,11 +2182,16 @@
     },
     {
       "rank": 46,
-      "name": "M",
+      "name": "Oleg Maksimov",
       "value": 1
     },
     {
       "rank": 47,
+      "name": "M",
+      "value": 1
+    },
+    {
+      "rank": 48,
       "name": "Marina",
       "value": 1
     }
