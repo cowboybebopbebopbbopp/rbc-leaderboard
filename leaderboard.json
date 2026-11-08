@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T21:25:32+00:00",
+  "updated": "2026-11-08T22:25:33+00:00",
   "count": 283,
   "has_movement": true,
   "all": [
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 703,
+      "value": 704,
       "move": 0
     },
     {
@@ -1721,7 +1721,7 @@
     {
       "rank": 4,
       "name": "Синдбад Мореход",
-      "value": 58
+      "value": 57
     },
     {
       "rank": 5,
@@ -1736,7 +1736,7 @@
     {
       "rank": 7,
       "name": "Князь Владимир С",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 8,
@@ -2112,52 +2112,52 @@
     },
     {
       "rank": 32,
-      "name": "MEMBER.",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Darya",
+      "name": "MEMBER.",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "AK",
+      "name": "Darya",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "МС💬💪",
+      "name": "AK",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Oleg Maksimov",
+      "name": "МС💬💪",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "Сергей Фролов",
+      "name": "Oleg Maksimov",
       "value": 2
     },
     {
       "rank": 38,
-      "name": ".",
+      "name": "Сергей Фролов",
       "value": 2
     },
     {
       "rank": 39,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 40,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 40,
-      "name": "Сергей",
-      "value": 1
-    },
-    {
       "rank": 41,
-      "name": "Князь Владимир С",
+      "name": "Сергей",
       "value": 1
     },
     {
