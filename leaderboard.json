@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-09T11:25:42+00:00",
-  "count": 283,
+  "updated": "2026-11-09T12:25:42+00:00",
+  "count": 284,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5820,
+      "value": 5821,
       "move": 0
     },
     {
@@ -372,7 +372,7 @@
     {
       "rank": 62,
       "name": "I",
-      "value": 61,
+      "value": 62,
       "move": 0
     },
     {
@@ -1697,9 +1697,15 @@
     },
     {
       "rank": 283,
+      "name": "Анастасия Surella",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 284,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -4
     }
   ],
   "month": [
@@ -1736,7 +1742,7 @@
     {
       "rank": 7,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 8,
@@ -1800,13 +1806,13 @@
     },
     {
       "rank": 20,
-      "name": "Aся",
+      "name": "@wavesscalper",
       "value": 15
     },
     {
       "rank": 21,
-      "name": "@wavesscalper",
-      "value": 15
+      "name": "Aся",
+      "value": 14
     },
     {
       "rank": 22,
@@ -1820,12 +1826,12 @@
     },
     {
       "rank": 24,
-      "name": "A.",
-      "value": 12
+      "name": "I",
+      "value": 13
     },
     {
       "rank": 25,
-      "name": "I",
+      "name": "A.",
       "value": 12
     },
     {
@@ -1958,7 +1964,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 2,
@@ -2027,22 +2033,22 @@
     },
     {
       "rank": 15,
-      "name": "@wavesscalper",
+      "name": "I",
       "value": 6
     },
     {
       "rank": 16,
+      "name": "@wavesscalper",
+      "value": 6
+    },
+    {
+      "rank": 17,
       "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
-      "rank": 17,
-      "name": "Сергей Л",
-      "value": 5
-    },
-    {
       "rank": 18,
-      "name": "I",
+      "name": "Сергей Л",
       "value": 5
     },
     {
@@ -2178,11 +2184,6 @@
     {
       "rank": 45,
       "name": "M",
-      "value": 1
-    },
-    {
-      "rank": 46,
-      "name": "Olga Goncharova",
       "value": 1
     }
   ]
