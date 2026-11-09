@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T13:25:43+00:00",
+  "updated": "2026-11-09T14:25:43+00:00",
   "count": 284,
   "has_movement": true,
   "all": [
@@ -1984,7 +1984,7 @@
     {
       "rank": 5,
       "name": "ᴦоᴧод",
-      "value": 16
+      "value": 14
     },
     {
       "rank": 6,
@@ -2003,17 +2003,17 @@
     },
     {
       "rank": 9,
-      "name": "Синдбад Мореход",
-      "value": 9
-    },
-    {
-      "rank": 10,
       "name": "SPM",
       "value": 8
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "iDiklonius",
+      "value": 8
+    },
+    {
+      "rank": 11,
+      "name": "Синдбад Мореход",
       "value": 8
     },
     {
