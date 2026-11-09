@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T05:25:38+00:00",
+  "updated": "2026-11-09T06:25:39+00:00",
   "count": 283,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1895,
+      "value": 1896,
       "move": 0
     },
     {
@@ -1720,13 +1720,13 @@
     },
     {
       "rank": 4,
-      "name": "Синдбад Мореход",
+      "name": "Archie",
       "value": 55
     },
     {
       "rank": 5,
-      "name": "Archie",
-      "value": 54
+      "name": "Синдбад Мореход",
+      "value": 55
     },
     {
       "rank": 6,
@@ -1736,7 +1736,7 @@
     {
       "rank": 7,
       "name": "Князь Владимир С",
-      "value": 42
+      "value": 41
     },
     {
       "rank": 8,
@@ -1830,17 +1830,17 @@
     },
     {
       "rank": 26,
-      "name": "Marina",
-      "value": 11
-    },
-    {
-      "rank": 27,
       "name": "Manis Love",
       "value": 10
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Сергей",
+      "value": 10
+    },
+    {
+      "rank": 28,
+      "name": "Marina",
       "value": 10
     },
     {
@@ -1987,13 +1987,13 @@
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
+      "name": "Archie",
       "value": 10
     },
     {
       "rank": 8,
-      "name": "Archie",
-      "value": 9
+      "name": "Zero-sum Gamer",
+      "value": 10
     },
     {
       "rank": 9,
@@ -2032,53 +2032,53 @@
     },
     {
       "rank": 16,
-      "name": "Igor",
-      "value": 5
-    },
-    {
-      "rank": 17,
       "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "I",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "a l",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Aся",
       "value": 4
     },
     {
-      "rank": 23,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 4
-    },
-    {
-      "rank": 24,
+      "rank": 22,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 23,
       "name": "Sonic",
       "value": 4
+    },
+    {
+      "rank": 24,
+      "name": "Igor",
+      "value": 3
+    },
+    {
+      "rank": 25,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 3
     },
     {
       "rank": 26,
