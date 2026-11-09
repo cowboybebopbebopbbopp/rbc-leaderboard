@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T17:25:45+00:00",
+  "updated": "2026-11-09T18:25:46+00:00",
   "count": 284,
   "has_movement": true,
   "all": [
@@ -402,7 +402,7 @@
     {
       "rank": 67,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 47,
+      "value": 48,
       "move": 0
     },
     {
@@ -695,27 +695,27 @@
     },
     {
       "rank": 116,
-      "name": "***",
-      "value": 9,
-      "move": 0
+      "name": "Oleg Maksimov",
+      "value": 10,
+      "move": 20
     },
     {
       "rank": 117,
-      "name": "Demius",
+      "name": "***",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 118,
-      "name": "Sergey",
+      "name": "Demius",
       "value": 9,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 119,
-      "name": "Oleg Maksimov",
+      "name": "Sergey",
       "value": 9,
-      "move": 17
+      "move": -1
     },
     {
       "rank": 120,
@@ -1717,7 +1717,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 96
+      "value": 95
     },
     {
       "rank": 3,
@@ -1737,7 +1737,7 @@
     {
       "rank": 6,
       "name": "Crypto Panda",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 7,
@@ -1881,17 +1881,17 @@
     },
     {
       "rank": 35,
+      "name": "Oleg Maksimov",
+      "value": 7
+    },
+    {
+      "rank": 36,
       "name": "terminal lucidity",
       "value": 6
     },
     {
-      "rank": 36,
-      "name": "🤗",
-      "value": 6
-    },
-    {
       "rank": 37,
-      "name": "Oleg Maksimov",
+      "name": "🤗",
       "value": 6
     },
     {
@@ -1964,7 +1964,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 2,
@@ -1974,7 +1974,7 @@
     {
       "rank": 3,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 4,
@@ -1983,12 +1983,12 @@
     },
     {
       "rank": 5,
-      "name": "ᴦоᴧод",
-      "value": 14
+      "name": "Анастасия D",
+      "value": 13
     },
     {
       "rank": 6,
-      "name": "Анастасия D",
+      "name": "ᴦоᴧод",
       "value": 13
     },
     {
@@ -2053,12 +2053,12 @@
     },
     {
       "rank": 19,
-      "name": "Aся",
-      "value": 4
+      "name": "Oleg Maksimov",
+      "value": 5
     },
     {
       "rank": 20,
-      "name": "Oleg Maksimov",
+      "name": "Aся",
       "value": 4
     },
     {
