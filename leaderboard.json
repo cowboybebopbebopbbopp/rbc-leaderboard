@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T10:25:41+00:00",
+  "updated": "2026-11-09T11:25:42+00:00",
   "count": 283,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1949,
+      "value": 1950,
       "move": 0
     },
     {
@@ -1711,7 +1711,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 95
+      "value": 96
     },
     {
       "rank": 3,
@@ -1963,7 +1963,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 3,
@@ -2052,37 +2052,37 @@
     },
     {
       "rank": 20,
-      "name": "Ponemonec",
-      "value": 4
-    },
-    {
-      "rank": 21,
       "name": "Sonic",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "a l",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Igor",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "t.me/hapexoᚾK1T",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "lefkorosos",
+      "value": 3
+    },
+    {
+      "rank": 26,
+      "name": "Ponemonec",
       "value": 3
     },
     {
@@ -2132,57 +2132,57 @@
     },
     {
       "rank": 36,
-      "name": "Olga Goncharova",
-      "value": 2
-    },
-    {
-      "rank": 37,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "M",
+      "value": 1
+    },
+    {
+      "rank": 46,
+      "name": "Olga Goncharova",
       "value": 1
     }
   ]
