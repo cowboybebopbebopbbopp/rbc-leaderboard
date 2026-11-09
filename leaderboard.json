@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T04:25:36+00:00",
+  "updated": "2026-11-09T05:25:38+00:00",
   "count": 283,
   "has_movement": true,
   "all": [
@@ -198,7 +198,7 @@
     {
       "rank": 33,
       "name": "ᴦоᴧод",
-      "value": 152,
+      "value": 153,
       "move": 0
     },
     {
@@ -1745,18 +1745,18 @@
     },
     {
       "rank": 9,
-      "name": "a l",
-      "value": 39
-    },
-    {
-      "rank": 10,
       "name": "SPM",
       "value": 39
     },
     {
+      "rank": 10,
+      "name": "a l",
+      "value": 38
+    },
+    {
       "rank": 11,
       "name": "ᴦоᴧод",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 12,
@@ -1973,7 +1973,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 5,
@@ -1983,7 +1983,7 @@
     {
       "rank": 6,
       "name": "ᴦоᴧод",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 7,
@@ -2172,21 +2172,16 @@
     },
     {
       "rank": 44,
-      "name": "Darya",
-      "value": 1
-    },
-    {
-      "rank": 45,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "M",
       "value": 1
     }
