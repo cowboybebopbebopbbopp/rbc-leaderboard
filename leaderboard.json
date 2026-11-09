@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T15:25:44+00:00",
+  "updated": "2026-11-09T16:25:45+00:00",
   "count": 284,
   "has_movement": true,
   "all": [
@@ -161,15 +161,15 @@
     },
     {
       "rank": 27,
-      "name": "DenisNazarov",
-      "value": 215,
-      "move": 0
+      "name": "Manis Love",
+      "value": 216,
+      "move": 1
     },
     {
       "rank": 28,
-      "name": "Manis Love",
-      "value": 214,
-      "move": 0
+      "name": "DenisNazarov",
+      "value": 215,
+      "move": -1
     },
     {
       "rank": 29,
@@ -293,21 +293,21 @@
     },
     {
       "rank": 49,
-      "name": "shagron2",
-      "value": 100,
-      "move": 0
+      "name": "SPM",
+      "value": 101,
+      "move": 2
     },
     {
       "rank": 50,
-      "name": "Max",
+      "name": "shagron2",
       "value": 100,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 51,
-      "name": "SPM",
+      "name": "Max",
       "value": 100,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 52,
@@ -1747,7 +1747,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 9,
@@ -1832,7 +1832,7 @@
     {
       "rank": 25,
       "name": "Manis Love",
-      "value": 10
+      "value": 12
     },
     {
       "rank": 26,
@@ -1974,7 +1974,7 @@
     {
       "rank": 3,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 4,
@@ -2004,7 +2004,7 @@
     {
       "rank": 9,
       "name": "SPM",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 10,
@@ -2093,96 +2093,101 @@
     },
     {
       "rank": 27,
-      "name": "Vitaliy",
+      "name": "Manis Love",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "PiratesOfMining",
+      "name": "Vitaliy",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "PiratesOfMining",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "Князь Владимир С",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "MEMBER.",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "AK",
+      "name": "MEMBER.",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Oleg Maksimov",
+      "name": "AK",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Сергей Фролов",
+      "name": "Oleg Maksimov",
       "value": 2
     },
     {
       "rank": 35,
-      "name": ".",
+      "name": "Сергей Фролов",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Don Michele Corleone",
+      "name": ".",
       "value": 2
     },
     {
       "rank": 37,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 38,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Olga Scher",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "M",
       "value": 1
     }
