@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T16:25:45+00:00",
+  "updated": "2026-11-09T17:25:45+00:00",
   "count": 284,
   "has_movement": true,
   "all": [
@@ -210,7 +210,7 @@
     {
       "rank": 35,
       "name": "Vitaliy",
-      "value": 148,
+      "value": 149,
       "move": 0
     },
     {
@@ -713,57 +713,57 @@
     },
     {
       "rank": 119,
-      "name": "Юрий",
-      "value": 8,
-      "move": 0
+      "name": "Oleg Maksimov",
+      "value": 9,
+      "move": 17
     },
     {
       "rank": 120,
-      "name": "xxx",
+      "name": "Юрий",
       "value": 8,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 121,
-      "name": "Kirill",
+      "name": "xxx",
       "value": 8,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 122,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": 0
+      "name": "Kirill",
+      "value": 8,
+      "move": -1
     },
     {
       "rank": 123,
-      "name": "Daniil",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 124,
-      "name": "Homelander",
+      "name": "Daniil",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 125,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "name": "Homelander",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 126,
-      "name": "Nikita",
+      "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 127,
-      "name": "Oleg Maksimov",
+      "name": "Nikita",
       "value": 7,
-      "move": 9
+      "move": -1
     },
     {
       "rank": 128,
@@ -1791,12 +1791,12 @@
     },
     {
       "rank": 17,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 21
+      "name": "Vitaliy",
+      "value": 22
     },
     {
       "rank": 18,
-      "name": "Vitaliy",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 21
     },
     {
@@ -1891,72 +1891,72 @@
     },
     {
       "rank": 37,
+      "name": "Oleg Maksimov",
+      "value": 6
+    },
+    {
+      "rank": 38,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Charlie Shefelman",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Lina",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Олег",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "lefkorosos",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "AnTon",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 49,
-      "name": "Мое имя Максим",
-      "value": 4
-    },
-    {
       "rank": 50,
-      "name": "Oleg Maksimov",
+      "name": "Мое имя Максим",
       "value": 4
     }
   ],
@@ -1974,7 +1974,7 @@
     {
       "rank": 3,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 4,
@@ -1994,7 +1994,7 @@
     {
       "rank": 7,
       "name": "Archie",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 8,
@@ -2013,12 +2013,12 @@
     },
     {
       "rank": 11,
-      "name": "Синдбад Мореход",
-      "value": 8
+      "name": "A.",
+      "value": 7
     },
     {
       "rank": 12,
-      "name": "A.",
+      "name": "Синдбад Мореход",
       "value": 7
     },
     {
@@ -2058,13 +2058,13 @@
     },
     {
       "rank": 20,
-      "name": "Sonic",
+      "name": "Oleg Maksimov",
       "value": 4
     },
     {
       "rank": 21,
-      "name": "Igor",
-      "value": 3
+      "name": "Sonic",
+      "value": 4
     },
     {
       "rank": 22,
@@ -2073,62 +2073,62 @@
     },
     {
       "rank": 23,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Vitaliy",
       "value": 3
     },
     {
       "rank": 24,
-      "name": "lefkorosos",
+      "name": "t.me/hapexoᚾK1T",
       "value": 3
     },
     {
       "rank": 25,
-      "name": "Ponemonec",
+      "name": "lefkorosos",
       "value": 3
     },
     {
       "rank": 26,
+      "name": "Ponemonec",
+      "value": 3
+    },
+    {
+      "rank": 27,
       "name": "a l",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 28,
-      "name": "Vitaliy",
-      "value": 2
-    },
-    {
       "rank": 29,
-      "name": "PiratesOfMining",
+      "name": "Igor",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "PiratesOfMining",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "Князь Владимир С",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "MEMBER.",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "AK",
+      "name": "MEMBER.",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Oleg Maksimov",
+      "name": "AK",
       "value": 2
     },
     {
