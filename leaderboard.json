@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-09T09:25:40+00:00",
+  "updated": "2026-11-09T10:25:41+00:00",
   "count": 283,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5819,
+      "value": 5820,
       "move": 0
     },
     {
@@ -18,13 +18,13 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1948,
+      "value": 1949,
       "move": 0
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1896,
+      "value": 1898,
       "move": 0
     },
     {
@@ -1711,7 +1711,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 94
+      "value": 95
     },
     {
       "rank": 3,
@@ -1721,7 +1721,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 55
+      "value": 57
     },
     {
       "rank": 5,
@@ -1735,12 +1735,12 @@
     },
     {
       "rank": 7,
-      "name": "SPM",
-      "value": 42
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 43
     },
     {
       "rank": 8,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "SPM",
       "value": 42
     },
     {
@@ -1958,12 +1958,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 3,
@@ -1988,7 +1988,7 @@
     {
       "rank": 7,
       "name": "Archie",
-      "value": 10
+      "value": 12
     },
     {
       "rank": 8,
@@ -2047,23 +2047,23 @@
     },
     {
       "rank": 19,
-      "name": "a l",
-      "value": 4
-    },
-    {
-      "rank": 20,
       "name": "Aся",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Sonic",
       "value": 4
+    },
+    {
+      "rank": 22,
+      "name": "a l",
+      "value": 3
     },
     {
       "rank": 23,
