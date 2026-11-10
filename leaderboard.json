@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T19:50:13+00:00",
+  "updated": "2026-11-10T20:50:14+00:00",
   "count": 286,
   "has_movement": true,
   "all": [
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 704,
+      "value": 706,
       "move": 0
     },
     {
@@ -1734,7 +1734,7 @@
     {
       "rank": 3,
       "name": "Руслан Иванов",
-      "value": 62
+      "value": 61
     },
     {
       "rank": 4,
@@ -1774,7 +1774,7 @@
     {
       "rank": 11,
       "name": "Князь Владимир С",
-      "value": 36
+      "value": 38
     },
     {
       "rank": 12,
@@ -1986,7 +1986,7 @@
     {
       "rank": 3,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 4,
@@ -2020,18 +2020,18 @@
     },
     {
       "rank": 10,
-      "name": "Анастасия D",
-      "value": 7
-    },
-    {
-      "rank": 11,
       "name": "Алексей",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "I",
       "value": 7
+    },
+    {
+      "rank": 12,
+      "name": "Анастасия D",
+      "value": 6
     },
     {
       "rank": 13,
@@ -2085,47 +2085,47 @@
     },
     {
       "rank": 23,
-      "name": "Sonic",
+      "name": "Князь Владимир С",
       "value": 4
     },
     {
       "rank": 24,
+      "name": "Sonic",
+      "value": 4
+    },
+    {
+      "rank": 25,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "a l",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Igor",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 30,
-      "name": "iDiklonius",
-      "value": 2
-    },
-    {
       "rank": 31,
-      "name": "Князь Владимир С",
+      "name": "iDiklonius",
       "value": 2
     },
     {
