@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T12:25:58+00:00",
+  "updated": "2026-11-10T14:50:09+00:00",
   "count": 285,
   "has_movement": true,
   "all": [
@@ -210,7 +210,7 @@
     {
       "rank": 35,
       "name": "Vitaliy",
-      "value": 149,
+      "value": 150,
       "move": 0
     },
     {
@@ -1723,7 +1723,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 93
+      "value": 90
     },
     {
       "rank": 3,
@@ -1753,7 +1753,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 9,
@@ -1768,7 +1768,7 @@
     {
       "rank": 11,
       "name": "Князь Владимир С",
-      "value": 38
+      "value": 36
     },
     {
       "rank": 12,
@@ -1792,17 +1792,17 @@
     },
     {
       "rank": 16,
-      "name": "Анастасия",
+      "name": "Vitaliy",
       "value": 23
     },
     {
       "rank": 17,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 22
+      "name": "Анастасия",
+      "value": 23
     },
     {
       "rank": 18,
-      "name": "Vitaliy",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 22
     },
     {
@@ -1892,58 +1892,58 @@
     },
     {
       "rank": 36,
-      "name": "terminal lucidity",
-      "value": 6
-    },
-    {
-      "rank": 37,
       "name": "🤗",
       "value": 6
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Charlie Shefelman",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Олег",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "lefkorosos",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Olga Goncharova",
       "value": 5
+    },
+    {
+      "rank": 46,
+      "name": "terminal lucidity",
+      "value": 4
     },
     {
       "rank": 47,
@@ -1970,7 +1970,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 37
+      "value": 36
     },
     {
       "rank": 2,
@@ -2019,52 +2019,52 @@
     },
     {
       "rank": 11,
-      "name": "Синдбад Мореход",
-      "value": 7
-    },
-    {
-      "rank": 12,
       "name": "Алексей",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "I",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Aся",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Logrus",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Oleg Maksimov",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 4
+    },
+    {
+      "rank": 20,
+      "name": "Vitaliy",
       "value": 4
     },
     {
@@ -2079,12 +2079,12 @@
     },
     {
       "rank": 23,
-      "name": "Vitaliy",
+      "name": "t.me/hapexoᚾK1T",
       "value": 3
     },
     {
       "rank": 24,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Синдбад Мореход",
       "value": 3
     },
     {
