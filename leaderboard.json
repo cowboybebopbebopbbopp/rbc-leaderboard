@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-10T11:25:57+00:00",
+  "updated": "2026-11-10T12:25:58+00:00",
   "count": 285,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5824,
+      "value": 5826,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1898,
+      "value": 1899,
       "move": 0
     },
     {
@@ -1733,7 +1733,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 55
+      "value": 56
     },
     {
       "rank": 5,
@@ -1742,13 +1742,13 @@
     },
     {
       "rank": 6,
-      "name": "Crypto Panda",
-      "value": 48
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 49
     },
     {
       "rank": 7,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 47
+      "name": "Crypto Panda",
+      "value": 48
     },
     {
       "rank": 8,
@@ -1757,17 +1757,17 @@
     },
     {
       "rank": 9,
-      "name": "Князь Владимир С",
-      "value": 40
-    },
-    {
-      "rank": 10,
       "name": "ᴦоᴧод",
       "value": 40
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "a l",
+      "value": 38
+    },
+    {
+      "rank": 11,
+      "name": "Князь Владимир С",
       "value": 38
     },
     {
@@ -1970,7 +1970,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 2,
@@ -1999,7 +1999,7 @@
     },
     {
       "rank": 7,
-      "name": "Анастасия D",
+      "name": "Archie",
       "value": 10
     },
     {
@@ -2009,7 +2009,7 @@
     },
     {
       "rank": 9,
-      "name": "Archie",
+      "name": "Анастасия D",
       "value": 9
     },
     {
