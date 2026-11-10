@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T07:25:55+00:00",
+  "updated": "2026-11-10T08:25:55+00:00",
   "count": 284,
   "has_movement": true,
   "all": [
@@ -1772,7 +1772,7 @@
     {
       "rank": 13,
       "name": ".",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 14,
@@ -1846,12 +1846,12 @@
     },
     {
       "rank": 28,
-      "name": "Marina",
-      "value": 10
+      "name": "Max",
+      "value": 9
     },
     {
       "rank": 29,
-      "name": "Max",
+      "name": "Marina",
       "value": 9
     },
     {
@@ -1974,7 +1974,7 @@
     {
       "rank": 3,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 4,
@@ -1988,13 +1988,13 @@
     },
     {
       "rank": 6,
-      "name": "Анастасия D",
+      "name": "Archie",
       "value": 11
     },
     {
       "rank": 7,
-      "name": "Archie",
-      "value": 11
+      "name": "Анастасия D",
+      "value": 10
     },
     {
       "rank": 8,
