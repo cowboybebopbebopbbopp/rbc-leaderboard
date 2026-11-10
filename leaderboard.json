@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-10T10:25:56+00:00",
+  "updated": "2026-11-10T11:25:57+00:00",
   "count": 285,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5823,
+      "value": 5824,
       "move": 0
     },
     {
@@ -1748,7 +1748,7 @@
     {
       "rank": 7,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 8,
@@ -1917,53 +1917,53 @@
     },
     {
       "rank": 41,
-      "name": "Lina",
-      "value": 5
-    },
-    {
-      "rank": 42,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Олег",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "lefkorosos",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "AnTon",
       "value": 4
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Мое имя Максим",
       "value": 4
+    },
+    {
+      "rank": 50,
+      "name": "E X O",
+      "value": 3
     }
   ],
   "week": [
@@ -2004,13 +2004,13 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
+      "name": "Zero-sum Gamer",
       "value": 10
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
-      "value": 10
+      "name": "Archie",
+      "value": 9
     },
     {
       "rank": 10,
