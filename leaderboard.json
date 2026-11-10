@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T20:50:14+00:00",
+  "updated": "2026-11-10T21:50:14+00:00",
   "count": 286,
   "has_movement": true,
   "all": [
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 706,
+      "value": 707,
       "move": 0
     },
     {
@@ -425,15 +425,15 @@
     },
     {
       "rank": 71,
-      "name": "Roman Polyakov",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 38,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 72,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 37,
-      "move": 2
+      "name": "Roman Polyakov",
+      "value": 38,
+      "move": -1
     },
     {
       "rank": 73,
@@ -1768,12 +1768,12 @@
     },
     {
       "rank": 10,
-      "name": "a l",
-      "value": 38
+      "name": "Князь Владимир С",
+      "value": 39
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
+      "name": "a l",
       "value": 38
     },
     {
@@ -1903,17 +1903,17 @@
     },
     {
       "rank": 37,
-      "name": "🤗",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 6
     },
     {
       "rank": 38,
-      "name": "Виталий",
-      "value": 5
+      "name": "🤗",
+      "value": 6
     },
     {
       "rank": 39,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Виталий",
       "value": 5
     },
     {
@@ -2030,7 +2030,7 @@
     },
     {
       "rank": 12,
-      "name": "Анастасия D",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 6
     },
     {
@@ -2040,52 +2040,52 @@
     },
     {
       "rank": 14,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 5
-    },
-    {
-      "rank": 15,
       "name": "Logrus",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
+      "rank": 16,
+      "name": "Анастасия D",
+      "value": 5
+    },
+    {
       "rank": 17,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Князь Владимир С",
       "value": 5
     },
     {
       "rank": 18,
-      "name": "@wavesscalper",
+      "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
       "rank": 19,
-      "name": "Oleg Maksimov",
+      "name": "@wavesscalper",
       "value": 5
     },
     {
       "rank": 20,
+      "name": "Oleg Maksimov",
+      "value": 5
+    },
+    {
+      "rank": 21,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 22,
-      "name": "Vitaliy",
-      "value": 4
-    },
-    {
       "rank": 23,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 4
     },
     {
