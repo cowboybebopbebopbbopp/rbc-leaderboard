@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T18:50:12+00:00",
-  "count": 285,
+  "updated": "2026-11-10T19:50:13+00:00",
+  "count": 286,
   "has_movement": true,
   "all": [
     {
@@ -432,7 +432,7 @@
     {
       "rank": 72,
       "name": "Алехандро)🍅 Белов🍅",
-      "value": 36,
+      "value": 37,
       "move": 2
     },
     {
@@ -1709,9 +1709,15 @@
     },
     {
       "rank": 285,
+      "name": "Q",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 286,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
@@ -1907,52 +1913,52 @@
     },
     {
       "rank": 39,
-      "name": "Серхио Ле'Трас",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 5
     },
     {
       "rank": 40,
-      "name": "Charlie Shefelman",
+      "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
       "rank": 41,
-      "name": "Сергей Л",
+      "name": "Charlie Shefelman",
       "value": 5
     },
     {
       "rank": 42,
-      "name": "Олег",
+      "name": "Сергей Л",
       "value": 5
     },
     {
       "rank": 43,
-      "name": "lefkorosos",
+      "name": "Олег",
       "value": 5
     },
     {
       "rank": 44,
-      "name": "Андрей",
+      "name": "lefkorosos",
       "value": 5
     },
     {
       "rank": 45,
-      "name": "Olga Goncharova",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 46,
+      "name": "Olga Goncharova",
+      "value": 5
+    },
+    {
+      "rank": 47,
       "name": "AnTon",
       "value": 4
     },
     {
-      "rank": 47,
-      "name": "Borz",
-      "value": 4
-    },
-    {
       "rank": 48,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Borz",
       "value": 4
     },
     {
@@ -1984,17 +1990,17 @@
     },
     {
       "rank": 4,
-      "name": "Руслан Иванов",
-      "value": 14
-    },
-    {
-      "rank": 5,
       "name": "Archie",
       "value": 13
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "SPM",
+      "value": 12
+    },
+    {
+      "rank": 6,
+      "name": "Руслан Иванов",
       "value": 12
     },
     {
@@ -2034,47 +2040,47 @@
     },
     {
       "rank": 14,
-      "name": "Logrus",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 5
     },
     {
       "rank": 15,
-      "name": "Серхио Ле'Трас",
+      "name": "Logrus",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
       "rank": 17,
-      "name": "@wavesscalper",
+      "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
       "rank": 18,
-      "name": "Oleg Maksimov",
+      "name": "@wavesscalper",
       "value": 5
     },
     {
       "rank": 19,
+      "name": "Oleg Maksimov",
+      "value": 5
+    },
+    {
+      "rank": 20,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 21,
-      "name": "Vitaliy",
-      "value": 4
-    },
-    {
       "rank": 22,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Vitaliy",
       "value": 4
     },
     {
