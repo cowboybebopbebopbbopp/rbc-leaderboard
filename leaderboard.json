@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T01:25:51+00:00",
+  "updated": "2026-11-10T02:25:52+00:00",
   "count": 284,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1815,
+      "value": 1816,
       "move": 0
     },
     {
@@ -1837,7 +1837,7 @@
     {
       "rank": 26,
       "name": "Aся",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 27,
@@ -2038,28 +2038,28 @@
     },
     {
       "rank": 16,
-      "name": "Серхио Ле'Трас",
+      "name": "Aся",
       "value": 5
     },
     {
       "rank": 17,
-      "name": "iDiklonius",
+      "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
       "rank": 18,
-      "name": "Сергей Л",
+      "name": "iDiklonius",
       "value": 5
     },
     {
       "rank": 19,
-      "name": "Oleg Maksimov",
+      "name": "Сергей Л",
       "value": 5
     },
     {
       "rank": 20,
-      "name": "Aся",
-      "value": 4
+      "name": "Oleg Maksimov",
+      "value": 5
     },
     {
       "rank": 21,
