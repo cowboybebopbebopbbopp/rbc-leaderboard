@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-10T16:50:11+00:00",
+  "updated": "2026-11-10T17:50:12+00:00",
   "count": 285,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5829,
+      "value": 5831,
       "move": 0
     },
     {
@@ -18,13 +18,13 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1950,
+      "value": 1951,
       "move": 0
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1901,
+      "value": 1902,
       "move": 0
     },
     {
@@ -372,7 +372,7 @@
     {
       "rank": 62,
       "name": "I",
-      "value": 62,
+      "value": 63,
       "move": 0
     },
     {
@@ -1728,22 +1728,22 @@
     {
       "rank": 3,
       "name": "Руслан Иванов",
-      "value": 63
+      "value": 62
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 58
+      "value": 59
     },
     {
       "rank": 5,
       "name": "Синдбад Мореход",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 6,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 52
+      "value": 54
     },
     {
       "rank": 7,
@@ -1822,22 +1822,22 @@
     },
     {
       "rank": 22,
-      "name": "Don Michele Corleone",
+      "name": "I",
       "value": 14
     },
     {
       "rank": 23,
+      "name": "Don Michele Corleone",
+      "value": 14
+    },
+    {
+      "rank": 24,
       "name": "Manis Love",
       "value": 13
     },
     {
-      "rank": 24,
-      "name": "Logrus",
-      "value": 13
-    },
-    {
       "rank": 25,
-      "name": "I",
+      "name": "Logrus",
       "value": 13
     },
     {
@@ -1970,12 +1970,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 40
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 3,
@@ -1985,16 +1985,16 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 5,
-      "name": "SPM",
-      "value": 12
+      "name": "Archie",
+      "value": 13
     },
     {
       "rank": 6,
-      "name": "Archie",
+      "name": "SPM",
       "value": 12
     },
     {
@@ -2025,7 +2025,7 @@
     {
       "rank": 12,
       "name": "I",
-      "value": 6
+      "value": 7
     },
     {
       "rank": 13,
@@ -2069,17 +2069,17 @@
     },
     {
       "rank": 21,
-      "name": "iDiklonius",
-      "value": 4
-    },
-    {
-      "rank": 22,
       "name": "Sonic",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Manis Love",
+      "value": 3
+    },
+    {
+      "rank": 23,
+      "name": "iDiklonius",
       "value": 3
     },
     {
