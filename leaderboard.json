@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T09:25:56+00:00",
+  "updated": "2026-11-10T10:25:56+00:00",
   "count": 285,
   "has_movement": true,
   "all": [
@@ -294,7 +294,7 @@
     {
       "rank": 49,
       "name": "SPM",
-      "value": 102,
+      "value": 103,
       "move": 2
     },
     {
@@ -1753,7 +1753,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 9,
@@ -1970,7 +1970,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 36
     },
     {
       "rank": 2,
@@ -1990,21 +1990,21 @@
     {
       "rank": 5,
       "name": "ᴦоᴧод",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 6,
-      "name": "Archie",
+      "name": "SPM",
       "value": 11
     },
     {
       "rank": 7,
-      "name": "SPM",
+      "name": "Анастасия D",
       "value": 10
     },
     {
       "rank": 8,
-      "name": "Анастасия D",
+      "name": "Archie",
       "value": 10
     },
     {
