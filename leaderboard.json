@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T09:01:57+00:00",
+  "updated": "2026-11-11T09:50:27+00:00",
   "count": 286,
   "has_movement": true,
   "all": [
@@ -1724,7 +1724,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 151
+      "value": 150
     },
     {
       "rank": 2,
@@ -1759,7 +1759,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 9,
@@ -1848,13 +1848,13 @@
     },
     {
       "rank": 26,
-      "name": "Aся",
+      "name": "Сергей",
       "value": 10
     },
     {
       "rank": 27,
-      "name": "Сергей",
-      "value": 10
+      "name": "Aся",
+      "value": 9
     },
     {
       "rank": 28,
@@ -1963,12 +1963,12 @@
     },
     {
       "rank": 49,
-      "name": "Мое имя Максим",
-      "value": 4
+      "name": "E X O",
+      "value": 3
     },
     {
       "rank": 50,
-      "name": "E X O",
+      "name": "L G",
       "value": 3
     }
   ],
@@ -1981,7 +1981,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 24
+      "value": 23
     },
     {
       "rank": 3,
@@ -2090,107 +2090,107 @@
     },
     {
       "rank": 24,
-      "name": "Sonic",
-      "value": 4
-    },
-    {
-      "rank": 25,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "a l",
       "value": 2
     },
     {
-      "rank": 29,
-      "name": "Igor",
-      "value": 2
-    },
-    {
-      "rank": 30,
+      "rank": 28,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 30,
       "name": "MEMBER.",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 31,
       "name": "AK",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 32,
       "name": "Сергей Фролов",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 33,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 34,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 35,
+      "name": "Igor",
+      "value": 1
+    },
+    {
+      "rank": 36,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "M",
+      "value": 1
+    },
+    {
+      "rank": 44,
+      "name": "Sonic",
       "value": 1
     }
   ]
