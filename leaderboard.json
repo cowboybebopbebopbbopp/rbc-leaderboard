@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T14:50:52+00:00",
+  "updated": "2026-11-11T15:50:57+00:00",
   "count": 286,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1820,
+      "value": 1821,
       "move": 0
     },
     {
@@ -348,7 +348,7 @@
     {
       "rank": 58,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 73,
+      "value": 74,
       "move": 0
     },
     {
@@ -521,27 +521,27 @@
     },
     {
       "rank": 87,
-      "name": "Pavel",
+      "name": "Don Michele Corleone",
       "value": 20,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 88,
-      "name": "Максим",
+      "name": "Pavel",
       "value": 20,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 89,
-      "name": "vitalij",
+      "name": "Максим",
       "value": 20,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 90,
-      "name": "Don Michele Corleone",
-      "value": 19,
-      "move": 0
+      "name": "vitalij",
+      "value": 20,
+      "move": -1
     },
     {
       "rank": 91,
@@ -1724,7 +1724,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 148
+      "value": 145
     },
     {
       "rank": 2,
@@ -1804,7 +1804,7 @@
     {
       "rank": 17,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 18,
@@ -1823,28 +1823,28 @@
     },
     {
       "rank": 21,
+      "name": "Don Michele Corleone",
+      "value": 15
+    },
+    {
+      "rank": 22,
       "name": "A.",
       "value": 14
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Manis Love",
       "value": 14
     },
     {
-      "rank": 23,
-      "name": "I",
-      "value": 14
-    },
-    {
       "rank": 24,
-      "name": "Don Michele Corleone",
+      "name": "Aся",
       "value": 14
     },
     {
       "rank": 25,
-      "name": "Aся",
-      "value": 13
+      "name": "I",
+      "value": 14
     },
     {
       "rank": 26,
@@ -2005,38 +2005,38 @@
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
+      "name": "Aся",
       "value": 10
     },
     {
       "rank": 8,
-      "name": "ᴦоᴧод",
+      "name": "Zero-sum Gamer",
       "value": 10
     },
     {
       "rank": 9,
-      "name": "A.",
-      "value": 9
+      "name": "ᴦоᴧод",
+      "value": 10
     },
     {
       "rank": 10,
-      "name": "Aся",
-      "value": 9
-    },
-    {
-      "rank": 11,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 8
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Алексей",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "I",
       "value": 7
+    },
+    {
+      "rank": 13,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 6
     },
     {
       "rank": 14,
@@ -2045,43 +2045,43 @@
     },
     {
       "rank": 15,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "A.",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "Серхио Ле'Трас",
-      "value": 5
-    },
-    {
-      "rank": 17,
       "name": "Князь Владимир С",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Oleg Maksimov",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Vitaliy",
       "value": 4
+    },
+    {
+      "rank": 22,
+      "name": "Серхио Ле'Трас",
+      "value": 3
     },
     {
       "rank": 23,
@@ -2100,52 +2100,52 @@
     },
     {
       "rank": 26,
+      "name": "Don Michele Corleone",
+      "value": 3
+    },
+    {
+      "rank": 27,
       "name": "a l",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "MEMBER.",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "AK",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Сергей Фролов",
       "value": 2
     },
     {
-      "rank": 34,
-      "name": ".",
-      "value": 2
-    },
-    {
       "rank": 35,
-      "name": "Don Michele Corleone",
+      "name": ".",
       "value": 2
     },
     {
