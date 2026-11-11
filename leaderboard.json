@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T07:50:21+00:00",
+  "updated": "2026-11-11T08:50:21+00:00",
   "count": 286,
   "has_movement": true,
   "all": [
@@ -431,15 +431,15 @@
     },
     {
       "rank": 72,
-      "name": "Roman Polyakov",
+      "name": "Анастасия D",
       "value": 38,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 73,
-      "name": "Анастасия D",
-      "value": 35,
-      "move": -1
+      "name": "Roman Polyakov",
+      "value": 38,
+      "move": -2
     },
     {
       "rank": 74,
@@ -1724,12 +1724,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 155
+      "value": 151
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 86
+      "value": 84
     },
     {
       "rank": 3,
@@ -1739,7 +1739,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 57
+      "value": 56
     },
     {
       "rank": 5,
@@ -1798,12 +1798,12 @@
     },
     {
       "rank": 16,
-      "name": "Vitaliy",
-      "value": 23
+      "name": "Анастасия",
+      "value": 26
     },
     {
       "rank": 17,
-      "name": "Анастасия",
+      "name": "Vitaliy",
       "value": 23
     },
     {
@@ -1981,7 +1981,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 25
+      "value": 24
     },
     {
       "rank": 3,
@@ -2035,63 +2035,63 @@
     },
     {
       "rank": 13,
+      "name": "Анастасия D",
+      "value": 6
+    },
+    {
+      "rank": 14,
       "name": "Aся",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Logrus",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Oleg Maksimov",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Sonic",
       "value": 4
-    },
-    {
-      "rank": 24,
-      "name": "Анастасия D",
-      "value": 3
     },
     {
       "rank": 25,
