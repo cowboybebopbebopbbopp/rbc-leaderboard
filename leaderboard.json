@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T01:50:17+00:00",
+  "updated": "2026-11-11T02:50:17+00:00",
   "count": 286,
   "has_movement": true,
   "all": [
@@ -1995,18 +1995,18 @@
     },
     {
       "rank": 5,
-      "name": "Archie",
-      "value": 12
-    },
-    {
-      "rank": 6,
       "name": "Руслан Иванов",
       "value": 12
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "ᴦоᴧод",
       "value": 11
+    },
+    {
+      "rank": 7,
+      "name": "Archie",
+      "value": 10
     },
     {
       "rank": 8,
