@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T23:50:15+00:00",
+  "updated": "2026-11-11T00:50:16+00:00",
   "count": 286,
   "has_movement": true,
   "all": [
@@ -157,19 +157,19 @@
       "rank": 26,
       "name": "Manis Love",
       "value": 218,
-      "move": 2
+      "move": 0
     },
     {
       "rank": 27,
       "name": "Алексей",
       "value": 217,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 28,
       "name": "DenisNazarov",
       "value": 215,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 29,
@@ -289,7 +289,7 @@
       "rank": 48,
       "name": "SPM",
       "value": 104,
-      "move": 3
+      "move": 1
     },
     {
       "rank": 49,
@@ -301,13 +301,13 @@
       "rank": 50,
       "name": "shagron2",
       "value": 100,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 51,
       "name": "Max",
       "value": 100,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 52,
@@ -697,43 +697,43 @@
       "rank": 116,
       "name": "Oleg Maksimov",
       "value": 10,
-      "move": 11
+      "move": 0
     },
     {
       "rank": 117,
       "name": "***",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 118,
       "name": "Demius",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 119,
       "name": "Sergey",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 120,
       "name": "Юрий",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 121,
       "name": "xxx",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 122,
       "name": "Kirill",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 123,
@@ -745,31 +745,31 @@
       "rank": 124,
       "name": "Ingvar 604",
       "value": 7,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 125,
       "name": "Daniil",
       "value": 7,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 126,
       "name": "Homelander",
       "value": 7,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 127,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 7,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 128,
       "name": "Nikita",
       "value": 7,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 129,
@@ -1699,7 +1699,7 @@
       "rank": 283,
       "name": "Анастасия Surella",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 284,
@@ -1717,7 +1717,7 @@
       "rank": 286,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -2
     }
   ],
   "month": [
@@ -1739,7 +1739,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 59
+      "value": 57
     },
     {
       "rank": 5,
@@ -1768,12 +1768,12 @@
     },
     {
       "rank": 10,
-      "name": "Князь Владимир С",
-      "value": 39
+      "name": "a l",
+      "value": 38
     },
     {
       "rank": 11,
-      "name": "a l",
+      "name": "Князь Владимир С",
       "value": 38
     },
     {
