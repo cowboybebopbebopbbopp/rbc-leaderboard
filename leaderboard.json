@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T21:51:29+00:00",
+  "updated": "2026-11-11T22:51:34+00:00",
   "count": 287,
   "has_movement": true,
   "all": [
@@ -1750,7 +1750,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 58
+      "value": 56
     },
     {
       "rank": 6,
@@ -1780,7 +1780,7 @@
     {
       "rank": 11,
       "name": "a l",
-      "value": 36
+      "value": 34
     },
     {
       "rank": 12,
@@ -2126,81 +2126,76 @@
     },
     {
       "rank": 30,
-      "name": "MEMBER.",
-      "value": 2
-    },
-    {
-      "rank": 31,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "AK",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Сергей Фролов",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Igor",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Sonic",
       "value": 1
     }
