@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T05:52:10+00:00",
+  "updated": "2026-11-12T06:52:15+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1356,
+      "value": 1358,
       "move": 0
     },
     {
@@ -432,7 +432,7 @@
     {
       "rank": 72,
       "name": "Анастасия D",
-      "value": 39,
+      "value": 40,
       "move": 1
     },
     {
@@ -1780,13 +1780,13 @@
     },
     {
       "rank": 10,
-      "name": "Князь Владимир С",
+      "name": "a l",
       "value": 37
     },
     {
       "rank": 11,
-      "name": "a l",
-      "value": 35
+      "name": "Князь Владимир С",
+      "value": 37
     },
     {
       "rank": 12,
@@ -1801,12 +1801,12 @@
     {
       "rank": 14,
       "name": "LlirikMK",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 15,
       "name": "Анастасия",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 16,
@@ -1915,18 +1915,18 @@
     },
     {
       "rank": 37,
-      "name": "Pavel",
-      "value": 6
-    },
-    {
-      "rank": 38,
       "name": "Charlie Shefelman",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "🤗",
       "value": 6
+    },
+    {
+      "rank": 39,
+      "name": "Pavel",
+      "value": 5
     },
     {
       "rank": 40,
@@ -2022,27 +2022,27 @@
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
-      "value": 10
-    },
-    {
-      "rank": 9,
       "name": "ᴦоᴧод",
       "value": 10
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 9
     },
     {
+      "rank": 10,
+      "name": "Анастасия D",
+      "value": 8
+    },
+    {
       "rank": 11,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "a l",
       "value": 7
     },
     {
       "rank": 12,
-      "name": "Анастасия D",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 7
     },
     {
@@ -2057,8 +2057,8 @@
     },
     {
       "rank": 15,
-      "name": "a l",
-      "value": 5
+      "name": "Zero-sum Gamer",
+      "value": 7
     },
     {
       "rank": 16,
