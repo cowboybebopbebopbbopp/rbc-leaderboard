@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T11:46:46+00:00",
+  "updated": "2026-11-12T12:46:51+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5849,
+      "value": 5851,
       "move": 0
     },
     {
@@ -269,21 +269,21 @@
     },
     {
       "rank": 45,
-      "name": "Ivan Defined",
+      "name": "SPM",
       "value": 108,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 46,
-      "name": "Сергей",
-      "value": 107,
-      "move": 0
+      "name": "Ivan Defined",
+      "value": 108,
+      "move": -1
     },
     {
       "rank": 47,
-      "name": "SPM",
+      "name": "Сергей",
       "value": 107,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 48,
@@ -1736,7 +1736,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 140
+      "value": 139
     },
     {
       "rank": 2,
@@ -1746,7 +1746,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 72
+      "value": 74
     },
     {
       "rank": 4,
@@ -1771,7 +1771,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 40
+      "value": 41
     },
     {
       "rank": 9,
@@ -1786,7 +1786,7 @@
     {
       "rank": 11,
       "name": "Князь Владимир С",
-      "value": 37
+      "value": 35
     },
     {
       "rank": 12,
@@ -1975,12 +1975,12 @@
     },
     {
       "rank": 49,
-      "name": "lefkorosos",
-      "value": 4
+      "name": "E X O",
+      "value": 3
     },
     {
       "rank": 50,
-      "name": "E X O",
+      "name": "L G",
       "value": 3
     }
   ],
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 2,
@@ -2003,7 +2003,7 @@
     {
       "rank": 4,
       "name": "SPM",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 5,
