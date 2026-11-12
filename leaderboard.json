@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T18:50:46+00:00",
+  "updated": "2026-11-12T19:50:51+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -1736,7 +1736,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 132
+      "value": 131
     },
     {
       "rank": 2,
@@ -1795,22 +1795,22 @@
     },
     {
       "rank": 13,
-      "name": "LlirikMK",
-      "value": 27
-    },
-    {
-      "rank": 14,
       "name": "Zero-sum Gamer",
       "value": 27
     },
     {
+      "rank": 14,
+      "name": "Viktor",
+      "value": 26
+    },
+    {
       "rank": 15,
-      "name": ".",
-      "value": 27
+      "name": "LlirikMK",
+      "value": 26
     },
     {
       "rank": 16,
-      "name": "Viktor",
+      "name": ".",
       "value": 26
     },
     {
