@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T00:52:01+00:00",
+  "updated": "2026-11-12T01:51:49+00:00",
   "count": 287,
   "has_movement": true,
   "all": [
@@ -396,7 +396,7 @@
     {
       "rank": 66,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 54,
+      "value": 55,
       "move": 1
     },
     {
@@ -1760,7 +1760,7 @@
     {
       "rank": 7,
       "name": "Crypto Panda",
-      "value": 53
+      "value": 54
     },
     {
       "rank": 8,
@@ -1991,12 +1991,12 @@
     },
     {
       "rank": 3,
-      "name": "SPM",
-      "value": 14
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 15
     },
     {
       "rank": 4,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "SPM",
       "value": 14
     },
     {
