@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T03:52:00+00:00",
+  "updated": "2026-11-12T04:52:05+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -1950,27 +1950,27 @@
     },
     {
       "rank": 44,
-      "name": "lefkorosos",
-      "value": 5
-    },
-    {
-      "rank": 45,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "AnTon",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Borz",
+      "value": 4
+    },
+    {
+      "rank": 48,
+      "name": "lefkorosos",
       "value": 4
     },
     {
@@ -1993,7 +1993,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 18
+      "value": 16
     },
     {
       "rank": 3,
@@ -2003,7 +2003,7 @@
     {
       "rank": 4,
       "name": "SPM",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 5,
