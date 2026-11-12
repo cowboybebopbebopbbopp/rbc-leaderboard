@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T04:52:05+00:00",
+  "updated": "2026-11-12T05:52:10+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1355,
+      "value": 1356,
       "move": 0
     },
     {
@@ -282,7 +282,7 @@
     {
       "rank": 47,
       "name": "SPM",
-      "value": 106,
+      "value": 107,
       "move": 1
     },
     {
@@ -1756,7 +1756,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 6,
@@ -1771,7 +1771,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 9,
@@ -1786,7 +1786,7 @@
     {
       "rank": 11,
       "name": "a l",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 12,
@@ -1895,28 +1895,28 @@
     },
     {
       "rank": 33,
-      "name": "Pavel",
-      "value": 7
-    },
-    {
-      "rank": 34,
       "name": "Сергей",
       "value": 7
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "t.me/hapexoᚾK1T",
       "value": 7
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Алексей",
       "value": 7
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Oleg Maksimov",
       "value": 7
+    },
+    {
+      "rank": 37,
+      "name": "Pavel",
+      "value": 6
     },
     {
       "rank": 38,
@@ -2003,7 +2003,7 @@
     {
       "rank": 4,
       "name": "SPM",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 5,
@@ -2057,48 +2057,48 @@
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
+      "name": "a l",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Князь Владимир С",
       "value": 5
     },
     {
       "rank": 17,
-      "name": "@wavesscalper",
+      "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
       "rank": 18,
-      "name": "Oleg Maksimov",
+      "name": "@wavesscalper",
       "value": 5
     },
     {
       "rank": 19,
-      "name": "a l",
-      "value": 4
+      "name": "Oleg Maksimov",
+      "value": 5
     },
     {
       "rank": 20,
-      "name": "A.",
-      "value": 4
-    },
-    {
-      "rank": 21,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Ponemonec",
       "value": 4
+    },
+    {
+      "rank": 23,
+      "name": "A.",
+      "value": 3
     },
     {
       "rank": 24,
