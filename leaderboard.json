@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T15:47:09+00:00",
+  "updated": "2026-11-12T16:47:14+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1956,
+      "value": 1958,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1822,
+      "value": 1823,
       "move": 0
     },
     {
@@ -288,7 +288,7 @@
     {
       "rank": 48,
       "name": "Серхио Ле'Трас",
-      "value": 105,
+      "value": 106,
       "move": 1
     },
     {
@@ -515,15 +515,15 @@
     },
     {
       "rank": 86,
-      "name": "Претор",
+      "name": "Don Michele Corleone",
       "value": 21,
-      "move": 0
+      "move": 4
     },
     {
       "rank": 87,
-      "name": "Don Michele Corleone",
-      "value": 20,
-      "move": 3
+      "name": "Претор",
+      "value": 21,
+      "move": -1
     },
     {
       "rank": 88,
@@ -1741,7 +1741,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 84
+      "value": 86
     },
     {
       "rank": 3,
@@ -1796,16 +1796,16 @@
     {
       "rank": 13,
       "name": "LlirikMK",
-      "value": 29
-    },
-    {
-      "rank": 14,
-      "name": ".",
       "value": 28
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Zero-sum Gamer",
+      "value": 27
+    },
+    {
+      "rank": 15,
+      "name": ".",
       "value": 27
     },
     {
@@ -1825,27 +1825,27 @@
     },
     {
       "rank": 19,
+      "name": "Don Michele Corleone",
+      "value": 16
+    },
+    {
+      "rank": 20,
       "name": "A.",
       "value": 15
     },
     {
-      "rank": 20,
-      "name": "@wavesscalper",
-      "value": 15
-    },
-    {
       "rank": 21,
-      "name": "Don Michele Corleone",
+      "name": "Aся",
       "value": 15
     },
     {
       "rank": 22,
-      "name": "Manis Love",
-      "value": 14
+      "name": "@wavesscalper",
+      "value": 15
     },
     {
       "rank": 23,
-      "name": "Aся",
+      "name": "Manis Love",
       "value": 14
     },
     {
@@ -1890,13 +1890,13 @@
     },
     {
       "rank": 32,
-      "name": "Евгений",
+      "name": "Серхио Ле'Трас",
       "value": 8
     },
     {
       "rank": 33,
-      "name": "Серхио Ле'Трас",
-      "value": 7
+      "name": "Евгений",
+      "value": 8
     },
     {
       "rank": 34,
@@ -1980,7 +1980,7 @@
     },
     {
       "rank": 50,
-      "name": "AnTon",
+      "name": "Max⚡️",
       "value": 3
     }
   ],
@@ -1988,12 +1988,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 58
+      "value": 56
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 3,
@@ -2013,7 +2013,7 @@
     {
       "rank": 6,
       "name": "Aся",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 7,
@@ -2022,97 +2022,97 @@
     },
     {
       "rank": 8,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 9
-    },
-    {
-      "rank": 9,
       "name": "Анастасия D",
       "value": 9
     },
     {
-      "rank": 10,
-      "name": "ᴦоᴧод",
-      "value": 8
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "name": "a l",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 10,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 11,
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 7
+    },
+    {
+      "rank": 12,
       "name": "Алексей",
       "value": 7
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "I",
       "value": 7
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Серхио Ле'Трас",
-      "value": 5
+      "value": 6
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Князь Владимир С",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Zero-sum Gamer",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Oleg Maksimov",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Vitaliy",
       "value": 4
     },
     {
+      "rank": 23,
+      "name": "ᴦоᴧод",
+      "value": 4
+    },
+    {
       "rank": 24,
+      "name": "Don Michele Corleone",
+      "value": 4
+    },
+    {
+      "rank": 25,
       "name": "L G",
       "value": 3
     },
     {
-      "rank": 25,
-      "name": "Синдбад Мореход",
-      "value": 3
-    },
-    {
       "rank": 26,
-      "name": "Don Michele Corleone",
+      "name": "Синдбад Мореход",
       "value": 3
     },
     {
