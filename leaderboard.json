@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T17:47:20+00:00",
+  "updated": "2026-11-12T18:50:46+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -1755,12 +1755,12 @@
     },
     {
       "rank": 5,
-      "name": "Crypto Panda",
-      "value": 57
+      "name": "Синдбад Мореход",
+      "value": 55
     },
     {
       "rank": 6,
-      "name": "Синдбад Мореход",
+      "name": "Crypto Panda",
       "value": 55
     },
     {
@@ -1895,52 +1895,52 @@
     },
     {
       "rank": 33,
-      "name": "Евгений",
-      "value": 8
-    },
-    {
-      "rank": 34,
       "name": "Сергей",
       "value": 7
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "t.me/hapexoᚾK1T",
       "value": 7
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Алексей",
       "value": 7
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Oleg Maksimov",
       "value": 7
     },
     {
-      "rank": 38,
-      "name": "Charlie Shefelman",
+      "rank": 37,
+      "name": "Евгений",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "🤗",
       "value": 6
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Pavel",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "L G",
+      "value": 5
+    },
+    {
+      "rank": 42,
+      "name": "Charlie Shefelman",
       "value": 5
     },
     {
@@ -2142,57 +2142,57 @@
     },
     {
       "rank": 32,
-      "name": "lefkorosos",
-      "value": 2
-    },
-    {
-      "rank": 33,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Сергей Фролов",
       "value": 2
     },
     {
-      "rank": 35,
-      "name": "Ponemonec",
-      "value": 2
-    },
-    {
-      "rank": 36,
+      "rank": 34,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 35,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 36,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 37,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 38,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 39,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 40,
+      "name": "lefkorosos",
+      "value": 1
+    },
+    {
+      "rank": 41,
       "name": "Pike",
+      "value": 1
+    },
+    {
+      "rank": 42,
+      "name": "Ponemonec",
       "value": 1
     },
     {
