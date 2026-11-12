@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T12:46:51+00:00",
+  "updated": "2026-11-12T13:46:57+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5851,
+      "value": 5852,
       "move": 0
     },
     {
@@ -294,7 +294,7 @@
     {
       "rank": 49,
       "name": "Серхио Ле'Трас",
-      "value": 103,
+      "value": 104,
       "move": 0
     },
     {
@@ -1736,17 +1736,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 139
+      "value": 134
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 82
+      "value": 81
     },
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 74
+      "value": 75
     },
     {
       "rank": 4,
@@ -1766,7 +1766,7 @@
     {
       "rank": 7,
       "name": "Archie",
-      "value": 52
+      "value": 51
     },
     {
       "rank": 8,
@@ -1830,33 +1830,33 @@
     },
     {
       "rank": 20,
-      "name": "iDiklonius",
-      "value": 15
-    },
-    {
-      "rank": 21,
       "name": "@wavesscalper",
       "value": 15
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Don Michele Corleone",
       "value": 15
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Manis Love",
       "value": 14
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Aся",
       "value": 14
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "I",
       "value": 14
+    },
+    {
+      "rank": 25,
+      "name": "iDiklonius",
+      "value": 11
     },
     {
       "rank": 26,
@@ -1915,27 +1915,27 @@
     },
     {
       "rank": 37,
-      "name": "Charlie Shefelman",
+      "name": "Серхио Ле'Трас",
       "value": 6
     },
     {
       "rank": 38,
-      "name": "🤗",
+      "name": "Charlie Shefelman",
       "value": 6
     },
     {
       "rank": 39,
+      "name": "🤗",
+      "value": 6
+    },
+    {
+      "rank": 40,
       "name": "Pavel",
       "value": 5
     },
     {
-      "rank": 40,
-      "name": "Виталий",
-      "value": 5
-    },
-    {
       "rank": 41,
-      "name": "Серхио Ле'Трас",
+      "name": "Виталий",
       "value": 5
     },
     {
@@ -2098,7 +2098,7 @@
     {
       "rank": 23,
       "name": "Серхио Ле'Трас",
-      "value": 3
+      "value": 4
     },
     {
       "rank": 24,
