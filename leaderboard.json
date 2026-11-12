@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T20:50:56+00:00",
+  "updated": "2026-11-12T21:51:02+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 179,
+      "value": 180,
       "move": 0
     },
     {
@@ -1781,7 +1781,7 @@
     {
       "rank": 10,
       "name": "a l",
-      "value": 37
+      "value": 36
     },
     {
       "rank": 11,
@@ -1800,12 +1800,12 @@
     },
     {
       "rank": 14,
-      "name": "Viktor",
-      "value": 26
+      "name": ".",
+      "value": 27
     },
     {
       "rank": 15,
-      "name": ".",
+      "name": "Viktor",
       "value": 26
     },
     {
@@ -2152,52 +2152,52 @@
     },
     {
       "rank": 34,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 35,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 42,
-      "name": "Ponemonec",
-      "value": 1
-    },
-    {
       "rank": 43,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 1
     },
     {
