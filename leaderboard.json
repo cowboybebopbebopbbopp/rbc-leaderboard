@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T19:50:51+00:00",
+  "updated": "2026-11-12T20:50:56+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5857,
+      "value": 5860,
       "move": 0
     },
     {
@@ -1746,12 +1746,12 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 80
+      "value": 83
     },
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 62
+      "value": 61
     },
     {
       "rank": 5,
@@ -1805,17 +1805,17 @@
     },
     {
       "rank": 15,
-      "name": "LlirikMK",
-      "value": 26
-    },
-    {
-      "rank": 16,
       "name": ".",
       "value": 26
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 25
+    },
+    {
+      "rank": 17,
+      "name": "LlirikMK",
       "value": 25
     },
     {
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 55
+      "value": 58
     },
     {
       "rank": 2,
