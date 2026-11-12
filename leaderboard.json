@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T09:46:35+00:00",
+  "updated": "2026-11-12T10:46:40+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5846,
+      "value": 5848,
       "move": 0
     },
     {
@@ -162,7 +162,7 @@
     {
       "rank": 27,
       "name": "Алексей",
-      "value": 217,
+      "value": 218,
       "move": 0
     },
     {
@@ -389,15 +389,15 @@
     },
     {
       "rank": 65,
-      "name": "Ars",
-      "value": 56,
-      "move": 0
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 57,
+      "move": 2
     },
     {
       "rank": 66,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 55,
-      "move": 1
+      "name": "Ars",
+      "value": 56,
+      "move": -1
     },
     {
       "rank": 67,
@@ -1736,17 +1736,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 142
+      "value": 141
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 84
+      "value": 82
     },
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 69
+      "value": 71
     },
     {
       "rank": 4,
@@ -1755,13 +1755,13 @@
     },
     {
       "rank": 5,
-      "name": "Синдбад Мореход",
-      "value": 55
+      "name": "Crypto Panda",
+      "value": 56
     },
     {
       "rank": 6,
-      "name": "Crypto Panda",
-      "value": 54
+      "name": "Синдбад Мореход",
+      "value": 55
     },
     {
       "rank": 7,
@@ -1821,7 +1821,7 @@
     {
       "rank": 18,
       "name": "Vitaliy",
-      "value": 23
+      "value": 22
     },
     {
       "rank": 19,
@@ -1975,12 +1975,12 @@
     },
     {
       "rank": 49,
-      "name": "E X O",
+      "name": "Алексей",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "L G",
+      "name": "E X O",
       "value": 3
     }
   ],
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 49
+      "value": 51
     },
     {
       "rank": 2,
@@ -1997,12 +1997,12 @@
     },
     {
       "rank": 3,
-      "name": "SPM",
-      "value": 14
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 16
     },
     {
       "rank": 4,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "SPM",
       "value": 14
     },
     {
@@ -2147,51 +2147,56 @@
     },
     {
       "rank": 33,
-      "name": "Виталий",
+      "name": "Алексей",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Logrus",
+      "name": "Виталий",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "L G",
+      "name": "Logrus",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Сергей",
+      "name": "L G",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "rozor",
+      "name": "Сергей",
       "value": 1
     },
     {
       "rank": 38,
-      "name": "Charlie Shefelman",
+      "name": "rozor",
       "value": 1
     },
     {
       "rank": 39,
-      "name": "Олег",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 40,
-      "name": "Pike",
+      "name": "Олег",
       "value": 1
     },
     {
       "rank": 41,
-      "name": ".",
+      "name": "Pike",
       "value": 1
     },
     {
       "rank": 42,
+      "name": ".",
+      "value": 1
+    },
+    {
+      "rank": 43,
       "name": "Sonic",
       "value": 1
     }
