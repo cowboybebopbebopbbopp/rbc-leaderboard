@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T02:51:54+00:00",
-  "count": 287,
+  "updated": "2026-11-12T03:52:00+00:00",
+  "count": 288,
   "has_movement": true,
   "all": [
     {
@@ -1721,9 +1721,15 @@
     },
     {
       "rank": 287,
+      "name": "Kailey Hed",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 288,
       "name": "vitaliy",
       "value": 0,
-      "move": -1
+      "move": -2
     }
   ],
   "month": [
@@ -1884,17 +1890,17 @@
     },
     {
       "rank": 32,
-      "name": "Сергей",
-      "value": 8
-    },
-    {
-      "rank": 33,
       "name": "Евгений",
       "value": 8
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Pavel",
+      "value": 7
+    },
+    {
+      "rank": 34,
+      "name": "Сергей",
       "value": 7
     },
     {
@@ -1987,7 +1993,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 21
+      "value": 18
     },
     {
       "rank": 3,
@@ -2051,32 +2057,32 @@
     },
     {
       "rank": 15,
-      "name": "A.",
-      "value": 5
-    },
-    {
-      "rank": 16,
       "name": "Князь Владимир С",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Oleg Maksimov",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "a l",
+      "value": 4
+    },
+    {
+      "rank": 20,
+      "name": "A.",
       "value": 4
     },
     {
