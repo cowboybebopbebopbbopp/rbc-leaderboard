@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T08:46:30+00:00",
+  "updated": "2026-11-12T09:46:35+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -425,15 +425,15 @@
     },
     {
       "rank": 71,
-      "name": "Olga Scher",
+      "name": "Анастасия D",
       "value": 41,
-      "move": -1
+      "move": 2
     },
     {
       "rank": 72,
-      "name": "Анастасия D",
-      "value": 40,
-      "move": 1
+      "name": "Olga Scher",
+      "value": 41,
+      "move": -2
     },
     {
       "rank": 73,
@@ -1736,7 +1736,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 143
+      "value": 142
     },
     {
       "rank": 2,
@@ -1766,7 +1766,7 @@
     {
       "rank": 7,
       "name": "Archie",
-      "value": 53
+      "value": 52
     },
     {
       "rank": 8,
@@ -1795,8 +1795,8 @@
     },
     {
       "rank": 13,
-      "name": ".",
-      "value": 31
+      "name": "Анастасия",
+      "value": 29
     },
     {
       "rank": 14,
@@ -1805,8 +1805,8 @@
     },
     {
       "rank": 15,
-      "name": "Анастасия",
-      "value": 28
+      "name": ".",
+      "value": 29
     },
     {
       "rank": 16,
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 50
+      "value": 49
     },
     {
       "rank": 2,
@@ -2033,7 +2033,7 @@
     {
       "rank": 10,
       "name": "Анастасия D",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 11,
