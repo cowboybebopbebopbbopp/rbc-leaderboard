@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T10:46:40+00:00",
+  "updated": "2026-11-12T11:46:46+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5848,
+      "value": 5849,
       "move": 0
     },
     {
@@ -155,15 +155,15 @@
     },
     {
       "rank": 26,
-      "name": "Manis Love",
-      "value": 218,
-      "move": 0
+      "name": "Алексей",
+      "value": 219,
+      "move": 1
     },
     {
       "rank": 27,
-      "name": "Алексей",
+      "name": "Manis Love",
       "value": 218,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 28,
@@ -1736,7 +1736,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 141
+      "value": 140
     },
     {
       "rank": 2,
@@ -1746,7 +1746,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 71
+      "value": 72
     },
     {
       "rank": 4,
@@ -1960,23 +1960,23 @@
     },
     {
       "rank": 46,
-      "name": "AnTon",
+      "name": "Алексей",
       "value": 4
     },
     {
       "rank": 47,
-      "name": "Borz",
+      "name": "AnTon",
       "value": 4
     },
     {
       "rank": 48,
-      "name": "lefkorosos",
+      "name": "Borz",
       "value": 4
     },
     {
       "rank": 49,
-      "name": "Алексей",
-      "value": 3
+      "name": "lefkorosos",
+      "value": 4
     },
     {
       "rank": 50,
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 51
+      "value": 52
     },
     {
       "rank": 2,
@@ -2112,43 +2112,43 @@
     },
     {
       "rank": 26,
-      "name": "PiratesOfMining",
+      "name": "Алексей",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "iDiklonius",
+      "name": "PiratesOfMining",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "LlirikMK",
+      "name": "iDiklonius",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "AK",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "lefkorosos",
+      "name": "AK",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "Сергей Фролов",
+      "name": "lefkorosos",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Ponemonec",
+      "name": "Сергей Фролов",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Алексей",
-      "value": 1
+      "name": "Ponemonec",
+      "value": 2
     },
     {
       "rank": 34,
