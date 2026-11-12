@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T06:52:15+00:00",
+  "updated": "2026-11-12T07:46:25+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5842,
+      "value": 5843,
       "move": 0
     },
     {
@@ -378,7 +378,7 @@
     {
       "rank": 63,
       "name": "A.",
-      "value": 57,
+      "value": 58,
       "move": 0
     },
     {
@@ -1736,7 +1736,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 145
+      "value": 143
     },
     {
       "rank": 2,
@@ -1746,7 +1746,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 65
+      "value": 66
     },
     {
       "rank": 4,
@@ -1825,23 +1825,23 @@
     },
     {
       "rank": 19,
-      "name": "iDiklonius",
+      "name": "A.",
       "value": 15
     },
     {
       "rank": 20,
-      "name": "@wavesscalper",
+      "name": "iDiklonius",
       "value": 15
     },
     {
       "rank": 21,
-      "name": "Don Michele Corleone",
+      "name": "@wavesscalper",
       "value": 15
     },
     {
       "rank": 22,
-      "name": "A.",
-      "value": 14
+      "name": "Don Michele Corleone",
+      "value": 15
     },
     {
       "rank": 23,
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 2,
@@ -2058,7 +2058,7 @@
     {
       "rank": 15,
       "name": "Zero-sum Gamer",
-      "value": 7
+      "value": 6
     },
     {
       "rank": 16,
@@ -2082,67 +2082,67 @@
     },
     {
       "rank": 20,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 4
     },
     {
       "rank": 21,
-      "name": "Vitaliy",
+      "name": "Manis Love",
       "value": 4
     },
     {
       "rank": 22,
-      "name": "Ponemonec",
+      "name": "Vitaliy",
       "value": 4
     },
     {
       "rank": 23,
-      "name": "A.",
-      "value": 3
-    },
-    {
-      "rank": 24,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Don Michele Corleone",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "AK",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Сергей Фролов",
+      "value": 2
+    },
+    {
+      "rank": 32,
+      "name": "Ponemonec",
       "value": 2
     },
     {
