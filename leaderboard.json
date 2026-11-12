@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T14:47:02+00:00",
+  "updated": "2026-11-12T15:47:09+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5856,
+      "value": 5857,
       "move": 0
     },
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1953,
+      "value": 1956,
       "move": 0
     },
     {
@@ -287,15 +287,15 @@
     },
     {
       "rank": 48,
-      "name": "terminal lucidity",
+      "name": "Серхио Ле'Трас",
       "value": 105,
-      "move": -1
+      "move": 1
     },
     {
       "rank": 49,
-      "name": "Серхио Ле'Трас",
-      "value": 104,
-      "move": 0
+      "name": "terminal lucidity",
+      "value": 105,
+      "move": -2
     },
     {
       "rank": 50,
@@ -1736,17 +1736,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 133
+      "value": 132
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 81
+      "value": 84
     },
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 79
+      "value": 80
     },
     {
       "rank": 4,
@@ -1786,7 +1786,7 @@
     {
       "rank": 11,
       "name": "Князь Владимир С",
-      "value": 35
+      "value": 33
     },
     {
       "rank": 12,
@@ -1801,7 +1801,7 @@
     {
       "rank": 14,
       "name": ".",
-      "value": 29
+      "value": 28
     },
     {
       "rank": 15,
@@ -1895,28 +1895,28 @@
     },
     {
       "rank": 33,
-      "name": "Сергей",
+      "name": "Серхио Ле'Трас",
       "value": 7
     },
     {
       "rank": 34,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Сергей",
       "value": 7
     },
     {
       "rank": 35,
-      "name": "Алексей",
+      "name": "t.me/hapexoᚾK1T",
       "value": 7
     },
     {
       "rank": 36,
-      "name": "Oleg Maksimov",
+      "name": "Алексей",
       "value": 7
     },
     {
       "rank": 37,
-      "name": "Серхио Ле'Трас",
-      "value": 6
+      "name": "Oleg Maksimov",
+      "value": 7
     },
     {
       "rank": 38,
@@ -1970,17 +1970,17 @@
     },
     {
       "rank": 48,
-      "name": "AnTon",
-      "value": 4
-    },
-    {
-      "rank": 49,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "E X O",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "AnTon",
       "value": 3
     }
   ],
@@ -1988,12 +1988,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 16
+      "value": 19
     },
     {
       "rank": 3,
@@ -2022,18 +2022,18 @@
     },
     {
       "rank": 8,
-      "name": "ᴦоᴧод",
-      "value": 10
-    },
-    {
-      "rank": 9,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 9
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Анастасия D",
       "value": 9
+    },
+    {
+      "rank": 10,
+      "name": "ᴦоᴧод",
+      "value": 8
     },
     {
       "rank": 11,
@@ -2057,47 +2057,47 @@
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
+      "name": "Серхио Ле'Трас",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Князь Владимир С",
       "value": 5
     },
     {
       "rank": 17,
-      "name": "Zero-sum Gamer",
+      "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
       "rank": 18,
-      "name": "@wavesscalper",
+      "name": "Zero-sum Gamer",
       "value": 5
     },
     {
       "rank": 19,
-      "name": "Oleg Maksimov",
+      "name": "@wavesscalper",
       "value": 5
     },
     {
       "rank": 20,
+      "name": "Oleg Maksimov",
+      "value": 5
+    },
+    {
+      "rank": 21,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 22,
-      "name": "Vitaliy",
-      "value": 4
-    },
-    {
       "rank": 23,
-      "name": "Серхио Ле'Трас",
+      "name": "Vitaliy",
       "value": 4
     },
     {
