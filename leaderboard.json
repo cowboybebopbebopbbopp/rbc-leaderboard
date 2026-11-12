@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T22:51:07+00:00",
+  "updated": "2026-11-12T23:51:12+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -155,15 +155,15 @@
     },
     {
       "rank": 26,
-      "name": "Алексей",
+      "name": "Manis Love",
       "value": 219,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 27,
-      "name": "Manis Love",
-      "value": 218,
-      "move": -1
+      "name": "Алексей",
+      "value": 219,
+      "move": 0
     },
     {
       "rank": 28,
@@ -377,15 +377,15 @@
     },
     {
       "rank": 63,
-      "name": "A.",
-      "value": 58,
-      "move": 0
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 59,
+      "move": 4
     },
     {
       "rank": 64,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "A.",
       "value": 58,
-      "move": 3
+      "move": -1
     },
     {
       "rank": 65,
@@ -413,15 +413,15 @@
     },
     {
       "rank": 69,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 41,
-      "move": 2
+      "name": "Bazylev Nickolai",
+      "value": 42,
+      "move": 0
     },
     {
       "rank": 70,
-      "name": "Bazylev Nickolai",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 41,
-      "move": -1
+      "move": 1
     },
     {
       "rank": 71,
@@ -1755,12 +1755,12 @@
     },
     {
       "rank": 5,
-      "name": "Синдбад Мореход",
-      "value": 55
+      "name": "Crypto Panda",
+      "value": 56
     },
     {
       "rank": 6,
-      "name": "Crypto Panda",
+      "name": "Синдбад Мореход",
       "value": 55
     },
     {
@@ -1781,7 +1781,7 @@
     {
       "rank": 10,
       "name": "a l",
-      "value": 36
+      "value": 35
     },
     {
       "rank": 11,
@@ -1816,7 +1816,7 @@
     {
       "rank": 17,
       "name": "LlirikMK",
-      "value": 25
+      "value": 24
     },
     {
       "rank": 18,
@@ -1840,17 +1840,17 @@
     },
     {
       "rank": 22,
-      "name": "@wavesscalper",
+      "name": "Manis Love",
       "value": 15
     },
     {
       "rank": 23,
-      "name": "Manis Love",
+      "name": "I",
       "value": 14
     },
     {
       "rank": 24,
-      "name": "I",
+      "name": "@wavesscalper",
       "value": 14
     },
     {
@@ -1998,7 +1998,7 @@
     {
       "rank": 3,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 4,
@@ -2057,17 +2057,17 @@
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
+      "name": "Manis Love",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Князь Владимир С",
       "value": 5
     },
     {
       "rank": 17,
-      "name": "@wavesscalper",
+      "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
@@ -2082,17 +2082,17 @@
     },
     {
       "rank": 20,
-      "name": "Manis Love",
-      "value": 4
-    },
-    {
-      "rank": 21,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Zero-sum Gamer",
+      "value": 4
+    },
+    {
+      "rank": 22,
+      "name": "@wavesscalper",
       "value": 4
     },
     {
@@ -2167,17 +2167,17 @@
     },
     {
       "rank": 37,
-      "name": "Сергей",
-      "value": 1
-    },
-    {
-      "rank": 38,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Charlie Shefelman",
+      "value": 1
+    },
+    {
+      "rank": 39,
+      "name": "Bazylev Nickolai",
       "value": 1
     },
     {
