@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T16:47:14+00:00",
+  "updated": "2026-11-12T17:47:20+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1823,
+      "value": 1824,
       "move": 0
     },
     {
@@ -281,15 +281,15 @@
     },
     {
       "rank": 47,
-      "name": "Сергей",
+      "name": "Серхио Ле'Трас",
       "value": 107,
-      "move": -1
+      "move": 2
     },
     {
       "rank": 48,
-      "name": "Серхио Ле'Трас",
-      "value": 106,
-      "move": 1
+      "name": "Сергей",
+      "value": 107,
+      "move": -2
     },
     {
       "rank": 49,
@@ -383,15 +383,15 @@
     },
     {
       "rank": 64,
-      "name": "Andrey",
-      "value": 57,
-      "move": 0
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 58,
+      "move": 3
     },
     {
       "rank": 65,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Andrey",
       "value": 57,
-      "move": 2
+      "move": -1
     },
     {
       "rank": 66,
@@ -563,45 +563,45 @@
     },
     {
       "rank": 94,
-      "name": "Евгений",
+      "name": "Marina",
       "value": 18,
-      "move": 0
+      "move": 6
     },
     {
       "rank": 95,
-      "name": "Алина",
+      "name": "Евгений",
       "value": 18,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 96,
-      "name": "Антон",
-      "value": 17,
-      "move": 0
+      "name": "Алина",
+      "value": 18,
+      "move": -1
     },
     {
       "rank": 97,
-      "name": "Anatoly Shadrin",
+      "name": "Антон",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 98,
-      "name": "Advokat Krysanov",
+      "name": "Anatoly Shadrin",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 99,
-      "name": "Money",
+      "name": "Advokat Krysanov",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 100,
-      "name": "Marina",
-      "value": 16,
-      "move": 0
+      "name": "Money",
+      "value": 17,
+      "move": -1
     },
     {
       "rank": 101,
@@ -1756,7 +1756,7 @@
     {
       "rank": 5,
       "name": "Crypto Panda",
-      "value": 56
+      "value": 57
     },
     {
       "rank": 6,
@@ -1766,7 +1766,7 @@
     {
       "rank": 7,
       "name": "Archie",
-      "value": 51
+      "value": 50
     },
     {
       "rank": 8,
@@ -1796,7 +1796,7 @@
     {
       "rank": 13,
       "name": "LlirikMK",
-      "value": 28
+      "value": 27
     },
     {
       "rank": 14,
@@ -1825,17 +1825,17 @@
     },
     {
       "rank": 19,
-      "name": "Don Michele Corleone",
+      "name": "Aся",
       "value": 16
     },
     {
       "rank": 20,
-      "name": "A.",
-      "value": 15
+      "name": "Don Michele Corleone",
+      "value": 16
     },
     {
       "rank": 21,
-      "name": "Aся",
+      "name": "A.",
       "value": 15
     },
     {
@@ -1860,38 +1860,38 @@
     },
     {
       "rank": 26,
+      "name": "Marina",
+      "value": 11
+    },
+    {
+      "rank": 27,
       "name": "Logrus",
       "value": 10
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 9
     },
     {
-      "rank": 28,
-      "name": "Max",
-      "value": 9
-    },
-    {
       "rank": 29,
-      "name": "Marina",
+      "name": "Серхио Ле'Трас",
       "value": 9
     },
     {
       "rank": 30,
-      "name": "Ponemonec",
+      "name": "Max",
       "value": 9
     },
     {
       "rank": 31,
-      "name": "Sonic",
+      "name": "Ponemonec",
       "value": 9
     },
     {
       "rank": 32,
-      "name": "Серхио Ле'Трас",
-      "value": 8
+      "name": "Sonic",
+      "value": 9
     },
     {
       "rank": 33,
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 2,
@@ -1998,7 +1998,7 @@
     {
       "rank": 3,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 4,
@@ -2007,13 +2007,13 @@
     },
     {
       "rank": 5,
-      "name": "Руслан Иванов",
+      "name": "Aся",
       "value": 13
     },
     {
       "rank": 6,
-      "name": "Aся",
-      "value": 12
+      "name": "Руслан Иванов",
+      "value": 13
     },
     {
       "rank": 7,
@@ -2042,18 +2042,18 @@
     },
     {
       "rank": 12,
-      "name": "Алексей",
+      "name": "Серхио Ле'Трас",
       "value": 7
     },
     {
       "rank": 13,
-      "name": "I",
+      "name": "Алексей",
       "value": 7
     },
     {
       "rank": 14,
-      "name": "Серхио Ле'Трас",
-      "value": 6
+      "name": "I",
+      "value": 7
     },
     {
       "rank": 15,
@@ -2067,32 +2067,32 @@
     },
     {
       "rank": 17,
-      "name": "Zero-sum Gamer",
-      "value": 5
-    },
-    {
-      "rank": 18,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Oleg Maksimov",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Vitaliy",
+      "value": 4
+    },
+    {
+      "rank": 22,
+      "name": "Zero-sum Gamer",
       "value": 4
     },
     {
@@ -2147,56 +2147,61 @@
     },
     {
       "rank": 33,
-      "name": "Сергей Фролов",
+      "name": "Marina",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Ponemonec",
+      "name": "Сергей Фролов",
       "value": 2
     },
     {
       "rank": 35,
+      "name": "Ponemonec",
+      "value": 2
+    },
+    {
+      "rank": 36,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": ".",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Sonic",
       "value": 1
     }
