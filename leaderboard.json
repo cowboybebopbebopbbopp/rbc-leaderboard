@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T10:52:12+00:00",
+  "updated": "2026-11-13T11:52:18+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -1736,7 +1736,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 131
+      "value": 130
     },
     {
       "rank": 2,
@@ -1751,7 +1751,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 58
+      "value": 57
     },
     {
       "rank": 5,
@@ -1930,42 +1930,42 @@
     },
     {
       "rank": 40,
-      "name": "Pavel",
-      "value": 5
-    },
-    {
-      "rank": 41,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "L G",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Олег",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Алексей",
+      "value": 4
+    },
+    {
+      "rank": 47,
+      "name": "Pavel",
       "value": 4
     },
     {
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 60
+      "value": 59
     },
     {
       "rank": 2,
@@ -2072,42 +2072,42 @@
     },
     {
       "rank": 18,
-      "name": "iDiklonius",
-      "value": 4
-    },
-    {
-      "rank": 19,
       "name": "Князь Владимир С",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Zero-sum Gamer",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Don Michele Corleone",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "L G",
+      "value": 3
+    },
+    {
+      "rank": 25,
+      "name": "iDiklonius",
       "value": 3
     },
     {
