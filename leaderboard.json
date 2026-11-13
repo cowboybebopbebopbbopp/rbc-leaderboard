@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-13T08:52:01+00:00",
+  "updated": "2026-11-13T09:52:07+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5865,
+      "value": 5867,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1825,
+      "value": 1826,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 493,
+      "value": 494,
       "move": 0
     },
     {
@@ -1741,7 +1741,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 88
+      "value": 90
     },
     {
       "rank": 3,
@@ -1751,7 +1751,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 61
+      "value": 59
     },
     {
       "rank": 5,
@@ -1826,7 +1826,7 @@
     {
       "rank": 19,
       "name": "Aся",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 20,
@@ -1845,17 +1845,17 @@
     },
     {
       "rank": 23,
-      "name": "I",
+      "name": "iDiklonius",
       "value": 14
     },
     {
       "rank": 24,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 13
+      "name": "I",
+      "value": 14
     },
     {
       "rank": 25,
-      "name": "iDiklonius",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 13
     },
     {
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 59
+      "value": 60
     },
     {
       "rank": 2,
@@ -2008,7 +2008,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 14
+      "value": 12
     },
     {
       "rank": 6,
@@ -2072,42 +2072,42 @@
     },
     {
       "rank": 18,
-      "name": "Vitaliy",
-      "value": 4
-    },
-    {
-      "rank": 19,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Князь Владимир С",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Zero-sum Gamer",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Don Michele Corleone",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "A.",
+      "value": 3
+    },
+    {
+      "rank": 25,
+      "name": "Vitaliy",
       "value": 3
     },
     {
