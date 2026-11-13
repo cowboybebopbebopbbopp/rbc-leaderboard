@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T23:51:12+00:00",
+  "updated": "2026-11-13T00:51:18+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -271,7 +271,7 @@
       "rank": 45,
       "name": "SPM",
       "value": 108,
-      "move": 3
+      "move": 2
     },
     {
       "rank": 46,
@@ -295,7 +295,7 @@
       "rank": 49,
       "name": "terminal lucidity",
       "value": 105,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 50,
@@ -379,7 +379,7 @@
       "rank": 63,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 59,
-      "move": 4
+      "move": 3
     },
     {
       "rank": 64,
@@ -403,7 +403,7 @@
       "rank": 67,
       "name": "Sergei IVANOV",
       "value": 49,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 68,
@@ -415,31 +415,31 @@
       "rank": 69,
       "name": "Bazylev Nickolai",
       "value": 42,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 70,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 41,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 71,
       "name": "Анастасия D",
       "value": 41,
-      "move": 2
+      "move": 1
     },
     {
       "rank": 72,
       "name": "Olga Scher",
       "value": 41,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 73,
       "name": "Roman Polyakov",
       "value": 38,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 74,
@@ -517,7 +517,7 @@
       "rank": 86,
       "name": "Don Michele Corleone",
       "value": 21,
-      "move": 4
+      "move": 1
     },
     {
       "rank": 87,
@@ -529,19 +529,19 @@
       "rank": 88,
       "name": "Pavel",
       "value": 20,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 89,
       "name": "Максим",
       "value": 20,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 90,
       "name": "vitalij",
       "value": 20,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 91,
@@ -553,13 +553,13 @@
       "rank": 92,
       "name": "Ponemonec",
       "value": 19,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 93,
       "name": "lefkorosos",
       "value": 19,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 94,
@@ -613,19 +613,19 @@
       "rank": 102,
       "name": "vpidelks",
       "value": 14,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 103,
       "name": "Aleksey",
       "value": 14,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 104,
       "name": "Pike",
       "value": 13,
-      "move": 3
+      "move": 0
     },
     {
       "rank": 105,
@@ -643,13 +643,13 @@
       "rank": 107,
       "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 12,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 108,
       "name": "Logrus",
       "value": 12,
-      "move": -6
+      "move": 0
     },
     {
       "rank": 109,
@@ -1717,7 +1717,7 @@
       "rank": 286,
       "name": "Denis",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 287,
@@ -1729,7 +1729,7 @@
       "rank": 288,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -1
     }
   ],
   "month": [
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 58
+      "value": 57
     },
     {
       "rank": 2,
@@ -2062,27 +2062,27 @@
     },
     {
       "rank": 16,
-      "name": "Князь Владимир С",
-      "value": 5
-    },
-    {
-      "rank": 17,
       "name": "t.me/hapexoᚾK1T",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Oleg Maksimov",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Vitaliy",
+      "value": 4
+    },
+    {
+      "rank": 20,
+      "name": "Князь Владимир С",
       "value": 4
     },
     {
