@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-13T13:52:28+00:00",
+  "updated": "2026-11-13T14:52:34+00:00",
   "count": 289,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5868,
+      "value": 5870,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1826,
+      "value": 1829,
       "move": 0
     },
     {
@@ -1747,7 +1747,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 91
+      "value": 93
     },
     {
       "rank": 3,
@@ -1767,7 +1767,7 @@
     {
       "rank": 6,
       "name": "Синдбад Мореход",
-      "value": 55
+      "value": 53
     },
     {
       "rank": 7,
@@ -1821,18 +1821,18 @@
     },
     {
       "rank": 17,
-      "name": "Vitaliy",
+      "name": "Aся",
       "value": 21
     },
     {
       "rank": 18,
-      "name": "LlirikMK",
-      "value": 20
+      "name": "Vitaliy",
+      "value": 21
     },
     {
       "rank": 19,
-      "name": "Aся",
-      "value": 18
+      "name": "LlirikMK",
+      "value": 20
     },
     {
       "rank": 20,
@@ -1994,12 +1994,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 60
+      "value": 62
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 3,
@@ -2013,13 +2013,13 @@
     },
     {
       "rank": 5,
-      "name": "Руслан Иванов",
-      "value": 12
+      "name": "Aся",
+      "value": 14
     },
     {
       "rank": 6,
-      "name": "Aся",
-      "value": 11
+      "name": "Руслан Иванов",
+      "value": 12
     },
     {
       "rank": 7,
@@ -2053,17 +2053,17 @@
     },
     {
       "rank": 13,
-      "name": "I",
-      "value": 7
-    },
-    {
-      "rank": 14,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 5
+    },
+    {
+      "rank": 15,
+      "name": "I",
       "value": 5
     },
     {
