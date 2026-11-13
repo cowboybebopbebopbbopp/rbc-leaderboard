@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-13T19:53:02+00:00",
+  "updated": "2026-11-13T20:53:07+00:00",
   "count": 290,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5871,
+      "value": 5872,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 181,
+      "value": 182,
       "move": 0
     },
     {
@@ -1753,7 +1753,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 94
+      "value": 95
     },
     {
       "rank": 3,
@@ -1812,12 +1812,12 @@
     },
     {
       "rank": 14,
-      "name": "Zero-sum Gamer",
-      "value": 27
+      "name": ".",
+      "value": 28
     },
     {
       "rank": 15,
-      "name": ".",
+      "name": "Zero-sum Gamer",
       "value": 27
     },
     {
@@ -2000,7 +2000,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 58
+      "value": 59
     },
     {
       "rank": 2,
@@ -2139,52 +2139,52 @@
     },
     {
       "rank": 29,
+      "name": ".",
+      "value": 3
+    },
+    {
+      "rank": 30,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Сергей Фролов",
       "value": 2
     },
     {
-      "rank": 37,
-      "name": "Ponemonec",
-      "value": 2
-    },
-    {
       "rank": 38,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 2
     },
     {
