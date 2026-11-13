@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T14:52:34+00:00",
-  "count": 289,
+  "updated": "2026-11-13T15:52:39+00:00",
+  "count": 290,
   "has_movement": true,
   "all": [
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1829,
+      "value": 1831,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 494,
+      "value": 495,
       "move": 0
     },
     {
@@ -1733,9 +1733,15 @@
     },
     {
       "rank": 289,
+      "name": "Katya",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 290,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
@@ -1822,12 +1828,12 @@
     {
       "rank": 17,
       "name": "Aся",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 18,
       "name": "Vitaliy",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 19,
@@ -1852,7 +1858,7 @@
     {
       "rank": 23,
       "name": "iDiklonius",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 24,
@@ -2008,22 +2014,22 @@
     },
     {
       "rank": 4,
+      "name": "Aся",
+      "value": 16
+    },
+    {
+      "rank": 5,
       "name": "SPM",
       "value": 15
     },
     {
-      "rank": 5,
-      "name": "Aся",
-      "value": 14
-    },
-    {
       "rank": 6,
-      "name": "Руслан Иванов",
-      "value": 12
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 11
     },
     {
       "rank": 7,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Руслан Иванов",
       "value": 11
     },
     {
@@ -2063,13 +2069,13 @@
     },
     {
       "rank": 15,
-      "name": "I",
+      "name": "Oleg Maksimov",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "Oleg Maksimov",
-      "value": 5
+      "name": "iDiklonius",
+      "value": 4
     },
     {
       "rank": 17,
@@ -2078,37 +2084,37 @@
     },
     {
       "rank": 18,
-      "name": "Zero-sum Gamer",
+      "name": "I",
       "value": 4
     },
     {
       "rank": 19,
-      "name": "ᴦоᴧод",
+      "name": "Zero-sum Gamer",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "Don Michele Corleone",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
       "rank": 21,
+      "name": "Don Michele Corleone",
+      "value": 4
+    },
+    {
+      "rank": 22,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 23,
-      "name": "L G",
-      "value": 3
-    },
-    {
       "rank": 24,
-      "name": "iDiklonius",
+      "name": "L G",
       "value": 3
     },
     {
