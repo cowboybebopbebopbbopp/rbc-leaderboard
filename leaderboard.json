@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T04:51:39+00:00",
+  "updated": "2026-11-13T05:51:45+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -263,15 +263,15 @@
     },
     {
       "rank": 44,
-      "name": "l.alex",
-      "value": 108,
-      "move": 0
+      "name": "SPM",
+      "value": 109,
+      "move": 3
     },
     {
       "rank": 45,
-      "name": "SPM",
+      "name": "l.alex",
       "value": 108,
-      "move": 2
+      "move": -1
     },
     {
       "rank": 46,
@@ -414,7 +414,7 @@
     {
       "rank": 69,
       "name": "Bazylev Nickolai",
-      "value": 42,
+      "value": 43,
       "move": 1
     },
     {
@@ -1771,7 +1771,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 9,
@@ -2003,7 +2003,7 @@
     {
       "rank": 4,
       "name": "SPM",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 5,
@@ -2147,37 +2147,37 @@
     },
     {
       "rank": 33,
-      "name": "Marina",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Сергей Фролов",
+      "name": "Marina",
       "value": 2
     },
     {
       "rank": 35,
-      "name": ".",
+      "name": "Сергей Фролов",
       "value": 2
     },
     {
       "rank": 36,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 37,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 38,
-      "name": "Charlie Shefelman",
-      "value": 1
-    },
-    {
       "rank": 39,
-      "name": "Bazylev Nickolai",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
