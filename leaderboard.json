@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T11:52:18+00:00",
-  "count": 288,
+  "updated": "2026-11-13T12:52:23+00:00",
+  "count": 289,
   "has_movement": true,
   "all": [
     {
@@ -1727,9 +1727,15 @@
     },
     {
       "rank": 288,
+      "name": "Bobludik",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 289,
       "name": "vitaliy",
       "value": 0,
-      "move": -1
+      "move": -2
     }
   ],
   "month": [
@@ -2017,12 +2023,12 @@
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
-      "value": 11
+      "name": "Archie",
+      "value": 10
     },
     {
       "rank": 8,
-      "name": "Archie",
+      "name": "Руслан Иванов",
       "value": 10
     },
     {
@@ -2062,17 +2068,17 @@
     },
     {
       "rank": 16,
-      "name": "t.me/hapexoᚾK1T",
-      "value": 5
-    },
-    {
-      "rank": 17,
       "name": "Oleg Maksimov",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Князь Владимир С",
+      "value": 4
+    },
+    {
+      "rank": 18,
+      "name": "t.me/hapexoᚾK1T",
       "value": 4
     },
     {
@@ -2152,52 +2158,52 @@
     },
     {
       "rank": 34,
-      "name": "@wavesscalper",
-      "value": 2
-    },
-    {
-      "rank": 35,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Сергей Фролов",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Pike",
+      "value": 1
+    },
+    {
+      "rank": 43,
+      "name": "@wavesscalper",
       "value": 1
     },
     {
