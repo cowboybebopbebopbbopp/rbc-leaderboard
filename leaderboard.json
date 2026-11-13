@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-13T06:51:50+00:00",
+  "updated": "2026-11-13T07:51:56+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5862,
+      "value": 5863,
       "move": 0
     },
     {
@@ -413,15 +413,15 @@
     },
     {
       "rank": 69,
-      "name": "Bazylev Nickolai",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 43,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 70,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 41,
-      "move": -1
+      "name": "Bazylev Nickolai",
+      "value": 43,
+      "move": 0
     },
     {
       "rank": 71,
@@ -1741,7 +1741,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 85
+      "value": 86
     },
     {
       "rank": 3,
@@ -1860,23 +1860,23 @@
     },
     {
       "rank": 26,
-      "name": "Marina",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 11
     },
     {
       "rank": 27,
+      "name": "Marina",
+      "value": 11
+    },
+    {
+      "rank": 28,
       "name": "Logrus",
       "value": 10
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Ponemonec",
       "value": 10
-    },
-    {
-      "rank": 29,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 9
     },
     {
       "rank": 30,
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 59
+      "value": 58
     },
     {
       "rank": 2,
@@ -2027,13 +2027,13 @@
     },
     {
       "rank": 9,
-      "name": "Анастасия D",
-      "value": 8
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 9
     },
     {
       "rank": 10,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 7
+      "name": "Анастасия D",
+      "value": 8
     },
     {
       "rank": 11,
