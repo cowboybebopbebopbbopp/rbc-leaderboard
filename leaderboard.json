@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T18:52:56+00:00",
+  "updated": "2026-11-13T19:53:02+00:00",
   "count": 290,
   "has_movement": true,
   "all": [
@@ -203,15 +203,15 @@
     },
     {
       "rank": 34,
-      "name": "-",
-      "value": 150,
-      "move": 0
+      "name": "Vitaliy",
+      "value": 151,
+      "move": 1
     },
     {
       "rank": 35,
-      "name": "Vitaliy",
+      "name": "-",
       "value": 150,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 36,
@@ -611,21 +611,21 @@
     },
     {
       "rank": 102,
-      "name": "vpidelks",
-      "value": 14,
-      "move": 0
+      "name": "Logrus",
+      "value": 15,
+      "move": 6
     },
     {
       "rank": 103,
-      "name": "Aleksey",
+      "name": "vpidelks",
       "value": 14,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 104,
-      "name": "Logrus",
+      "name": "Aleksey",
       "value": 14,
-      "move": 4
+      "move": -1
     },
     {
       "rank": 105,
@@ -1833,7 +1833,7 @@
     {
       "rank": 18,
       "name": "Vitaliy",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 19,
@@ -1872,13 +1872,13 @@
     },
     {
       "rank": 26,
-      "name": "@wavesscalper",
+      "name": "Logrus",
       "value": 13
     },
     {
       "rank": 27,
-      "name": "Logrus",
-      "value": 12
+      "name": "@wavesscalper",
+      "value": 13
     },
     {
       "rank": 28,
@@ -2000,7 +2000,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 59
+      "value": 58
     },
     {
       "rank": 2,
@@ -2119,27 +2119,27 @@
     },
     {
       "rank": 25,
-      "name": "L G",
+      "name": "Vitaliy",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "AK",
+      "name": "L G",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "AK",
       "value": 3
     },
     {
       "rank": 28,
-      "name": "Алексей",
-      "value": 2
+      "name": "t.me/hapexoᚾK1T",
+      "value": 3
     },
     {
       "rank": 29,
-      "name": "Vitaliy",
+      "name": "Алексей",
       "value": 2
     },
     {
@@ -2149,47 +2149,47 @@
     },
     {
       "rank": 31,
-      "name": "LlirikMK",
+      "name": "Logrus",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Charlie Shefelman",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Bazylev Nickolai",
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Marina",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "Сергей Фролов",
+      "name": "Marina",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Ponemonec",
+      "name": "Сергей Фролов",
       "value": 2
     },
     {
       "rank": 37,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 2
     },
     {
       "rank": 38,
-      "name": "Виталий",
-      "value": 1
+      "name": ".",
+      "value": 2
     },
     {
       "rank": 39,
-      "name": "Logrus",
+      "name": "Виталий",
       "value": 1
     },
     {
