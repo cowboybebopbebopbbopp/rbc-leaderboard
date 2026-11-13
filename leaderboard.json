@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-13T07:51:56+00:00",
+  "updated": "2026-11-13T08:52:01+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5863,
+      "value": 5865,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1824,
+      "value": 1825,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 492,
+      "value": 493,
       "move": 0
     },
     {
@@ -407,15 +407,15 @@
     },
     {
       "rank": 68,
-      "name": "SyslikJan",
-      "value": 43,
-      "move": 0
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 45,
+      "move": 1
     },
     {
       "rank": 69,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "SyslikJan",
       "value": 43,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 70,
@@ -426,7 +426,7 @@
     {
       "rank": 71,
       "name": "Анастасия D",
-      "value": 41,
+      "value": 42,
       "move": 1
     },
     {
@@ -1741,7 +1741,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 86
+      "value": 88
     },
     {
       "rank": 3,
@@ -1790,12 +1790,12 @@
     },
     {
       "rank": 12,
-      "name": "Viktor",
-      "value": 29
+      "name": "Анастасия",
+      "value": 30
     },
     {
       "rank": 13,
-      "name": "Анастасия",
+      "name": "Viktor",
       "value": 29
     },
     {
@@ -1815,18 +1815,18 @@
     },
     {
       "rank": 17,
-      "name": "LlirikMK",
-      "value": 23
+      "name": "Vitaliy",
+      "value": 21
     },
     {
       "rank": 18,
-      "name": "Vitaliy",
+      "name": "LlirikMK",
       "value": 21
     },
     {
       "rank": 19,
       "name": "Aся",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 20,
@@ -1850,18 +1850,18 @@
     },
     {
       "rank": 24,
-      "name": "@wavesscalper",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 13
     },
     {
       "rank": 25,
       "name": "iDiklonius",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 26,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 11
+      "name": "@wavesscalper",
+      "value": 13
     },
     {
       "rank": 27,
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 58
+      "value": 59
     },
     {
       "rank": 2,
@@ -2003,12 +2003,12 @@
     {
       "rank": 4,
       "name": "SPM",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 5,
       "name": "Aся",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 6,
@@ -2017,23 +2017,23 @@
     },
     {
       "rank": 7,
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 11
+    },
+    {
+      "rank": 8,
       "name": "Archie",
       "value": 10
     },
     {
-      "rank": 8,
-      "name": "a l",
-      "value": 9
-    },
-    {
       "rank": 9,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "a l",
       "value": 9
     },
     {
       "rank": 10,
       "name": "Анастасия D",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 11,
@@ -2052,12 +2052,12 @@
     },
     {
       "rank": 14,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 6
+      "name": "Manis Love",
+      "value": 5
     },
     {
       "rank": 15,
-      "name": "Manis Love",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 5
     },
     {
@@ -2072,12 +2072,12 @@
     },
     {
       "rank": 18,
-      "name": "A.",
+      "name": "Vitaliy",
       "value": 4
     },
     {
       "rank": 19,
-      "name": "Vitaliy",
+      "name": "iDiklonius",
       "value": 4
     },
     {
@@ -2107,12 +2107,12 @@
     },
     {
       "rank": 25,
-      "name": "L G",
+      "name": "A.",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "iDiklonius",
+      "name": "L G",
       "value": 3
     },
     {
@@ -2122,32 +2122,32 @@
     },
     {
       "rank": 28,
-      "name": "@wavesscalper",
-      "value": 3
-    },
-    {
-      "rank": 29,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "AK",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Bazylev Nickolai",
+      "value": 2
+    },
+    {
+      "rank": 33,
+      "name": "@wavesscalper",
       "value": 2
     },
     {
