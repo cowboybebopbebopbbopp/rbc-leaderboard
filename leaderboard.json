@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-13T05:51:45+00:00",
+  "updated": "2026-11-13T06:51:50+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5861,
+      "value": 5862,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1358,
+      "value": 1360,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 491,
+      "value": 492,
       "move": 0
     },
     {
@@ -264,7 +264,7 @@
     {
       "rank": 44,
       "name": "SPM",
-      "value": 109,
+      "value": 110,
       "move": 3
     },
     {
@@ -527,33 +527,33 @@
     },
     {
       "rank": 88,
-      "name": "Pavel",
+      "name": "Ponemonec",
       "value": 20,
-      "move": 0
+      "move": 4
     },
     {
       "rank": 89,
-      "name": "Максим",
+      "name": "Pavel",
       "value": 20,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 90,
-      "name": "vitalij",
+      "name": "Максим",
       "value": 20,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 91,
-      "name": "Vladimir Magrin",
-      "value": 19,
-      "move": 0
+      "name": "vitalij",
+      "value": 20,
+      "move": -1
     },
     {
       "rank": 92,
-      "name": "Ponemonec",
+      "name": "Vladimir Magrin",
       "value": 19,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 93,
@@ -1740,13 +1740,13 @@
     },
     {
       "rank": 2,
-      "name": "🅾🅻🅶🅰",
-      "value": 86
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 85
     },
     {
       "rank": 3,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 84
+      "name": "🅾🅻🅶🅰",
+      "value": 85
     },
     {
       "rank": 4,
@@ -1766,12 +1766,12 @@
     {
       "rank": 7,
       "name": "Archie",
-      "value": 50
+      "value": 48
     },
     {
       "rank": 8,
       "name": "SPM",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 9,
@@ -1781,7 +1781,7 @@
     {
       "rank": 10,
       "name": "a l",
-      "value": 35
+      "value": 37
     },
     {
       "rank": 11,
@@ -1806,7 +1806,7 @@
     {
       "rank": 15,
       "name": ".",
-      "value": 27
+      "value": 26
     },
     {
       "rank": 16,
@@ -1856,7 +1856,7 @@
     {
       "rank": 25,
       "name": "iDiklonius",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 26,
@@ -1870,22 +1870,22 @@
     },
     {
       "rank": 28,
+      "name": "Ponemonec",
+      "value": 10
+    },
+    {
+      "rank": 29,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 9
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Серхио Ле'Трас",
       "value": 9
     },
     {
-      "rank": 30,
-      "name": "Max",
-      "value": 9
-    },
-    {
       "rank": 31,
-      "name": "Ponemonec",
+      "name": "Max",
       "value": 9
     },
     {
@@ -1988,7 +1988,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 58
+      "value": 59
     },
     {
       "rank": 2,
@@ -2003,7 +2003,7 @@
     {
       "rank": 4,
       "name": "SPM",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 5,
@@ -2013,7 +2013,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 7,
@@ -2022,13 +2022,13 @@
     },
     {
       "rank": 8,
-      "name": "Анастасия D",
-      "value": 8
+      "name": "a l",
+      "value": 9
     },
     {
       "rank": 9,
-      "name": "a l",
-      "value": 7
+      "name": "Анастасия D",
+      "value": 8
     },
     {
       "rank": 10,
@@ -2092,27 +2092,27 @@
     },
     {
       "rank": 22,
-      "name": "@wavesscalper",
-      "value": 4
-    },
-    {
-      "rank": 23,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Don Michele Corleone",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "L G",
+      "value": 3
+    },
+    {
+      "rank": 26,
+      "name": "iDiklonius",
       "value": 3
     },
     {
@@ -2122,17 +2122,17 @@
     },
     {
       "rank": 28,
+      "name": "@wavesscalper",
+      "value": 3
+    },
+    {
+      "rank": 29,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 29,
-      "name": "PiratesOfMining",
-      "value": 2
-    },
-    {
       "rank": 30,
-      "name": "iDiklonius",
+      "name": "PiratesOfMining",
       "value": 2
     },
     {
@@ -2162,7 +2162,7 @@
     },
     {
       "rank": 36,
-      "name": ".",
+      "name": "Ponemonec",
       "value": 2
     },
     {
@@ -2197,7 +2197,7 @@
     },
     {
       "rank": 43,
-      "name": "Ponemonec",
+      "name": ".",
       "value": 1
     },
     {
