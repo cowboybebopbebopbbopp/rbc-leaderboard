@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T01:51:23+00:00",
+  "updated": "2026-11-13T02:51:28+00:00",
   "count": 288,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1034,
+      "value": 1037,
       "move": 0
     },
     {
@@ -1790,23 +1790,23 @@
     },
     {
       "rank": 12,
-      "name": "Анастасия",
+      "name": "Viktor",
       "value": 29
     },
     {
       "rank": 13,
+      "name": "Анастасия",
+      "value": 29
+    },
+    {
+      "rank": 14,
       "name": "Zero-sum Gamer",
       "value": 27
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": ".",
       "value": 27
-    },
-    {
-      "rank": 15,
-      "name": "Viktor",
-      "value": 26
     },
     {
       "rank": 16,
@@ -2107,96 +2107,101 @@
     },
     {
       "rank": 25,
-      "name": "L G",
+      "name": "Viktor",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "Синдбад Мореход",
+      "name": "L G",
       "value": 3
     },
     {
       "rank": 27,
+      "name": "Синдбад Мореход",
+      "value": 3
+    },
+    {
+      "rank": 28,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "AK",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Сергей Фролов",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "rozor",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Ponemonec",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Sonic",
       "value": 1
     }
