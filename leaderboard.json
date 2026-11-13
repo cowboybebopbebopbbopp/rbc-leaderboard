@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T21:53:13+00:00",
+  "updated": "2026-11-13T22:53:18+00:00",
   "count": 290,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 897,
+      "value": 898,
       "move": 0
     },
     {
@@ -1773,7 +1773,7 @@
     {
       "rank": 6,
       "name": "Синдбад Мореход",
-      "value": 54
+      "value": 55
     },
     {
       "rank": 7,
@@ -2069,22 +2069,22 @@
     },
     {
       "rank": 15,
-      "name": "Oleg Maksimov",
+      "name": "Синдбад Мореход",
       "value": 5
     },
     {
       "rank": 16,
+      "name": "Oleg Maksimov",
+      "value": 5
+    },
+    {
+      "rank": 17,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 17,
-      "name": "Князь Владимир С",
-      "value": 4
-    },
-    {
       "rank": 18,
-      "name": "Синдбад Мореход",
+      "name": "Князь Владимир С",
       "value": 4
     },
     {
