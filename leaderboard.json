@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T02:53:39+00:00",
+  "updated": "2026-11-14T03:53:45+00:00",
   "count": 290,
   "has_movement": true,
   "all": [
@@ -413,21 +413,21 @@
     },
     {
       "rank": 69,
-      "name": "SyslikJan",
-      "value": 43,
-      "move": -1
+      "name": "Анастасия D",
+      "value": 44,
+      "move": 2
     },
     {
       "rank": 70,
-      "name": "Bazylev Nickolai",
+      "name": "SyslikJan",
       "value": 43,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 71,
-      "name": "Анастасия D",
+      "name": "Bazylev Nickolai",
       "value": 43,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 72,
@@ -1748,7 +1748,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 130
+      "value": 125
     },
     {
       "rank": 2,
@@ -1803,7 +1803,7 @@
     {
       "rank": 12,
       "name": "Анастасия",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 13,
@@ -1812,12 +1812,12 @@
     },
     {
       "rank": 14,
-      "name": ".",
-      "value": 28
+      "name": "Zero-sum Gamer",
+      "value": 27
     },
     {
       "rank": 15,
-      "name": "Zero-sum Gamer",
+      "name": ".",
       "value": 27
     },
     {
@@ -1882,28 +1882,28 @@
     },
     {
       "rank": 28,
-      "name": "Marina",
-      "value": 11
-    },
-    {
-      "rank": 29,
       "name": "Серхио Ле'Трас",
       "value": 9
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Max",
       "value": 9
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Ponemonec",
       "value": 9
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Sonic",
       "value": 9
+    },
+    {
+      "rank": 32,
+      "name": "Marina",
+      "value": 8
     },
     {
       "rank": 33,
@@ -2030,7 +2030,7 @@
     {
       "rank": 7,
       "name": "Анастасия D",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 8,
