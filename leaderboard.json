@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T19:16:35+00:00",
+  "updated": "2026-11-14T20:16:35+00:00",
   "count": 292,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1833,
+      "value": 1835,
       "move": 0
     },
     {
@@ -1785,7 +1785,7 @@
     {
       "rank": 6,
       "name": "Синдбад Мореход",
-      "value": 47
+      "value": 46
     },
     {
       "rank": 7,
@@ -1835,7 +1835,7 @@
     {
       "rank": 16,
       "name": "Aся",
-      "value": 22
+      "value": 24
     },
     {
       "rank": 17,
@@ -1919,82 +1919,82 @@
     },
     {
       "rank": 33,
-      "name": "Сергей",
-      "value": 7
-    },
-    {
-      "rank": 34,
       "name": "t.me/hapexoᚾK1T",
       "value": 7
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Алексей",
       "value": 7
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Oleg Maksimov",
       "value": 7
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Евгений",
       "value": 6
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Олег",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Max",
       "value": 6
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "L G",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "🤗",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Pavel",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Borz",
+      "value": 4
+    },
+    {
+      "rank": 48,
+      "name": "Сергей",
       "value": 4
     },
     {
@@ -2022,7 +2022,7 @@
     {
       "rank": 3,
       "name": "Aся",
-      "value": 18
+      "value": 20
     },
     {
       "rank": 4,
