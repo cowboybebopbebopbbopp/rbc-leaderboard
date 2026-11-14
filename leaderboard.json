@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T05:53:56+00:00",
+  "updated": "2026-11-14T06:54:01+00:00",
   "count": 290,
   "has_movement": true,
   "all": [
@@ -605,15 +605,15 @@
     },
     {
       "rank": 101,
-      "name": "Turchyn Gennadii",
-      "value": 15,
-      "move": 0
+      "name": "Logrus",
+      "value": 16,
+      "move": 7
     },
     {
       "rank": 102,
-      "name": "Logrus",
+      "name": "Turchyn Gennadii",
       "value": 15,
-      "move": 6
+      "move": -1
     },
     {
       "rank": 103,
@@ -1778,12 +1778,12 @@
     {
       "rank": 7,
       "name": "Archie",
-      "value": 48
+      "value": 46
     },
     {
       "rank": 8,
       "name": "SPM",
-      "value": 41
+      "value": 40
     },
     {
       "rank": 9,
@@ -1817,12 +1817,12 @@
     },
     {
       "rank": 15,
-      "name": ".",
-      "value": 27
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 25
     },
     {
       "rank": 16,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": ".",
       "value": 25
     },
     {
@@ -1862,17 +1862,17 @@
     },
     {
       "rank": 24,
-      "name": "I",
+      "name": "Logrus",
       "value": 14
     },
     {
       "rank": 25,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 13
+      "name": "I",
+      "value": 14
     },
     {
       "rank": 26,
-      "name": "Logrus",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 13
     },
     {
@@ -2124,37 +2124,37 @@
     },
     {
       "rank": 26,
-      "name": "L G",
+      "name": "Logrus",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "AK",
+      "name": "L G",
       "value": 3
     },
     {
       "rank": 28,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "AK",
       "value": 3
     },
     {
       "rank": 29,
-      "name": ".",
+      "name": "t.me/hapexoᚾK1T",
       "value": 3
     },
     {
       "rank": 30,
+      "name": ".",
+      "value": 3
+    },
+    {
+      "rank": 31,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 31,
-      "name": "PiratesOfMining",
-      "value": 2
-    },
-    {
       "rank": 32,
-      "name": "Logrus",
+      "name": "PiratesOfMining",
       "value": 2
     },
     {
