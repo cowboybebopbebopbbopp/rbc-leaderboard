@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T12:15:57+00:00",
+  "updated": "2026-11-14T13:16:02+00:00",
   "count": 291,
   "has_movement": true,
   "all": [
@@ -263,15 +263,15 @@
     },
     {
       "rank": 44,
-      "name": "Серхио Ле'Трас",
-      "value": 114,
-      "move": 3
+      "name": "SPM",
+      "value": 115,
+      "move": 1
     },
     {
       "rank": 45,
-      "name": "SPM",
-      "value": 113,
-      "move": 0
+      "name": "Серхио Ле'Трас",
+      "value": 114,
+      "move": 2
     },
     {
       "rank": 46,
@@ -1783,13 +1783,13 @@
     },
     {
       "rank": 7,
-      "name": "Archie",
-      "value": 42
+      "name": "SPM",
+      "value": 43
     },
     {
       "rank": 8,
-      "name": "SPM",
-      "value": 41
+      "name": "Archie",
+      "value": 42
     },
     {
       "rank": 9,
@@ -2011,7 +2011,7 @@
     {
       "rank": 2,
       "name": "SPM",
-      "value": 18
+      "value": 20
     },
     {
       "rank": 3,
@@ -2021,7 +2021,7 @@
     {
       "rank": 4,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 5,
@@ -2031,7 +2031,7 @@
     {
       "rank": 6,
       "name": "Серхио Ле'Трас",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 7,
@@ -2155,47 +2155,47 @@
     },
     {
       "rank": 31,
-      "name": "Logrus",
-      "value": 2
-    },
-    {
-      "rank": 32,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Олег",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Сергей Фролов",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Виталий",
+      "value": 1
+    },
+    {
+      "rank": 39,
+      "name": "Logrus",
       "value": 1
     },
     {
