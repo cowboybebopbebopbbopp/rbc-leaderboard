@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T15:16:13+00:00",
+  "updated": "2026-11-14T16:16:18+00:00",
   "count": 291,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1037,
+      "value": 1038,
       "move": 0
     },
     {
@@ -228,7 +228,7 @@
     {
       "rank": 38,
       "name": "Charlie Shefelman",
-      "value": 133,
+      "value": 134,
       "move": 0
     },
     {
@@ -264,7 +264,7 @@
     {
       "rank": 44,
       "name": "SPM",
-      "value": 115,
+      "value": 116,
       "move": 1
     },
     {
@@ -1754,7 +1754,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 120
+      "value": 118
     },
     {
       "rank": 2,
@@ -1784,12 +1784,12 @@
     {
       "rank": 7,
       "name": "SPM",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 8,
       "name": "Archie",
-      "value": 42
+      "value": 41
     },
     {
       "rank": 9,
@@ -1799,7 +1799,7 @@
     {
       "rank": 10,
       "name": "ᴦоᴧод",
-      "value": 38
+      "value": 36
     },
     {
       "rank": 11,
@@ -1814,7 +1814,7 @@
     {
       "rank": 13,
       "name": "Viktor",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 14,
@@ -1829,7 +1829,7 @@
     {
       "rank": 16,
       "name": ".",
-      "value": 25
+      "value": 24
     },
     {
       "rank": 17,
@@ -1913,23 +1913,23 @@
     },
     {
       "rank": 33,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Charlie Shefelman",
       "value": 7
     },
     {
       "rank": 34,
-      "name": "Алексей",
+      "name": "t.me/hapexoᚾK1T",
       "value": 7
     },
     {
       "rank": 35,
-      "name": "Oleg Maksimov",
+      "name": "Алексей",
       "value": 7
     },
     {
       "rank": 36,
-      "name": "Charlie Shefelman",
-      "value": 6
+      "name": "Oleg Maksimov",
+      "value": 7
     },
     {
       "rank": 37,
@@ -2011,7 +2011,7 @@
     {
       "rank": 2,
       "name": "SPM",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 3,
@@ -2021,7 +2021,7 @@
     {
       "rank": 4,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 5,
@@ -2090,28 +2090,28 @@
     },
     {
       "rank": 18,
-      "name": "A.",
+      "name": "Viktor",
       "value": 4
     },
     {
       "rank": 19,
-      "name": "iDiklonius",
+      "name": "A.",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "ᴦоᴧод",
+      "name": "iDiklonius",
       "value": 4
     },
     {
       "rank": 21,
-      "name": ".",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
       "rank": 22,
-      "name": "Viktor",
-      "value": 3
+      "name": ".",
+      "value": 4
     },
     {
       "rank": 23,
@@ -2125,7 +2125,7 @@
     },
     {
       "rank": 25,
-      "name": "AK",
+      "name": "Charlie Shefelman",
       "value": 3
     },
     {
@@ -2135,62 +2135,62 @@
     },
     {
       "rank": 27,
-      "name": "I",
-      "value": 3
-    },
-    {
-      "rank": 28,
       "name": "Don Michele Corleone",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 32,
-      "name": "Charlie Shefelman",
-      "value": 2
-    },
-    {
-      "rank": 33,
+      "rank": 31,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 32,
       "name": "Олег",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 33,
+      "name": "I",
+      "value": 2
+    },
+    {
+      "rank": 34,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Сергей Фролов",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Logrus",
+      "value": 1
+    },
+    {
+      "rank": 38,
+      "name": "AK",
       "value": 1
     },
     {
