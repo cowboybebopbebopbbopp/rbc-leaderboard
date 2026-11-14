@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T07:54:07+00:00",
+  "updated": "2026-11-14T08:15:37+00:00",
   "count": 290,
   "has_movement": true,
   "all": [
@@ -264,13 +264,13 @@
     {
       "rank": 44,
       "name": "SPM",
-      "value": 110,
+      "value": 112,
       "move": 1
     },
     {
       "rank": 45,
       "name": "Серхио Ле'Трас",
-      "value": 109,
+      "value": 110,
       "move": 2
     },
     {
@@ -1783,7 +1783,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 39
+      "value": 41
     },
     {
       "rank": 9,
@@ -1883,7 +1883,7 @@
     {
       "rank": 28,
       "name": "Серхио Ле'Трас",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 29,
@@ -2015,7 +2015,7 @@
     {
       "rank": 4,
       "name": "SPM",
-      "value": 15
+      "value": 17
     },
     {
       "rank": 5,
@@ -2039,17 +2039,17 @@
     },
     {
       "rank": 9,
-      "name": "Archie",
+      "name": "Серхио Ле'Трас",
       "value": 10
     },
     {
       "rank": 10,
-      "name": "a l",
-      "value": 9
+      "name": "Archie",
+      "value": 10
     },
     {
       "rank": 11,
-      "name": "Серхио Ле'Трас",
+      "name": "a l",
       "value": 9
     },
     {
