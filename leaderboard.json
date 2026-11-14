@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T04:53:50+00:00",
+  "updated": "2026-11-14T05:53:56+00:00",
   "count": 290,
   "has_movement": true,
   "all": [
@@ -384,7 +384,7 @@
     {
       "rank": 64,
       "name": "A.",
-      "value": 58,
+      "value": 59,
       "move": 0
     },
     {
@@ -1763,7 +1763,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 59
+      "value": 57
     },
     {
       "rank": 5,
@@ -1783,7 +1783,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 43
+      "value": 41
     },
     {
       "rank": 9,
@@ -1797,12 +1797,12 @@
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
-      "value": 33
+      "name": "Анастасия",
+      "value": 32
     },
     {
       "rank": 12,
-      "name": "Анастасия",
+      "name": "Князь Владимир С",
       "value": 32
     },
     {
@@ -1842,13 +1842,13 @@
     },
     {
       "rank": 20,
-      "name": "Don Michele Corleone",
+      "name": "A.",
       "value": 16
     },
     {
       "rank": 21,
-      "name": "A.",
-      "value": 15
+      "name": "Don Michele Corleone",
+      "value": 16
     },
     {
       "rank": 22,
@@ -2079,42 +2079,42 @@
     },
     {
       "rank": 17,
-      "name": "iDiklonius",
+      "name": "A.",
       "value": 4
     },
     {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "iDiklonius",
       "value": 4
     },
     {
       "rank": 19,
-      "name": "I",
+      "name": "Князь Владимир С",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "Zero-sum Gamer",
+      "name": "I",
       "value": 4
     },
     {
       "rank": 21,
-      "name": "ᴦоᴧод",
+      "name": "Zero-sum Gamer",
       "value": 4
     },
     {
       "rank": 22,
-      "name": "Don Michele Corleone",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
       "rank": 23,
-      "name": "Viktor",
-      "value": 3
+      "name": "Don Michele Corleone",
+      "value": 4
     },
     {
       "rank": 24,
-      "name": "A.",
+      "name": "Viktor",
       "value": 3
     },
     {
