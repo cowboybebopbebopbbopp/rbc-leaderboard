@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:15:42+00:00",
+  "updated": "2026-11-14T10:15:47+00:00",
   "count": 290,
   "has_movement": true,
   "all": [
@@ -263,15 +263,15 @@
     },
     {
       "rank": 44,
-      "name": "Серхио Ле'Трас",
-      "value": 112,
-      "move": 3
+      "name": "SPM",
+      "value": 113,
+      "move": 1
     },
     {
       "rank": 45,
-      "name": "SPM",
+      "name": "Серхио Ле'Трас",
       "value": 112,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 46,
@@ -1748,7 +1748,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 123
+      "value": 122
     },
     {
       "rank": 2,
@@ -1778,12 +1778,12 @@
     {
       "rank": 7,
       "name": "Archie",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 8,
       "name": "SPM",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 9,
@@ -1917,22 +1917,22 @@
     },
     {
       "rank": 35,
-      "name": "Max",
-      "value": 7
-    },
-    {
-      "rank": 36,
       "name": "Oleg Maksimov",
       "value": 7
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Charlie Shefelman",
       "value": 6
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Евгений",
+      "value": 6
+    },
+    {
+      "rank": 38,
+      "name": "Max",
       "value": 6
     },
     {
@@ -2000,22 +2000,22 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 59
+      "value": 58
     },
     {
       "rank": 2,
-      "name": "Aся",
+      "name": "SPM",
       "value": 18
     },
     {
       "rank": 3,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Aся",
       "value": 18
     },
     {
       "rank": 4,
-      "name": "SPM",
-      "value": 17
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 18
     },
     {
       "rank": 5,
@@ -2119,42 +2119,42 @@
     },
     {
       "rank": 25,
-      "name": "Logrus",
-      "value": 3
-    },
-    {
-      "rank": 26,
       "name": "L G",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "AK",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "t.me/hapexoᚾK1T",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Zero-sum Gamer",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": ".",
       "value": 3
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "PiratesOfMining",
+      "value": 2
+    },
+    {
+      "rank": 32,
+      "name": "Logrus",
       "value": 2
     },
     {
@@ -2194,31 +2194,26 @@
     },
     {
       "rank": 40,
-      "name": "rozor",
-      "value": 1
-    },
-    {
-      "rank": 41,
       "name": ".section stub",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "@wavesscalper",
       "value": 1
     }
