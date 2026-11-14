@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T22:16:37+00:00",
+  "updated": "2026-11-14T23:16:37+00:00",
   "count": 292,
   "has_movement": true,
   "all": [
@@ -155,15 +155,15 @@
     },
     {
       "rank": 26,
-      "name": "Manis Love",
-      "value": 219,
-      "move": 0
+      "name": "Алексей",
+      "value": 220,
+      "move": 1
     },
     {
       "rank": 27,
-      "name": "Алексей",
+      "name": "Manis Love",
       "value": 219,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 28,
@@ -1949,43 +1949,43 @@
     },
     {
       "rank": 39,
-      "name": "Виталий",
+      "name": "Алексей",
       "value": 5
     },
     {
       "rank": 40,
-      "name": "L G",
+      "name": "Виталий",
       "value": 5
     },
     {
       "rank": 41,
-      "name": "Сергей",
+      "name": "L G",
       "value": 5
     },
     {
       "rank": 42,
-      "name": "Сергей Л",
+      "name": "Сергей",
       "value": 5
     },
     {
       "rank": 43,
-      "name": "🤗",
+      "name": "Сергей Л",
       "value": 5
     },
     {
       "rank": 44,
-      "name": "Андрей",
+      "name": "🤗",
       "value": 5
     },
     {
       "rank": 45,
-      "name": "Olga Goncharova",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 46,
-      "name": "Алексей",
-      "value": 4
+      "name": "Olga Goncharova",
+      "value": 5
     },
     {
       "rank": 47,
@@ -2126,28 +2126,28 @@
     },
     {
       "rank": 24,
-      "name": "Vitaliy",
+      "name": "Алексей",
       "value": 3
     },
     {
       "rank": 25,
-      "name": "L G",
+      "name": "Vitaliy",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "L G",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "Don Michele Corleone",
+      "name": "t.me/hapexoᚾK1T",
       "value": 3
     },
     {
       "rank": 28,
-      "name": "Алексей",
-      "value": 2
+      "name": "Don Michele Corleone",
+      "value": 3
     },
     {
       "rank": 29,
