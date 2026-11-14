@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T06:54:01+00:00",
+  "updated": "2026-11-14T07:54:07+00:00",
   "count": 290,
   "has_movement": true,
   "all": [
@@ -233,15 +233,15 @@
     },
     {
       "rank": 39,
-      "name": "Andrey Tugarin",
+      "name": "Руслан Иванов",
       "value": 130,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 40,
-      "name": "Руслан Иванов",
-      "value": 129,
-      "move": 2
+      "name": "Andrey Tugarin",
+      "value": 130,
+      "move": -1
     },
     {
       "rank": 41,
@@ -269,21 +269,21 @@
     },
     {
       "rank": 45,
-      "name": "l.alex",
-      "value": 108,
-      "move": -1
+      "name": "Серхио Ле'Трас",
+      "value": 109,
+      "move": 2
     },
     {
       "rank": 46,
-      "name": "Ivan Defined",
+      "name": "l.alex",
       "value": 108,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 47,
-      "name": "Серхио Ле'Трас",
-      "value": 107,
-      "move": 0
+      "name": "Ivan Defined",
+      "value": 108,
+      "move": -1
     },
     {
       "rank": 48,
@@ -1748,7 +1748,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 125
+      "value": 124
     },
     {
       "rank": 2,
@@ -1763,7 +1763,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 5,
@@ -1783,7 +1783,7 @@
     {
       "rank": 8,
       "name": "SPM",
-      "value": 40
+      "value": 39
     },
     {
       "rank": 9,
@@ -1803,7 +1803,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 13,
@@ -1883,7 +1883,7 @@
     {
       "rank": 28,
       "name": "Серхио Ле'Трас",
-      "value": 9
+      "value": 11
     },
     {
       "rank": 29,
@@ -1937,27 +1937,27 @@
     },
     {
       "rank": 39,
-      "name": "🤗",
-      "value": 6
-    },
-    {
-      "rank": 40,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "L G",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Олег",
+      "value": 5
+    },
+    {
+      "rank": 43,
+      "name": "🤗",
       "value": 5
     },
     {
@@ -2000,7 +2000,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 60
+      "value": 59
     },
     {
       "rank": 2,
@@ -2034,12 +2034,12 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
-      "value": 10
+      "name": "Руслан Иванов",
+      "value": 11
     },
     {
       "rank": 9,
-      "name": "Руслан Иванов",
+      "name": "Archie",
       "value": 10
     },
     {
@@ -2050,7 +2050,7 @@
     {
       "rank": 11,
       "name": "Серхио Ле'Трас",
-      "value": 7
+      "value": 9
     },
     {
       "rank": 12,
