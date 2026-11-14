@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T21:16:36+00:00",
+  "updated": "2026-11-14T22:16:37+00:00",
   "count": 292,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 953,
+      "value": 954,
       "move": 0
     },
     {
@@ -275,21 +275,21 @@
     },
     {
       "rank": 46,
-      "name": "l.alex",
+      "name": "Сергей",
       "value": 108,
-      "move": -2
+      "move": 2
     },
     {
       "rank": 47,
-      "name": "Ivan Defined",
+      "name": "l.alex",
       "value": 108,
-      "move": -1
+      "move": -3
     },
     {
       "rank": 48,
-      "name": "Сергей",
-      "value": 107,
-      "move": 0
+      "name": "Ivan Defined",
+      "value": 108,
+      "move": -2
     },
     {
       "rank": 49,
@@ -1825,7 +1825,7 @@
     {
       "rank": 14,
       "name": "Zero-sum Gamer",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 15,
@@ -1959,42 +1959,42 @@
     },
     {
       "rank": 41,
-      "name": "Сергей Л",
+      "name": "Сергей",
       "value": 5
     },
     {
       "rank": 42,
-      "name": "🤗",
+      "name": "Сергей Л",
       "value": 5
     },
     {
       "rank": 43,
-      "name": "Андрей",
+      "name": "🤗",
       "value": 5
     },
     {
       "rank": 44,
-      "name": "Olga Goncharova",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 45,
+      "name": "Olga Goncharova",
+      "value": 5
+    },
+    {
+      "rank": 46,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Pavel",
       "value": 4
     },
     {
-      "rank": 47,
-      "name": "Borz",
-      "value": 4
-    },
-    {
       "rank": 48,
-      "name": "Сергей",
+      "name": "Borz",
       "value": 4
     },
     {
@@ -2191,31 +2191,41 @@
     },
     {
       "rank": 37,
-      "name": "LlirikMK",
+      "name": "Сергей",
       "value": 1
     },
     {
       "rank": 38,
-      "name": "AK",
+      "name": "LlirikMK",
       "value": 1
     },
     {
       "rank": 39,
-      "name": ".section stub",
+      "name": "AK",
       "value": 1
     },
     {
       "rank": 40,
-      "name": "lefkorosos",
+      "name": ".section stub",
       "value": 1
     },
     {
       "rank": 41,
-      "name": "Pike",
+      "name": "lefkorosos",
       "value": 1
     },
     {
       "rank": 42,
+      "name": "Zero-sum Gamer",
+      "value": 1
+    },
+    {
+      "rank": 43,
+      "name": "Pike",
+      "value": 1
+    },
+    {
+      "rank": 44,
       "name": "@wavesscalper",
       "value": 1
     }
