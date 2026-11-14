@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T14:16:08+00:00",
+  "updated": "2026-11-14T15:16:13+00:00",
   "count": 291,
   "has_movement": true,
   "all": [
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 182,
+      "value": 183,
       "move": 0
     },
     {
@@ -1779,7 +1779,7 @@
     {
       "rank": 6,
       "name": "Синдбад Мореход",
-      "value": 51
+      "value": 50
     },
     {
       "rank": 7,
@@ -1829,7 +1829,7 @@
     {
       "rank": 16,
       "name": ".",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 17,
@@ -2100,47 +2100,47 @@
     },
     {
       "rank": 20,
-      "name": "I",
-      "value": 4
-    },
-    {
-      "rank": 21,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 22,
-      "name": "Don Michele Corleone",
+      "rank": 21,
+      "name": ".",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Vitaliy",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "L G",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "AK",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "t.me/hapexoᚾK1T",
       "value": 3
     },
     {
+      "rank": 27,
+      "name": "I",
+      "value": 3
+    },
+    {
       "rank": 28,
-      "name": ".",
+      "name": "Don Michele Corleone",
       "value": 3
     },
     {
@@ -2190,36 +2190,31 @@
     },
     {
       "rank": 38,
-      "name": "Виталий",
-      "value": 1
-    },
-    {
-      "rank": 39,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": ".section stub",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Zero-sum Gamer",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "@wavesscalper",
       "value": 1
     }
