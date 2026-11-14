@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T18:16:30+00:00",
+  "updated": "2026-11-14T19:16:35+00:00",
   "count": 292,
   "has_movement": true,
   "all": [
@@ -228,13 +228,13 @@
     {
       "rank": 38,
       "name": "Charlie Shefelman",
-      "value": 138,
+      "value": 139,
       "move": 0
     },
     {
       "rank": 39,
       "name": "Руслан Иванов",
-      "value": 131,
+      "value": 134,
       "move": 3
     },
     {
@@ -1760,7 +1760,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 118
+      "value": 115
     },
     {
       "rank": 2,
@@ -1775,7 +1775,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 59
+      "value": 62
     },
     {
       "rank": 5,
@@ -1785,7 +1785,7 @@
     {
       "rank": 6,
       "name": "Синдбад Мореход",
-      "value": 49
+      "value": 47
     },
     {
       "rank": 7,
@@ -1900,7 +1900,7 @@
     {
       "rank": 29,
       "name": "Charlie Shefelman",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 30,
@@ -2031,27 +2031,27 @@
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
+      "name": "Руслан Иванов",
       "value": 14
     },
     {
       "rank": 6,
+      "name": "🅾🅻🅶🅰",
+      "value": 14
+    },
+    {
+      "rank": 7,
       "name": "Серхио Ле'Трас",
       "value": 12
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 11
     },
     {
-      "rank": 8,
-      "name": "Анастасия D",
-      "value": 11
-    },
-    {
       "rank": 9,
-      "name": "Руслан Иванов",
+      "name": "Анастасия D",
       "value": 11
     },
     {
@@ -2067,7 +2067,7 @@
     {
       "rank": 12,
       "name": "Charlie Shefelman",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 13,
@@ -2156,67 +2156,67 @@
     },
     {
       "rank": 30,
-      "name": "LlirikMK",
-      "value": 2
-    },
-    {
-      "rank": 31,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Олег",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 34,
-      "name": "@wavesscalper",
-      "value": 2
-    },
-    {
-      "rank": 35,
+      "rank": 33,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 34,
       "name": "Сергей Фролов",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 35,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 36,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 37,
+      "name": "LlirikMK",
+      "value": 1
+    },
+    {
+      "rank": 38,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": ".section stub",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Pike",
+      "value": 1
+    },
+    {
+      "rank": 42,
+      "name": "@wavesscalper",
       "value": 1
     }
   ]
