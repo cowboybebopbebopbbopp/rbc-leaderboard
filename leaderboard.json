@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T06:47:47+00:00",
+  "updated": "2026-11-15T07:47:48+00:00",
   "count": 294,
   "has_movement": true,
   "all": [
@@ -204,7 +204,7 @@
     {
       "rank": 34,
       "name": "Vitaliy",
-      "value": 152,
+      "value": 153,
       "move": 0
     },
     {
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "SPM",
-      "value": 118,
+      "value": 119,
       "move": 1
     },
     {
@@ -569,15 +569,15 @@
     },
     {
       "rank": 95,
-      "name": "lefkorosos",
+      "name": "Marina",
       "value": 19,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 96,
-      "name": "Marina",
-      "value": 18,
-      "move": -2
+      "name": "lefkorosos",
+      "value": 19,
+      "move": -3
     },
     {
       "rank": 97,
@@ -1797,7 +1797,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 7,
@@ -1852,7 +1852,7 @@
     {
       "rank": 17,
       "name": "Vitaliy",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 18,
@@ -1916,18 +1916,18 @@
     },
     {
       "rank": 30,
-      "name": "Ponemonec",
+      "name": "Marina",
       "value": 9
     },
     {
       "rank": 31,
-      "name": "Sonic",
+      "name": "Ponemonec",
       "value": 9
     },
     {
       "rank": 32,
-      "name": "Marina",
-      "value": 8
+      "name": "Sonic",
+      "value": 9
     },
     {
       "rank": 33,
@@ -1996,18 +1996,18 @@
     },
     {
       "rank": 46,
-      "name": "Pavel",
-      "value": 4
-    },
-    {
-      "rank": 47,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "🤗",
       "value": 4
+    },
+    {
+      "rank": 48,
+      "name": "Pavel",
+      "value": 3
     },
     {
       "rank": 49,
@@ -2029,7 +2029,7 @@
     {
       "rank": 2,
       "name": "SPM",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 3,
@@ -2074,7 +2074,7 @@
     {
       "rank": 11,
       "name": "Анастасия D",
-      "value": 10
+      "value": 9
     },
     {
       "rank": 12,
@@ -2093,32 +2093,32 @@
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "Князь Владимир С",
       "value": 5
     },
     {
       "rank": 17,
-      "name": "Oleg Maksimov",
+      "name": "Синдбад Мореход",
       "value": 5
     },
     {
       "rank": 18,
+      "name": "Oleg Maksimov",
+      "value": 5
+    },
+    {
+      "rank": 19,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 19,
-      "name": "A.",
-      "value": 4
-    },
-    {
       "rank": 20,
-      "name": "Vitaliy",
+      "name": "A.",
       "value": 4
     },
     {
@@ -2153,37 +2153,37 @@
     },
     {
       "rank": 27,
-      "name": "Don Michele Corleone",
+      "name": "Marina",
       "value": 3
     },
     {
       "rank": 28,
+      "name": "Don Michele Corleone",
+      "value": 3
+    },
+    {
+      "rank": 29,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Олег",
       "value": 2
     },
     {
-      "rank": 32,
-      "name": "I",
-      "value": 2
-    },
-    {
       "rank": 33,
-      "name": "Marina",
+      "name": "I",
       "value": 2
     },
     {
