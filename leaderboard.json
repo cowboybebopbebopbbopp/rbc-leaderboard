@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T03:47:46+00:00",
+  "updated": "2026-11-15T04:47:46+00:00",
   "count": 294,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1958,
+      "value": 1960,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1363,
+      "value": 1365,
       "move": 0
     },
     {
@@ -257,21 +257,21 @@
     },
     {
       "rank": 43,
-      "name": "Серхио Ле'Трас",
-      "value": 116,
-      "move": 4
+      "name": "SPM",
+      "value": 117,
+      "move": 1
     },
     {
       "rank": 44,
-      "name": "Artem Khomenko",
+      "name": "Серхио Ле'Трас",
       "value": 116,
-      "move": -1
+      "move": 3
     },
     {
       "rank": 45,
-      "name": "SPM",
+      "name": "Artem Khomenko",
       "value": 116,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 46,
@@ -1782,7 +1782,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 85
+      "value": 87
     },
     {
       "rank": 4,
@@ -1797,7 +1797,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 7,
@@ -1806,13 +1806,13 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
+      "name": "a l",
       "value": 42
     },
     {
       "rank": 9,
-      "name": "a l",
-      "value": 40
+      "name": "Archie",
+      "value": 42
     },
     {
       "rank": 10,
@@ -2029,7 +2029,7 @@
     {
       "rank": 2,
       "name": "SPM",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 3,
@@ -2038,17 +2038,17 @@
     },
     {
       "rank": 4,
+      "name": "🅾🅻🅶🅰",
+      "value": 16
+    },
+    {
+      "rank": 5,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 15
     },
     {
-      "rank": 5,
-      "name": "Руслан Иванов",
-      "value": 14
-    },
-    {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
+      "name": "Руслан Иванов",
       "value": 14
     },
     {
@@ -2058,18 +2058,18 @@
     },
     {
       "rank": 8,
+      "name": "a l",
+      "value": 12
+    },
+    {
+      "rank": 9,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 11
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Archie",
       "value": 11
-    },
-    {
-      "rank": 10,
-      "name": "a l",
-      "value": 10
     },
     {
       "rank": 11,
@@ -2178,57 +2178,57 @@
     },
     {
       "rank": 32,
-      "name": "Алексей",
-      "value": 2
-    },
-    {
-      "rank": 33,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Сергей Фролов",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": ".section stub",
+      "value": 1
+    },
+    {
+      "rank": 42,
+      "name": "Алексей",
       "value": 1
     },
     {
