@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T00:47:44+00:00",
+  "updated": "2026-11-15T01:47:44+00:00",
   "count": 293,
   "has_movement": true,
   "all": [
@@ -276,7 +276,7 @@
     {
       "rank": 46,
       "name": "Сергей",
-      "value": 108,
+      "value": 109,
       "move": 2
     },
     {
@@ -1940,37 +1940,37 @@
     },
     {
       "rank": 36,
-      "name": "Евгений",
+      "name": "Сергей",
       "value": 6
     },
     {
       "rank": 37,
-      "name": "Олег",
+      "name": "Евгений",
       "value": 6
     },
     {
       "rank": 38,
-      "name": "Max",
+      "name": "Олег",
       "value": 6
     },
     {
       "rank": 39,
+      "name": "Max",
+      "value": 6
+    },
+    {
+      "rank": 40,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 41,
-      "name": "L G",
-      "value": 5
-    },
-    {
       "rank": 42,
-      "name": "Сергей",
+      "name": "L G",
       "value": 5
     },
     {
@@ -2162,47 +2162,47 @@
     },
     {
       "rank": 30,
-      "name": "Bazylev Nickolai",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "Олег",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "I",
+      "name": "Олег",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Marina",
+      "name": "I",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Сергей Фролов",
+      "name": "Marina",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "Ponemonec",
+      "name": "Сергей Фролов",
       "value": 2
     },
     {
       "rank": 36,
+      "name": "Ponemonec",
+      "value": 2
+    },
+    {
+      "rank": 37,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 37,
-      "name": "Эдуард Анатольевич",
-      "value": 1
-    },
-    {
       "rank": 38,
-      "name": "Сергей",
+      "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
