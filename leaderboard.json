@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T16:47:53+00:00",
-  "count": 296,
+  "updated": "2026-11-15T17:47:54+00:00",
+  "count": 297,
   "has_movement": true,
   "all": [
     {
@@ -761,27 +761,27 @@
     },
     {
       "rank": 127,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": -3
+      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "value": 8,
+      "move": 0
     },
     {
       "rank": 128,
-      "name": "Daniil",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 129,
-      "name": "Homelander",
+      "name": "Daniil",
       "value": 7,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 130,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "name": "Homelander",
       "value": 7,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 131,
@@ -1775,9 +1775,15 @@
     },
     {
       "rank": 296,
+      "name": "Н С",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 297,
       "name": "vitaliy",
       "value": 0,
-      "move": -6
+      "move": -7
     }
   ],
   "month": [
@@ -1794,12 +1800,12 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 88
+      "value": 86
     },
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 61
+      "value": 59
     },
     {
       "rank": 5,
@@ -1808,12 +1814,12 @@
     },
     {
       "rank": 6,
-      "name": "SPM",
-      "value": 45
+      "name": "a l",
+      "value": 44
     },
     {
       "rank": 7,
-      "name": "a l",
+      "name": "SPM",
       "value": 44
     },
     {
@@ -1824,7 +1830,7 @@
     {
       "rank": 9,
       "name": "Синдбад Мореход",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 10,
@@ -1863,13 +1869,13 @@
     },
     {
       "rank": 17,
-      "name": "Vitaliy",
-      "value": 23
+      "name": ".",
+      "value": 22
     },
     {
       "rank": 18,
-      "name": ".",
-      "value": 22
+      "name": "Vitaliy",
+      "value": 21
     },
     {
       "rank": 19,
@@ -2036,12 +2042,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 61
+      "value": 60
     },
     {
       "rank": 2,
       "name": "SPM",
-      "value": 24
+      "value": 23
     },
     {
       "rank": 3,
@@ -2055,12 +2061,12 @@
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 17
+      "name": "Серхио Ле'Трас",
+      "value": 16
     },
     {
       "rank": 6,
-      "name": "Серхио Ле'Трас",
+      "name": "🅾🅻🅶🅰",
       "value": 16
     },
     {
@@ -2070,17 +2076,17 @@
     },
     {
       "rank": 8,
-      "name": "Руслан Иванов",
-      "value": 13
-    },
-    {
-      "rank": 9,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 12
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Archie",
+      "value": 12
+    },
+    {
+      "rank": 10,
+      "name": "Руслан Иванов",
       "value": 12
     },
     {
@@ -2245,6 +2251,11 @@
     },
     {
       "rank": 43,
+      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "value": 1
+    },
+    {
+      "rank": 44,
       "name": "Pike",
       "value": 1
     }
