@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T11:47:50+00:00",
-  "count": 294,
+  "updated": "2026-11-15T12:47:51+00:00",
+  "count": 295,
   "has_movement": true,
   "all": [
     {
@@ -1763,9 +1763,15 @@
     },
     {
       "rank": 294,
+      "name": "Mcull",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 295,
       "name": "vitaliy",
       "value": 0,
-      "move": -4
+      "move": -5
     }
   ],
   "month": [
@@ -2148,32 +2154,32 @@
     },
     {
       "rank": 26,
-      "name": "t.me/hapexoᚾK1T",
-      "value": 3
-    },
-    {
-      "rank": 27,
       "name": "Marina",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Don Michele Corleone",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Олег",
+      "value": 2
+    },
+    {
+      "rank": 31,
+      "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
