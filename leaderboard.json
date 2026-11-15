@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T04:47:46+00:00",
+  "updated": "2026-11-15T05:47:47+00:00",
   "count": 294,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1365,
+      "value": 1366,
       "move": 0
     },
     {
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "SPM",
-      "value": 117,
+      "value": 118,
       "move": 1
     },
     {
@@ -384,7 +384,7 @@
     {
       "rank": 64,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 60,
+      "value": 61,
       "move": -1
     },
     {
@@ -1792,22 +1792,22 @@
     {
       "rank": 5,
       "name": "Crypto Panda",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 6,
       "name": "SPM",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 7,
-      "name": "Синдбад Мореход",
+      "name": "a l",
       "value": 43
     },
     {
       "rank": 8,
-      "name": "a l",
-      "value": 42
+      "name": "Синдбад Мореход",
+      "value": 43
     },
     {
       "rank": 9,
@@ -1986,27 +1986,27 @@
     },
     {
       "rank": 44,
-      "name": "🤗",
-      "value": 5
-    },
-    {
-      "rank": 45,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Pavel",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Borz",
+      "value": 4
+    },
+    {
+      "rank": 48,
+      "name": "🤗",
       "value": 4
     },
     {
@@ -2029,7 +2029,7 @@
     {
       "rank": 2,
       "name": "SPM",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 3,
@@ -2044,7 +2044,7 @@
     {
       "rank": 5,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 6,
@@ -2053,13 +2053,13 @@
     },
     {
       "rank": 7,
-      "name": "Серхио Ле'Трас",
+      "name": "a l",
       "value": 13
     },
     {
       "rank": 8,
-      "name": "a l",
-      "value": 12
+      "name": "Серхио Ле'Трас",
+      "value": 13
     },
     {
       "rank": 9,
