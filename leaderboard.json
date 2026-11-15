@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T10:47:50+00:00",
+  "updated": "2026-11-15T11:47:50+00:00",
   "count": 294,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1962,
+      "value": 1963,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1369,
+      "value": 1370,
       "move": 0
     },
     {
@@ -1782,7 +1782,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 89
+      "value": 90
     },
     {
       "rank": 4,
@@ -1797,12 +1797,12 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 7,
       "name": "SPM",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 8,
@@ -2039,12 +2039,12 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 5,
       "name": "a l",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 6,
@@ -2054,7 +2054,7 @@
     {
       "rank": 7,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 8,
@@ -2233,21 +2233,16 @@
     },
     {
       "rank": 43,
-      "name": "lefkorosos",
-      "value": 1
-    },
-    {
-      "rank": 44,
       "name": "Zero-sum Gamer",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "@wavesscalper",
       "value": 1
     }
