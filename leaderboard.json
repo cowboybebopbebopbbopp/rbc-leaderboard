@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T17:47:54+00:00",
+  "updated": "2026-11-15T18:47:54+00:00",
   "count": 297,
   "has_movement": true,
   "all": [
@@ -618,7 +618,7 @@
     {
       "rank": 103,
       "name": "Logrus",
-      "value": 16,
+      "value": 17,
       "move": -1
     },
     {
@@ -1800,12 +1800,12 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 86
+      "value": 85
     },
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 59
+      "value": 58
     },
     {
       "rank": 5,
@@ -1825,7 +1825,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 9,
@@ -1844,12 +1844,12 @@
     },
     {
       "rank": 12,
-      "name": "Князь Владимир С",
-      "value": 31
+      "name": "Viktor",
+      "value": 30
     },
     {
       "rank": 13,
-      "name": "Viktor",
+      "name": "Князь Владимир С",
       "value": 30
     },
     {
@@ -1904,22 +1904,22 @@
     },
     {
       "rank": 24,
-      "name": "iDiklonius",
+      "name": "Logrus",
       "value": 15
     },
     {
       "rank": 25,
-      "name": "@wavesscalper",
+      "name": "iDiklonius",
       "value": 15
     },
     {
       "rank": 26,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 14
+      "name": "@wavesscalper",
+      "value": 15
     },
     {
       "rank": 27,
-      "name": "Logrus",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 14
     },
     {
@@ -2121,47 +2121,47 @@
     },
     {
       "rank": 17,
-      "name": "Oleg Maksimov",
-      "value": 5
-    },
-    {
-      "rank": 18,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Синдбад Мореход",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "L G",
+      "value": 3
+    },
+    {
+      "rank": 25,
+      "name": "Oleg Maksimov",
       "value": 3
     },
     {
@@ -2171,52 +2171,52 @@
     },
     {
       "rank": 27,
-      "name": "Сергей",
+      "name": "Logrus",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "Bazylev Nickolai",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "Алексей",
+      "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "I",
+      "name": "Алексей",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "@wavesscalper",
+      "name": "I",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Ponemonec",
+      "name": "@wavesscalper",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Don Michele Corleone",
+      "name": "Ponemonec",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "Денис П.",
-      "value": 1
+      "name": "Don Michele Corleone",
+      "value": 2
     },
     {
       "rank": 36,
-      "name": "Logrus",
+      "name": "Денис П.",
       "value": 1
     },
     {
