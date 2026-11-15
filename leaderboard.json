@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T05:47:47+00:00",
+  "updated": "2026-11-15T06:47:47+00:00",
   "count": 294,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1366,
+      "value": 1367,
       "move": 0
     },
     {
@@ -156,7 +156,7 @@
     {
       "rank": 26,
       "name": "Manis Love",
-      "value": 220,
+      "value": 221,
       "move": 0
     },
     {
@@ -204,7 +204,7 @@
     {
       "rank": 34,
       "name": "Vitaliy",
-      "value": 151,
+      "value": 152,
       "move": 0
     },
     {
@@ -1802,7 +1802,7 @@
     {
       "rank": 7,
       "name": "a l",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 8,
@@ -1851,13 +1851,13 @@
     },
     {
       "rank": 17,
-      "name": ".",
+      "name": "Vitaliy",
       "value": 22
     },
     {
       "rank": 18,
-      "name": "Vitaliy",
-      "value": 21
+      "name": ".",
+      "value": 22
     },
     {
       "rank": 19,
@@ -1871,12 +1871,12 @@
     },
     {
       "rank": 21,
-      "name": "A.",
-      "value": 16
+      "name": "Manis Love",
+      "value": 17
     },
     {
       "rank": 22,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 16
     },
     {
@@ -2048,13 +2048,13 @@
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
+      "name": "a l",
       "value": 14
     },
     {
       "rank": 7,
-      "name": "a l",
-      "value": 13
+      "name": "Руслан Иванов",
+      "value": 14
     },
     {
       "rank": 8,
@@ -2084,7 +2084,7 @@
     {
       "rank": 13,
       "name": "Manis Love",
-      "value": 6
+      "value": 7
     },
     {
       "rank": 14,
@@ -2118,27 +2118,27 @@
     },
     {
       "rank": 20,
-      "name": "iDiklonius",
+      "name": "Vitaliy",
       "value": 4
     },
     {
       "rank": 21,
-      "name": "ᴦоᴧод",
+      "name": "iDiklonius",
       "value": 4
     },
     {
       "rank": 22,
-      "name": ".",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
       "rank": 23,
-      "name": "Алексей",
-      "value": 3
+      "name": ".",
+      "value": 4
     },
     {
       "rank": 24,
-      "name": "Vitaliy",
+      "name": "Алексей",
       "value": 3
     },
     {
