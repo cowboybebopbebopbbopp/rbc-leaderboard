@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T19:47:55+00:00",
+  "updated": "2026-11-15T20:47:56+00:00",
   "count": 297,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1907,
+      "value": 1909,
       "move": 0
     },
     {
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 708,
+      "value": 709,
       "move": 0
     },
     {
@@ -1814,23 +1814,23 @@
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 44
-    },
-    {
-      "rank": 7,
       "name": "SPM",
       "value": 44
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Archie",
-      "value": 42
+      "value": 44
+    },
+    {
+      "rank": 8,
+      "name": "a l",
+      "value": 43
     },
     {
       "rank": 9,
       "name": "Синдбад Мореход",
-      "value": 42
+      "value": 41
     },
     {
       "rank": 10,
@@ -1844,12 +1844,12 @@
     },
     {
       "rank": 12,
-      "name": "Viktor",
-      "value": 30
+      "name": "Князь Владимир С",
+      "value": 31
     },
     {
       "rank": 13,
-      "name": "Князь Владимир С",
+      "name": "Viktor",
       "value": 30
     },
     {
@@ -1930,7 +1930,7 @@
     {
       "rank": 29,
       "name": "Charlie Shefelman",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 30,
@@ -2067,21 +2067,21 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 7,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Archie",
       "value": 14
     },
     {
       "rank": 8,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 12
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 14
     },
     {
       "rank": 9,
-      "name": "Archie",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 12
     },
     {
@@ -2111,12 +2111,12 @@
     },
     {
       "rank": 15,
-      "name": "Vitaliy",
-      "value": 5
+      "name": "Князь Владимир С",
+      "value": 6
     },
     {
       "rank": 16,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 5
     },
     {
