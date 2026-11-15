@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T07:47:48+00:00",
+  "updated": "2026-11-15T08:47:49+00:00",
   "count": 294,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1960,
+      "value": 1961,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1367,
+      "value": 1368,
       "move": 0
     },
     {
@@ -264,7 +264,7 @@
     {
       "rank": 44,
       "name": "Серхио Ле'Трас",
-      "value": 116,
+      "value": 117,
       "move": 3
     },
     {
@@ -414,7 +414,7 @@
     {
       "rank": 69,
       "name": "Алехандро)🍅 Белов🍅",
-      "value": 45,
+      "value": 46,
       "move": -1
     },
     {
@@ -1782,7 +1782,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 87
+      "value": 88
     },
     {
       "rank": 4,
@@ -1802,7 +1802,7 @@
     {
       "rank": 7,
       "name": "a l",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 8,
@@ -1837,7 +1837,7 @@
     {
       "rank": 14,
       "name": "Zero-sum Gamer",
-      "value": 28
+      "value": 27
     },
     {
       "rank": 15,
@@ -1867,7 +1867,7 @@
     {
       "rank": 20,
       "name": "Серхио Ле'Трас",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 21,
@@ -1891,23 +1891,23 @@
     },
     {
       "rank": 25,
-      "name": "Logrus",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 14
     },
     {
       "rank": 26,
-      "name": "I",
+      "name": "Logrus",
       "value": 14
     },
     {
       "rank": 27,
-      "name": "@wavesscalper",
+      "name": "I",
       "value": 14
     },
     {
       "rank": 28,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 13
+      "name": "@wavesscalper",
+      "value": 14
     },
     {
       "rank": 29,
@@ -2039,7 +2039,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 5,
@@ -2049,22 +2049,22 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
+      "name": "Серхио Ле'Трас",
       "value": 14
     },
     {
       "rank": 8,
-      "name": "Серхио Ле'Трас",
-      "value": 13
+      "name": "Руслан Иванов",
+      "value": 14
     },
     {
       "rank": 9,
       "name": "Алехандро)🍅 Белов🍅",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 10,
@@ -2103,27 +2103,27 @@
     },
     {
       "rank": 17,
-      "name": "Синдбад Мореход",
-      "value": 5
-    },
-    {
-      "rank": 18,
       "name": "Oleg Maksimov",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "iDiklonius",
+      "value": 4
+    },
+    {
+      "rank": 21,
+      "name": "Синдбад Мореход",
       "value": 4
     },
     {
