@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T20:47:56+00:00",
+  "updated": "2026-11-15T21:47:56+00:00",
   "count": 297,
   "has_movement": true,
   "all": [
@@ -114,7 +114,7 @@
     {
       "rank": 19,
       "name": "@wavesscalper",
-      "value": 366,
+      "value": 367,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 183,
+      "value": 184,
       "move": 0
     },
     {
@@ -354,7 +354,7 @@
     {
       "rank": 59,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 77,
+      "value": 78,
       "move": -1
     },
     {
@@ -545,33 +545,33 @@
     },
     {
       "rank": 91,
-      "name": "Pavel",
+      "name": "Marina",
       "value": 20,
-      "move": -2
+      "move": 3
     },
     {
       "rank": 92,
-      "name": "Максим",
+      "name": "Pavel",
       "value": 20,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 93,
-      "name": "vitalij",
+      "name": "Максим",
       "value": 20,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 94,
-      "name": "Vladimir Magrin",
-      "value": 19,
-      "move": -2
+      "name": "vitalij",
+      "value": 20,
+      "move": -3
     },
     {
       "rank": 95,
-      "name": "Marina",
+      "name": "Vladimir Magrin",
       "value": 19,
-      "move": -1
+      "move": -3
     },
     {
       "rank": 96,
@@ -1855,7 +1855,7 @@
     {
       "rank": 14,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 15,
@@ -1870,7 +1870,7 @@
     {
       "rank": 17,
       "name": ".",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 18,
@@ -1899,22 +1899,22 @@
     },
     {
       "rank": 23,
-      "name": "Don Michele Corleone",
+      "name": "@wavesscalper",
       "value": 16
     },
     {
       "rank": 24,
+      "name": "Don Michele Corleone",
+      "value": 16
+    },
+    {
+      "rank": 25,
       "name": "Logrus",
       "value": 15
     },
     {
-      "rank": 25,
-      "name": "iDiklonius",
-      "value": 15
-    },
-    {
       "rank": 26,
-      "name": "@wavesscalper",
+      "name": "iDiklonius",
       "value": 15
     },
     {
@@ -1935,7 +1935,7 @@
     {
       "rank": 30,
       "name": "Marina",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 31,
@@ -2107,7 +2107,7 @@
     {
       "rank": 14,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 6
+      "value": 7
     },
     {
       "rank": 15,
@@ -2121,82 +2121,82 @@
     },
     {
       "rank": 17,
+      "name": ".",
+      "value": 5
+    },
+    {
+      "rank": 18,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Синдбад Мореход",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 23,
-      "name": ".",
+      "rank": 24,
+      "name": "Marina",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "L G",
       "value": 3
     },
     {
-      "rank": 25,
-      "name": "Oleg Maksimov",
-      "value": 3
-    },
-    {
       "rank": 26,
-      "name": "Marina",
+      "name": "@wavesscalper",
       "value": 3
     },
     {
       "rank": 27,
+      "name": "Oleg Maksimov",
+      "value": 3
+    },
+    {
+      "rank": 28,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
-      "rank": 31,
-      "name": "I",
-      "value": 2
-    },
-    {
       "rank": 32,
-      "name": "@wavesscalper",
+      "name": "I",
       "value": 2
     },
     {
