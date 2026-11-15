@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T13:47:52+00:00",
-  "count": 295,
+  "updated": "2026-11-15T14:47:52+00:00",
+  "count": 296,
   "has_movement": true,
   "all": [
     {
@@ -1769,9 +1769,15 @@
     },
     {
       "rank": 295,
+      "name": "linda rodriguez",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 296,
       "name": "vitaliy",
       "value": 0,
-      "move": -5
+      "move": -6
     }
   ],
   "month": [
@@ -2095,7 +2101,7 @@
     {
       "rank": 14,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 6
+      "value": 5
     },
     {
       "rank": 15,
@@ -2199,51 +2205,46 @@
     },
     {
       "rank": 35,
-      "name": "PiratesOfMining",
-      "value": 1
-    },
-    {
-      "rank": 36,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Logrus",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": ".section stub",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Zero-sum Gamer",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Pike",
       "value": 1
     }
