@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T09:47:49+00:00",
+  "updated": "2026-11-15T10:47:50+00:00",
   "count": 294,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1961,
+      "value": 1962,
       "move": 0
     },
     {
@@ -162,7 +162,7 @@
     {
       "rank": 27,
       "name": "Алексей",
-      "value": 220,
+      "value": 221,
       "move": 0
     },
     {
@@ -257,15 +257,15 @@
     },
     {
       "rank": 43,
-      "name": "Серхио Ле'Трас",
-      "value": 119,
-      "move": 4
+      "name": "SPM",
+      "value": 120,
+      "move": 1
     },
     {
       "rank": 44,
-      "name": "SPM",
+      "name": "Серхио Ле'Трас",
       "value": 119,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 45,
@@ -1782,7 +1782,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 88
+      "value": 89
     },
     {
       "rank": 4,
@@ -1792,7 +1792,7 @@
     {
       "rank": 5,
       "name": "Crypto Panda",
-      "value": 58
+      "value": 57
     },
     {
       "rank": 6,
@@ -1802,7 +1802,7 @@
     {
       "rank": 7,
       "name": "SPM",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 8,
@@ -1946,18 +1946,18 @@
     },
     {
       "rank": 36,
-      "name": "Евгений",
+      "name": "Алексей",
       "value": 6
     },
     {
       "rank": 37,
-      "name": "Олег",
+      "name": "Евгений",
       "value": 6
     },
     {
       "rank": 38,
-      "name": "Алексей",
-      "value": 5
+      "name": "Олег",
+      "value": 6
     },
     {
       "rank": 39,
@@ -2029,7 +2029,7 @@
     {
       "rank": 2,
       "name": "SPM",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 3,
@@ -2039,7 +2039,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 5,
@@ -2108,38 +2108,38 @@
     },
     {
       "rank": 18,
-      "name": "Viktor",
+      "name": "Алексей",
       "value": 4
     },
     {
       "rank": 19,
-      "name": "A.",
+      "name": "Viktor",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "iDiklonius",
+      "name": "A.",
       "value": 4
     },
     {
       "rank": 21,
-      "name": "Синдбад Мореход",
+      "name": "iDiklonius",
       "value": 4
     },
     {
       "rank": 22,
-      "name": "ᴦоᴧод",
+      "name": "Синдбад Мореход",
       "value": 4
     },
     {
       "rank": 23,
-      "name": ".",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
       "rank": 24,
-      "name": "Алексей",
-      "value": 3
+      "name": ".",
+      "value": 4
     },
     {
       "rank": 25,
