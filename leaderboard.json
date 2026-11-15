@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-15T08:47:49+00:00",
+  "updated": "2026-11-15T09:47:49+00:00",
   "count": 294,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5874,
+      "value": 5875,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1906,
+      "value": 1907,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1368,
+      "value": 1369,
       "move": 0
     },
     {
@@ -257,15 +257,15 @@
     },
     {
       "rank": 43,
-      "name": "SPM",
+      "name": "Серхио Ле'Трас",
       "value": 119,
-      "move": 1
+      "move": 4
     },
     {
       "rank": 44,
-      "name": "Серхио Ле'Трас",
-      "value": 117,
-      "move": 3
+      "name": "SPM",
+      "value": 119,
+      "move": 0
     },
     {
       "rank": 45,
@@ -354,7 +354,7 @@
     {
       "rank": 59,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 75,
+      "value": 76,
       "move": -1
     },
     {
@@ -1772,12 +1772,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 115
+      "value": 114
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 97
+      "value": 98
     },
     {
       "rank": 3,
@@ -1796,23 +1796,23 @@
     },
     {
       "rank": 6,
-      "name": "SPM",
-      "value": 47
+      "name": "a l",
+      "value": 46
     },
     {
       "rank": 7,
-      "name": "a l",
+      "name": "SPM",
       "value": 45
     },
     {
       "rank": 8,
-      "name": "Синдбад Мореход",
+      "name": "Archie",
       "value": 43
     },
     {
       "rank": 9,
-      "name": "Archie",
-      "value": 42
+      "name": "Синдбад Мореход",
+      "value": 43
     },
     {
       "rank": 10,
@@ -1842,7 +1842,7 @@
     {
       "rank": 15,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 25
+      "value": 26
     },
     {
       "rank": 16,
@@ -1861,13 +1861,13 @@
     },
     {
       "rank": 19,
-      "name": "LlirikMK",
-      "value": 20
+      "name": "Серхио Ле'Трас",
+      "value": 21
     },
     {
       "rank": 20,
-      "name": "Серхио Ле'Трас",
-      "value": 19
+      "name": "LlirikMK",
+      "value": 20
     },
     {
       "rank": 21,
@@ -1956,67 +1956,67 @@
     },
     {
       "rank": 38,
-      "name": "Max",
-      "value": 6
-    },
-    {
-      "rank": 39,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "L G",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Сергей",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "🤗",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Pavel",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "E X O",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "AK",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "zomg",
       "value": 3
     }
   ],
@@ -2024,12 +2024,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 2,
       "name": "SPM",
-      "value": 24
+      "value": 23
     },
     {
       "rank": 3,
@@ -2043,18 +2043,18 @@
     },
     {
       "rank": 5,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "a l",
       "value": 16
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 15
+      "name": "Серхио Ле'Трас",
+      "value": 16
     },
     {
       "rank": 7,
-      "name": "Серхио Ле'Трас",
-      "value": 14
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 16
     },
     {
       "rank": 8,
@@ -2069,7 +2069,7 @@
     {
       "rank": 10,
       "name": "Archie",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 11,
@@ -2089,7 +2089,7 @@
     {
       "rank": 14,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 5
+      "value": 6
     },
     {
       "rank": 15,
@@ -2163,38 +2163,38 @@
     },
     {
       "rank": 29,
-      "name": "PiratesOfMining",
-      "value": 2
-    },
-    {
-      "rank": 30,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Олег",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Сергей Фролов",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Ponemonec",
       "value": 2
+    },
+    {
+      "rank": 35,
+      "name": "PiratesOfMining",
+      "value": 1
     },
     {
       "rank": 36,
