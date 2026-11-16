@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T06:48:02+00:00",
+  "updated": "2026-11-16T07:48:03+00:00",
   "count": 297,
   "has_movement": true,
   "all": [
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 495,
+      "value": 496,
       "move": 0
     },
     {
@@ -335,15 +335,15 @@
     },
     {
       "rank": 56,
-      "name": "Павел Корчагин",
-      "value": 86,
-      "move": 0
+      "name": "LlirikMK",
+      "value": 87,
+      "move": 1
     },
     {
       "rank": 57,
-      "name": "LlirikMK",
+      "name": "Павел Корчагин",
       "value": 86,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 58,
@@ -1885,7 +1885,7 @@
     {
       "rank": 20,
       "name": "LlirikMK",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 21,
@@ -1899,22 +1899,22 @@
     },
     {
       "rank": 23,
-      "name": "@wavesscalper",
+      "name": "iDiklonius",
       "value": 16
     },
     {
       "rank": 24,
-      "name": "Don Michele Corleone",
+      "name": "@wavesscalper",
       "value": 16
     },
     {
       "rank": 25,
-      "name": "Logrus",
-      "value": 15
+      "name": "Don Michele Corleone",
+      "value": 16
     },
     {
       "rank": 26,
-      "name": "iDiklonius",
+      "name": "Logrus",
       "value": 15
     },
     {
@@ -2116,32 +2116,32 @@
     },
     {
       "rank": 16,
-      "name": "Князь Владимир С",
+      "name": "iDiklonius",
       "value": 5
     },
     {
       "rank": 17,
-      "name": ".",
+      "name": "Князь Владимир С",
       "value": 5
     },
     {
       "rank": 18,
+      "name": ".",
+      "value": 5
+    },
+    {
+      "rank": 19,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 20,
-      "name": "A.",
-      "value": 4
-    },
-    {
       "rank": 21,
-      "name": "iDiklonius",
+      "name": "A.",
       "value": 4
     },
     {
@@ -2186,42 +2186,42 @@
     },
     {
       "rank": 30,
-      "name": "Bazylev Nickolai",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "I",
+      "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Ponemonec",
+      "name": "I",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Don Michele Corleone",
+      "name": "Ponemonec",
       "value": 2
     },
     {
       "rank": 35,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 36,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 36,
-      "name": "Эдуард Анатольевич",
-      "value": 1
-    },
-    {
       "rank": 37,
-      "name": "LlirikMK",
+      "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
