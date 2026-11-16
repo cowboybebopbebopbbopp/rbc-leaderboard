@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T17:48:09+00:00",
+  "updated": "2026-11-16T18:48:10+00:00",
   "count": 300,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 962,
+      "value": 963,
       "move": 0
     },
     {
@@ -557,27 +557,27 @@
     },
     {
       "rank": 93,
-      "name": "Максим",
+      "name": "lefkorosos",
       "value": 20,
-      "move": -1
+      "move": 2
     },
     {
       "rank": 94,
-      "name": "vitalij",
+      "name": "Максим",
       "value": 20,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 95,
-      "name": "Vladimir Magrin",
-      "value": 19,
-      "move": -1
+      "name": "vitalij",
+      "value": 20,
+      "move": -2
     },
     {
       "rank": 96,
-      "name": "lefkorosos",
+      "name": "Vladimir Magrin",
       "value": 19,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 97,
@@ -1852,13 +1852,13 @@
     },
     {
       "rank": 10,
-      "name": "ᴦоᴧод",
+      "name": "Zero-sum Gamer",
       "value": 36
     },
     {
       "rank": 11,
-      "name": "Zero-sum Gamer",
-      "value": 35
+      "name": "ᴦоᴧод",
+      "value": 36
     },
     {
       "rank": 12,
@@ -2042,17 +2042,17 @@
     },
     {
       "rank": 48,
+      "name": "lefkorosos",
+      "value": 4
+    },
+    {
+      "rank": 49,
       "name": "E X O",
       "value": 3
     },
     {
-      "rank": 49,
-      "name": "AK",
-      "value": 3
-    },
-    {
       "rank": 50,
-      "name": "zomg",
+      "name": "AK",
       "value": 3
     }
   ],
@@ -2109,12 +2109,12 @@
     },
     {
       "rank": 11,
-      "name": "Анастасия D",
-      "value": 9
+      "name": "Zero-sum Gamer",
+      "value": 10
     },
     {
       "rank": 12,
-      "name": "Zero-sum Gamer",
+      "name": "Анастасия D",
       "value": 9
     },
     {
@@ -2264,22 +2264,22 @@
     },
     {
       "rank": 42,
-      "name": "I",
+      "name": "lefkorosos",
       "value": 1
     },
     {
       "rank": 43,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "name": "I",
       "value": 1
     },
     {
       "rank": 44,
-      "name": "Pike",
+      "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
       "rank": 45,
-      "name": "Oleg Maksimov",
+      "name": "Pike",
       "value": 1
     },
     {
