@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T16:48:08+00:00",
+  "updated": "2026-11-16T17:48:09+00:00",
   "count": 300,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 961,
+      "value": 962,
       "move": 0
     },
     {
@@ -1858,7 +1858,7 @@
     {
       "rank": 11,
       "name": "Zero-sum Gamer",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 12,
@@ -1953,7 +1953,7 @@
     {
       "rank": 30,
       "name": "Marina",
-      "value": 10
+      "value": 9
     },
     {
       "rank": 31,
@@ -2089,12 +2089,12 @@
     },
     {
       "rank": 7,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 14
+      "name": "🅾🅻🅶🅰",
+      "value": 13
     },
     {
       "rank": 8,
-      "name": "🅾🅻🅶🅰",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 13
     },
     {
@@ -2114,12 +2114,12 @@
     },
     {
       "rank": 12,
-      "name": "Charlie Shefelman",
-      "value": 8
+      "name": "Zero-sum Gamer",
+      "value": 9
     },
     {
       "rank": 13,
-      "name": "Zero-sum Gamer",
+      "name": "Charlie Shefelman",
       "value": 8
     },
     {
@@ -2130,7 +2130,7 @@
     {
       "rank": 15,
       "name": "Vitaliy",
-      "value": 7
+      "value": 6
     },
     {
       "rank": 16,
@@ -2219,67 +2219,67 @@
     },
     {
       "rank": 33,
-      "name": "Oleg Maksimov",
-      "value": 2
-    },
-    {
-      "rank": 34,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Petia Piatov",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": ".section stub",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Pike",
+      "value": 1
+    },
+    {
+      "rank": 45,
+      "name": "Oleg Maksimov",
       "value": 1
     },
     {
