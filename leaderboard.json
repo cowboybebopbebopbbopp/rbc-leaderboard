@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-16T11:48:05+00:00",
+  "updated": "2026-11-16T12:48:06+00:00",
   "count": 297,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5878,
+      "value": 5879,
       "move": 0
     },
     {
@@ -515,45 +515,45 @@
     },
     {
       "rank": 86,
-      "name": "Толян",
-      "value": 21,
-      "move": 0
-    },
-    {
-      "rank": 87,
-      "name": "X888",
-      "value": 21,
-      "move": 0
-    },
-    {
-      "rank": 88,
-      "name": "Don Michele Corleone",
-      "value": 21,
-      "move": 0
-    },
-    {
-      "rank": 89,
-      "name": "Претор",
-      "value": 21,
-      "move": 0
-    },
-    {
-      "rank": 90,
-      "name": "Ponemonec",
-      "value": 20,
-      "move": 0
-    },
-    {
-      "rank": 91,
-      "name": "Marina",
-      "value": 20,
+      "name": "Pavel",
+      "value": 22,
       "move": 5
     },
     {
-      "rank": 92,
-      "name": "Pavel",
+      "rank": 87,
+      "name": "Толян",
+      "value": 21,
+      "move": -1
+    },
+    {
+      "rank": 88,
+      "name": "X888",
+      "value": 21,
+      "move": -1
+    },
+    {
+      "rank": 89,
+      "name": "Don Michele Corleone",
+      "value": 21,
+      "move": -1
+    },
+    {
+      "rank": 90,
+      "name": "Претор",
+      "value": 21,
+      "move": -1
+    },
+    {
+      "rank": 91,
+      "name": "Ponemonec",
       "value": 20,
       "move": -1
+    },
+    {
+      "rank": 92,
+      "name": "Marina",
+      "value": 20,
+      "move": 4
     },
     {
       "rank": 93,
@@ -1795,7 +1795,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 101
+      "value": 102
     },
     {
       "rank": 3,
@@ -1979,48 +1979,48 @@
     },
     {
       "rank": 39,
-      "name": "Виталий",
+      "name": "Pavel",
       "value": 5
     },
     {
       "rank": 40,
-      "name": "L G",
+      "name": "Виталий",
       "value": 5
     },
     {
       "rank": 41,
-      "name": "Сергей",
+      "name": "L G",
       "value": 5
     },
     {
       "rank": 42,
-      "name": "Сергей Л",
+      "name": "Сергей",
       "value": 5
     },
     {
       "rank": 43,
-      "name": "Андрей",
+      "name": "Сергей Л",
       "value": 5
     },
     {
       "rank": 44,
-      "name": "Olga Goncharova",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 45,
+      "name": "Olga Goncharova",
+      "value": 5
+    },
+    {
+      "rank": 46,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "🤗",
       "value": 4
-    },
-    {
-      "rank": 47,
-      "name": "Pavel",
-      "value": 3
     },
     {
       "rank": 48,
@@ -2042,7 +2042,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 2,
@@ -2166,8 +2166,8 @@
     },
     {
       "rank": 26,
-      "name": "ᴦоᴧод",
-      "value": 3
+      "name": "Pavel",
+      "value": 2
     },
     {
       "rank": 27,
