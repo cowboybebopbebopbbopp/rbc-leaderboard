@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T15:48:08+00:00",
+  "updated": "2026-11-16T16:48:08+00:00",
   "count": 300,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 957,
+      "value": 961,
       "move": 0
     },
     {
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "SPM",
-      "value": 123,
+      "value": 124,
       "move": 1
     },
     {
@@ -1833,7 +1833,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 47
+      "value": 48
     },
     {
       "rank": 7,
@@ -1857,22 +1857,22 @@
     },
     {
       "rank": 11,
+      "name": "Zero-sum Gamer",
+      "value": 34
+    },
+    {
+      "rank": 12,
       "name": "Анастасия",
       "value": 32
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Князь Владимир С",
       "value": 31
     },
     {
-      "rank": 13,
-      "name": "Viktor",
-      "value": 30
-    },
-    {
       "rank": 14,
-      "name": "Zero-sum Gamer",
+      "name": "Viktor",
       "value": 30
     },
     {
@@ -2065,7 +2065,7 @@
     {
       "rank": 2,
       "name": "SPM",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 3,
@@ -2119,8 +2119,8 @@
     },
     {
       "rank": 13,
-      "name": "Manis Love",
-      "value": 7
+      "name": "Zero-sum Gamer",
+      "value": 8
     },
     {
       "rank": 14,
@@ -2139,37 +2139,37 @@
     },
     {
       "rank": 17,
-      "name": "Князь Владимир С",
+      "name": "Manis Love",
       "value": 5
     },
     {
       "rank": 18,
-      "name": ".",
+      "name": "Князь Владимир С",
       "value": 5
     },
     {
       "rank": 19,
+      "name": ".",
+      "value": 5
+    },
+    {
+      "rank": 20,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 22,
-      "name": "Синдбад Мореход",
-      "value": 4
-    },
-    {
       "rank": 23,
-      "name": "Zero-sum Gamer",
+      "name": "Синдбад Мореход",
       "value": 4
     },
     {
@@ -2184,42 +2184,42 @@
     },
     {
       "rank": 26,
-      "name": "Oleg Maksimov",
-      "value": 3
-    },
-    {
-      "rank": 27,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "t.me/hapexoᚾK1T",
+      "value": 2
+    },
+    {
+      "rank": 33,
+      "name": "Oleg Maksimov",
       "value": 2
     },
     {
