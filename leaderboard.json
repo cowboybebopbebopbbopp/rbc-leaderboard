@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T08:48:04+00:00",
+  "updated": "2026-11-16T09:48:04+00:00",
   "count": 297,
   "has_movement": true,
   "all": [
@@ -2042,12 +2042,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 59
+      "value": 58
     },
     {
       "rank": 2,
       "name": "SPM",
-      "value": 23
+      "value": 20
     },
     {
       "rank": 3,
@@ -2067,7 +2067,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 7,
@@ -2076,18 +2076,18 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
-      "value": 13
-    },
-    {
-      "rank": 9,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 12
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Руслан Иванов",
       "value": 12
+    },
+    {
+      "rank": 10,
+      "name": "Archie",
+      "value": 11
     },
     {
       "rank": 11,
