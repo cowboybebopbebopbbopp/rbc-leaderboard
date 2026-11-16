@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T19:48:11+00:00",
+  "updated": "2026-11-16T20:48:11+00:00",
   "count": 300,
   "has_movement": true,
   "all": [
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 328,
+      "value": 329,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 184,
+      "value": 185,
       "move": 0
     },
     {
@@ -1887,12 +1887,12 @@
     },
     {
       "rank": 17,
-      "name": "Vitaliy",
-      "value": 23
+      "name": ".",
+      "value": 24
     },
     {
       "rank": 18,
-      "name": ".",
+      "name": "Vitaliy",
       "value": 23
     },
     {
@@ -2022,22 +2022,22 @@
     },
     {
       "rank": 44,
-      "name": "Андрей",
+      "name": "🤗",
       "value": 5
     },
     {
       "rank": 45,
-      "name": "Olga Goncharova",
+      "name": "Андрей",
       "value": 5
     },
     {
       "rank": 46,
-      "name": "Borz",
-      "value": 4
+      "name": "Olga Goncharova",
+      "value": 5
     },
     {
       "rank": 47,
-      "name": "🤗",
+      "name": "Borz",
       "value": 4
     },
     {
@@ -2060,7 +2060,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 59
+      "value": 58
     },
     {
       "rank": 2,
@@ -2125,7 +2125,7 @@
     {
       "rank": 14,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 7
+      "value": 6
     },
     {
       "rank": 15,
@@ -2144,8 +2144,8 @@
     },
     {
       "rank": 18,
-      "name": "Manis Love",
-      "value": 5
+      "name": ".",
+      "value": 6
     },
     {
       "rank": 19,
@@ -2154,22 +2154,22 @@
     },
     {
       "rank": 20,
-      "name": ".",
-      "value": 5
-    },
-    {
-      "rank": 21,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "A.",
+      "value": 4
+    },
+    {
+      "rank": 23,
+      "name": "Manis Love",
       "value": 4
     },
     {
@@ -2259,31 +2259,36 @@
     },
     {
       "rank": 41,
-      "name": "Алексей",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 42,
-      "name": "lefkorosos",
+      "name": "Алексей",
       "value": 1
     },
     {
       "rank": 43,
-      "name": "I",
+      "name": "lefkorosos",
       "value": 1
     },
     {
       "rank": 44,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "name": "I",
       "value": 1
     },
     {
       "rank": 45,
-      "name": "Pike",
+      "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
       "rank": 46,
+      "name": "Pike",
+      "value": 1
+    },
+    {
+      "rank": 47,
       "name": "Mcull",
       "value": 1
     }
