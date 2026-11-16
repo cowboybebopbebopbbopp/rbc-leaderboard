@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T14:48:07+00:00",
-  "count": 297,
+  "updated": "2026-11-16T15:48:08+00:00",
+  "count": 300,
   "has_movement": true,
   "all": [
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 955,
+      "value": 957,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 496,
+      "value": 497,
       "move": 0
     },
     {
@@ -204,7 +204,7 @@
     {
       "rank": 34,
       "name": "Vitaliy",
-      "value": 154,
+      "value": 155,
       "move": 0
     },
     {
@@ -1781,9 +1781,27 @@
     },
     {
       "rank": 297,
+      "name": "Alex",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 298,
+      "name": "Bella",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 299,
+      "name": "Tyler",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 300,
       "name": "vitaliy",
       "value": 0,
-      "move": -4
+      "move": -7
     }
   ],
   "month": [
@@ -1854,12 +1872,12 @@
     },
     {
       "rank": 14,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 28
+      "name": "Zero-sum Gamer",
+      "value": 30
     },
     {
       "rank": 15,
-      "name": "Zero-sum Gamer",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 28
     },
     {
@@ -1869,13 +1887,13 @@
     },
     {
       "rank": 17,
-      "name": ".",
+      "name": "Vitaliy",
       "value": 23
     },
     {
       "rank": 18,
-      "name": "Vitaliy",
-      "value": 22
+      "name": ".",
+      "value": 23
     },
     {
       "rank": 19,
@@ -1894,12 +1912,12 @@
     },
     {
       "rank": 22,
-      "name": "A.",
-      "value": 16
+      "name": "iDiklonius",
+      "value": 17
     },
     {
       "rank": 23,
-      "name": "iDiklonius",
+      "name": "A.",
       "value": 16
     },
     {
@@ -2047,7 +2065,7 @@
     {
       "rank": 2,
       "name": "SPM",
-      "value": 23
+      "value": 22
     },
     {
       "rank": 3,
@@ -2112,12 +2130,12 @@
     {
       "rank": 15,
       "name": "Vitaliy",
-      "value": 6
+      "value": 7
     },
     {
       "rank": 16,
       "name": "iDiklonius",
-      "value": 5
+      "value": 6
     },
     {
       "rank": 17,
@@ -2151,57 +2169,57 @@
     },
     {
       "rank": 23,
-      "name": "Marina",
+      "name": "Zero-sum Gamer",
       "value": 4
     },
     {
       "rank": 24,
+      "name": "Marina",
+      "value": 4
+    },
+    {
+      "rank": 25,
       "name": "@wavesscalper",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Oleg Maksimov",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 32,
-      "name": "t.me/hapexoᚾK1T",
-      "value": 2
-    },
-    {
       "rank": 33,
-      "name": "Zero-sum Gamer",
+      "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
