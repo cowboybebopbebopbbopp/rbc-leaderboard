@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T04:48:01+00:00",
+  "updated": "2026-11-16T05:48:02+00:00",
   "count": 297,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1371,
+      "value": 1372,
       "move": 0
     },
     {
@@ -1815,7 +1815,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 7,
@@ -2057,7 +2057,7 @@
     {
       "rank": 4,
       "name": "a l",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 5,
@@ -2071,13 +2071,13 @@
     },
     {
       "rank": 7,
-      "name": "Archie",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 14
     },
     {
       "rank": 8,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 14
+      "name": "Archie",
+      "value": 13
     },
     {
       "rank": 9,
@@ -2151,27 +2151,27 @@
     },
     {
       "rank": 23,
-      "name": "ᴦоᴧод",
-      "value": 4
-    },
-    {
-      "rank": 24,
       "name": "Marina",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "L G",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "@wavesscalper",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Oleg Maksimov",
+      "value": 3
+    },
+    {
+      "rank": 27,
+      "name": "ᴦоᴧод",
       "value": 3
     },
     {
