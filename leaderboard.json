@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T18:48:10+00:00",
+  "updated": "2026-11-16T19:48:11+00:00",
   "count": 300,
   "has_movement": true,
   "all": [
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 709,
+      "value": 710,
       "move": 0
     },
     {
@@ -545,15 +545,15 @@
     },
     {
       "rank": 91,
-      "name": "Ponemonec",
-      "value": 20,
-      "move": -1
+      "name": "Marina",
+      "value": 21,
+      "move": 5
     },
     {
       "rank": 92,
-      "name": "Marina",
+      "name": "Ponemonec",
       "value": 20,
-      "move": 4
+      "move": -2
     },
     {
       "rank": 93,
@@ -1868,7 +1868,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 14,
@@ -1953,7 +1953,7 @@
     {
       "rank": 30,
       "name": "Marina",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 31,
@@ -2139,42 +2139,42 @@
     },
     {
       "rank": 17,
+      "name": "Князь Владимир С",
+      "value": 6
+    },
+    {
+      "rank": 18,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 18,
-      "name": "Князь Владимир С",
-      "value": 5
-    },
-    {
       "rank": 19,
-      "name": ".",
+      "name": "Marina",
       "value": 5
     },
     {
       "rank": 20,
+      "name": ".",
+      "value": 5
+    },
+    {
+      "rank": 21,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 23,
-      "name": "Синдбад Мореход",
-      "value": 4
-    },
-    {
       "rank": 24,
-      "name": "Marina",
+      "name": "Синдбад Мореход",
       "value": 4
     },
     {
