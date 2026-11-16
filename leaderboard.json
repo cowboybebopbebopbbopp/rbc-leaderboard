@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-16T13:48:06+00:00",
+  "updated": "2026-11-16T14:48:07+00:00",
   "count": 297,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5879,
+      "value": 5880,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 954,
+      "value": 955,
       "move": 0
     },
     {
@@ -1795,7 +1795,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 102
+      "value": 103
     },
     {
       "rank": 3,
@@ -1860,7 +1860,7 @@
     {
       "rank": 15,
       "name": "Zero-sum Gamer",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 16,
@@ -2042,7 +2042,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 58
+      "value": 59
     },
     {
       "rank": 2,
@@ -2201,57 +2201,57 @@
     },
     {
       "rank": 33,
-      "name": "Ponemonec",
+      "name": "Zero-sum Gamer",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Don Michele Corleone",
+      "name": "Ponemonec",
       "value": 2
     },
     {
       "rank": 35,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 36,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Petia Piatov",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": ".section stub",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 42,
-      "name": "I",
-      "value": 1
-    },
-    {
       "rank": 43,
-      "name": "Zero-sum Gamer",
+      "name": "I",
       "value": 1
     },
     {
