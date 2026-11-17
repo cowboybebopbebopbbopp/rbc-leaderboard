@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T17:48:24+00:00",
+  "updated": "2026-11-17T18:48:25+00:00",
   "count": 301,
   "has_movement": true,
   "all": [
@@ -2066,7 +2066,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 2,
@@ -2096,22 +2096,22 @@
     {
       "rank": 7,
       "name": "🅾🅻🅶🅰",
-      "value": 13
-    },
-    {
-      "rank": 8,
-      "name": "Алехандро)🍅 Белов🍅",
       "value": 12
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 12
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Zero-sum Gamer",
       "value": 11
+    },
+    {
+      "rank": 10,
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 10
     },
     {
       "rank": 11,
@@ -2171,7 +2171,7 @@
     {
       "rank": 22,
       "name": "Manis Love",
-      "value": 4
+      "value": 3
     },
     {
       "rank": 23,
