@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:48:26+00:00",
+  "updated": "2026-11-17T21:48:26+00:00",
   "count": 301,
   "has_movement": true,
   "all": [
@@ -2115,18 +2115,18 @@
     },
     {
       "rank": 11,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 9
-    },
-    {
-      "rank": 12,
       "name": "Анастасия D",
       "value": 9
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Archie",
       "value": 9
+    },
+    {
+      "rank": 13,
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 8
     },
     {
       "rank": 14,
@@ -2165,17 +2165,17 @@
     },
     {
       "rank": 21,
-      "name": "Князь Владимир С",
-      "value": 4
-    },
-    {
-      "rank": 22,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Logrus",
+      "value": 3
+    },
+    {
+      "rank": 23,
+      "name": "Князь Владимир С",
       "value": 3
     },
     {
