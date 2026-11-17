@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T10:48:19+00:00",
+  "updated": "2026-11-17T11:48:20+00:00",
   "count": 301,
   "has_movement": true,
   "all": [
@@ -312,7 +312,7 @@
     {
       "rank": 52,
       "name": "Vlad",
-      "value": 94,
+      "value": 95,
       "move": 2
     },
     {
@@ -2066,7 +2066,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 58
+      "value": 57
     },
     {
       "rank": 2,
@@ -2105,13 +2105,13 @@
     },
     {
       "rank": 9,
-      "name": "Archie",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 12
     },
     {
       "rank": 10,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 12
+      "name": "Archie",
+      "value": 11
     },
     {
       "rank": 11,
@@ -2190,37 +2190,37 @@
     },
     {
       "rank": 26,
-      "name": "@wavesscalper",
+      "name": "Vlad",
       "value": 3
     },
     {
       "rank": 27,
+      "name": "@wavesscalper",
+      "value": 3
+    },
+    {
+      "rank": 28,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 31,
-      "name": "LlirikMK",
-      "value": 2
-    },
-    {
       "rank": 32,
-      "name": "Vlad",
+      "name": "LlirikMK",
       "value": 2
     },
     {
