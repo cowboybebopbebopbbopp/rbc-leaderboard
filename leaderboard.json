@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T01:48:14+00:00",
-  "count": 300,
+  "updated": "2026-11-17T02:48:15+00:00",
+  "count": 301,
   "has_movement": true,
   "all": [
     {
@@ -1799,9 +1799,15 @@
     },
     {
       "rank": 300,
+      "name": "Cara Cran",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 301,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -4
     }
   ],
   "month": [
@@ -2069,12 +2075,12 @@
     },
     {
       "rank": 3,
-      "name": "Aся",
-      "value": 20
+      "name": "a l",
+      "value": 19
     },
     {
       "rank": 4,
-      "name": "a l",
+      "name": "Aся",
       "value": 19
     },
     {
