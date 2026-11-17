@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-17T16:48:23+00:00",
+  "updated": "2026-11-17T17:48:24+00:00",
   "count": 301,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5885,
+      "value": 5886,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 1835,
+      "value": 1836,
       "move": 0
     },
     {
@@ -635,15 +635,15 @@
     },
     {
       "rank": 106,
-      "name": "Aleksey",
+      "name": "Pike",
       "value": 14,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 107,
-      "name": "Pike",
-      "value": 13,
-      "move": 0
+      "name": "Aleksey",
+      "value": 14,
+      "move": -1
     },
     {
       "rank": 108,
@@ -1819,7 +1819,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 108
+      "value": 109
     },
     {
       "rank": 3,
@@ -1889,7 +1889,7 @@
     {
       "rank": 16,
       "name": "Aся",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 17,
@@ -2075,12 +2075,12 @@
     },
     {
       "rank": 3,
-      "name": "a l",
-      "value": 19
+      "name": "Aся",
+      "value": 20
     },
     {
       "rank": 4,
-      "name": "Aся",
+      "name": "a l",
       "value": 19
     },
     {
@@ -2090,12 +2090,12 @@
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
-      "value": 14
+      "name": "Руслан Иванов",
+      "value": 13
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
+      "name": "🅾🅻🅶🅰",
       "value": 13
     },
     {
@@ -2115,17 +2115,17 @@
     },
     {
       "rank": 11,
-      "name": "Archie",
-      "value": 10
-    },
-    {
-      "rank": 12,
       "name": "Charlie Shefelman",
       "value": 10
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Анастасия D",
+      "value": 9
+    },
+    {
+      "rank": 13,
+      "name": "Archie",
       "value": 9
     },
     {
@@ -2230,67 +2230,67 @@
     },
     {
       "rank": 34,
-      "name": "Ponemonec",
+      "name": "Pike",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "Don Michele Corleone",
+      "name": "Ponemonec",
       "value": 2
     },
     {
       "rank": 36,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 37,
       "name": "PiratesOfMining",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Petia Piatov",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": ".section stub",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 45,
-      "name": "lefkorosos",
-      "value": 1
-    },
-    {
       "rank": 46,
-      "name": "I",
+      "name": "lefkorosos",
       "value": 1
     },
     {
@@ -2300,11 +2300,6 @@
     },
     {
       "rank": 48,
-      "name": "Pike",
-      "value": 1
-    },
-    {
-      "rank": 49,
       "name": "Mcull",
       "value": 1
     }
