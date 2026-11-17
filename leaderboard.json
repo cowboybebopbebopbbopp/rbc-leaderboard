@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T02:48:15+00:00",
+  "updated": "2026-11-17T03:48:15+00:00",
   "count": 301,
   "has_movement": true,
   "all": [
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "SPM",
-      "value": 124,
+      "value": 125,
       "move": 0
     },
     {
@@ -311,21 +311,21 @@
     },
     {
       "rank": 52,
-      "name": "Ilya",
+      "name": "Vlad",
       "value": 94,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 53,
-      "name": "Сергей",
-      "value": 93,
-      "move": 0
+      "name": "Ilya",
+      "value": 94,
+      "move": -1
     },
     {
       "rank": 54,
-      "name": "Vlad",
-      "value": 92,
-      "move": 0
+      "name": "Сергей",
+      "value": 93,
+      "move": -1
     },
     {
       "rank": 55,
@@ -1839,7 +1839,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 7,
@@ -2071,7 +2071,7 @@
     {
       "rank": 2,
       "name": "SPM",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 3,
@@ -2091,7 +2091,7 @@
     {
       "rank": 6,
       "name": "Руслан Иванов",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 7,
@@ -2215,86 +2215,91 @@
     },
     {
       "rank": 31,
-      "name": "Bazylev Nickolai",
+      "name": "Vlad",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Ponemonec",
+      "name": "t.me/hapexoᚾK1T",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Don Michele Corleone",
+      "name": "Ponemonec",
       "value": 2
     },
     {
       "rank": 35,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 36,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Petia Piatov",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": ".section stub",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Mcull",
       "value": 1
     }
