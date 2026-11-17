@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T08:48:18+00:00",
+  "updated": "2026-11-17T09:48:19+00:00",
   "count": 301,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1909,
+      "value": 1910,
       "move": 0
     },
     {
@@ -905,93 +905,93 @@
     },
     {
       "rank": 151,
-      "name": "Ilya",
-      "value": 3,
-      "move": 0
+      "name": "Андрей",
+      "value": 4,
+      "move": 115
     },
     {
       "rank": 152,
-      "name": "Darya",
+      "name": "Ilya",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 153,
-      "name": "Samurai_1",
+      "name": "Darya",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 154,
-      "name": "Sviat",
+      "name": "Samurai_1",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 155,
-      "name": "1",
+      "name": "Sviat",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 156,
-      "name": "Neztor",
+      "name": "1",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 157,
-      "name": "Максим",
+      "name": "Neztor",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 158,
-      "name": "Денис Сергеевич",
+      "name": "Максим",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 159,
-      "name": "ц",
+      "name": "Денис Сергеевич",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 160,
-      "name": "Stepan",
+      "name": "ц",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 161,
-      "name": "İl",
+      "name": "Stepan",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 162,
-      "name": "Roman",
+      "name": "İl",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 163,
-      "name": "Эдуард Анатольевич",
+      "name": "Roman",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 164,
-      "name": "разбитые руки",
+      "name": "Эдуард Анатольевич",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 165,
-      "name": "Андрей",
+      "name": "разбитые руки",
       "value": 3,
-      "move": 101
+      "move": -1
     },
     {
       "rank": 166,
@@ -1849,7 +1849,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 9,
@@ -2058,7 +2058,7 @@
     },
     {
       "rank": 50,
-      "name": "AK",
+      "name": "Андрей",
       "value": 3
     }
   ],
@@ -2066,12 +2066,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 59
+      "value": 58
     },
     {
       "rank": 2,
       "name": "SPM",
-      "value": 24
+      "value": 22
     },
     {
       "rank": 3,
@@ -2105,13 +2105,13 @@
     },
     {
       "rank": 9,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Archie",
       "value": 12
     },
     {
       "rank": 10,
-      "name": "Archie",
-      "value": 11
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 12
     },
     {
       "rank": 11,
@@ -2185,37 +2185,37 @@
     },
     {
       "rank": 25,
-      "name": "@wavesscalper",
+      "name": "Андрей",
       "value": 3
     },
     {
       "rank": 26,
+      "name": "@wavesscalper",
+      "value": 3
+    },
+    {
+      "rank": 27,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 30,
-      "name": "LlirikMK",
-      "value": 2
-    },
-    {
       "rank": 31,
-      "name": "Андрей",
+      "name": "LlirikMK",
       "value": 2
     },
     {
