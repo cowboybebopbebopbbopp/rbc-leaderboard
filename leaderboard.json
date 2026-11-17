@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-17T11:48:20+00:00",
+  "updated": "2026-11-17T12:48:21+00:00",
   "count": 301,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5881,
+      "value": 5883,
       "move": 0
     },
     {
@@ -593,33 +593,33 @@
     },
     {
       "rank": 99,
-      "name": "Антон",
-      "value": 17,
-      "move": 0
+      "name": "Logrus",
+      "value": 18,
+      "move": 4
     },
     {
       "rank": 100,
-      "name": "Anatoly Shadrin",
+      "name": "Антон",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 101,
-      "name": "Advokat Krysanov",
+      "name": "Anatoly Shadrin",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 102,
-      "name": "Money",
+      "name": "Advokat Krysanov",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 103,
-      "name": "Logrus",
+      "name": "Money",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 104,
@@ -1819,7 +1819,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 104
+      "value": 106
     },
     {
       "rank": 3,
@@ -1928,18 +1928,18 @@
     },
     {
       "rank": 24,
-      "name": "@wavesscalper",
+      "name": "Logrus",
       "value": 16
     },
     {
       "rank": 25,
-      "name": "Don Michele Corleone",
+      "name": "@wavesscalper",
       "value": 16
     },
     {
       "rank": 26,
-      "name": "Logrus",
-      "value": 15
+      "name": "Don Michele Corleone",
+      "value": 16
     },
     {
       "rank": 27,
@@ -2135,23 +2135,23 @@
     },
     {
       "rank": 15,
-      "name": "Vitaliy",
-      "value": 6
-    },
-    {
-      "rank": 16,
       "name": "iDiklonius",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Князь Владимир С",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": ".",
       "value": 6
+    },
+    {
+      "rank": 18,
+      "name": "Vitaliy",
+      "value": 5
     },
     {
       "rank": 19,
@@ -2185,27 +2185,27 @@
     },
     {
       "rank": 25,
-      "name": "Андрей",
+      "name": "Logrus",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "Vlad",
+      "name": "Андрей",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "@wavesscalper",
+      "name": "Vlad",
       "value": 3
     },
     {
       "rank": 28,
-      "name": "Pavel",
-      "value": 2
+      "name": "@wavesscalper",
+      "value": 3
     },
     {
       "rank": 29,
-      "name": "Logrus",
+      "name": "Pavel",
       "value": 2
     },
     {
