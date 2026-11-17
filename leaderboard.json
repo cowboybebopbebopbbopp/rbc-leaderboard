@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T14:48:22+00:00",
+  "updated": "2026-11-17T15:48:23+00:00",
   "count": 301,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1963,
+      "value": 1964,
       "move": 0
     },
     {
@@ -347,15 +347,15 @@
     },
     {
       "rank": 58,
-      "name": "Andrey Kuimov",
-      "value": 78,
-      "move": 0
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 79,
+      "move": 1
     },
     {
       "rank": 59,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Andrey Kuimov",
       "value": 78,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 60,
@@ -1824,7 +1824,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 85
+      "value": 86
     },
     {
       "rank": 4,
@@ -1884,7 +1884,7 @@
     {
       "rank": 15,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 16,
@@ -2066,7 +2066,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 59
+      "value": 56
     },
     {
       "rank": 2,
@@ -2090,12 +2090,12 @@
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
-      "value": 13
+      "name": "🅾🅻🅶🅰",
+      "value": 14
     },
     {
       "rank": 7,
-      "name": "🅾🅻🅶🅰",
+      "name": "Руслан Иванов",
       "value": 13
     },
     {
@@ -2131,7 +2131,7 @@
     {
       "rank": 14,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 6
+      "value": 7
     },
     {
       "rank": 15,
