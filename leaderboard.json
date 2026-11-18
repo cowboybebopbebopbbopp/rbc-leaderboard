@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-18T16:49:05+00:00",
+  "updated": "2026-11-18T17:49:11+00:00",
   "count": 302,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5892,
+      "value": 5895,
       "move": 0
     },
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1968,
+      "value": 1969,
       "move": 0
     },
     {
@@ -1820,7 +1820,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 115
+      "value": 118
     },
     {
       "rank": 2,
@@ -1830,7 +1830,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 90
+      "value": 91
     },
     {
       "rank": 4,
@@ -2072,7 +2072,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 55
+      "value": 57
     },
     {
       "rank": 2,
@@ -2092,7 +2092,7 @@
     {
       "rank": 5,
       "name": "🅾🅻🅶🅰",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 6,
@@ -2121,22 +2121,22 @@
     },
     {
       "rank": 11,
-      "name": "Archie",
-      "value": 7
-    },
-    {
-      "rank": 12,
       "name": ".",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Logrus",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Анастасия D",
+      "value": 6
+    },
+    {
+      "rank": 14,
+      "name": "Archie",
       "value": 6
     },
     {
