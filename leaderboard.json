@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T23:48:27+00:00",
+  "updated": "2026-11-18T00:48:28+00:00",
   "count": 301,
   "has_movement": true,
   "all": [
@@ -337,13 +337,13 @@
       "rank": 56,
       "name": "LlirikMK",
       "value": 87,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 57,
       "name": "Павел Корчагин",
       "value": 86,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 58,
@@ -517,31 +517,31 @@
       "rank": 86,
       "name": "Pavel",
       "value": 22,
-      "move": 6
+      "move": 0
     },
     {
       "rank": 87,
       "name": "Толян",
       "value": 21,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 88,
       "name": "X888",
       "value": 21,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 89,
       "name": "Don Michele Corleone",
       "value": 21,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 90,
       "name": "Претор",
       "value": 21,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 91,
@@ -553,31 +553,31 @@
       "rank": 92,
       "name": "Ponemonec",
       "value": 20,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 93,
       "name": "lefkorosos",
       "value": 20,
-      "move": 3
+      "move": 0
     },
     {
       "rank": 94,
       "name": "Максим",
       "value": 20,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 95,
       "name": "vitalij",
       "value": 20,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 96,
       "name": "Vladimir Magrin",
       "value": 19,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 97,
@@ -1783,19 +1783,19 @@
       "rank": 297,
       "name": "Alex",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 298,
       "name": "Bella",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 299,
       "name": "Tyler",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 300,
@@ -1807,7 +1807,7 @@
       "rank": 301,
       "name": "vitaliy",
       "value": 0,
-      "move": -4
+      "move": -1
     }
   ],
   "month": [
