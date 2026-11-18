@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-18T09:01:58+00:00",
+  "updated": "2026-11-18T09:48:33+00:00",
   "count": 302,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5889,
+      "value": 5890,
       "move": 0
     },
     {
@@ -677,33 +677,33 @@
     },
     {
       "rank": 113,
-      "name": "Роман",
-      "value": 10,
-      "move": 0
+      "name": "Sonic",
+      "value": 11,
+      "move": 4
     },
     {
       "rank": 114,
-      "name": "Виталий",
+      "name": "Роман",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 115,
-      "name": "Dede",
+      "name": "Виталий",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 116,
-      "name": "Snowflake ❄️",
+      "name": "Dede",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 117,
-      "name": "Sonic",
+      "name": "Snowflake ❄️",
       "value": 10,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 118,
@@ -1820,7 +1820,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 112
+      "value": 113
     },
     {
       "rank": 2,
@@ -1969,12 +1969,12 @@
     },
     {
       "rank": 31,
-      "name": "Ponemonec",
-      "value": 9
+      "name": "Sonic",
+      "value": 10
     },
     {
       "rank": 32,
-      "name": "Sonic",
+      "name": "Ponemonec",
       "value": 9
     },
     {
@@ -2072,7 +2072,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 56
+      "value": 57
     },
     {
       "rank": 2,
@@ -2307,6 +2307,11 @@
     {
       "rank": 48,
       "name": "Mcull",
+      "value": 1
+    },
+    {
+      "rank": 49,
+      "name": "Sonic",
       "value": 1
     }
   ]
