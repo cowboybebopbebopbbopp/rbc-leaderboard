@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T14:48:54+00:00",
+  "updated": "2026-11-18T15:48:59+00:00",
   "count": 302,
   "has_movement": true,
   "all": [
@@ -2092,7 +2092,7 @@
     {
       "rank": 5,
       "name": "Aся",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 6,
@@ -2131,32 +2131,32 @@
     },
     {
       "rank": 13,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 6
-    },
-    {
-      "rank": 14,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Logrus",
       "value": 6
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Анастасия D",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "iDiklonius",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Viktor",
+      "value": 5
+    },
+    {
+      "rank": 18,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 5
     },
     {
@@ -2176,37 +2176,37 @@
     },
     {
       "rank": 22,
-      "name": "Don Michele Corleone",
-      "value": 4
-    },
-    {
-      "rank": 23,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "@wavesscalper",
+      "value": 3
+    },
+    {
+      "rank": 28,
+      "name": "Don Michele Corleone",
       "value": 3
     },
     {
