@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-18T12:48:43+00:00",
+  "updated": "2026-11-18T13:48:49+00:00",
   "count": 302,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5891,
+      "value": 5892,
       "move": 0
     },
     {
@@ -509,15 +509,15 @@
     },
     {
       "rank": 85,
-      "name": "Petia Piatov",
+      "name": "Don Michele Corleone",
       "value": 23,
-      "move": 0
+      "move": 4
     },
     {
       "rank": 86,
-      "name": "Don Michele Corleone",
-      "value": 22,
-      "move": 3
+      "name": "Petia Piatov",
+      "value": 23,
+      "move": -1
     },
     {
       "rank": 87,
@@ -1820,7 +1820,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 114
+      "value": 115
     },
     {
       "rank": 2,
@@ -1919,17 +1919,17 @@
     },
     {
       "rank": 21,
+      "name": "Don Michele Corleone",
+      "value": 18
+    },
+    {
+      "rank": 22,
       "name": "Manis Love",
       "value": 17
     },
     {
-      "rank": 22,
-      "name": "iDiklonius",
-      "value": 17
-    },
-    {
       "rank": 23,
-      "name": "Don Michele Corleone",
+      "name": "iDiklonius",
       "value": 17
     },
     {
@@ -2072,7 +2072,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 56
+      "value": 57
     },
     {
       "rank": 2,
@@ -2106,17 +2106,17 @@
     },
     {
       "rank": 8,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 11
-    },
-    {
-      "rank": 9,
       "name": "Руслан Иванов",
       "value": 10
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Charlie Shefelman",
+      "value": 10
+    },
+    {
+      "rank": 10,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 10
     },
     {
@@ -2171,42 +2171,42 @@
     },
     {
       "rank": 21,
+      "name": "Don Michele Corleone",
+      "value": 4
+    },
+    {
+      "rank": 22,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Logrus",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 27,
-      "name": "@wavesscalper",
-      "value": 3
-    },
-    {
       "rank": 28,
-      "name": "Don Michele Corleone",
+      "name": "@wavesscalper",
       "value": 3
     },
     {
