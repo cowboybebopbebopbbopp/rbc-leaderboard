@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T09:48:33+00:00",
+  "updated": "2026-11-18T10:48:33+00:00",
   "count": 302,
   "has_movement": true,
   "all": [
@@ -515,27 +515,27 @@
     },
     {
       "rank": 86,
-      "name": "Pavel",
+      "name": "Don Michele Corleone",
       "value": 22,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 87,
-      "name": "Толян",
-      "value": 21,
-      "move": 0
+      "name": "Pavel",
+      "value": 22,
+      "move": -1
     },
     {
       "rank": 88,
-      "name": "X888",
+      "name": "Толян",
       "value": 21,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 89,
-      "name": "Don Michele Corleone",
+      "name": "X888",
       "value": 21,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 90,
@@ -665,21 +665,21 @@
     },
     {
       "rank": 111,
-      "name": "Олег",
-      "value": 11,
-      "move": 0
+      "name": "Sonic",
+      "value": 12,
+      "move": 6
     },
     {
       "rank": 112,
-      "name": "AnTon",
+      "name": "Олег",
       "value": 11,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 113,
-      "name": "Sonic",
+      "name": "AnTon",
       "value": 11,
-      "move": 4
+      "move": -1
     },
     {
       "rank": 114,
@@ -1929,22 +1929,22 @@
     },
     {
       "rank": 23,
+      "name": "Don Michele Corleone",
+      "value": 17
+    },
+    {
+      "rank": 24,
       "name": "A.",
       "value": 16
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Logrus",
       "value": 16
     },
     {
-      "rank": 25,
-      "name": "@wavesscalper",
-      "value": 16
-    },
-    {
       "rank": 26,
-      "name": "Don Michele Corleone",
+      "name": "@wavesscalper",
       "value": 16
     },
     {
@@ -1964,12 +1964,12 @@
     },
     {
       "rank": 30,
-      "name": "Marina",
-      "value": 10
+      "name": "Sonic",
+      "value": 11
     },
     {
       "rank": 31,
-      "name": "Sonic",
+      "name": "Marina",
       "value": 10
     },
     {
@@ -2072,7 +2072,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 57
+      "value": 56
     },
     {
       "rank": 2,
@@ -2206,112 +2206,112 @@
     },
     {
       "rank": 28,
+      "name": "Don Michele Corleone",
+      "value": 3
+    },
+    {
+      "rank": 29,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Pike",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Ponemonec",
       "value": 2
     },
     {
-      "rank": 36,
-      "name": "Don Michele Corleone",
+      "rank": 37,
+      "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "PiratesOfMining",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Petia Piatov",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": ".section stub",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
-      "rank": 48,
-      "name": "Mcull",
-      "value": 1
-    },
-    {
       "rank": 49,
-      "name": "Sonic",
+      "name": "Mcull",
       "value": 1
     }
   ]
