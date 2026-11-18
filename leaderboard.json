@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T06:48:32+00:00",
+  "updated": "2026-11-18T07:48:32+00:00",
   "count": 301,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1964,
+      "value": 1966,
       "move": 0
     },
     {
@@ -1824,7 +1824,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 86
+      "value": 88
     },
     {
       "rank": 4,
@@ -2070,17 +2070,17 @@
     },
     {
       "rank": 2,
-      "name": "SPM",
-      "value": 20
-    },
-    {
-      "rank": 3,
       "name": "Aся",
       "value": 20
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "a l",
+      "value": 19
+    },
+    {
+      "rank": 4,
+      "name": "SPM",
       "value": 19
     },
     {
@@ -2090,17 +2090,17 @@
     },
     {
       "rank": 6,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 12
+      "name": "🅾🅻🅶🅰",
+      "value": 13
     },
     {
       "rank": 7,
-      "name": "🅾🅻🅶🅰",
+      "name": "Zero-sum Gamer",
       "value": 11
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 11
     },
     {
