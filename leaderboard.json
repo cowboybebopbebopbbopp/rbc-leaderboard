@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T13:50:55+00:00",
+  "updated": "2026-11-19T14:51:00+00:00",
   "count": 304,
   "has_movement": true,
   "all": [
@@ -1842,7 +1842,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 94
+      "value": 85
     },
     {
       "rank": 4,
@@ -1851,17 +1851,17 @@
     },
     {
       "rank": 5,
-      "name": "Crypto Panda",
-      "value": 53
-    },
-    {
-      "rank": 6,
       "name": "SPM",
       "value": 50
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Archie",
+      "value": 46
+    },
+    {
+      "rank": 7,
+      "name": "Crypto Panda",
       "value": 46
     },
     {
@@ -1917,7 +1917,7 @@
     {
       "rank": 18,
       "name": "Vitaliy",
-      "value": 23
+      "value": 22
     },
     {
       "rank": 19,
@@ -1941,22 +1941,22 @@
     },
     {
       "rank": 23,
-      "name": "Don Michele Corleone",
-      "value": 18
-    },
-    {
-      "rank": 24,
       "name": "Manis Love",
       "value": 17
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "A.",
       "value": 16
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Logrus",
+      "value": 16
+    },
+    {
+      "rank": 26,
+      "name": "Don Michele Corleone",
       "value": 16
     },
     {
@@ -2084,7 +2084,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 48
+      "value": 44
     },
     {
       "rank": 2,
@@ -2099,7 +2099,7 @@
     {
       "rank": 4,
       "name": "Серхио Ле'Трас",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 5,
@@ -2193,82 +2193,82 @@
     },
     {
       "rank": 23,
-      "name": "L G",
-      "value": 3
-    },
-    {
-      "rank": 24,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Don Michele Corleone",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "PiratesOfMining",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Эдуард Анатольевич",
+      "value": 1
+    },
+    {
+      "rank": 38,
+      "name": "L G",
       "value": 1
     },
     {
