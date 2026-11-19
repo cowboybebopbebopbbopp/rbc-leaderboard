@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-19T11:50:43+00:00",
+  "updated": "2026-11-19T12:50:48+00:00",
   "count": 304,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5898,
+      "value": 5899,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 497,
+      "value": 498,
       "move": 0
     },
     {
@@ -1832,7 +1832,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 121
+      "value": 122
     },
     {
       "rank": 2,
@@ -1936,17 +1936,17 @@
     },
     {
       "rank": 22,
-      "name": "Don Michele Corleone",
+      "name": "iDiklonius",
       "value": 18
     },
     {
       "rank": 23,
-      "name": "Manis Love",
-      "value": 17
+      "name": "Don Michele Corleone",
+      "value": 18
     },
     {
       "rank": 24,
-      "name": "iDiklonius",
+      "name": "Manis Love",
       "value": 17
     },
     {
@@ -2084,17 +2084,17 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 49
+      "value": 48
     },
     {
       "rank": 2,
-      "name": "SPM",
+      "name": "🅾🅻🅶🅰",
       "value": 19
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
-      "value": 19
+      "name": "SPM",
+      "value": 18
     },
     {
       "rank": 4,
@@ -2133,22 +2133,22 @@
     },
     {
       "rank": 11,
-      "name": ".",
+      "name": "iDiklonius",
       "value": 7
     },
     {
       "rank": 12,
+      "name": ".",
+      "value": 7
+    },
+    {
+      "rank": 13,
       "name": "Logrus",
       "value": 6
     },
     {
-      "rank": 13,
-      "name": "Archie",
-      "value": 6
-    },
-    {
       "rank": 14,
-      "name": "iDiklonius",
+      "name": "Archie",
       "value": 6
     },
     {
