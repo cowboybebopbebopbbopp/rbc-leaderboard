@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-19T16:51:13+00:00",
+  "updated": "2026-11-19T17:51:19+00:00",
   "count": 304,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5900,
+      "value": 5902,
       "move": 0
     },
     {
@@ -1832,12 +1832,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 123
+      "value": 125
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 91
+      "value": 90
     },
     {
       "rank": 3,
@@ -1847,7 +1847,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 63
+      "value": 60
     },
     {
       "rank": 5,
@@ -1857,7 +1857,7 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 47
+      "value": 46
     },
     {
       "rank": 7,
@@ -1937,7 +1937,7 @@
     {
       "rank": 22,
       "name": "LlirikMK",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 23,
@@ -2084,7 +2084,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 43
+      "value": 45
     },
     {
       "rank": 2,
@@ -2103,13 +2103,13 @@
     },
     {
       "rank": 5,
-      "name": "Aся",
+      "name": "Серхио Ле'Трас",
       "value": 13
     },
     {
       "rank": 6,
-      "name": "Серхио Ле'Трас",
-      "value": 13
+      "name": "Aся",
+      "value": 12
     },
     {
       "rank": 7,
@@ -2168,47 +2168,47 @@
     },
     {
       "rank": 18,
-      "name": "Marina",
-      "value": 5
-    },
-    {
-      "rank": 19,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 20,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 4
-    },
-    {
-      "rank": 21,
+      "rank": 19,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 20,
       "name": "Анастасия D",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 21,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 22,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 23,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 24,
       "name": "Синдбад Мореход",
+      "value": 3
+    },
+    {
+      "rank": 25,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 3
+    },
+    {
+      "rank": 26,
+      "name": "Marina",
       "value": 3
     },
     {
