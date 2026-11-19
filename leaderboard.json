@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T15:51:07+00:00",
+  "updated": "2026-11-19T16:51:13+00:00",
   "count": 304,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1911,
+      "value": 1912,
       "move": 0
     },
     {
@@ -234,7 +234,7 @@
     {
       "rank": 39,
       "name": "Руслан Иванов",
-      "value": 138,
+      "value": 139,
       "move": 0
     },
     {
@@ -1847,7 +1847,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 62
+      "value": 63
     },
     {
       "rank": 5,
@@ -1857,7 +1857,7 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 7,
@@ -1867,7 +1867,7 @@
     {
       "rank": 8,
       "name": "Crypto Panda",
-      "value": 45
+      "value": 44
     },
     {
       "rank": 9,
@@ -1951,12 +1951,12 @@
     },
     {
       "rank": 25,
-      "name": "Don Michele Corleone",
-      "value": 16
+      "name": "Manis Love",
+      "value": 15
     },
     {
       "rank": 26,
-      "name": "Manis Love",
+      "name": "Don Michele Corleone",
       "value": 15
     },
     {
@@ -2093,33 +2093,33 @@
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
-      "value": 16
-    },
-    {
-      "rank": 4,
-      "name": "Серхио Ле'Трас",
-      "value": 15
-    },
-    {
-      "rank": 5,
       "name": "a l",
       "value": 14
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "name": "🅾🅻🅶🅰",
+      "value": 14
+    },
+    {
+      "rank": 5,
       "name": "Aся",
       "value": 13
     },
     {
+      "rank": 6,
+      "name": "Серхио Ле'Трас",
+      "value": 13
+    },
+    {
       "rank": 7,
-      "name": "Zero-sum Gamer",
+      "name": "Руслан Иванов",
       "value": 12
     },
     {
       "rank": 8,
-      "name": "Руслан Иванов",
-      "value": 11
+      "name": "Zero-sum Gamer",
+      "value": 12
     },
     {
       "rank": 9,
@@ -2133,22 +2133,22 @@
     },
     {
       "rank": 11,
-      "name": "iDiklonius",
+      "name": "Archie",
       "value": 7
     },
     {
       "rank": 12,
-      "name": ".",
+      "name": "iDiklonius",
       "value": 7
     },
     {
       "rank": 13,
-      "name": "Logrus",
-      "value": 6
+      "name": ".",
+      "value": 7
     },
     {
       "rank": 14,
-      "name": "Archie",
+      "name": "Logrus",
       "value": 6
     },
     {
@@ -2213,37 +2213,37 @@
     },
     {
       "rank": 27,
-      "name": "Don Michele Corleone",
-      "value": 3
-    },
-    {
-      "rank": 28,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Sonic",
+      "value": 2
+    },
+    {
+      "rank": 33,
+      "name": "Don Michele Corleone",
       "value": 2
     },
     {
