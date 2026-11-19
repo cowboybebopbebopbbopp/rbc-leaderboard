@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T00:49:52+00:00",
+  "updated": "2026-11-19T01:49:51+00:00",
   "count": 302,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1040,
+      "value": 1041,
       "move": 0
     },
     {
@@ -1875,7 +1875,7 @@
     {
       "rank": 12,
       "name": "Viktor",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 13,
@@ -2116,7 +2116,7 @@
     },
     {
       "rank": 10,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Viktor",
       "value": 7
     },
     {
@@ -2126,22 +2126,22 @@
     },
     {
       "rank": 12,
-      "name": "Viktor",
-      "value": 6
-    },
-    {
-      "rank": 13,
       "name": "Logrus",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Archie",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "iDiklonius",
+      "value": 6
+    },
+    {
+      "rank": 15,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 6
     },
     {
