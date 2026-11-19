@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-19T05:50:12+00:00",
+  "updated": "2026-11-19T06:50:17+00:00",
   "count": 304,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5896,
+      "value": 5897,
       "move": 0
     },
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1971,
+      "value": 1972,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 964,
+      "value": 965,
       "move": 0
     },
     {
@@ -228,7 +228,7 @@
     {
       "rank": 38,
       "name": "Charlie Shefelman",
-      "value": 141,
+      "value": 142,
       "move": 0
     },
     {
@@ -1832,7 +1832,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 119
+      "value": 120
     },
     {
       "rank": 2,
@@ -1842,7 +1842,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 93
+      "value": 94
     },
     {
       "rank": 4,
@@ -1877,7 +1877,7 @@
     {
       "rank": 10,
       "name": "Zero-sum Gamer",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 11,
@@ -1966,13 +1966,13 @@
     },
     {
       "rank": 28,
-      "name": "I",
+      "name": "Charlie Shefelman",
       "value": 14
     },
     {
       "rank": 29,
-      "name": "Charlie Shefelman",
-      "value": 13
+      "name": "I",
+      "value": 14
     },
     {
       "rank": 30,
@@ -2084,7 +2084,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 54
+      "value": 55
     },
     {
       "rank": 2,
@@ -2094,7 +2094,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 4,
@@ -2104,7 +2104,7 @@
     {
       "rank": 5,
       "name": "a l",
-      "value": 16
+      "value": 14
     },
     {
       "rank": 6,
@@ -2114,7 +2114,7 @@
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 8,
@@ -2124,7 +2124,7 @@
     {
       "rank": 9,
       "name": "Charlie Shefelman",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 10,
@@ -2168,22 +2168,22 @@
     },
     {
       "rank": 18,
-      "name": "Анастасия D",
-      "value": 5
-    },
-    {
-      "rank": 19,
       "name": "Marina",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Алексей",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 4
+    },
+    {
+      "rank": 21,
+      "name": "Анастасия D",
       "value": 4
     },
     {
