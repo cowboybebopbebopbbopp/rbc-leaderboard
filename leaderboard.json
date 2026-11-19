@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T09:50:32+00:00",
+  "updated": "2026-11-19T10:50:38+00:00",
   "count": 304,
   "has_movement": true,
   "all": [
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 749,
+      "value": 750,
       "move": 0
     },
     {
@@ -2011,27 +2011,27 @@
     },
     {
       "rank": 37,
-      "name": "Евгений",
+      "name": "L G",
       "value": 6
     },
     {
       "rank": 38,
-      "name": "Олег",
+      "name": "Евгений",
       "value": 6
     },
     {
       "rank": 39,
+      "name": "Олег",
+      "value": 6
+    },
+    {
+      "rank": 40,
       "name": "Pavel",
       "value": 5
     },
     {
-      "rank": 40,
-      "name": "Виталий",
-      "value": 5
-    },
-    {
       "rank": 41,
-      "name": "L G",
+      "name": "Виталий",
       "value": 5
     },
     {
@@ -2084,7 +2084,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 51
+      "value": 49
     },
     {
       "rank": 2,
@@ -2158,33 +2158,33 @@
     },
     {
       "rank": 16,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 6
-    },
-    {
-      "rank": 17,
       "name": "Vitaliy",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Marina",
       "value": 5
     },
     {
+      "rank": 19,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 4
+    },
+    {
       "rank": 20,
-      "name": "Алексей",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 4
     },
     {
       "rank": 21,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 4
+      "name": "Алексей",
+      "value": 3
     },
     {
       "rank": 22,
@@ -2198,37 +2198,37 @@
     },
     {
       "rank": 24,
-      "name": "Князь Владимир С",
+      "name": "L G",
       "value": 3
     },
     {
       "rank": 25,
-      "name": "Андрей",
+      "name": "Князь Владимир С",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "Vlad",
+      "name": "Андрей",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "Синдбад Мореход",
+      "name": "Vlad",
       "value": 3
     },
     {
       "rank": 28,
-      "name": "Don Michele Corleone",
+      "name": "Синдбад Мореход",
       "value": 3
     },
     {
       "rank": 29,
-      "name": "Pavel",
-      "value": 2
+      "name": "Don Michele Corleone",
+      "value": 3
     },
     {
       "rank": 30,
-      "name": "L G",
+      "name": "Pavel",
       "value": 2
     },
     {
