@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T17:51:19+00:00",
+  "updated": "2026-11-19T18:51:24+00:00",
   "count": 304,
   "has_movement": true,
   "all": [
@@ -1847,7 +1847,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 60
+      "value": 59
     },
     {
       "rank": 5,
@@ -1877,7 +1877,7 @@
     {
       "rank": 10,
       "name": "ᴦоᴧод",
-      "value": 36
+      "value": 34
     },
     {
       "rank": 11,
@@ -1912,7 +1912,7 @@
     {
       "rank": 17,
       "name": "Князь Владимир С",
-      "value": 24
+      "value": 23
     },
     {
       "rank": 18,
@@ -1932,21 +1932,21 @@
     {
       "rank": 21,
       "name": "iDiklonius",
-      "value": 18
-    },
-    {
-      "rank": 22,
-      "name": "LlirikMK",
       "value": 17
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "A.",
       "value": 16
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Logrus",
+      "value": 16
+    },
+    {
+      "rank": 24,
+      "name": "LlirikMK",
       "value": 16
     },
     {
@@ -1956,22 +1956,22 @@
     },
     {
       "rank": 26,
-      "name": "Don Michele Corleone",
-      "value": 15
-    },
-    {
-      "rank": 27,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 14
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Charlie Shefelman",
       "value": 14
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "I",
+      "value": 14
+    },
+    {
+      "rank": 29,
+      "name": "Don Michele Corleone",
       "value": 14
     },
     {
