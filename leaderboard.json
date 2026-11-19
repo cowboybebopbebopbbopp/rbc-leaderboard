@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T02:49:56+00:00",
-  "count": 302,
+  "updated": "2026-11-19T03:50:02+00:00",
+  "count": 303,
   "has_movement": true,
   "all": [
     {
@@ -114,7 +114,7 @@
     {
       "rank": 19,
       "name": "@wavesscalper",
-      "value": 367,
+      "value": 368,
       "move": 0
     },
     {
@@ -683,33 +683,33 @@
     },
     {
       "rank": 114,
-      "name": "Роман",
-      "value": 10,
-      "move": -1
+      "name": "Oleg Maksimov",
+      "value": 11,
+      "move": 4
     },
     {
       "rank": 115,
-      "name": "Виталий",
+      "name": "Роман",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 116,
-      "name": "Dede",
+      "name": "Виталий",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 117,
-      "name": "Snowflake ❄️",
+      "name": "Dede",
       "value": 10,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 118,
-      "name": "Oleg Maksimov",
+      "name": "Snowflake ❄️",
       "value": 10,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 119,
@@ -1811,9 +1811,15 @@
     },
     {
       "rank": 302,
+      "name": "Brittani Prr",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 303,
       "name": "vitaliy",
       "value": 0,
-      "move": -1
+      "move": -2
     }
   ],
   "month": [
@@ -1934,17 +1940,17 @@
     },
     {
       "rank": 24,
+      "name": "@wavesscalper",
+      "value": 17
+    },
+    {
+      "rank": 25,
       "name": "A.",
       "value": 16
     },
     {
-      "rank": 25,
-      "name": "Logrus",
-      "value": 16
-    },
-    {
       "rank": 26,
-      "name": "@wavesscalper",
+      "name": "Logrus",
       "value": 16
     },
     {
@@ -1984,12 +1990,12 @@
     },
     {
       "rank": 34,
-      "name": "t.me/hapexoᚾK1T",
-      "value": 7
+      "name": "Oleg Maksimov",
+      "value": 8
     },
     {
       "rank": 35,
-      "name": "Oleg Maksimov",
+      "name": "t.me/hapexoᚾK1T",
       "value": 7
     },
     {
@@ -2176,32 +2182,32 @@
     },
     {
       "rank": 22,
+      "name": "@wavesscalper",
+      "value": 4
+    },
+    {
+      "rank": 23,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 26,
-      "name": "Синдбад Мореход",
-      "value": 3
-    },
-    {
       "rank": 27,
-      "name": "@wavesscalper",
+      "name": "Синдбад Мореход",
       "value": 3
     },
     {
@@ -2306,11 +2312,16 @@
     },
     {
       "rank": 48,
-      "name": "Mcull",
+      "name": "Oleg Maksimov",
       "value": 1
     },
     {
       "rank": 49,
+      "name": "Mcull",
+      "value": 1
+    },
+    {
+      "rank": 50,
       "name": "Ponemonec",
       "value": 1
     }
