@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T18:51:24+00:00",
+  "updated": "2026-11-19T19:51:29+00:00",
   "count": 304,
   "has_movement": true,
   "all": [
@@ -569,33 +569,33 @@
     },
     {
       "rank": 95,
-      "name": "vitalij",
+      "name": "Logrus",
       "value": 20,
-      "move": 0
+      "move": 4
     },
     {
       "rank": 96,
-      "name": "Vladimir Magrin",
-      "value": 19,
-      "move": 0
+      "name": "vitalij",
+      "value": 20,
+      "move": -1
     },
     {
       "rank": 97,
-      "name": "Евгений",
-      "value": 18,
-      "move": 0
+      "name": "Vladimir Magrin",
+      "value": 19,
+      "move": -1
     },
     {
       "rank": 98,
-      "name": "Алина",
+      "name": "Евгений",
       "value": 18,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 99,
-      "name": "Logrus",
+      "name": "Алина",
       "value": 18,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 100,
@@ -1906,28 +1906,28 @@
     },
     {
       "rank": 16,
-      "name": ".",
-      "value": 25
-    },
-    {
-      "rank": 17,
-      "name": "Князь Владимир С",
-      "value": 23
-    },
-    {
-      "rank": 18,
       "name": "Vitaliy",
       "value": 22
     },
     {
-      "rank": 19,
+      "rank": 17,
       "name": "Серхио Ле'Трас",
       "value": 22
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "name": "Князь Владимир С",
+      "value": 22
+    },
+    {
+      "rank": 19,
       "name": "@wavesscalper",
       "value": 19
+    },
+    {
+      "rank": 20,
+      "name": "Logrus",
+      "value": 18
     },
     {
       "rank": 21,
@@ -1936,27 +1936,27 @@
     },
     {
       "rank": 22,
+      "name": ".",
+      "value": 17
+    },
+    {
+      "rank": 23,
       "name": "A.",
       "value": 16
     },
     {
-      "rank": 23,
-      "name": "Logrus",
-      "value": 16
-    },
-    {
       "rank": 24,
-      "name": "LlirikMK",
-      "value": 16
-    },
-    {
-      "rank": 25,
       "name": "Manis Love",
       "value": 15
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Алехандро)🍅 Белов🍅",
+      "value": 14
+    },
+    {
+      "rank": 26,
+      "name": "LlirikMK",
       "value": 14
     },
     {
@@ -2026,43 +2026,43 @@
     },
     {
       "rank": 40,
-      "name": "Pavel",
-      "value": 5
-    },
-    {
-      "rank": 41,
       "name": "Виталий",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Сергей",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "🤗",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "lefkorosos",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Olga Goncharova",
       "value": 5
+    },
+    {
+      "rank": 47,
+      "name": "Pavel",
+      "value": 4
     },
     {
       "rank": 48,
@@ -2128,28 +2128,28 @@
     },
     {
       "rank": 10,
+      "name": "Logrus",
+      "value": 8
+    },
+    {
+      "rank": 11,
       "name": "Viktor",
       "value": 7
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Archie",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "iDiklonius",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": ".",
       "value": 7
-    },
-    {
-      "rank": 14,
-      "name": "Logrus",
-      "value": 6
     },
     {
       "rank": 15,
