@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:51:34+00:00",
+  "updated": "2026-11-19T21:51:39+00:00",
   "count": 304,
   "has_movement": true,
   "all": [
@@ -114,7 +114,7 @@
     {
       "rank": 19,
       "name": "@wavesscalper",
-      "value": 370,
+      "value": 371,
       "move": 0
     },
     {
@@ -234,7 +234,7 @@
     {
       "rank": 39,
       "name": "Руслан Иванов",
-      "value": 139,
+      "value": 140,
       "move": 0
     },
     {
@@ -1847,7 +1847,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 59
+      "value": 60
     },
     {
       "rank": 5,
@@ -1867,7 +1867,7 @@
     {
       "rank": 8,
       "name": "Crypto Panda",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 9,
@@ -1891,12 +1891,12 @@
     },
     {
       "rank": 13,
-      "name": "Синдбад Мореход",
-      "value": 30
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 29
     },
     {
       "rank": 14,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Синдбад Мореход",
       "value": 29
     },
     {
@@ -1922,7 +1922,7 @@
     {
       "rank": 19,
       "name": "@wavesscalper",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 20,
@@ -2108,12 +2108,12 @@
     },
     {
       "rank": 6,
-      "name": "Aся",
-      "value": 12
+      "name": "Руслан Иванов",
+      "value": 13
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
+      "name": "Aся",
       "value": 12
     },
     {
@@ -2148,12 +2148,12 @@
     },
     {
       "rank": 14,
-      "name": ".",
+      "name": "@wavesscalper",
       "value": 7
     },
     {
       "rank": 15,
-      "name": "@wavesscalper",
+      "name": ".",
       "value": 6
     },
     {
