@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-19T10:50:38+00:00",
+  "updated": "2026-11-19T11:50:43+00:00",
   "count": 304,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5897,
+      "value": 5898,
       "move": 0
     },
     {
@@ -1832,7 +1832,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 120
+      "value": 121
     },
     {
       "rank": 2,
@@ -2183,48 +2183,48 @@
     },
     {
       "rank": 21,
-      "name": "Алексей",
-      "value": 3
-    },
-    {
-      "rank": 22,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Анастасия D",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "L G",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Don Michele Corleone",
       "value": 3
+    },
+    {
+      "rank": 29,
+      "name": "Алексей",
+      "value": 2
     },
     {
       "rank": 30,
