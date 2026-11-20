@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T04:52:14+00:00",
+  "updated": "2026-11-20T05:52:20+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -1962,23 +1962,23 @@
     },
     {
       "rank": 26,
-      "name": "LlirikMK",
-      "value": 14
-    },
-    {
-      "rank": 27,
       "name": "Charlie Shefelman",
       "value": 14
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "I",
       "value": 14
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Don Michele Corleone",
       "value": 14
+    },
+    {
+      "rank": 29,
+      "name": "LlirikMK",
+      "value": 13
     },
     {
       "rank": 30,
@@ -2032,42 +2032,42 @@
     },
     {
       "rank": 40,
-      "name": "Виталий",
-      "value": 5
-    },
-    {
-      "rank": 41,
       "name": "Сергей",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "🤗",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "lefkorosos",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Pavel",
+      "value": 4
+    },
+    {
+      "rank": 47,
+      "name": "Виталий",
       "value": 4
     },
     {
@@ -2077,12 +2077,12 @@
     },
     {
       "rank": 49,
-      "name": "E X O",
+      "name": "PiratesOfMining",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "PiratesOfMining",
+      "name": "MEMBER.",
       "value": 3
     }
   ],
@@ -2095,7 +2095,7 @@
     {
       "rank": 2,
       "name": "SPM",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 3,
@@ -2299,42 +2299,42 @@
     },
     {
       "rank": 43,
-      "name": "Bazylev Nickolai",
-      "value": 1
-    },
-    {
-      "rank": 44,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Oleg Maksimov",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Mcull",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Ponemonec",
       "value": 1
     }
   ]
