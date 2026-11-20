@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T12:52:56+00:00",
+  "updated": "2026-11-20T13:53:04+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1377,
+      "value": 1381,
       "move": 0
     },
     {
@@ -1857,18 +1857,18 @@
     },
     {
       "rank": 5,
+      "name": "a l",
+      "value": 49
+    },
+    {
+      "rank": 6,
       "name": "SPM",
       "value": 48
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Archie",
       "value": 46
-    },
-    {
-      "rank": 7,
-      "name": "a l",
-      "value": 45
     },
     {
       "rank": 8,
@@ -2090,12 +2090,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 17
+      "value": 21
     },
     {
       "rank": 3,
@@ -2114,13 +2114,13 @@
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
+      "name": "Zero-sum Gamer",
       "value": 13
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
-      "value": 13
+      "name": "Руслан Иванов",
+      "value": 11
     },
     {
       "rank": 8,
@@ -2139,13 +2139,13 @@
     },
     {
       "rank": 11,
-      "name": "Logrus",
-      "value": 8
+      "name": "@wavesscalper",
+      "value": 7
     },
     {
       "rank": 12,
-      "name": "@wavesscalper",
-      "value": 7
+      "name": "Logrus",
+      "value": 6
     },
     {
       "rank": 13,
@@ -2214,62 +2214,62 @@
     },
     {
       "rank": 26,
-      "name": "Анастасия D",
-      "value": 2
-    },
-    {
-      "rank": 27,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Petia Piatov",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "PiratesOfMining",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Эдуард Анатольевич",
+      "value": 1
+    },
+    {
+      "rank": 37,
+      "name": "Анастасия D",
       "value": 1
     },
     {
@@ -2289,41 +2289,36 @@
     },
     {
       "rank": 41,
-      "name": ".section stub",
-      "value": 1
-    },
-    {
-      "rank": 42,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Oleg Maksimov",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Mcull",
       "value": 1
     }
