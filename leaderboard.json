@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-20T05:52:20+00:00",
+  "updated": "2026-11-20T06:52:25+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5903,
+      "value": 5904,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1912,
+      "value": 1913,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1372,
+      "value": 1373,
       "move": 0
     },
     {
@@ -1838,7 +1838,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 126
+      "value": 127
     },
     {
       "rank": 2,
@@ -1863,7 +1863,7 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 7,
@@ -1873,7 +1873,7 @@
     {
       "rank": 8,
       "name": "a l",
-      "value": 40
+      "value": 41
     },
     {
       "rank": 9,
@@ -2095,17 +2095,17 @@
     {
       "rank": 2,
       "name": "SPM",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 3,
-      "name": "a l",
+      "name": "🅾🅻🅶🅰",
       "value": 14
     },
     {
       "rank": 4,
-      "name": "🅾🅻🅶🅰",
-      "value": 14
+      "name": "a l",
+      "value": 13
     },
     {
       "rank": 5,
@@ -2140,17 +2140,17 @@
     {
       "rank": 11,
       "name": "Archie",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 12,
-      "name": "iDiklonius",
+      "name": "@wavesscalper",
       "value": 7
     },
     {
       "rank": 13,
-      "name": "@wavesscalper",
-      "value": 7
+      "name": "iDiklonius",
+      "value": 6
     },
     {
       "rank": 14,
@@ -2330,11 +2330,6 @@
     {
       "rank": 49,
       "name": "Mcull",
-      "value": 1
-    },
-    {
-      "rank": 50,
-      "name": "Ponemonec",
       "value": 1
     }
   ]
