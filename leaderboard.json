@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T08:52:35+00:00",
+  "updated": "2026-11-20T09:52:40+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1913,
+      "value": 1914,
       "move": 0
     },
     {
@@ -1838,7 +1838,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 127
+      "value": 125
     },
     {
       "rank": 2,
@@ -1853,7 +1853,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 60
+      "value": 59
     },
     {
       "rank": 5,
@@ -1863,7 +1863,7 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 47
+      "value": 48
     },
     {
       "rank": 7,
@@ -1893,7 +1893,7 @@
     {
       "rank": 12,
       "name": "Zero-sum Gamer",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 13,
@@ -2090,7 +2090,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 39
+      "value": 37
     },
     {
       "rank": 2,
@@ -2125,7 +2125,7 @@
     {
       "rank": 8,
       "name": "Aся",
-      "value": 11
+      "value": 10
     },
     {
       "rank": 9,
@@ -2134,12 +2134,12 @@
     },
     {
       "rank": 10,
-      "name": "Logrus",
-      "value": 8
+      "name": "Archie",
+      "value": 9
     },
     {
       "rank": 11,
-      "name": "Archie",
+      "name": "Logrus",
       "value": 8
     },
     {
@@ -2164,12 +2164,12 @@
     },
     {
       "rank": 16,
-      "name": "iDiklonius",
-      "value": 5
+      "name": "Viktor",
+      "value": 4
     },
     {
       "rank": 17,
-      "name": "Viktor",
+      "name": "iDiklonius",
       "value": 4
     },
     {
