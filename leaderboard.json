@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T23:51:49+00:00",
+  "updated": "2026-11-20T00:50:01+00:00",
   "count": 304,
   "has_movement": true,
   "all": [
@@ -511,31 +511,31 @@
       "rank": 85,
       "name": "Don Michele Corleone",
       "value": 23,
-      "move": 4
+      "move": 0
     },
     {
       "rank": 86,
       "name": "Petia Piatov",
       "value": 23,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 87,
       "name": "Pavel",
       "value": 22,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 88,
       "name": "Толян",
       "value": 21,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 89,
       "name": "X888",
       "value": 21,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 90,
@@ -553,13 +553,13 @@
       "rank": 92,
       "name": "lefkorosos",
       "value": 21,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 93,
       "name": "Ponemonec",
       "value": 20,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 94,
@@ -667,19 +667,19 @@
       "rank": 111,
       "name": "Sonic",
       "value": 12,
-      "move": 6
+      "move": 0
     },
     {
       "rank": 112,
       "name": "Олег",
       "value": 11,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 113,
       "name": "AnTon",
       "value": 11,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 114,
@@ -691,25 +691,25 @@
       "rank": 115,
       "name": "Роман",
       "value": 10,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 116,
       "name": "Виталий",
       "value": 10,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 117,
       "name": "Dede",
       "value": 10,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 118,
       "name": "Snowflake ❄️",
       "value": 10,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 119,
@@ -1807,7 +1807,7 @@
       "rank": 301,
       "name": "Елена",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 302,
@@ -1825,7 +1825,7 @@
       "rank": 304,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -2
     }
   ],
   "month": [
