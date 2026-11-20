@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T19:53:40+00:00",
+  "updated": "2026-11-20T20:53:45+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "SPM",
-      "value": 126,
+      "value": 127,
       "move": 0
     },
     {
@@ -521,39 +521,39 @@
     },
     {
       "rank": 87,
-      "name": "Pavel",
+      "name": "lefkorosos",
       "value": 22,
-      "move": 0
+      "move": 5
     },
     {
       "rank": 88,
-      "name": "Толян",
-      "value": 21,
-      "move": 0
+      "name": "Pavel",
+      "value": 22,
+      "move": -1
     },
     {
       "rank": 89,
-      "name": "X888",
+      "name": "Толян",
       "value": 21,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 90,
-      "name": "Претор",
+      "name": "X888",
       "value": 21,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 91,
-      "name": "Marina",
+      "name": "Претор",
       "value": 21,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 92,
-      "name": "lefkorosos",
+      "name": "Marina",
       "value": 21,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 93,
@@ -1868,7 +1868,7 @@
     {
       "rank": 7,
       "name": "SPM",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 8,
@@ -2032,17 +2032,17 @@
     },
     {
       "rank": 40,
+      "name": "lefkorosos",
+      "value": 6
+    },
+    {
+      "rank": 41,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 41,
-      "name": "🤗",
-      "value": 5
-    },
-    {
       "rank": 42,
-      "name": "lefkorosos",
+      "name": "🤗",
       "value": 5
     },
     {
@@ -2090,7 +2090,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 36
+      "value": 35
     },
     {
       "rank": 2,
@@ -2104,13 +2104,13 @@
     },
     {
       "rank": 4,
-      "name": "Серхио Ле'Трас",
+      "name": "SPM",
       "value": 17
     },
     {
       "rank": 5,
-      "name": "SPM",
-      "value": 16
+      "name": "Серхио Ле'Трас",
+      "value": 17
     },
     {
       "rank": 6,
@@ -2149,32 +2149,32 @@
     },
     {
       "rank": 13,
-      "name": ".",
-      "value": 5
-    },
-    {
-      "rank": 14,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Mikhail",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Синдбад Мореход",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Oleg Maksimov",
+      "value": 4
+    },
+    {
+      "rank": 18,
+      "name": ".",
       "value": 4
     },
     {
@@ -2209,32 +2209,32 @@
     },
     {
       "rank": 25,
-      "name": "Marina",
+      "name": "lefkorosos",
       "value": 3
     },
     {
       "rank": 26,
+      "name": "Marina",
+      "value": 3
+    },
+    {
+      "rank": 27,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 29,
-      "name": "Petia Piatov",
-      "value": 2
-    },
-    {
       "rank": 30,
-      "name": "lefkorosos",
+      "name": "Petia Piatov",
       "value": 2
     },
     {
