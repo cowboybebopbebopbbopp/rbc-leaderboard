@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:53:50+00:00",
+  "updated": "2026-11-20T22:53:55+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1923,
+      "value": 1924,
       "move": 0
     },
     {
@@ -264,7 +264,7 @@
     {
       "rank": 44,
       "name": "Серхио Ле'Трас",
-      "value": 124,
+      "value": 125,
       "move": 0
     },
     {
@@ -1858,7 +1858,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 54
+      "value": 55
     },
     {
       "rank": 6,
@@ -1908,7 +1908,7 @@
     {
       "rank": 15,
       "name": "Серхио Ле'Трас",
-      "value": 26
+      "value": 27
     },
     {
       "rank": 16,
@@ -2100,21 +2100,21 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 4,
-      "name": "🅾🅻🅶🅰",
+      "name": "Серхио Ле'Трас",
       "value": 18
     },
     {
       "rank": 5,
-      "name": "SPM",
-      "value": 17
+      "name": "🅾🅻🅶🅰",
+      "value": 18
     },
     {
       "rank": 6,
-      "name": "Серхио Ле'Трас",
+      "name": "SPM",
       "value": 17
     },
     {
@@ -2164,47 +2164,47 @@
     },
     {
       "rank": 16,
-      "name": "Синдбад Мореход",
-      "value": 4
-    },
-    {
-      "rank": 17,
       "name": "Oleg Maksimov",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Aся",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Vlad",
+      "value": 3
+    },
+    {
+      "rank": 24,
+      "name": "Синдбад Мореход",
       "value": 3
     },
     {
