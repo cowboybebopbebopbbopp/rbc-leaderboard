@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T09:52:40+00:00",
+  "updated": "2026-11-20T10:52:46+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1914,
+      "value": 1915,
       "move": 0
     },
     {
@@ -503,21 +503,21 @@
     },
     {
       "rank": 84,
-      "name": "ilya Kalashnikov",
-      "value": 23,
-      "move": 0
+      "name": "Petia Piatov",
+      "value": 24,
+      "move": 2
     },
     {
       "rank": 85,
-      "name": "Don Michele Corleone",
+      "name": "ilya Kalashnikov",
       "value": 23,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 86,
-      "name": "Petia Piatov",
+      "name": "Don Michele Corleone",
       "value": 23,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 87,
@@ -2129,12 +2129,12 @@
     },
     {
       "rank": 9,
-      "name": "Charlie Shefelman",
+      "name": "Archie",
       "value": 10
     },
     {
       "rank": 10,
-      "name": "Archie",
+      "name": "Charlie Shefelman",
       "value": 9
     },
     {
@@ -2149,17 +2149,17 @@
     },
     {
       "rank": 13,
-      "name": ".",
-      "value": 6
-    },
-    {
-      "rank": 14,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Vitaliy",
+      "value": 5
+    },
+    {
+      "rank": 15,
+      "name": ".",
       "value": 5
     },
     {
@@ -2224,111 +2224,106 @@
     },
     {
       "rank": 28,
-      "name": "lefkorosos",
+      "name": "Petia Piatov",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "lefkorosos",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "Sonic",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "Don Michele Corleone",
+      "name": "Sonic",
       "value": 2
     },
     {
       "rank": 32,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 33,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "PiratesOfMining",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "MEMBER.",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 40,
-      "name": "AK",
-      "value": 1
-    },
-    {
       "rank": 41,
-      "name": "Petia Piatov",
-      "value": 1
-    },
-    {
-      "rank": 42,
       "name": ".section stub",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Oleg Maksimov",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Mcull",
       "value": 1
     }
