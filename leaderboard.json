@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:53:45+00:00",
+  "updated": "2026-11-20T21:53:50+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1920,
+      "value": 1923,
       "move": 0
     },
     {
@@ -1858,7 +1858,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 51
+      "value": 54
     },
     {
       "rank": 6,
@@ -1927,17 +1927,17 @@
     },
     {
       "rank": 19,
-      "name": "Князь Владимир С",
-      "value": 18
-    },
-    {
-      "rank": 20,
       "name": "Logrus",
       "value": 17
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "iDiklonius",
+      "value": 17
+    },
+    {
+      "rank": 21,
+      "name": "Князь Владимир С",
       "value": 17
     },
     {
@@ -1978,7 +1978,7 @@
     {
       "rank": 29,
       "name": "LlirikMK",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 30,
@@ -2099,23 +2099,23 @@
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
+      "name": "Archie",
       "value": 18
     },
     {
       "rank": 4,
+      "name": "🅾🅻🅶🅰",
+      "value": 18
+    },
+    {
+      "rank": 5,
       "name": "SPM",
       "value": 17
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Серхио Ле'Трас",
       "value": 17
-    },
-    {
-      "rank": 6,
-      "name": "Archie",
-      "value": 15
     },
     {
       "rank": 7,
