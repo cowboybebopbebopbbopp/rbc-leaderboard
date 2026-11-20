@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T10:52:46+00:00",
+  "updated": "2026-11-20T11:52:51+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1373,
+      "value": 1374,
       "move": 0
     },
     {
@@ -1843,17 +1843,17 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 89
+      "value": 87
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 78
+      "value": 77
     },
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 59
+      "value": 58
     },
     {
       "rank": 5,
@@ -1873,7 +1873,7 @@
     {
       "rank": 8,
       "name": "a l",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 9,
@@ -1887,17 +1887,17 @@
     },
     {
       "rank": 11,
-      "name": "Анастасия",
-      "value": 32
-    },
-    {
-      "rank": 12,
       "name": "Zero-sum Gamer",
       "value": 31
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 30
+    },
+    {
+      "rank": 13,
+      "name": "Анастасия",
       "value": 30
     },
     {
@@ -2099,13 +2099,13 @@
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
+      "name": "a l",
       "value": 14
     },
     {
       "rank": 4,
-      "name": "a l",
-      "value": 13
+      "name": "🅾🅻🅶🅰",
+      "value": 14
     },
     {
       "rank": 5,
