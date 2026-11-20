@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-20T14:53:10+00:00",
+  "updated": "2026-11-20T15:53:16+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5905,
+      "value": 5906,
       "move": 0
     },
     {
@@ -18,13 +18,13 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1972,
+      "value": 1974,
       "move": 0
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1916,
+      "value": 1917,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 899,
+      "value": 901,
       "move": 0
     },
     {
@@ -785,51 +785,51 @@
     },
     {
       "rank": 131,
-      "name": "Nikita",
+      "name": "Mikhail",
       "value": 7,
-      "move": 0
+      "move": 7
     },
     {
       "rank": 132,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": 0
+      "name": "Nikita",
+      "value": 7,
+      "move": -1
     },
     {
       "rank": 133,
-      "name": "Max⚡️",
+      "name": "Александр Николаев",
       "value": 6,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 134,
-      "name": "Андрей",
+      "name": "Max⚡️",
       "value": 6,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 135,
-      "name": "Капибара",
-      "value": 5,
-      "move": 0
+      "name": "Андрей",
+      "value": 6,
+      "move": -1
     },
     {
       "rank": 136,
-      "name": "AK",
+      "name": "Капибара",
       "value": 5,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 137,
-      "name": "Станислав Баев",
+      "name": "AK",
       "value": 5,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 138,
-      "name": "Mikhail",
+      "name": "Станислав Баев",
       "value": 5,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 139,
@@ -1838,7 +1838,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 125
+      "value": 126
     },
     {
       "rank": 2,
@@ -1848,7 +1848,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 75
+      "value": 73
     },
     {
       "rank": 4,
@@ -1868,7 +1868,7 @@
     {
       "rank": 7,
       "name": "Archie",
-      "value": 47
+      "value": 48
     },
     {
       "rank": 8,
@@ -1887,23 +1887,23 @@
     },
     {
       "rank": 11,
-      "name": "Zero-sum Gamer",
+      "name": "Синдбад Мореход",
       "value": 31
     },
     {
       "rank": 12,
+      "name": "Zero-sum Gamer",
+      "value": 31
+    },
+    {
+      "rank": 13,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 30
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Анастасия",
       "value": 30
-    },
-    {
-      "rank": 14,
-      "name": "Синдбад Мореход",
-      "value": 29
     },
     {
       "rank": 15,
@@ -1942,18 +1942,18 @@
     },
     {
       "rank": 22,
-      "name": ".",
-      "value": 17
+      "name": "A.",
+      "value": 16
     },
     {
       "rank": 23,
-      "name": "A.",
+      "name": ".",
       "value": 16
     },
     {
       "rank": 24,
       "name": "Manis Love",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 25,
@@ -2022,57 +2022,57 @@
     },
     {
       "rank": 38,
-      "name": "Евгений",
-      "value": 6
-    },
-    {
-      "rank": 39,
       "name": "Олег",
       "value": 6
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Сергей",
       "value": 5
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Сергей Л",
       "value": 5
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "🤗",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "lefkorosos",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Pavel",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Виталий",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Borz",
+      "value": 4
+    },
+    {
+      "rank": 48,
+      "name": "Евгений",
       "value": 4
     },
     {
@@ -2090,7 +2090,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 35
+      "value": 36
     },
     {
       "rank": 2,
@@ -2105,7 +2105,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 14
+      "value": 16
     },
     {
       "rank": 5,
@@ -2120,7 +2120,7 @@
     {
       "rank": 7,
       "name": "Archie",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 8,
@@ -2134,18 +2134,18 @@
     },
     {
       "rank": 10,
-      "name": "Aся",
-      "value": 7
-    },
-    {
-      "rank": 11,
       "name": "@wavesscalper",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Logrus",
       "value": 6
+    },
+    {
+      "rank": 12,
+      "name": "Aся",
+      "value": 5
     },
     {
       "rank": 13,
@@ -2159,37 +2159,37 @@
     },
     {
       "rank": 15,
-      "name": ".",
+      "name": "Синдбад Мореход",
       "value": 5
     },
     {
       "rank": 16,
+      "name": ".",
+      "value": 5
+    },
+    {
+      "rank": 17,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 17,
-      "name": "iDiklonius",
-      "value": 4
-    },
-    {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "iDiklonius",
       "value": 3
     },
     {
       "rank": 19,
-      "name": "Андрей",
+      "name": "Князь Владимир С",
       "value": 3
     },
     {
       "rank": 20,
-      "name": "Vlad",
+      "name": "Андрей",
       "value": 3
     },
     {
       "rank": 21,
-      "name": "Синдбад Мореход",
+      "name": "Vlad",
       "value": 3
     },
     {
@@ -2224,101 +2224,106 @@
     },
     {
       "rank": 28,
-      "name": "lefkorosos",
+      "name": "Mikhail",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "Oleg Maksimov",
+      "name": "lefkorosos",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Oleg Maksimov",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "Sonic",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Don Michele Corleone",
+      "name": "Sonic",
       "value": 2
     },
     {
       "rank": 33,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 34,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "PiratesOfMining",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Анастасия D",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "MEMBER.",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Mcull",
       "value": 1
     }
