@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:53:22+00:00",
+  "updated": "2026-11-20T17:53:27+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 966,
+      "value": 967,
       "move": 0
     },
     {
@@ -803,27 +803,27 @@
     },
     {
       "rank": 134,
-      "name": "Max⚡️",
+      "name": "AK",
       "value": 6,
-      "move": -1
+      "move": 2
     },
     {
       "rank": 135,
-      "name": "Андрей",
+      "name": "Max⚡️",
       "value": 6,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 136,
-      "name": "Капибара",
-      "value": 5,
-      "move": -1
+      "name": "Андрей",
+      "value": 6,
+      "move": -2
     },
     {
       "rank": 137,
-      "name": "AK",
+      "name": "Капибара",
       "value": 5,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 138,
@@ -1843,7 +1843,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 80
+      "value": 79
     },
     {
       "rank": 3,
@@ -1887,22 +1887,22 @@
     },
     {
       "rank": 11,
+      "name": "Zero-sum Gamer",
+      "value": 32
+    },
+    {
+      "rank": 12,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 31
     },
     {
-      "rank": 12,
-      "name": "Синдбад Мореход",
-      "value": 31
-    },
-    {
       "rank": 13,
-      "name": "Zero-sum Gamer",
-      "value": 31
+      "name": "Анастасия",
+      "value": 30
     },
     {
       "rank": 14,
-      "name": "Анастасия",
+      "name": "Синдбад Мореход",
       "value": 30
     },
     {
@@ -2072,17 +2072,17 @@
     },
     {
       "rank": 48,
+      "name": "AK",
+      "value": 4
+    },
+    {
+      "rank": 49,
       "name": "PiratesOfMining",
       "value": 3
     },
     {
-      "rank": 49,
-      "name": "MEMBER.",
-      "value": 3
-    },
-    {
       "rank": 50,
-      "name": "Евгений",
+      "name": "MEMBER.",
       "value": 3
     }
   ],
@@ -2115,7 +2115,7 @@
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 7,
@@ -2299,31 +2299,36 @@
     },
     {
       "rank": 43,
-      "name": "Олег",
+      "name": "AK",
       "value": 1
     },
     {
       "rank": 44,
-      "name": "🤗",
+      "name": "Олег",
       "value": 1
     },
     {
       "rank": 45,
-      "name": "Алексей",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 46,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "name": "Алексей",
       "value": 1
     },
     {
       "rank": 47,
-      "name": "Pike",
+      "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
       "rank": 48,
+      "name": "Pike",
+      "value": 1
+    },
+    {
+      "rank": 49,
       "name": "Mcull",
       "value": 1
     }
