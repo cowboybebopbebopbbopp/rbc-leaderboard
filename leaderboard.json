@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:52:04+00:00",
+  "updated": "2026-11-20T03:52:09+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -1867,13 +1867,13 @@
     },
     {
       "rank": 7,
-      "name": "a l",
-      "value": 45
+      "name": "Crypto Panda",
+      "value": 43
     },
     {
       "rank": 8,
-      "name": "Crypto Panda",
-      "value": 43
+      "name": "a l",
+      "value": 41
     },
     {
       "rank": 9,
@@ -1933,7 +1933,7 @@
     {
       "rank": 20,
       "name": "Logrus",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 21,
