@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-21T13:55:17+00:00",
+  "updated": "2026-11-21T14:55:24+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5911,
+      "value": 5912,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1925,
+      "value": 1927,
       "move": 0
     },
     {
@@ -239,15 +239,15 @@
     },
     {
       "rank": 40,
-      "name": "Andrey Tugarin",
+      "name": "Серхио Ле'Трас",
       "value": 130,
-      "move": 0
+      "move": 4
     },
     {
       "rank": 41,
-      "name": "Серхио Ле'Трас",
-      "value": 129,
-      "move": 3
+      "name": "Andrey Tugarin",
+      "value": 130,
+      "move": -1
     },
     {
       "rank": 42,
@@ -1844,7 +1844,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 130
+      "value": 131
     },
     {
       "rank": 2,
@@ -1858,13 +1858,13 @@
     },
     {
       "rank": 4,
-      "name": "Руслан Иванов",
+      "name": "Archie",
       "value": 57
     },
     {
       "rank": 5,
-      "name": "Archie",
-      "value": 55
+      "name": "Руслан Иванов",
+      "value": 57
     },
     {
       "rank": 6,
@@ -1898,12 +1898,12 @@
     },
     {
       "rank": 12,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 31
+      "name": "Серхио Ле'Трас",
+      "value": 32
     },
     {
       "rank": 13,
-      "name": "Серхио Ле'Трас",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 31
     },
     {
@@ -2033,17 +2033,17 @@
     },
     {
       "rank": 39,
-      "name": "Олег",
-      "value": 6
-    },
-    {
-      "rank": 40,
       "name": "lefkorosos",
       "value": 6
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Сергей Л",
+      "value": 5
+    },
+    {
+      "rank": 41,
+      "name": "Олег",
       "value": 5
     },
     {
@@ -2096,7 +2096,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 2,
@@ -2105,18 +2105,18 @@
     },
     {
       "rank": 3,
-      "name": "a l",
-      "value": 20
+      "name": "Archie",
+      "value": 22
     },
     {
       "rank": 4,
-      "name": "Archie",
+      "name": "a l",
       "value": 20
     },
     {
       "rank": 5,
       "name": "Серхио Ле'Трас",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 6,
@@ -2180,52 +2180,52 @@
     },
     {
       "rank": 18,
-      "name": ".",
-      "value": 4
-    },
-    {
-      "rank": 19,
       "name": "Алексей",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Aся",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Marina",
+      "value": 3
+    },
+    {
+      "rank": 27,
+      "name": ".",
       "value": 3
     },
     {
