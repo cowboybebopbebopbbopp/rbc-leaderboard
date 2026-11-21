@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T23:54:00+00:00",
+  "updated": "2026-11-21T00:50:15+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1924,
+      "value": 1925,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1041,
+      "value": 1042,
       "move": 0
     },
     {
@@ -571,31 +571,31 @@
       "rank": 95,
       "name": "Logrus",
       "value": 20,
-      "move": 4
+      "move": 0
     },
     {
       "rank": 96,
       "name": "vitalij",
       "value": 20,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 97,
       "name": "Vladimir Magrin",
       "value": 19,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 98,
       "name": "Евгений",
       "value": 18,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 99,
       "name": "Алина",
       "value": 18,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 100,
@@ -649,7 +649,7 @@
       "rank": 108,
       "name": "Oleg Maksimov",
       "value": 14,
-      "move": 10
+      "move": 6
     },
     {
       "rank": 109,
@@ -691,25 +691,25 @@
       "rank": 115,
       "name": "Роман",
       "value": 10,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 116,
       "name": "Виталий",
       "value": 10,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 117,
       "name": "Dede",
       "value": 10,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 118,
       "name": "Snowflake ❄️",
       "value": 10,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 119,
@@ -913,97 +913,97 @@
       "rank": 152,
       "name": "MEMBER.",
       "value": 4,
-      "move": 15
+      "move": 0
     },
     {
       "rank": 153,
       "name": "Ilya",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 154,
       "name": "Darya",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 155,
       "name": "Samurai_1",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 156,
       "name": "Sviat",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 157,
       "name": "1",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 158,
       "name": "Neztor",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 159,
       "name": "Максим",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 160,
       "name": "Денис Сергеевич",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 161,
       "name": "ц",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 162,
       "name": "Stepan",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 163,
       "name": "İl",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 164,
       "name": "Roman",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 165,
       "name": "Эдуард Анатольевич",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 166,
       "name": "разбитые руки",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 167,
       "name": "МС💬💪",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 168,
@@ -1813,13 +1813,13 @@
       "rank": 302,
       "name": "Brittani Prr",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 303,
       "name": "Shanelle Sk",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 304,
@@ -1831,7 +1831,7 @@
       "rank": 305,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -1
     }
   ],
   "month": [
@@ -1877,13 +1877,13 @@
     },
     {
       "rank": 9,
-      "name": "ᴦоᴧод",
+      "name": "Viktor",
       "value": 34
     },
     {
       "rank": 10,
-      "name": "Viktor",
-      "value": 33
+      "name": "ᴦоᴧод",
+      "value": 34
     },
     {
       "rank": 11,
@@ -2100,7 +2100,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 4,
@@ -2144,13 +2144,13 @@
     },
     {
       "rank": 12,
-      "name": "Logrus",
+      "name": "Viktor",
       "value": 5
     },
     {
       "rank": 13,
-      "name": "Viktor",
-      "value": 4
+      "name": "Logrus",
+      "value": 5
     },
     {
       "rank": 14,
