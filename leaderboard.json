@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T21:55:53+00:00",
+  "updated": "2026-11-21T22:55:53+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -1859,7 +1859,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 57
+      "value": 56
     },
     {
       "rank": 5,
@@ -1928,27 +1928,27 @@
     },
     {
       "rank": 18,
-      "name": "Manis Love",
-      "value": 17
-    },
-    {
-      "rank": 19,
       "name": "Logrus",
       "value": 17
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "iDiklonius",
       "value": 17
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Князь Владимир С",
       "value": 17
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Viktor",
+      "value": 16
+    },
+    {
+      "rank": 22,
+      "name": "Manis Love",
       "value": 16
     },
     {
@@ -2180,48 +2180,48 @@
     },
     {
       "rank": 18,
-      "name": "Алексей",
-      "value": 3
-    },
-    {
-      "rank": 19,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Marina",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": ".",
       "value": 3
+    },
+    {
+      "rank": 26,
+      "name": "Алексей",
+      "value": 2
     },
     {
       "rank": 27,
