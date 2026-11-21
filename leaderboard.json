@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-21T02:54:15+00:00",
+  "updated": "2026-11-21T03:54:20+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5907,
+      "value": 5908,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 967,
+      "value": 968,
       "move": 0
     },
     {
@@ -155,15 +155,15 @@
     },
     {
       "rank": 26,
-      "name": "Manis Love",
-      "value": 221,
-      "move": 0
+      "name": "Алексей",
+      "value": 222,
+      "move": 1
     },
     {
       "rank": 27,
-      "name": "Алексей",
+      "name": "Manis Love",
       "value": 221,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 28,
@@ -1838,7 +1838,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 126
+      "value": 127
     },
     {
       "rank": 2,
@@ -1888,7 +1888,7 @@
     {
       "rank": 11,
       "name": "Zero-sum Gamer",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 12,
@@ -2002,18 +2002,18 @@
     },
     {
       "rank": 34,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Алексей",
       "value": 7
     },
     {
       "rank": 35,
-      "name": "Marina",
+      "name": "t.me/hapexoᚾK1T",
       "value": 7
     },
     {
       "rank": 36,
-      "name": "Алексей",
-      "value": 6
+      "name": "Marina",
+      "value": 7
     },
     {
       "rank": 37,
@@ -2090,7 +2090,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 2,
@@ -2120,7 +2120,7 @@
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 8,
@@ -2174,53 +2174,53 @@
     },
     {
       "rank": 18,
-      "name": "Aся",
+      "name": "Алексей",
       "value": 3
     },
     {
       "rank": 19,
-      "name": "Сергей",
+      "name": "Aся",
       "value": 3
     },
     {
       "rank": 20,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 3
     },
     {
       "rank": 21,
-      "name": "Князь Владимир С",
+      "name": "iDiklonius",
       "value": 3
     },
     {
       "rank": 22,
-      "name": "Андрей",
+      "name": "Князь Владимир С",
       "value": 3
     },
     {
       "rank": 23,
-      "name": "Vlad",
+      "name": "Андрей",
       "value": 3
     },
     {
       "rank": 24,
-      "name": "Синдбад Мореход",
+      "name": "Vlad",
       "value": 3
     },
     {
       "rank": 25,
-      "name": "lefkorosos",
+      "name": "Синдбад Мореход",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "Marina",
+      "name": "lefkorosos",
       "value": 3
     },
     {
       "rank": 27,
-      "name": "Алексей",
-      "value": 2
+      "name": "Marina",
+      "value": 3
     },
     {
       "rank": 28,
@@ -2274,61 +2274,56 @@
     },
     {
       "rank": 38,
-      "name": "Анастасия D",
-      "value": 1
-    },
-    {
-      "rank": 39,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "MEMBER.",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Mcull",
       "value": 1
     }
