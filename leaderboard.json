@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:55:52+00:00",
+  "updated": "2026-11-21T20:55:52+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -503,27 +503,27 @@
     },
     {
       "rank": 84,
-      "name": "Petia Piatov",
+      "name": "Ponemonec",
       "value": 24,
-      "move": 2
+      "move": 9
     },
     {
       "rank": 85,
-      "name": "ilya Kalashnikov",
-      "value": 23,
-      "move": -1
+      "name": "Petia Piatov",
+      "value": 24,
+      "move": 1
     },
     {
       "rank": 86,
-      "name": "Don Michele Corleone",
+      "name": "ilya Kalashnikov",
       "value": 23,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 87,
-      "name": "Ponemonec",
+      "name": "Don Michele Corleone",
       "value": 23,
-      "move": 6
+      "move": -2
     },
     {
       "rank": 88,
@@ -1854,7 +1854,7 @@
     {
       "rank": 3,
       "name": "Igor",
-      "value": 73
+      "value": 72
     },
     {
       "rank": 4,
@@ -1984,7 +1984,7 @@
     {
       "rank": 29,
       "name": "Ponemonec",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 30,
@@ -2175,52 +2175,52 @@
     },
     {
       "rank": 17,
+      "name": "Ponemonec",
+      "value": 4
+    },
+    {
+      "rank": 18,
       "name": "Алексей",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 25,
-      "name": "Marina",
-      "value": 3
-    },
-    {
       "rank": 26,
-      "name": "Ponemonec",
+      "name": "Marina",
       "value": 3
     },
     {
