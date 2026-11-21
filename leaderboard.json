@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T16:55:35+00:00",
+  "updated": "2026-11-21T17:55:42+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "PiratesOfMining",
-      "value": 924,
+      "value": 925,
       "move": 0
     },
     {
@@ -1854,7 +1854,7 @@
     {
       "rank": 3,
       "name": "Igor",
-      "value": 76
+      "value": 73
     },
     {
       "rank": 4,
@@ -1883,53 +1883,53 @@
     },
     {
       "rank": 9,
-      "name": "Viktor",
-      "value": 34
-    },
-    {
-      "rank": 10,
       "name": "Zero-sum Gamer",
       "value": 33
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "ᴦоᴧод",
       "value": 33
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Серхио Ле'Трас",
       "value": 32
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 31
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Анастасия",
       "value": 30
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Синдбад Мореход",
       "value": 30
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Aся",
       "value": 25
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Vitaliy",
       "value": 22
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "@wavesscalper",
       "value": 21
+    },
+    {
+      "rank": 18,
+      "name": "Viktor",
+      "value": 17
     },
     {
       "rank": 19,
@@ -2073,18 +2073,18 @@
     },
     {
       "rank": 47,
-      "name": "AK",
+      "name": "PiratesOfMining",
       "value": 4
     },
     {
       "rank": 48,
-      "name": "Mikhail",
+      "name": "AK",
       "value": 4
     },
     {
       "rank": 49,
-      "name": "PiratesOfMining",
-      "value": 3
+      "name": "Mikhail",
+      "value": 4
     },
     {
       "rank": 50,
@@ -2131,7 +2131,7 @@
     {
       "rank": 8,
       "name": "Руслан Иванов",
-      "value": 10
+      "value": 9
     },
     {
       "rank": 9,
@@ -2150,22 +2150,22 @@
     },
     {
       "rank": 12,
-      "name": "Charlie Shefelman",
-      "value": 5
-    },
-    {
-      "rank": 13,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Logrus",
+      "value": 4
+    },
+    {
+      "rank": 15,
+      "name": "Charlie Shefelman",
       "value": 4
     },
     {
@@ -2240,33 +2240,33 @@
     },
     {
       "rank": 30,
-      "name": "L G",
+      "name": "PiratesOfMining",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "Князь Владимир С",
+      "name": "L G",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Petia Piatov",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "Sonic",
+      "name": "Petia Piatov",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Don Michele Corleone",
+      "name": "Sonic",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "PiratesOfMining",
-      "value": 1
+      "name": "Don Michele Corleone",
+      "value": 2
     },
     {
       "rank": 36,
