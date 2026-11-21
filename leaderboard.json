@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T17:55:42+00:00",
+  "updated": "2026-11-21T18:55:46+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -1928,28 +1928,28 @@
     },
     {
       "rank": 18,
-      "name": "Viktor",
-      "value": 17
-    },
-    {
-      "rank": 19,
       "name": "Manis Love",
       "value": 17
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Logrus",
       "value": 17
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "iDiklonius",
       "value": 17
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Князь Владимир С",
       "value": 17
+    },
+    {
+      "rank": 22,
+      "name": "Viktor",
+      "value": 16
     },
     {
       "rank": 23,
@@ -2023,17 +2023,17 @@
     },
     {
       "rank": 37,
-      "name": "Marina",
-      "value": 7
-    },
-    {
-      "rank": 38,
       "name": "Сергей",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "lefkorosos",
+      "value": 6
+    },
+    {
+      "rank": 39,
+      "name": "Marina",
       "value": 6
     },
     {
@@ -2130,17 +2130,17 @@
     },
     {
       "rank": 8,
-      "name": "Руслан Иванов",
-      "value": 9
-    },
-    {
-      "rank": 9,
       "name": "@wavesscalper",
       "value": 7
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 6
+    },
+    {
+      "rank": 10,
+      "name": "Руслан Иванов",
       "value": 6
     },
     {
@@ -2165,37 +2165,37 @@
     },
     {
       "rank": 15,
-      "name": "Charlie Shefelman",
-      "value": 4
-    },
-    {
-      "rank": 16,
       "name": "Mikhail",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Oleg Maksimov",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Алексей",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Aся",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "iDiklonius",
+      "value": 3
+    },
+    {
+      "rank": 21,
+      "name": "Charlie Shefelman",
       "value": 3
     },
     {
