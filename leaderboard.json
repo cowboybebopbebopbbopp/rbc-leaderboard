@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T09:54:50+00:00",
+  "updated": "2026-11-21T10:54:56+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -264,7 +264,7 @@
     {
       "rank": 44,
       "name": "SPM",
-      "value": 127,
+      "value": 128,
       "move": -1
     },
     {
@@ -1862,12 +1862,12 @@
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 49
+      "name": "SPM",
+      "value": 50
     },
     {
       "rank": 7,
-      "name": "SPM",
+      "name": "a l",
       "value": 49
     },
     {
@@ -2100,7 +2100,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 4,
@@ -2114,13 +2114,13 @@
     },
     {
       "rank": 6,
-      "name": "Zero-sum Gamer",
+      "name": "SPM",
       "value": 15
     },
     {
       "rank": 7,
-      "name": "SPM",
-      "value": 14
+      "name": "Zero-sum Gamer",
+      "value": 15
     },
     {
       "rank": 8,
@@ -2194,42 +2194,42 @@
     },
     {
       "rank": 22,
-      "name": "Князь Владимир С",
-      "value": 3
-    },
-    {
-      "rank": 23,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Marina",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Pavel",
+      "value": 2
+    },
+    {
+      "rank": 29,
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
@@ -2294,36 +2294,31 @@
     },
     {
       "rank": 42,
-      "name": "Олег",
-      "value": 1
-    },
-    {
-      "rank": 43,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Mcull",
       "value": 1
     }
