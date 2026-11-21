@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T20:55:52+00:00",
+  "updated": "2026-11-21T21:55:53+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -2106,7 +2106,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 4,
@@ -2121,7 +2121,7 @@
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 7,
@@ -2185,62 +2185,62 @@
     },
     {
       "rank": 19,
-      "name": "Сергей",
-      "value": 3
-    },
-    {
-      "rank": 20,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Marina",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": ".",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "L G",
+      "value": 2
+    },
+    {
+      "rank": 30,
+      "name": "Сергей",
       "value": 2
     },
     {
