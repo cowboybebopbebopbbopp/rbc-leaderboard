@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T18:55:46+00:00",
+  "updated": "2026-11-21T19:55:52+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -450,7 +450,7 @@
     {
       "rank": 75,
       "name": "Олег",
-      "value": 36,
+      "value": 35,
       "move": 0
     },
     {
@@ -1864,7 +1864,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 55
+      "value": 54
     },
     {
       "rank": 6,
@@ -2043,47 +2043,47 @@
     },
     {
       "rank": 41,
-      "name": "Олег",
-      "value": 5
-    },
-    {
-      "rank": 42,
       "name": "🤗",
       "value": 5
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Андрей",
       "value": 5
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Виталий",
       "value": 4
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Borz",
       "value": 4
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "AK",
       "value": 4
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Mikhail",
+      "value": 4
+    },
+    {
+      "rank": 49,
+      "name": "Олег",
       "value": 4
     },
     {
@@ -2180,93 +2180,93 @@
     },
     {
       "rank": 18,
-      "name": "Aся",
-      "value": 3
-    },
-    {
-      "rank": 19,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Marina",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Ponemonec",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": ".",
       "value": 3
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Petia Piatov",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Don Michele Corleone",
       "value": 2
+    },
+    {
+      "rank": 35,
+      "name": "Aся",
+      "value": 1
     },
     {
       "rank": 36,
