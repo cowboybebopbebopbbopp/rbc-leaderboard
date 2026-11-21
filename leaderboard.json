@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-21T14:55:24+00:00",
+  "updated": "2026-11-21T15:55:29+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5912,
+      "value": 5913,
       "move": 0
     },
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1982,
+      "value": 1986,
       "move": 0
     },
     {
@@ -156,7 +156,7 @@
     {
       "rank": 26,
       "name": "Manis Love",
-      "value": 223,
+      "value": 224,
       "move": 0
     },
     {
@@ -521,39 +521,39 @@
     },
     {
       "rank": 87,
-      "name": "lefkorosos",
+      "name": "Ponemonec",
       "value": 22,
-      "move": 5
+      "move": 6
     },
     {
       "rank": 88,
-      "name": "Pavel",
+      "name": "lefkorosos",
       "value": 22,
-      "move": -1
+      "move": 4
     },
     {
       "rank": 89,
-      "name": "Толян",
-      "value": 21,
-      "move": -1
+      "name": "Pavel",
+      "value": 22,
+      "move": -2
     },
     {
       "rank": 90,
-      "name": "X888",
+      "name": "Толян",
       "value": 21,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 91,
-      "name": "Претор",
+      "name": "X888",
       "value": 21,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 92,
-      "name": "Ponemonec",
+      "name": "Претор",
       "value": 21,
-      "move": 1
+      "move": -2
     },
     {
       "rank": 93,
@@ -1844,12 +1844,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 131
+      "value": 132
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 78
+      "value": 81
     },
     {
       "rank": 3,
@@ -1933,23 +1933,23 @@
     },
     {
       "rank": 19,
-      "name": "Logrus",
+      "name": "Manis Love",
       "value": 17
     },
     {
       "rank": 20,
-      "name": "iDiklonius",
+      "name": "Logrus",
       "value": 17
     },
     {
       "rank": 21,
-      "name": "Князь Владимир С",
+      "name": "iDiklonius",
       "value": 17
     },
     {
       "rank": 22,
-      "name": "Manis Love",
-      "value": 16
+      "name": "Князь Владимир С",
+      "value": 17
     },
     {
       "rank": 23,
@@ -1993,13 +1993,13 @@
     },
     {
       "rank": 31,
-      "name": "Sonic",
+      "name": "Ponemonec",
       "value": 11
     },
     {
       "rank": 32,
-      "name": "Ponemonec",
-      "value": 10
+      "name": "Sonic",
+      "value": 11
     },
     {
       "rank": 33,
@@ -2096,12 +2096,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 39
+      "value": 40
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 24
+      "value": 28
     },
     {
       "rank": 3,
@@ -2136,7 +2136,7 @@
     {
       "rank": 9,
       "name": "Charlie Shefelman",
-      "value": 9
+      "value": 8
     },
     {
       "rank": 10,
@@ -2156,7 +2156,7 @@
     {
       "rank": 13,
       "name": "Manis Love",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 14,
@@ -2245,102 +2245,102 @@
     },
     {
       "rank": 31,
-      "name": "Sonic",
+      "name": "Ponemonec",
       "value": 2
     },
     {
       "rank": 32,
-      "name": "Don Michele Corleone",
+      "name": "Sonic",
       "value": 2
     },
     {
       "rank": 33,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 34,
       "name": "PiratesOfMining",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Эдуард Анатольевич",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "MEMBER.",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "Mcull",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "Ponemonec",
+      "name": "Mcull",
       "value": 1
     }
   ]
