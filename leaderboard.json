@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T07:54:40+00:00",
+  "updated": "2026-11-21T08:54:45+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1981,
+      "value": 1982,
       "move": 0
     },
     {
@@ -96,7 +96,7 @@
     {
       "rank": 16,
       "name": "Eugene",
-      "value": 556,
+      "value": 557,
       "move": 0
     },
     {
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "Серхио Ле'Трас",
-      "value": 127,
+      "value": 128,
       "move": 1
     },
     {
@@ -1842,12 +1842,12 @@
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 79
+      "name": "🅾🅻🅶🅰",
+      "value": 80
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
+      "name": "Igor",
       "value": 79
     },
     {
@@ -1897,18 +1897,18 @@
     },
     {
       "rank": 13,
-      "name": "Анастасия",
+      "name": "Серхио Ле'Трас",
       "value": 30
     },
     {
       "rank": 14,
-      "name": "Синдбад Мореход",
+      "name": "Анастасия",
       "value": 30
     },
     {
       "rank": 15,
-      "name": "Серхио Ле'Трас",
-      "value": 29
+      "name": "Синдбад Мореход",
+      "value": 30
     },
     {
       "rank": 16,
@@ -2077,12 +2077,12 @@
     },
     {
       "rank": 49,
-      "name": "Pavel",
+      "name": "PiratesOfMining",
       "value": 3
     },
     {
       "rank": 50,
-      "name": "PiratesOfMining",
+      "name": "MEMBER.",
       "value": 3
     }
   ],
@@ -2095,7 +2095,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 3,
@@ -2109,13 +2109,13 @@
     },
     {
       "rank": 5,
-      "name": "SPM",
-      "value": 17
+      "name": "Серхио Ле'Трас",
+      "value": 16
     },
     {
       "rank": 6,
-      "name": "Серхио Ле'Трас",
-      "value": 17
+      "name": "SPM",
+      "value": 15
     },
     {
       "rank": 7,
@@ -2274,51 +2274,56 @@
     },
     {
       "rank": 38,
-      "name": "MEMBER.",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 39,
-      "name": "LlirikMK",
+      "name": "MEMBER.",
       "value": 1
     },
     {
       "rank": 40,
-      "name": "AK",
+      "name": "LlirikMK",
       "value": 1
     },
     {
       "rank": 41,
-      "name": "Олег",
+      "name": "AK",
       "value": 1
     },
     {
       "rank": 42,
-      "name": "🤗",
+      "name": "Олег",
       "value": 1
     },
     {
       "rank": 43,
-      "name": "Алексей",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 44,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "name": "Алексей",
       "value": 1
     },
     {
       "rank": 45,
-      "name": "Pike",
+      "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
       "rank": 46,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Pike",
       "value": 1
     },
     {
       "rank": 47,
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "value": 1
+    },
+    {
+      "rank": 48,
       "name": "Mcull",
       "value": 1
     }
