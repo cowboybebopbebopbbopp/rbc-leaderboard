@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T05:54:30+00:00",
+  "updated": "2026-11-21T06:54:35+00:00",
   "count": 305,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1978,
+      "value": 1979,
       "move": 0
     },
     {
@@ -1848,7 +1848,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 76
+      "value": 77
     },
     {
       "rank": 4,
@@ -2099,12 +2099,12 @@
     },
     {
       "rank": 3,
-      "name": "Archie",
-      "value": 20
+      "name": "🅾🅻🅶🅰",
+      "value": 21
     },
     {
       "rank": 4,
-      "name": "🅾🅻🅶🅰",
+      "name": "Archie",
       "value": 20
     },
     {
@@ -2149,12 +2149,12 @@
     },
     {
       "rank": 13,
-      "name": "Logrus",
-      "value": 5
+      "name": "Vitaliy",
+      "value": 4
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
+      "name": "Logrus",
       "value": 4
     },
     {
