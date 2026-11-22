@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T12:56:03+00:00",
+  "updated": "2026-11-22T13:56:04+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -1854,12 +1854,12 @@
     {
       "rank": 3,
       "name": "Igor",
-      "value": 65
+      "value": 63
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 5,
@@ -2130,12 +2130,12 @@
     },
     {
       "rank": 8,
-      "name": "@wavesscalper",
-      "value": 7
+      "name": "Руслан Иванов",
+      "value": 6
     },
     {
       "rank": 9,
-      "name": "Руслан Иванов",
+      "name": "@wavesscalper",
       "value": 6
     },
     {
