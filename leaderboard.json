@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T00:55:55+00:00",
+  "updated": "2026-11-22T01:55:55+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -2240,42 +2240,42 @@
     },
     {
       "rank": 30,
-      "name": "Сергей",
-      "value": 2
-    },
-    {
-      "rank": 31,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Petia Piatov",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Денис П.",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Алехандро)🍅 Белов🍅",
+      "value": 1
+    },
+    {
+      "rank": 37,
+      "name": "Сергей",
       "value": 1
     },
     {
