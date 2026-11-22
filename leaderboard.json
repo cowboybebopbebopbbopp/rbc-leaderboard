@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T21:56:09+00:00",
+  "updated": "2026-11-22T22:56:10+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -1854,7 +1854,7 @@
     {
       "rank": 3,
       "name": "Igor",
-      "value": 62
+      "value": 61
     },
     {
       "rank": 4,
@@ -1963,23 +1963,23 @@
     },
     {
       "rank": 25,
-      "name": "Князь Владимир С",
-      "value": 14
-    },
-    {
-      "rank": 26,
       "name": "Charlie Shefelman",
       "value": 14
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Don Michele Corleone",
       "value": 14
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Ponemonec",
       "value": 13
+    },
+    {
+      "rank": 28,
+      "name": "Князь Владимир С",
+      "value": 12
     },
     {
       "rank": 29,
