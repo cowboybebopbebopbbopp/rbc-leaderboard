@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T02:55:56+00:00",
+  "updated": "2026-11-22T03:55:56+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -419,21 +419,21 @@
     },
     {
       "rank": 70,
-      "name": "Анастасия D",
+      "name": "Bazylev Nickolai",
       "value": 44,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 71,
-      "name": "SyslikJan",
-      "value": 43,
-      "move": 0
+      "name": "Анастасия D",
+      "value": 44,
+      "move": -1
     },
     {
       "rank": 72,
-      "name": "Bazylev Nickolai",
+      "name": "SyslikJan",
       "value": 43,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 73,
@@ -1864,7 +1864,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 54
+      "value": 53
     },
     {
       "rank": 6,
@@ -1874,7 +1874,7 @@
     {
       "rank": 7,
       "name": "a l",
-      "value": 49
+      "value": 47
     },
     {
       "rank": 8,
@@ -2295,41 +2295,46 @@
     },
     {
       "rank": 41,
-      "name": "🤗",
+      "name": "Bazylev Nickolai",
       "value": 1
     },
     {
       "rank": 42,
-      "name": "Алексей",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 43,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "name": "Алексей",
       "value": 1
     },
     {
       "rank": 44,
-      "name": "Pike",
+      "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
       "rank": 45,
-      "name": "Н С",
+      "name": "Pike",
       "value": 1
     },
     {
       "rank": 46,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
+      "name": "Н С",
       "value": 1
     },
     {
       "rank": 47,
-      "name": "M",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 1
     },
     {
       "rank": 48,
+      "name": "M",
+      "value": 1
+    },
+    {
+      "rank": 49,
       "name": "Mcull",
       "value": 1
     }
