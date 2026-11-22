@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T09:56:00+00:00",
+  "updated": "2026-11-22T10:56:01+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1988,
+      "value": 1989,
       "move": 0
     },
     {
@@ -1849,7 +1849,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 83
+      "value": 84
     },
     {
       "rank": 3,
@@ -1874,7 +1874,7 @@
     {
       "rank": 7,
       "name": "a l",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 8,
@@ -2101,7 +2101,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 26
+      "value": 27
     },
     {
       "rank": 3,
@@ -2126,7 +2126,7 @@
     {
       "rank": 7,
       "name": "SPM",
-      "value": 9
+      "value": 8
     },
     {
       "rank": 8,
@@ -2205,58 +2205,58 @@
     },
     {
       "rank": 23,
-      "name": "Алексей",
-      "value": 2
-    },
-    {
-      "rank": 24,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Petia Piatov",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Marina",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Don Michele Corleone",
       "value": 2
+    },
+    {
+      "rank": 33,
+      "name": "Алексей",
+      "value": 1
     },
     {
       "rank": 34,
