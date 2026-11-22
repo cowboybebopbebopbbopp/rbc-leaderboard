@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T16:56:06+00:00",
+  "updated": "2026-11-22T17:56:06+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -1849,12 +1849,12 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 84
+      "value": 83
     },
     {
       "rank": 3,
       "name": "Igor",
-      "value": 63
+      "value": 62
     },
     {
       "rank": 4,
@@ -1933,17 +1933,17 @@
     },
     {
       "rank": 19,
-      "name": "Князь Владимир С",
-      "value": 17
-    },
-    {
-      "rank": 20,
       "name": "@wavesscalper",
       "value": 17
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Manis Love",
+      "value": 16
+    },
+    {
+      "rank": 21,
+      "name": "Князь Владимир С",
       "value": 16
     },
     {
@@ -2150,27 +2150,27 @@
     },
     {
       "rank": 12,
-      "name": "Logrus",
-      "value": 4
-    },
-    {
-      "rank": 13,
       "name": "Mikhail",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Oleg Maksimov",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Manis Love",
+      "value": 3
+    },
+    {
+      "rank": 16,
+      "name": "Logrus",
       "value": 3
     },
     {
@@ -2300,26 +2300,21 @@
     },
     {
       "rank": 42,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
-      "value": 1
-    },
-    {
-      "rank": 43,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Mcull",
       "value": 1
     }
