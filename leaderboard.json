@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T15:56:05+00:00",
+  "updated": "2026-11-22T16:56:06+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -257,15 +257,15 @@
     },
     {
       "rank": 43,
-      "name": "Роман",
+      "name": "SPM",
       "value": 129,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 44,
-      "name": "SPM",
-      "value": 128,
-      "move": -1
+      "name": "Роман",
+      "value": 129,
+      "move": -2
     },
     {
       "rank": 45,
@@ -1869,7 +1869,7 @@
     {
       "rank": 6,
       "name": "SPM",
-      "value": 50
+      "value": 51
     },
     {
       "rank": 7,
@@ -2126,7 +2126,7 @@
     {
       "rank": 7,
       "name": "SPM",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 8,
@@ -2140,12 +2140,12 @@
     },
     {
       "rank": 10,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 5
+      "name": "Viktor",
+      "value": 4
     },
     {
       "rank": 11,
-      "name": "Viktor",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
