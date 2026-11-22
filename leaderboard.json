@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T14:56:04+00:00",
+  "updated": "2026-11-22T15:56:05+00:00",
   "count": 306,
   "has_movement": true,
   "all": [
@@ -2096,7 +2096,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 35
     },
     {
       "rank": 2,
@@ -2300,31 +2300,26 @@
     },
     {
       "rank": 42,
-      "name": "Алексей",
-      "value": 1
-    },
-    {
-      "rank": 43,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Mcull",
       "value": 1
     }
