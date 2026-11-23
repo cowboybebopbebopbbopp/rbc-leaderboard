@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:56:24+00:00",
+  "updated": "2026-11-23T22:56:24+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -2126,17 +2126,17 @@
     },
     {
       "rank": 6,
-      "name": "Руслан Иванов",
-      "value": 6
-    },
-    {
-      "rank": 7,
       "name": "@wavesscalper",
       "value": 6
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "SPM",
+      "value": 5
+    },
+    {
+      "rank": 8,
+      "name": "Руслан Иванов",
       "value": 5
     },
     {
