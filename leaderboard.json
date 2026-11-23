@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T17:56:21+00:00",
+  "updated": "2026-11-23T18:56:22+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -2131,17 +2131,17 @@
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
-      "value": 6
-    },
-    {
-      "rank": 8,
       "name": "@wavesscalper",
       "value": 6
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "SPM",
+      "value": 5
+    },
+    {
+      "rank": 9,
+      "name": "Zero-sum Gamer",
       "value": 5
     },
     {
@@ -2166,47 +2166,47 @@
     },
     {
       "rank": 14,
-      "name": "lefkorosos",
-      "value": 4
-    },
-    {
-      "rank": 15,
       "name": "Oleg Maksimov",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Алексей",
       "value": 3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Aся",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Logrus",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Vlad",
+      "value": 3
+    },
+    {
+      "rank": 22,
+      "name": "lefkorosos",
       "value": 3
     },
     {
