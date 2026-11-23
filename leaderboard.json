@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-23T19:56:23+00:00",
+  "updated": "2026-11-23T20:56:23+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5928,
+      "value": 5929,
       "move": 0
     },
     {
@@ -1850,12 +1850,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 147
+      "value": 148
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 84
+      "value": 83
     },
     {
       "rank": 3,
@@ -2102,7 +2102,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 2,
@@ -2231,82 +2231,77 @@
     },
     {
       "rank": 27,
-      "name": ".",
-      "value": 2
-    },
-    {
-      "rank": 28,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "MEMBER.",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Petia Piatov",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 38,
-      "name": "🤗",
-      "value": 1
-    },
-    {
-      "rank": 39,
+      "rank": 37,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 38,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 39,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 40,
       "name": "M",
+      "value": 1
+    },
+    {
+      "rank": 41,
+      "name": ".",
       "value": 1
     }
   ]
