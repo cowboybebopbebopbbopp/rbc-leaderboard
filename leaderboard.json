@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T05:56:14+00:00",
+  "updated": "2026-11-23T06:56:14+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -234,7 +234,7 @@
     {
       "rank": 39,
       "name": "Руслан Иванов",
-      "value": 140,
+      "value": 141,
       "move": 0
     },
     {
@@ -1860,7 +1860,7 @@
     {
       "rank": 3,
       "name": "Igor",
-      "value": 60
+      "value": 59
     },
     {
       "rank": 4,
@@ -1870,7 +1870,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 53
+      "value": 54
     },
     {
       "rank": 6,
@@ -2137,7 +2137,7 @@
     {
       "rank": 8,
       "name": "Руслан Иванов",
-      "value": 6
+      "value": 7
     },
     {
       "rank": 9,
@@ -2186,42 +2186,42 @@
     },
     {
       "rank": 18,
-      "name": "iDiklonius",
-      "value": 3
-    },
-    {
-      "rank": 19,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Vlad",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Pavel",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "L G",
+      "value": 2
+    },
+    {
+      "rank": 25,
+      "name": "iDiklonius",
       "value": 2
     },
     {
