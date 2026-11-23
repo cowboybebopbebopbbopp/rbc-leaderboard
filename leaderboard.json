@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-23T06:56:14+00:00",
+  "updated": "2026-11-23T07:56:15+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5914,
+      "value": 5915,
       "move": 0
     },
     {
@@ -227,15 +227,15 @@
     },
     {
       "rank": 38,
-      "name": "Charlie Shefelman",
+      "name": "Руслан Иванов",
       "value": 142,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 39,
-      "name": "Руслан Иванов",
-      "value": 141,
-      "move": 0
+      "name": "Charlie Shefelman",
+      "value": 142,
+      "move": -1
     },
     {
       "rank": 40,
@@ -1001,159 +1001,159 @@
     },
     {
       "rank": 167,
-      "name": "разбитые руки",
+      "name": "Николай Вереск",
       "value": 3,
-      "move": 0
+      "move": 91
     },
     {
       "rank": 168,
-      "name": "МС💬💪",
+      "name": "разбитые руки",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 169,
-      "name": "Сергей Фролов",
+      "name": "МС💬💪",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 170,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 2,
-      "move": 0
+      "name": "Сергей Фролов",
+      "value": 3,
+      "move": -1
     },
     {
       "rank": 171,
-      "name": "Juli Julia",
+      "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 172,
-      "name": "ШКИПЕР #MCS",
+      "name": "Juli Julia",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 173,
-      "name": "Валерия Sweetandflow",
+      "name": "ШКИПЕР #MCS",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 174,
-      "name": "❤️",
+      "name": "Валерия Sweetandflow",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 175,
-      "name": "Lubo",
+      "name": "❤️",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 176,
-      "name": "Kirill Soppa",
+      "name": "Lubo",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 177,
-      "name": "dg",
+      "name": "Kirill Soppa",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 178,
-      "name": "Юрий",
+      "name": "dg",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 179,
-      "name": "Arewoe",
+      "name": "Юрий",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 180,
-      "name": "Мон Ами",
+      "name": "Arewoe",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 181,
-      "name": "Ольга",
+      "name": "Мон Ами",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 182,
-      "name": "Jeffrey",
+      "name": "Ольга",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 183,
-      "name": "А В",
+      "name": "Jeffrey",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 184,
-      "name": "Nikita",
+      "name": "А В",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 185,
-      "name": "Дмитрий",
+      "name": "Nikita",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 186,
-      "name": "Alissa Her",
+      "name": "Дмитрий",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 187,
-      "name": "Y. Yastrebov",
+      "name": "Alissa Her",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 188,
-      "name": "Petr Vasenkov",
+      "name": "Y. Yastrebov",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 189,
-      "name": "Артемий Жданов",
+      "name": "Petr Vasenkov",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 190,
-      "name": "Олег Галицин",
+      "name": "Артемий Жданов",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 191,
-      "name": "Andrey Tukhkanen",
+      "name": "Олег Галицин",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 192,
-      "name": "Николай Вереск",
+      "name": "Andrey Tukhkanen",
       "value": 2,
-      "move": 66
+      "move": -1
     },
     {
       "rank": 193,
@@ -1850,7 +1850,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 133
+      "value": 134
     },
     {
       "rank": 2,
@@ -1870,7 +1870,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 54
+      "value": 55
     },
     {
       "rank": 6,
@@ -1910,7 +1910,7 @@
     {
       "rank": 13,
       "name": "Анастасия",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 14,
@@ -2102,7 +2102,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 2,
@@ -2137,7 +2137,7 @@
     {
       "rank": 8,
       "name": "Руслан Иванов",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 9,
@@ -2231,57 +2231,57 @@
     },
     {
       "rank": 27,
-      "name": "Синдбад Мореход",
+      "name": "Николай Вереск",
       "value": 2
     },
     {
       "rank": 28,
-      "name": ".",
+      "name": "Синдбад Мореход",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "Sonic",
+      "name": ".",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "Don Michele Corleone",
+      "name": "Sonic",
       "value": 2
     },
     {
       "rank": 31,
+      "name": "Don Michele Corleone",
+      "value": 2
+    },
+    {
+      "rank": 32,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 36,
-      "name": "MEMBER.",
-      "value": 1
-    },
-    {
       "rank": 37,
-      "name": "LlirikMK",
+      "name": "MEMBER.",
       "value": 1
     },
     {
@@ -2296,31 +2296,26 @@
     },
     {
       "rank": 40,
-      "name": "Николай Вереск",
-      "value": 1
-    },
-    {
-      "rank": 41,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Marina",
       "value": 1
     }
