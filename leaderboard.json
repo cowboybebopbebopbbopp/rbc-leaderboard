@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-23T15:56:20+00:00",
+  "updated": "2026-11-23T16:56:21+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5926,
+      "value": 5927,
       "move": 0
     },
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1990,
+      "value": 1992,
       "move": 0
     },
     {
@@ -1850,12 +1850,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 145
+      "value": 146
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 84
+      "value": 85
     },
     {
       "rank": 3,
@@ -1865,7 +1865,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 5,
@@ -1919,12 +1919,12 @@
     },
     {
       "rank": 15,
-      "name": "Синдбад Мореход",
-      "value": 24
+      "name": "Vitaliy",
+      "value": 22
     },
     {
       "rank": 16,
-      "name": "Vitaliy",
+      "name": "Синдбад Мореход",
       "value": 22
     },
     {
@@ -2102,12 +2102,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 27
+      "value": 29
     },
     {
       "rank": 3,
@@ -2121,28 +2121,28 @@
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
-      "value": 11
-    },
-    {
-      "rank": 6,
       "name": "a l",
       "value": 9
     },
     {
-      "rank": 7,
-      "name": "SPM",
-      "value": 6
+      "rank": 6,
+      "name": "Zero-sum Gamer",
+      "value": 7
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Руслан Иванов",
       "value": 6
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "@wavesscalper",
       "value": 6
+    },
+    {
+      "rank": 9,
+      "name": "SPM",
+      "value": 5
     },
     {
       "rank": 10,
