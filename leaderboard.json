@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T23:56:25+00:00",
+  "updated": "2026-11-24T00:50:45+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -259,13 +259,13 @@
       "rank": 43,
       "name": "SPM",
       "value": 129,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 44,
       "name": "Роман",
       "value": 129,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 45,
@@ -421,19 +421,19 @@
       "rank": 70,
       "name": "Bazylev Nickolai",
       "value": 44,
-      "move": 2
+      "move": 0
     },
     {
       "rank": 71,
       "name": "Анастасия D",
       "value": 44,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 72,
       "name": "SyslikJan",
       "value": 43,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 73,
