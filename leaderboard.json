@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T15:56:35+00:00",
+  "updated": "2026-11-24T16:56:35+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -2146,32 +2146,32 @@
     },
     {
       "rank": 10,
-      "name": "Viktor",
-      "value": 4
-    },
-    {
-      "rank": 11,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Mikhail",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Zero-sum Gamer",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Oleg Maksimov",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Алексей",
+      "value": 3
+    },
+    {
+      "rank": 15,
+      "name": "Viktor",
       "value": 3
     },
     {
@@ -2206,47 +2206,47 @@
     },
     {
       "rank": 22,
-      "name": "Charlie Shefelman",
-      "value": 2
-    },
-    {
-      "rank": 23,
       "name": "Николай Вереск",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "PiratesOfMining",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "MEMBER.",
+      "value": 1
+    },
+    {
+      "rank": 30,
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
@@ -2271,31 +2271,26 @@
     },
     {
       "rank": 35,
-      "name": "Pike",
-      "value": 1
-    },
-    {
-      "rank": 36,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": ".",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Saflander",
       "value": 1
     }
