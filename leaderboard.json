@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T10:56:32+00:00",
+  "updated": "2026-11-24T11:56:32+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -2102,7 +2102,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 53
+      "value": 52
     },
     {
       "rank": 2,
@@ -2186,22 +2186,22 @@
     },
     {
       "rank": 18,
-      "name": "Logrus",
-      "value": 3
-    },
-    {
-      "rank": 19,
       "name": "Charlie Shefelman",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "PiratesOfMining",
+      "value": 2
+    },
+    {
+      "rank": 21,
+      "name": "Logrus",
       "value": 2
     },
     {
@@ -2256,51 +2256,46 @@
     },
     {
       "rank": 32,
-      "name": "Vlad",
-      "value": 1
-    },
-    {
-      "rank": 33,
       "name": "Petia Piatov",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Pike",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": ".",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Saflander",
       "value": 1
     }
