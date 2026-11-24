@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T12:56:33+00:00",
+  "updated": "2026-11-24T13:56:33+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -2186,32 +2186,32 @@
     },
     {
       "rank": 18,
-      "name": "Charlie Shefelman",
-      "value": 3
-    },
-    {
-      "rank": 19,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Сергей",
+      "value": 2
+    },
+    {
+      "rank": 23,
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
