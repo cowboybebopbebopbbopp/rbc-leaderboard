@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-24T05:56:29+00:00",
+  "updated": "2026-11-24T06:56:29+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5929,
+      "value": 5930,
       "move": 0
     },
     {
@@ -761,33 +761,33 @@
     },
     {
       "rank": 127,
-      "name": "t.me/hapexoᚾK1T",
+      "name": "Saflander",
       "value": 8,
-      "move": 0
+      "move": 4
     },
     {
       "rank": 128,
-      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "name": "t.me/hapexoᚾK1T",
       "value": 8,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 129,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": 0
+      "name": "𝑵𝑶𝑿𝑬𝑵",
+      "value": 8,
+      "move": -1
     },
     {
       "rank": 130,
-      "name": "Daniil",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 131,
-      "name": "Homelander",
+      "name": "Daniil",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 132,
@@ -1850,7 +1850,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 148
+      "value": 149
     },
     {
       "rank": 2,
@@ -2102,7 +2102,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 2,
@@ -2302,6 +2302,11 @@
     {
       "rank": 41,
       "name": ".",
+      "value": 1
+    },
+    {
+      "rank": 42,
+      "name": "Saflander",
       "value": 1
     }
   ]
