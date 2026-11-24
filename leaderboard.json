@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T13:56:33+00:00",
+  "updated": "2026-11-24T14:56:34+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -2102,7 +2102,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 51
+      "value": 49
     },
     {
       "rank": 2,
@@ -2191,48 +2191,48 @@
     },
     {
       "rank": 19,
-      "name": "PiratesOfMining",
-      "value": 2
-    },
-    {
-      "rank": 20,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Николай Вереск",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Don Michele Corleone",
       "value": 2
+    },
+    {
+      "rank": 27,
+      "name": "PiratesOfMining",
+      "value": 1
     },
     {
       "rank": 28,
