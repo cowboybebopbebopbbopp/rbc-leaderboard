@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T14:56:34+00:00",
+  "updated": "2026-11-24T15:56:35+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -1870,7 +1870,7 @@
     {
       "rank": 5,
       "name": "Руслан Иванов",
-      "value": 55
+      "value": 53
     },
     {
       "rank": 6,
@@ -1999,18 +1999,18 @@
     },
     {
       "rank": 31,
-      "name": "LlirikMK",
-      "value": 10
-    },
-    {
-      "rank": 32,
       "name": "Алексей",
       "value": 9
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Sonic",
       "value": 9
+    },
+    {
+      "rank": 33,
+      "name": "LlirikMK",
+      "value": 8
     },
     {
       "rank": 34,
@@ -2107,12 +2107,12 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 4,
@@ -2181,13 +2181,13 @@
     },
     {
       "rank": 17,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "lefkorosos",
       "value": 3
     },
     {
       "rank": 18,
-      "name": "lefkorosos",
-      "value": 3
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 2
     },
     {
       "rank": 19,
