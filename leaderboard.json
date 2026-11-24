@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T02:56:27+00:00",
+  "updated": "2026-11-24T03:56:27+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -2131,18 +2131,18 @@
     },
     {
       "rank": 7,
-      "name": "SPM",
-      "value": 5
-    },
-    {
-      "rank": 8,
       "name": "Руслан Иванов",
       "value": 5
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Ponemonec",
       "value": 5
+    },
+    {
+      "rank": 9,
+      "name": "SPM",
+      "value": 4
     },
     {
       "rank": 10,
@@ -2201,67 +2201,67 @@
     },
     {
       "rank": 21,
-      "name": "Vlad",
-      "value": 3
-    },
-    {
-      "rank": 22,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Николай Вереск",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Don Michele Corleone",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "MEMBER.",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "AK",
+      "value": 1
+    },
+    {
+      "rank": 33,
+      "name": "Vlad",
       "value": 1
     },
     {
