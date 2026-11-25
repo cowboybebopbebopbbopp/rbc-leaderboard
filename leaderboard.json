@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:21:48+00:00",
+  "updated": "2026-11-25T13:51:56+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -647,33 +647,33 @@
     },
     {
       "rank": 108,
-      "name": "Oleg Maksimov",
+      "name": "Sonic",
       "value": 14,
-      "move": 0
+      "move": 4
     },
     {
       "rank": 109,
-      "name": "Антон",
-      "value": 13,
-      "move": 0
+      "name": "Oleg Maksimov",
+      "value": 14,
+      "move": -1
     },
     {
       "rank": 110,
-      "name": "ki6ers",
+      "name": "Антон",
       "value": 13,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 111,
-      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
-      "value": 12,
-      "move": 0
+      "name": "ki6ers",
+      "value": 13,
+      "move": -1
     },
     {
       "rank": 112,
-      "name": "Sonic",
+      "name": "𝐌𝐢𝐤𝐡𝐚𝐢𝐥",
       "value": 12,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 113,
@@ -1994,17 +1994,17 @@
     },
     {
       "rank": 30,
+      "name": "Sonic",
+      "value": 11
+    },
+    {
+      "rank": 31,
       "name": "Алексей",
       "value": 9
     },
     {
-      "rank": 31,
-      "name": "I",
-      "value": 9
-    },
-    {
       "rank": 32,
-      "name": "Sonic",
+      "name": "I",
       "value": 9
     },
     {
@@ -2216,66 +2216,71 @@
     },
     {
       "rank": 24,
+      "name": "Sonic",
+      "value": 2
+    },
+    {
+      "rank": 25,
       "name": "PiratesOfMining",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "MEMBER.",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Petia Piatov",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Saflander",
       "value": 1
     }
