@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:56:45+00:00",
+  "updated": "2026-11-25T13:21:48+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -1959,18 +1959,18 @@
     },
     {
       "rank": 23,
-      "name": "Viktor",
-      "value": 14
-    },
-    {
-      "rank": 24,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 14
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Ponemonec",
       "value": 14
+    },
+    {
+      "rank": 25,
+      "name": "Viktor",
+      "value": 13
     },
     {
       "rank": 26,
@@ -2102,7 +2102,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 2,
@@ -2277,11 +2277,6 @@
     {
       "rank": 36,
       "name": "Saflander",
-      "value": 1
-    },
-    {
-      "rank": 37,
-      "name": "Don Michele Corleone",
       "value": 1
     }
   ]
