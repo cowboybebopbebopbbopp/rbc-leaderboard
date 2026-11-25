@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T10:51:37+00:00",
+  "updated": "2026-11-25T10:56:45+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -2141,32 +2141,32 @@
     },
     {
       "rank": 9,
-      "name": "SPM",
-      "value": 4
-    },
-    {
-      "rank": 10,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Mikhail",
       "value": 4
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Zero-sum Gamer",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Oleg Maksimov",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Алексей",
+      "value": 3
+    },
+    {
+      "rank": 14,
+      "name": "SPM",
       "value": 3
     },
     {
