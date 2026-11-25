@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T15:57:01+00:00",
+  "updated": "2026-11-25T16:57:06+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1047,
+      "value": 1048,
       "move": 0
     },
     {
@@ -1889,17 +1889,17 @@
     },
     {
       "rank": 9,
-      "name": "ᴦоᴧод",
-      "value": 33
-    },
-    {
-      "rank": 10,
       "name": "Серхио Ле'Трас",
       "value": 32
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Zero-sum Gamer",
+      "value": 32
+    },
+    {
+      "rank": 11,
+      "name": "ᴦоᴧод",
       "value": 32
     },
     {
@@ -1930,7 +1930,7 @@
     {
       "rank": 17,
       "name": "Viktor",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 18,
@@ -2102,7 +2102,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 51
+      "value": 48
     },
     {
       "rank": 2,
@@ -2127,7 +2127,7 @@
     {
       "rank": 6,
       "name": "Viktor",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 7,
@@ -2176,42 +2176,42 @@
     },
     {
       "rank": 16,
-      "name": "lefkorosos",
-      "value": 3
-    },
-    {
-      "rank": 17,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Николай Вереск",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Синдбад Мореход",
+      "value": 2
+    },
+    {
+      "rank": 23,
+      "name": "lefkorosos",
       "value": 2
     },
     {
