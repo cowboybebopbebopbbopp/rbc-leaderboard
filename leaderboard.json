@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-26T10:58:36+00:00",
+  "updated": "2026-11-26T11:58:42+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5948,
+      "value": 5949,
       "move": 0
     },
     {
@@ -1850,7 +1850,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 167
+      "value": 168
     },
     {
       "rank": 2,
@@ -1905,7 +1905,7 @@
     {
       "rank": 12,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 29
+      "value": 28
     },
     {
       "rank": 13,
@@ -2019,18 +2019,18 @@
     },
     {
       "rank": 35,
-      "name": "Сергей",
-      "value": 7
-    },
-    {
-      "rank": 36,
       "name": "t.me/hapexoᚾK1T",
       "value": 7
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "lefkorosos",
       "value": 7
+    },
+    {
+      "rank": 37,
+      "name": "Сергей",
+      "value": 6
     },
     {
       "rank": 38,
@@ -2161,47 +2161,47 @@
     },
     {
       "rank": 13,
-      "name": "iDiklonius",
-      "value": 3
-    },
-    {
-      "rank": 14,
       "name": "Zero-sum Gamer",
       "value": 3
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "@wavesscalper",
       "value": 3
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Oleg Maksimov",
       "value": 3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Сергей",
+      "value": 2
+    },
+    {
+      "rank": 21,
+      "name": "iDiklonius",
       "value": 2
     },
     {
