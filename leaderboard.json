@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:57:42+00:00",
+  "updated": "2026-11-26T00:52:01+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -763,31 +763,31 @@
       "rank": 127,
       "name": "Saflander",
       "value": 8,
-      "move": 4
+      "move": 0
     },
     {
       "rank": 128,
       "name": "t.me/hapexoᚾK1T",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 129,
       "name": "𝑵𝑶𝑿𝑬𝑵",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 130,
       "name": "Ingvar 604",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 131,
       "name": "Daniil",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 132,
@@ -2117,7 +2117,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 5,
