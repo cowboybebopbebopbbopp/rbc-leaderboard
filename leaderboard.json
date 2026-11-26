@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:57:57+00:00",
+  "updated": "2026-11-26T03:58:02+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -2137,7 +2137,7 @@
     {
       "rank": 8,
       "name": "@wavesscalper",
-      "value": 6
+      "value": 5
     },
     {
       "rank": 9,
@@ -2161,17 +2161,17 @@
     },
     {
       "rank": 13,
-      "name": "Oleg Maksimov",
-      "value": 4
-    },
-    {
-      "rank": 14,
       "name": "Алексей",
       "value": 3
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "SPM",
+      "value": 3
+    },
+    {
+      "rank": 15,
+      "name": "Oleg Maksimov",
       "value": 3
     },
     {
