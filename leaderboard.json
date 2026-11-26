@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T12:58:47+00:00",
-  "count": 307,
+  "updated": "2026-11-26T13:58:52+00:00",
+  "count": 308,
   "has_movement": true,
   "all": [
     {
@@ -1841,9 +1841,15 @@
     },
     {
       "rank": 307,
+      "name": "GoldMove Manager",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 308,
       "name": "vitaliy",
       "value": 0,
-      "move": 0
+      "move": -1
     }
   ],
   "month": [
@@ -1870,7 +1876,7 @@
     {
       "rank": 5,
       "name": "Igor",
-      "value": 49
+      "value": 48
     },
     {
       "rank": 6,
@@ -1939,17 +1945,17 @@
     },
     {
       "rank": 19,
-      "name": "@wavesscalper",
-      "value": 18
-    },
-    {
-      "rank": 20,
       "name": "Manis Love",
       "value": 17
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Logrus",
+      "value": 17
+    },
+    {
+      "rank": 21,
+      "name": "@wavesscalper",
       "value": 17
     },
     {
