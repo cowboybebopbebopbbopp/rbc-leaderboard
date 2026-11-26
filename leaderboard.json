@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T04:58:07+00:00",
+  "updated": "2026-11-26T05:58:12+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1051,
+      "value": 1052,
       "move": 0
     },
     {
@@ -390,7 +390,7 @@
     {
       "rank": 65,
       "name": "A.",
-      "value": 59,
+      "value": 60,
       "move": 0
     },
     {
@@ -1920,7 +1920,7 @@
     {
       "rank": 15,
       "name": "Viktor",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 16,
@@ -1955,7 +1955,7 @@
     {
       "rank": 22,
       "name": "A.",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 23,
@@ -2079,22 +2079,22 @@
     },
     {
       "rank": 47,
-      "name": "Олег",
-      "value": 4
-    },
-    {
-      "rank": 48,
       "name": "MEMBER.",
       "value": 3
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Андрей",
       "value": 3
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Vlad",
+      "value": 3
+    },
+    {
+      "rank": 50,
+      "name": "Bazylev Nickolai",
       "value": 3
     }
   ],
@@ -2117,7 +2117,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 5,
@@ -2221,66 +2221,71 @@
     },
     {
       "rank": 25,
-      "name": "PiratesOfMining",
+      "name": "A.",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "iDiklonius",
+      "name": "PiratesOfMining",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "Eugene",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "MEMBER.",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "Charlie Shefelman",
+      "name": "MEMBER.",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "AK",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "Petia Piatov",
+      "name": "AK",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Bazylev Nickolai",
+      "name": "Petia Piatov",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "❤️",
+      "name": "Bazylev Nickolai",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Толян",
+      "name": "❤️",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Н С",
+      "name": "Толян",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "M",
+      "name": "Н С",
       "value": 1
     },
     {
       "rank": 37,
+      "name": "M",
+      "value": 1
+    },
+    {
+      "rank": 38,
       "name": "Saflander",
       "value": 1
     }
