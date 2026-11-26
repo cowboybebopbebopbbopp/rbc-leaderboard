@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T15:59:03+00:00",
+  "updated": "2026-11-26T16:59:08+00:00",
   "count": 308,
   "has_movement": true,
   "all": [
@@ -1875,12 +1875,12 @@
     },
     {
       "rank": 5,
-      "name": "Igor",
-      "value": 46
+      "name": "SPM",
+      "value": 45
     },
     {
       "rank": 6,
-      "name": "SPM",
+      "name": "Igor",
       "value": 45
     },
     {
@@ -1945,23 +1945,23 @@
     },
     {
       "rank": 19,
-      "name": "Manis Love",
-      "value": 17
-    },
-    {
-      "rank": 20,
       "name": "Logrus",
       "value": 17
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "@wavesscalper",
       "value": 17
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "A.",
       "value": 16
+    },
+    {
+      "rank": 22,
+      "name": "Manis Love",
+      "value": 15
     },
     {
       "rank": 23,
@@ -2118,7 +2118,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 4,
@@ -2138,7 +2138,7 @@
     {
       "rank": 7,
       "name": "Руслан Иванов",
-      "value": 6
+      "value": 5
     },
     {
       "rank": 8,
