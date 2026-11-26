@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-26T05:58:12+00:00",
+  "updated": "2026-11-26T06:58:17+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5945,
+      "value": 5946,
       "move": 0
     },
     {
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 751,
+      "value": 752,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 498,
+      "value": 500,
       "move": 0
     },
     {
@@ -1850,7 +1850,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 164
+      "value": 165
     },
     {
       "rank": 2,
@@ -1934,22 +1934,22 @@
     },
     {
       "rank": 18,
+      "name": "iDiklonius",
+      "value": 19
+    },
+    {
+      "rank": 19,
       "name": "@wavesscalper",
       "value": 18
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Manis Love",
       "value": 17
     },
     {
-      "rank": 20,
-      "name": "Logrus",
-      "value": 17
-    },
-    {
       "rank": 21,
-      "name": "iDiklonius",
+      "name": "Logrus",
       "value": 17
     },
     {
@@ -2009,13 +2009,13 @@
     },
     {
       "rank": 33,
-      "name": "Алексей",
+      "name": "L G",
       "value": 8
     },
     {
       "rank": 34,
-      "name": "L G",
-      "value": 7
+      "name": "Алексей",
+      "value": 8
     },
     {
       "rank": 35,
@@ -2107,7 +2107,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 27
+      "value": 26
     },
     {
       "rank": 3,
@@ -2156,82 +2156,82 @@
     },
     {
       "rank": 12,
-      "name": "Zero-sum Gamer",
-      "value": 4
-    },
-    {
-      "rank": 13,
       "name": "Алексей",
       "value": 3
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "SPM",
       "value": 3
     },
     {
+      "rank": 14,
+      "name": "L G",
+      "value": 3
+    },
+    {
       "rank": 15,
-      "name": "Oleg Maksimov",
+      "name": "iDiklonius",
       "value": 3
     },
     {
       "rank": 16,
+      "name": "Zero-sum Gamer",
+      "value": 3
+    },
+    {
+      "rank": 17,
+      "name": "Oleg Maksimov",
+      "value": 3
+    },
+    {
+      "rank": 18,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 19,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 20,
       "name": "Logrus",
       "value": 2
     },
     {
-      "rank": 19,
-      "name": "L G",
-      "value": 2
-    },
-    {
-      "rank": 20,
+      "rank": 21,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Николай Вереск",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 26,
-      "name": "PiratesOfMining",
-      "value": 1
-    },
-    {
       "rank": 27,
-      "name": "iDiklonius",
+      "name": "PiratesOfMining",
       "value": 1
     },
     {
@@ -2246,46 +2246,41 @@
     },
     {
       "rank": 30,
-      "name": "Charlie Shefelman",
-      "value": 1
-    },
-    {
-      "rank": 31,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Petia Piatov",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Saflander",
       "value": 1
     }
