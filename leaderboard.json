@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-26T16:59:08+00:00",
-  "count": 308,
+  "updated": "2026-11-26T17:59:14+00:00",
+  "count": 309,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5949,
+      "value": 5950,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1933,
+      "value": 1934,
       "move": 0
     },
     {
@@ -1847,16 +1847,22 @@
     },
     {
       "rank": 308,
+      "name": "R'One",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 309,
       "name": "vitaliy",
       "value": 0,
-      "move": -1
+      "move": -2
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 168
+      "value": 169
     },
     {
       "rank": 2,
@@ -1960,13 +1966,13 @@
     },
     {
       "rank": 22,
-      "name": "Manis Love",
+      "name": ".",
       "value": 15
     },
     {
       "rank": 23,
-      "name": ".",
-      "value": 15
+      "name": "Manis Love",
+      "value": 14
     },
     {
       "rank": 24,
@@ -2108,7 +2114,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 49
+      "value": 48
     },
     {
       "rank": 2,
@@ -2118,7 +2124,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 4,
