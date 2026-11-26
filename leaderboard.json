@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T13:58:52+00:00",
+  "updated": "2026-11-26T14:58:58+00:00",
   "count": 308,
   "has_movement": true,
   "all": [
@@ -509,21 +509,21 @@
     },
     {
       "rank": 85,
-      "name": "Petia Piatov",
+      "name": "Don Michele Corleone",
       "value": 24,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 86,
-      "name": "ilya Kalashnikov",
-      "value": 23,
-      "move": 0
+      "name": "Petia Piatov",
+      "value": 24,
+      "move": -1
     },
     {
       "rank": 87,
-      "name": "Don Michele Corleone",
+      "name": "ilya Kalashnikov",
       "value": 23,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 88,
@@ -1876,7 +1876,7 @@
     {
       "rank": 5,
       "name": "Igor",
-      "value": 48
+      "value": 46
     },
     {
       "rank": 6,
@@ -1926,7 +1926,7 @@
     {
       "rank": 15,
       "name": "Viktor",
-      "value": 22
+      "value": 20
     },
     {
       "rank": 16,
@@ -1980,12 +1980,12 @@
     },
     {
       "rank": 26,
-      "name": "Charlie Shefelman",
-      "value": 13
+      "name": "Don Michele Corleone",
+      "value": 14
     },
     {
       "rank": 27,
-      "name": "Don Michele Corleone",
+      "name": "Charlie Shefelman",
       "value": 13
     },
     {
@@ -2035,18 +2035,18 @@
     },
     {
       "rank": 37,
-      "name": "Сергей",
-      "value": 6
-    },
-    {
-      "rank": 38,
       "name": "LlirikMK",
       "value": 6
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Marina",
       "value": 6
+    },
+    {
+      "rank": 39,
+      "name": "Сергей",
+      "value": 5
     },
     {
       "rank": 40,
@@ -2288,6 +2288,11 @@
     {
       "rank": 37,
       "name": "Saflander",
+      "value": 1
+    },
+    {
+      "rank": 38,
+      "name": "Don Michele Corleone",
       "value": 1
     }
   ]
