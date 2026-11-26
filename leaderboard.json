@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T00:57:47+00:00",
+  "updated": "2026-11-26T01:57:52+00:00",
   "count": 307,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1932,
+      "value": 1933,
       "move": 0
     },
     {
@@ -1860,7 +1860,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 4,
@@ -2112,12 +2112,12 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 11
+      "value": 10
     },
     {
       "rank": 5,
