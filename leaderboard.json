@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-27T05:00:11+00:00",
+  "updated": "2026-11-27T06:00:16+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5952,
+      "value": 5953,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 500,
+      "value": 501,
       "move": 0
     },
     {
@@ -1862,7 +1862,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 171
+      "value": 172
     },
     {
       "rank": 2,
@@ -1936,17 +1936,17 @@
     },
     {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "iDiklonius",
       "value": 20
     },
     {
       "rank": 17,
-      "name": "Vitaliy",
-      "value": 19
+      "name": "Синдбад Мореход",
+      "value": 20
     },
     {
       "rank": 18,
-      "name": "iDiklonius",
+      "name": "Vitaliy",
       "value": 19
     },
     {
@@ -2011,23 +2011,23 @@
     },
     {
       "rank": 31,
-      "name": "Алексей",
-      "value": 8
-    },
-    {
-      "rank": 32,
       "name": "L G",
       "value": 8
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Алексей",
       "value": 8
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "I",
       "value": 8
+    },
+    {
+      "rank": 34,
+      "name": "Алексей",
+      "value": 7
     },
     {
       "rank": 35,
@@ -2114,7 +2114,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 49
+      "value": 50
     },
     {
       "rank": 2,
@@ -2173,37 +2173,37 @@
     },
     {
       "rank": 13,
-      "name": "Zero-sum Gamer",
+      "name": "iDiklonius",
       "value": 3
     },
     {
       "rank": 14,
-      "name": "Oleg Maksimov",
+      "name": "Zero-sum Gamer",
       "value": 3
     },
     {
       "rank": 15,
+      "name": "Oleg Maksimov",
+      "value": 3
+    },
+    {
+      "rank": 16,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 18,
-      "name": "Сергей",
-      "value": 2
-    },
-    {
       "rank": 19,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 2
     },
     {
