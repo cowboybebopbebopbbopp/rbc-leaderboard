@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-27T07:00:21+00:00",
+  "updated": "2026-11-27T08:00:26+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5953,
+      "value": 5956,
       "move": 0
     },
     {
@@ -1862,7 +1862,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 172
+      "value": 175
     },
     {
       "rank": 2,
@@ -2114,7 +2114,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 49
+      "value": 52
     },
     {
       "rank": 2,
@@ -2178,47 +2178,47 @@
     },
     {
       "rank": 14,
-      "name": "Zero-sum Gamer",
-      "value": 3
-    },
-    {
-      "rank": 15,
       "name": "Oleg Maksimov",
       "value": 3
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "PiratesOfMining",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Николай Вереск",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "lefkorosos",
+      "value": 2
+    },
+    {
+      "rank": 22,
+      "name": "Zero-sum Gamer",
       "value": 2
     },
     {
