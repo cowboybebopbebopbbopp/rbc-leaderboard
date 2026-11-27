@@ -379,9 +379,36 @@
   .lgt.on{color:var(--amber); border-color:rgba(255,176,32,.5)}
   .lgt:active{transform:scale(.97)}
   .champline{display:flex; align-items:center; gap:var(--s2); margin-top:var(--s3); padding:var(--s3);
-    border:1px solid rgba(255,176,32,.28); border-radius:12px; font-size:13px; color:var(--mut)}
+    width:100%; min-height:44px; text-align:left; border:1px solid rgba(255,176,32,.28); border-radius:12px;
+    font-size:13px; color:var(--mut); overflow-wrap:anywhere}
   .champline svg{width:15px; height:15px; color:var(--amber); flex:none}
   .champline b{color:var(--amber)}
+  .champline .arr{margin-left:auto; color:var(--amber); flex:none}
+  .season-picker{display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap;
+    gap:0 var(--s3); margin-top:var(--s4); border-bottom:1px solid var(--hair2)}
+  .season-trigger{display:flex; align-items:center; gap:var(--s2); min-height:44px;
+    font-size:15px; font-weight:600; text-align:left}
+  .season-trigger .arr{color:var(--amber)}
+  .season-period{margin:0; padding:var(--s1) 0; font-size:12px}
+  .season-option{width:100%; text-align:left; justify-content:space-between}
+  .season-option[aria-current="true"]{color:var(--amber)}
+  .season-option svg{width:16px; height:16px; flex:none}
+  .season-option small{display:block; color:var(--mut); margin-top:2px; font-size:12px}
+  #league-season-options .textbtn{width:100%; margin-top:var(--s2)}
+  .season-medals{display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:var(--s2); margin-top:var(--s3)}
+  .season-medals .medal{padding:var(--s1) 0 var(--s2); border-bottom:2px solid var(--hair); animation:none}
+  .season-medals .medal[aria-pressed="true"]{border-color:var(--amber)}
+  .season-medals .medal[aria-pressed="true"] strong{color:var(--amber)}
+  .season-medals .coin,.season-medals .cap{display:block}
+  .season-medals .coin::after{content:none}
+  .season-medals .cap{color:var(--mut)}
+  .season-medals strong{display:block; color:var(--fg); font-size:13px; font-weight:600}
+  .season-winner.lrow{width:100%; min-height:52px; padding:var(--s2) 0; text-align:left}
+  .season-winner.meish{width:calc(100% + var(--s4))}
+  .season-winner.lrow img{width:34px; height:34px}
+  .season-winner.lrow .nm{font-size:15px}
+  .season-trigger:focus-visible,.season-option:focus-visible,.season-medals .medal:focus-visible,
+  .season-winner:focus-visible,.champline:focus-visible,.lgt:focus-visible{outline:2px solid var(--amber); outline-offset:2px}
   .mebar{position:sticky; top:0; z-index:20; display:flex; align-items:center; gap:var(--s3);
     margin:var(--s3) calc(var(--s4) * -1) 0; padding:var(--s3) var(--s4); min-height:56px;
     background:rgba(7,8,11,.94); backdrop-filter:blur(12px); -webkit-backdrop-filter:blur(12px);
@@ -589,7 +616,7 @@
 <script>
 'use strict';
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
-const S={preds:null,charts:null,me:null,pid:null,verified:false,lgAll:false,bets:{},sound:false,crowd:null,liveTimer:0,voteTs:0};
+const S={preds:null,charts:null,me:null,pid:null,verified:false,lgAll:false,lgMode:'all',lgSeason:null,lgMedal:0,bets:{},sound:false,crowd:null,liveTimer:0,voteTs:0};
 
 /* ===== Telegram Mini App (стадия 1): страница работает и как обычный сайт ===== */
 const TG=(window.Telegram&&window.Telegram.WebApp&&window.Telegram.WebApp.initDataUnsafe&&window.Telegram.WebApp.initDataUnsafe.user)?window.Telegram.WebApp:null;
@@ -999,10 +1026,10 @@ function readPid(){ const m=(location.hash||'').match(/pid=(\d+)/); if(m) return
 
 /* ===== сезоны — как времена года (по МСК) ===== */
 const SEASONS=[
-  {nom:'зима', gen:'зимы',  range:'декабрь–февраль', ends:'28 февраля', instr:'этой зимой'},
-  {nom:'весна',gen:'весны', range:'март–май',        ends:'31 мая',     instr:'этой весной'},
-  {nom:'лето', gen:'лета',  range:'июнь–август',     ends:'31 августа', instr:'этим летом'},
-  {nom:'осень',gen:'осени', range:'сентябрь–ноябрь', ends:'30 ноября',  instr:'этой осенью'},
+  {nom:'зима', gen:'зимы',  range:'декабрь–февраль'},
+  {nom:'весна',gen:'весны', range:'март–май'},
+  {nom:'лето', gen:'лета',  range:'июнь–август'},
+  {nom:'осень',gen:'осени', range:'сентябрь–ноябрь'},
 ];
 const mskYM=d=>new Intl.DateTimeFormat('en-CA',{...MSK,year:'numeric',month:'2-digit'}).format(new Date(d));
 function seasonOf(d){ const [y,m]=mskYM(d).split('-').map(Number);
@@ -1014,6 +1041,8 @@ const skIdx=key=>+key.split('-')[1];
 const skYear=key=>+key.split('-')[0];
 const seasonNom=key=>SEASONS[skIdx(key)].nom+(skYear(key)!==seasonOf(Date.now()).year?' '+skYear(key):'');
 const seasonGen=key=>SEASONS[skIdx(key)].gen+(skYear(key)!==seasonOf(Date.now()).year?' '+skYear(key):'');
+function seasonYearLabel(key){ const {nom}=SEASONS[skIdx(key)];
+  return `${nom[0].toUpperCase()+nom.slice(1)} ${skYear(key)}`; }
 /* Победы сезона считаем по pid: тёзки — разные строки, переименование не рвёт. */
 function seasonData(){ const m={};
   for(const c of contests()) if(c.status==='resolved'){
@@ -1024,9 +1053,10 @@ function seasonData(){ const m={};
       const e=bucket[key]||(bucket[key]={pid,name:w,wins:0});
       e.wins++; e.name=(pid!=null&&boardByPid(pid)?boardByPid(pid).name:w); }); }
   return m; }
-function seasonList(key){ const d=seasonData()[key]||{};
+function seasonList(key,data=seasonData()){ const d=data[key]||{};
   return Object.values(d).sort((x,y)=>y.wins-x.wins||(x.name>y.name?1:-1)); }
-function championsOf(key){ const l=seasonList(key); if(!l.length) return {names:[],wins:0,entries:[]};
+const seasonPlaces=list=>new Map([...new Set(list.map(e=>e.wins))].map((wins,i)=>[wins,i+1]));
+function championsOf(key,data){ const l=seasonList(key,data); if(!l.length) return {names:[],wins:0,entries:[]};
   const mx=l[0].wins, top=l.filter(e=>e.wins===mx);
   return {names:top.map(e=>e.name),wins:mx,entries:top}; }
 const SEASON_SLUG=['winter','spring','summer','autumn'];
@@ -1034,22 +1064,21 @@ const METALS=['gold','silver','bronze'];
 /* Награды за завершённые сезоны: топ-3 по числу побед сезона.
    Медаль = сезон (зверь-мем) × металл (место). */
 function seasonAwards(pid,name){
-  const cur=seasonOf(Date.now()).key, out=[];
-  for(const key of Object.keys(seasonData()).sort()){
+  const cur=seasonOf(Date.now()).key, data=seasonData(), out=[];
+  for(const key of Object.keys(data).sort()){
     if(key>=cur) continue;
-    const list=seasonList(key); if(!list.length) continue;
-    const tiers=[...new Set(list.map(e=>e.wins))].slice(0,3);
+    const list=seasonList(key,data); if(!list.length) continue;
     const idx=list.findIndex(e=>(pid!=null&&e.pid!=null)?e.pid===pid:e.name===name);
     if(idx<0) continue;
-    const place=tiers.indexOf(list[idx].wins);
-    if(place<0) continue;
+    const place=seasonPlaces(list).get(list[idx].wins)-1;
+    if(place>=METALS.length) continue;
     out.push({key, place, metal:METALS[place], slug:SEASON_SLUG[skIdx(key)], wins:list[idx].wins});
   }
   return out;
 }
 const seasonMedalImg=(a,size)=>`<img class="ai" src="${ART}season_${a.slug}_${a.metal}.png" width="${size}" height="${size}" alt="" onerror="this.onerror=null;this.classList.add('spr');this.src='${sprite('coin','?')}'">`;
-function champTitles(pid,name){ const cur=seasonOf(Date.now()).key;
-  return Object.keys(seasonData()).filter(k=>k<cur&&championsOf(k).entries.some(
+function champTitles(pid,name){ const cur=seasonOf(Date.now()).key, data=seasonData();
+  return Object.keys(data).filter(k=>k<cur&&championsOf(k,data).entries.some(
     e=>pid!=null&&e.pid!=null?e.pid===pid:e.name===name)).sort(); }
 
 /* ============================== звук ============================== */
@@ -2064,31 +2093,75 @@ async function shareCard(){
 }
 
 /* ============================== ЛИГА ============================== */
+const leaguePlural=new Intl.PluralRules('ru-RU');
+const leagueWins=n=>`${n} ${{one:'победа',few:'победы',many:'побед',other:'побед'}[leaguePlural.select(n)]}`;
+const leaguePlayers=n=>`${n} ${{one:'игрок',few:'игрока',many:'игроков',other:'игроков'}[leaguePlural.select(n)]}`;
+const leaguePlayerAttrs=(e,idx)=>idx>=0?`data-i="${idx}"`:`data-n="${esc(e.name)}"`;
+const leaguePlayerRow=e=>e.pid!=null?boardByPid(e.pid):boardOf(e.name);
+
+function seasonPodium(key,list,places,board){
+  const tiers=Array.from({length:METALS.length},()=>[]);
+  for(const entry of list){
+    const tier=tiers[places.get(entry.wins)-1];
+    if(!tier) break;
+    tier.push(entry);
+  }
+  const groups=tiers.filter(group=>group.length);
+  const active=S.lgMedal<groups.length?S.lgMedal:0;
+  const medals=groups.map((group,i)=>`<button type="button" class="medal" data-medal="${i}"
+    aria-pressed="${i===active}" aria-controls="season-winners-${i}"
+    aria-label="${i+1}-е место, ${leagueWins(group[0].wins)}, ${leaguePlayers(group.length)}">
+    <span class="coin">${seasonMedalImg({slug:SEASON_SLUG[skIdx(key)],metal:METALS[i]},58)}</span>
+    <span class="cap"><strong>${i+1}-е место</strong>${leagueWins(group[0].wins)}</span></button>`).join('');
+  const winners=groups.map((group,i)=>`<div id="season-winners-${i}" ${i===active?'':'hidden'}>
+    ${group.map(e=>{
+      const row=leaguePlayerRow(e), lv=levelOf(row||{games:0,wins:0,best_streak:0});
+      return `<button type="button" class="season-winner lrow ${isMeRow(row)?'meish':''}" ${leaguePlayerAttrs(e,board.indexOf(row))}>
+        ${beastImg(lv,34)}<span class="nm">${esc(e.name)}<small>ур.${lv.n} ${lv.name}</small></span></button>`;
+    }).join('')}</div>`).join('');
+  return `<div class="sect"><h2 id="season-prizes">Призёры сезона</h2></div>
+    <div class="medals season-medals" role="group" aria-labelledby="season-prizes">${medals}</div>${winners}`;
+}
+
 function renderLeague(){
   const v=$('#v-league'); const b=S.preds.board||[];
   const cur=seasonOf(Date.now()).key;
-  const prevKeys=Object.keys(seasonData()).filter(k=>k<cur).sort();
-  const lastKey=prevKeys[prevKeys.length-1];
-  const champ=lastKey?championsOf(lastKey):null;
-  let html=`<div class="lgtabs">
-    <button class="lgt ${S.lgMode!=='season'?'on':''}" data-m="all">вся лига</button>
-    <button class="lgt ${S.lgMode==='season'?'on':''}" data-m="season">сезон · ${seasonNom(cur)}</button></div>`;
-  if(champ&&champ.names.length)
-    html+=`<div class="champline">${icon('crown')} оракул ${seasonGen(lastKey)} — <b>${champ.names.map(esc).join(', ')}</b> · ${champ.wins} ${champ.wins===1?'победа':'победы'}</div>`;
+  const data=seasonData(), seasonMode=S.lgMode==='season';
+  const prevKeys=Object.keys(data).filter(k=>k<cur).sort().reverse();
+  const selected=prevKeys.includes(S.lgSeason)?S.lgSeason:cur;
+  const archive=selected!==cur, season=SEASONS[skIdx(selected)];
+  const lastKey=prevKeys.find(key=>Object.keys(data[key]).length);
+  const champ=lastKey?championsOf(lastKey,data):null;
+  let html=`<div class="lgtabs" role="group" aria-label="Рейтинг">
+    <button type="button" class="lgt ${seasonMode?'':'on'}" data-m="all" aria-pressed="${!seasonMode}">Вся лига</button>
+    <button type="button" class="lgt ${seasonMode?'on':''}" data-m="season" aria-pressed="${seasonMode}">Сезоны</button></div>`;
+  if(champ&&(!seasonMode||!archive)){
+    const title=`Оракул ${SEASONS[skIdx(lastKey)].gen} ${skYear(lastKey)}`;
+    html+=`<button type="button" class="champline" id="league-champions" title="Открыть итоговый рейтинг">
+      ${icon('crown')} <span>${title} — <b>${champ.names.map(esc).join(', ')}</b> · ${leagueWins(champ.wins)}</span><span class="arr" aria-hidden="true">→</span></button>`;
+  }
 
-  if(S.lgMode==='season'){
-    const list=seasonList(cur);
-    html+=list.length?`<div id="lrows">${list.map((e,i)=>{
-        const row=e.pid!=null?boardByPid(e.pid):boardOf(e.name);
+  if(seasonMode){
+    html+=`<div class="season-picker"><button type="button" class="season-trigger" id="league-season"
+      aria-haspopup="dialog" aria-expanded="false" aria-label="Выбрать сезон. ${seasonYearLabel(selected)}">
+      ${seasonYearLabel(selected)} <span class="arr" aria-hidden="true">▾</span></button>
+      <div class="statusline season-period">${season.range} · ${archive?'Завершён':'<b>Идёт</b>'}</div></div>`;
+    const list=seasonList(selected,data), places=seasonPlaces(list);
+    if(archive&&list.length){
+      html+=seasonPodium(selected,list,places,b);
+      html+=`<div class="sect"><h2>Итоговая таблица</h2><div class="k">${leaguePlayers(list.length)} с победами</div></div>`;
+    }
+    html+=list.length?`<div id="lrows">${list.map(e=>{
+        const row=leaguePlayerRow(e);
         const lv=levelOf(row||{games:0,wins:0,best_streak:0});
         const idx=row?b.indexOf(row):-1;
-        return `<div class="lrow ${isMeRow(row)?'meish':''}" ${idx>=0?`data-i="${idx}"`:`data-n="${esc(e.name)}"`}>
-        <div class="pos">${i+1}</div>${beastImg(lv,46)}
+        return `<div class="lrow ${isMeRow(row)?'meish':''}" ${leaguePlayerAttrs(e,idx)}>
+        <div class="pos">${places.get(e.wins)}</div>${beastImg(lv,46)}
         <div class="nm">${esc(e.name)}<small>ур.${lv.n} ${lv.name}</small></div>
         <div class="sc"><b>${e.wins}</b><span>побед</span></div>
-        ${meRow()&&!isMeRow(row)&&idx>=0?`<button class="duelbtn" data-dueli="${idx}">${icon('sword')}</button>`:''}</div>`;}).join('')}</div>
-      <div class="undernote" style="margin-top:12px">Сезон — как время года: ${SEASONS[skIdx(cur)].nom} длится ${SEASONS[skIdx(cur)].range}. ${SEASONS[skIdx(cur)].ends} лучший получит титул «Оракул ${seasonGen(cur)}» — корону на карточку навсегда.</div>`
-      :`<div class="undernote" style="margin-top:16px">${SEASONS[skIdx(cur)].instr[0].toUpperCase()+SEASONS[skIdx(cur)].instr.slice(1)} побед ещё нет — всё решится в среду.</div>`;
+        ${meRow()&&!isMeRow(row)&&idx>=0?`<button class="duelbtn" data-dueli="${idx}">${icon('sword')}</button>`:''}</div>`;}).join('')}</div>`
+      :`<div class="undernote" style="margin-top:16px">${archive?'В этом сезоне не было побед.':'Первые победы появятся после подведения итогов конкурса.'}</div>`;
+    if(!archive) html+=`<div class="undernote" style="margin-top:12px">По итогам сезона лидеры получат титул «Оракул ${seasonGen(cur)}» и корону в профиле.</div>`;
   } else {
     const top=b.slice(0,3);
     if(top.length===3){
@@ -2106,13 +2179,56 @@ function renderLeague(){
     html+=`<input class="search" id="lsearch" placeholder="найти игрока…" autocomplete="off"><div id="lrows"></div>`;
   }
   v.innerHTML=html;
-  $$('.lgt',v).forEach(el=>el.onclick=()=>{ S.lgMode=el.dataset.m; renderLeague(); applyStagger(v); });
+  function openLeagueSeason(key){
+    if(key!==selected) S.lgMedal=0;
+    S.lgSeason=key===cur?null:key;
+    S.lgMode='season';
+    renderLeague();
+    $('#league-season').focus({preventScroll:true});
+  }
+  v.querySelectorAll('.lgt').forEach(el=>el.onclick=()=>{
+    S.lgMode=el.dataset.m;
+    renderLeague();
+    v.querySelector('.lgt.on').focus({preventScroll:true});
+    applyStagger(v);
+  });
+  const selector=$('#league-season');
+  if(selector) selector.onclick=()=>{
+    $('#sheetbody').innerHTML=`<div id="league-season-options" role="dialog" aria-modal="true" aria-labelledby="league-season-title">
+      <div class="sh-title" id="league-season-title">Сезоны</div>
+      ${[cur,...prevKeys].map(key=>`<button type="button" class="optrow season-option" data-season="${key}" aria-current="${key===selected}">
+        <span>${seasonYearLabel(key)}<small>${SEASONS[skIdx(key)].range}${key===cur?' · Идёт':''}</small></span>
+        ${key===selected?icon('check'):''}</button>`).join('')}
+      <button type="button" class="textbtn" onclick="closeSheet()">закрыть</button></div>`;
+    const dialog=$('#league-season-options'), actions=$$('#league-season-options button');
+    const first=actions[0], last=actions[actions.length-1];
+    dialog.onkeydown=event=>{
+      if(event.key==='Escape'){ event.preventDefault(); closeSheet(); }
+      if(event.key==='Tab'&&document.activeElement===(event.shiftKey?first:last)){
+        event.preventDefault(); (event.shiftKey?last:first).focus();
+      }
+    };
+    actions.slice(0,-1).forEach(el=>el.onclick=()=>{ closeSheet(); openLeagueSeason(el.dataset.season); });
+    selector.setAttribute('aria-expanded','true');
+    showSheet();
+    dialog.querySelector('[aria-current="true"]').focus();
+  };
+  const medalButtons=v.querySelectorAll('.season-medals .medal');
+  medalButtons.forEach(el=>el.onclick=()=>{
+    S.lgMedal=+el.dataset.medal;
+    medalButtons.forEach(medal=>{
+      const active=medal===el;
+      medal.setAttribute('aria-pressed',String(active));
+      document.getElementById(medal.getAttribute('aria-controls')).hidden=!active;
+    });
+  });
+  const banner=$('#league-champions'); if(banner) banner.onclick=()=>openLeagueSeason(lastKey);
 
-  const bindRows=()=>{ $$('#lrows .lrow').forEach(el=>el.onclick=()=>{
+  const bindRows=()=>{ $$('#v-league .lrow').forEach(el=>el.onclick=()=>{
       if(el.dataset.i!=null) openPlayerIdx(+el.dataset.i); else openPlayer(el.dataset.n); });
     $$('#lrows .duelbtn').forEach(el=>el.onclick=e=>{e.stopPropagation();
       duel(el.dataset.dueli!=null?+el.dataset.dueli:el.dataset.duel);}); };
-  if(S.lgMode!=='season'){
+  if(!seasonMode){
     const LIMIT=20;
     const rows=q=>{ const qq=(q||'').trim().toLowerCase();
       const full=qq?b.filter(x=>x.name.toLowerCase().includes(qq)):b;
@@ -2213,7 +2329,16 @@ function duel(ref){
   requestAnimationFrame(()=>requestAnimationFrame(()=>$$('#sheetbody .dbar i').forEach(i=>i.style.width=i.dataset.w+'%')));
   sTick();
 }
-function closeSheet(){ $('#sheet').classList.remove('on'); tgBack(); }
+function closeSheet(){
+  $('#sheet').classList.remove('on');
+  const seasonOptions=$('#league-season-options');
+  if(seasonOptions){
+    seasonOptions.remove();
+    const picker=$('#league-season');
+    if(picker){ picker.setAttribute('aria-expanded','false'); picker.focus({preventScroll:true}); }
+  }
+  tgBack();
+}
 
 /* ============================== каркас ============================== */
 /* Движение отмечает события (финиш, новое звание), а не рутинную навигацию:
