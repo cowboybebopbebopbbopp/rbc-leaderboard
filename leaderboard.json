@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-27T12:00:47+00:00",
+  "updated": "2026-11-27T13:00:52+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5958,
+      "value": 5959,
       "move": 0
     },
     {
@@ -1862,7 +1862,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 177
+      "value": 178
     },
     {
       "rank": 2,
@@ -1891,13 +1891,13 @@
     },
     {
       "rank": 7,
-      "name": "Igor",
+      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
       "value": 39
     },
     {
       "rank": 8,
-      "name": "ᴄʀʏᴘᴛᴏ ᴘᴀɴᴅᴀ",
-      "value": 39
+      "name": "Igor",
+      "value": 38
     },
     {
       "rank": 9,
@@ -2138,18 +2138,18 @@
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 7
-    },
-    {
-      "rank": 7,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Ponemonec",
       "value": 5
+    },
+    {
+      "rank": 8,
+      "name": "a l",
+      "value": 4
     },
     {
       "rank": 9,
