@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T14:00:57+00:00",
+  "updated": "2026-11-27T15:01:02+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
@@ -1897,7 +1897,7 @@
     {
       "rank": 8,
       "name": "Igor",
-      "value": 37
+      "value": 36
     },
     {
       "rank": 9,
@@ -2119,12 +2119,12 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 27
+      "value": 25
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 4,
@@ -2178,52 +2178,52 @@
     },
     {
       "rank": 14,
-      "name": "Oleg Maksimov",
-      "value": 3
-    },
-    {
-      "rank": 15,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Николай Вереск",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Zero-sum Gamer",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "@wavesscalper",
+      "value": 2
+    },
+    {
+      "rank": 23,
+      "name": "Oleg Maksimov",
       "value": 2
     },
     {
