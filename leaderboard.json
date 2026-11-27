@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T09:00:32+00:00",
+  "updated": "2026-11-27T10:00:37+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
@@ -1867,7 +1867,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 83
+      "value": 81
     },
     {
       "rank": 3,
@@ -1912,7 +1912,7 @@
     {
       "rank": 11,
       "name": "Zero-sum Gamer",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 12,
@@ -2006,22 +2006,22 @@
     },
     {
       "rank": 30,
-      "name": "Sonic",
-      "value": 11
-    },
-    {
-      "rank": 31,
       "name": "L G",
       "value": 8
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Алексей",
       "value": 8
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "I",
+      "value": 8
+    },
+    {
+      "rank": 33,
+      "name": "Sonic",
       "value": 8
     },
     {
@@ -2124,7 +2124,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 4,
