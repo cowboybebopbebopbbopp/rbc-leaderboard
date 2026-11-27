@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T06:00:16+00:00",
+  "updated": "2026-11-27T07:00:21+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 501,
+      "value": 502,
       "move": 0
     },
     {
@@ -1931,12 +1931,12 @@
     },
     {
       "rank": 15,
-      "name": "Viktor",
-      "value": 20
+      "name": "iDiklonius",
+      "value": 21
     },
     {
       "rank": 16,
-      "name": "iDiklonius",
+      "name": "Viktor",
       "value": 20
     },
     {
@@ -2114,7 +2114,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 50
+      "value": 49
     },
     {
       "rank": 2,
@@ -2124,7 +2124,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 4,
@@ -2139,7 +2139,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 9
+      "value": 8
     },
     {
       "rank": 7,
@@ -2158,22 +2158,22 @@
     },
     {
       "rank": 10,
-      "name": "Mikhail",
+      "name": "iDiklonius",
       "value": 4
     },
     {
       "rank": 11,
+      "name": "Mikhail",
+      "value": 4
+    },
+    {
+      "rank": 12,
       "name": "Алексей",
       "value": 3
     },
     {
-      "rank": 12,
-      "name": "SPM",
-      "value": 3
-    },
-    {
       "rank": 13,
-      "name": "iDiklonius",
+      "name": "SPM",
       "value": 3
     },
     {
