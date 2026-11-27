@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T11:00:42+00:00",
+  "updated": "2026-11-27T12:00:47+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "PiratesOfMining",
-      "value": 926,
+      "value": 927,
       "move": 0
     },
     {
@@ -1886,13 +1886,13 @@
     },
     {
       "rank": 6,
-      "name": "Igor",
-      "value": 41
+      "name": "a l",
+      "value": 40
     },
     {
       "rank": 7,
-      "name": "a l",
-      "value": 40
+      "name": "Igor",
+      "value": 39
     },
     {
       "rank": 8,
@@ -2041,18 +2041,18 @@
     },
     {
       "rank": 37,
-      "name": "LlirikMK",
+      "name": "PiratesOfMining",
       "value": 6
     },
     {
       "rank": 38,
-      "name": "Marina",
+      "name": "LlirikMK",
       "value": 6
     },
     {
       "rank": 39,
-      "name": "PiratesOfMining",
-      "value": 5
+      "name": "Marina",
+      "value": 6
     },
     {
       "rank": 40,
@@ -2139,7 +2139,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 7,
@@ -2178,17 +2178,17 @@
     },
     {
       "rank": 14,
-      "name": "Oleg Maksimov",
+      "name": "PiratesOfMining",
       "value": 3
     },
     {
       "rank": 15,
-      "name": "Aся",
-      "value": 2
+      "name": "Oleg Maksimov",
+      "value": 3
     },
     {
       "rank": 16,
-      "name": "PiratesOfMining",
+      "name": "Aся",
       "value": 2
     },
     {
