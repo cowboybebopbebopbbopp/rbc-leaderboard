@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T01:59:55+00:00",
+  "updated": "2026-11-27T03:00:00+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
@@ -1956,12 +1956,12 @@
     },
     {
       "rank": 20,
-      "name": "@wavesscalper",
-      "value": 17
+      "name": "A.",
+      "value": 16
     },
     {
       "rank": 21,
-      "name": "A.",
+      "name": "@wavesscalper",
       "value": 16
     },
     {
