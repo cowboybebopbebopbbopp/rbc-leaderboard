@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-27T10:00:37+00:00",
+  "updated": "2026-11-27T11:00:42+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5957,
+      "value": 5958,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 1052,
+      "value": 1054,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 502,
+      "value": 503,
       "move": 0
     },
     {
@@ -234,7 +234,7 @@
     {
       "rank": 39,
       "name": "Charlie Shefelman",
-      "value": 142,
+      "value": 144,
       "move": 0
     },
     {
@@ -1862,12 +1862,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 176
+      "value": 177
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 81
+      "value": 80
     },
     {
       "rank": 3,
@@ -1877,7 +1877,7 @@
     {
       "rank": 4,
       "name": "Руслан Иванов",
-      "value": 48
+      "value": 47
     },
     {
       "rank": 5,
@@ -1887,7 +1887,7 @@
     {
       "rank": 6,
       "name": "Igor",
-      "value": 44
+      "value": 41
     },
     {
       "rank": 7,
@@ -1931,13 +1931,13 @@
     },
     {
       "rank": 15,
-      "name": "iDiklonius",
-      "value": 21
+      "name": "Viktor",
+      "value": 22
     },
     {
       "rank": 16,
-      "name": "Viktor",
-      "value": 20
+      "name": "iDiklonius",
+      "value": 22
     },
     {
       "rank": 17,
@@ -1947,16 +1947,16 @@
     {
       "rank": 18,
       "name": "Vitaliy",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 19,
-      "name": "Logrus",
-      "value": 17
+      "name": "A.",
+      "value": 16
     },
     {
       "rank": 20,
-      "name": "A.",
+      "name": "Logrus",
       "value": 16
     },
     {
@@ -1966,28 +1966,28 @@
     },
     {
       "rank": 22,
+      "name": "Charlie Shefelman",
+      "value": 15
+    },
+    {
+      "rank": 23,
       "name": "Manis Love",
       "value": 14
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 14
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Ponemonec",
       "value": 14
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Don Michele Corleone",
       "value": 14
-    },
-    {
-      "rank": 26,
-      "name": "Charlie Shefelman",
-      "value": 13
     },
     {
       "rank": 27,
@@ -2114,7 +2114,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 53
+      "value": 54
     },
     {
       "rank": 2,
@@ -2124,12 +2124,12 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 11
+      "value": 13
     },
     {
       "rank": 5,
@@ -2143,22 +2143,22 @@
     },
     {
       "rank": 7,
-      "name": "Ponemonec",
+      "name": "iDiklonius",
       "value": 5
     },
     {
       "rank": 8,
+      "name": "Ponemonec",
+      "value": 5
+    },
+    {
+      "rank": 9,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 9,
-      "name": "Руслан Иванов",
-      "value": 4
-    },
-    {
       "rank": 10,
-      "name": "iDiklonius",
+      "name": "Руслан Иванов",
       "value": 4
     },
     {
@@ -2203,57 +2203,57 @@
     },
     {
       "rank": 19,
-      "name": "Николай Вереск",
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
       "rank": 20,
-      "name": "Синдбад Мореход",
+      "name": "Николай Вереск",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "lefkorosos",
+      "name": "Синдбад Мореход",
       "value": 2
     },
     {
       "rank": 22,
-      "name": "Zero-sum Gamer",
+      "name": "lefkorosos",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "@wavesscalper",
+      "name": "Zero-sum Gamer",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "Sonic",
+      "name": "@wavesscalper",
       "value": 2
     },
     {
       "rank": 25,
+      "name": "Sonic",
+      "value": 2
+    },
+    {
+      "rank": 26,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 28,
-      "name": "AK",
-      "value": 1
-    },
-    {
       "rank": 29,
-      "name": "Petia Piatov",
+      "name": "AK",
       "value": 1
     },
     {
