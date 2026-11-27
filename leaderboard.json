@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T20:01:28+00:00",
+  "updated": "2026-11-27T21:01:33+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
@@ -1942,7 +1942,7 @@
     {
       "rank": 17,
       "name": "Синдбад Мореход",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 18,
@@ -2168,13 +2168,13 @@
     },
     {
       "rank": 12,
-      "name": "SPM",
+      "name": "PiratesOfMining",
       "value": 3
     },
     {
       "rank": 13,
-      "name": "PiratesOfMining",
-      "value": 3
+      "name": "SPM",
+      "value": 2
     },
     {
       "rank": 14,
@@ -2198,42 +2198,42 @@
     },
     {
       "rank": 18,
-      "name": "lefkorosos",
-      "value": 2
-    },
-    {
-      "rank": 19,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "❤️",
+      "value": 1
+    },
+    {
+      "rank": 25,
+      "name": "lefkorosos",
       "value": 1
     },
     {
