@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T18:01:18+00:00",
+  "updated": "2026-11-27T19:01:23+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
@@ -1897,7 +1897,7 @@
     {
       "rank": 8,
       "name": "Igor",
-      "value": 34
+      "value": 33
     },
     {
       "rank": 9,
@@ -1907,7 +1907,7 @@
     {
       "rank": 10,
       "name": "ᴦоᴧод",
-      "value": 31
+      "value": 30
     },
     {
       "rank": 11,
@@ -1922,7 +1922,7 @@
     {
       "rank": 13,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 26
+      "value": 25
     },
     {
       "rank": 14,
@@ -2188,52 +2188,52 @@
     },
     {
       "rank": 16,
-      "name": "Сергей",
-      "value": 2
-    },
-    {
-      "rank": 17,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 18,
-      "name": "Mikhail",
-      "value": 2
-    },
-    {
-      "rank": 19,
+      "rank": 17,
       "name": "Николай Вереск",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 18,
       "name": "lefkorosos",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 19,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 20,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 21,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 22,
+      "name": "Сергей",
+      "value": 1
+    },
+    {
+      "rank": 23,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Bazylev Nickolai",
+      "value": 1
+    },
+    {
+      "rank": 25,
+      "name": "Mikhail",
       "value": 1
     },
     {
