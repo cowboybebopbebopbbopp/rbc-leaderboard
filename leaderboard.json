@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T15:01:02+00:00",
+  "updated": "2026-11-27T16:01:07+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
@@ -497,21 +497,21 @@
     },
     {
       "rank": 83,
-      "name": "Константин",
-      "value": 25,
-      "move": 0
+      "name": "Don Michele Corleone",
+      "value": 27,
+      "move": 4
     },
     {
       "rank": 84,
-      "name": "Ponemonec",
+      "name": "Константин",
       "value": 25,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 85,
-      "name": "Don Michele Corleone",
-      "value": 24,
-      "move": 2
+      "name": "Ponemonec",
+      "value": 25,
+      "move": -1
     },
     {
       "rank": 86,
@@ -1907,7 +1907,7 @@
     {
       "rank": 10,
       "name": "ᴦоᴧод",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 11,
@@ -1951,42 +1951,42 @@
     },
     {
       "rank": 19,
+      "name": "Don Michele Corleone",
+      "value": 17
+    },
+    {
+      "rank": 20,
       "name": "A.",
       "value": 16
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Logrus",
       "value": 16
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "@wavesscalper",
       "value": 16
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Charlie Shefelman",
       "value": 15
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Manis Love",
       "value": 14
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 14
     },
     {
-      "rank": 25,
-      "name": "Ponemonec",
-      "value": 14
-    },
-    {
       "rank": 26,
-      "name": "Don Michele Corleone",
+      "name": "Ponemonec",
       "value": 14
     },
     {
@@ -2114,7 +2114,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 54
+      "value": 53
     },
     {
       "rank": 2,
@@ -2124,7 +2124,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 4,
@@ -2158,7 +2158,7 @@
     },
     {
       "rank": 10,
-      "name": "Mikhail",
+      "name": "Don Michele Corleone",
       "value": 4
     },
     {
@@ -2198,12 +2198,12 @@
     },
     {
       "rank": 18,
-      "name": "Николай Вереск",
+      "name": "Mikhail",
       "value": 2
     },
     {
       "rank": 19,
-      "name": "Синдбад Мореход",
+      "name": "Николай Вереск",
       "value": 2
     },
     {
@@ -2279,11 +2279,6 @@
     {
       "rank": 34,
       "name": "Saflander",
-      "value": 1
-    },
-    {
-      "rank": 35,
-      "name": "Don Michele Corleone",
       "value": 1
     }
   ]
