@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T21:01:33+00:00",
-  "count": 309,
+  "updated": "2026-11-27T22:01:38+00:00",
+  "count": 310,
   "has_movement": true,
   "all": [
     {
@@ -1853,9 +1853,15 @@
     },
     {
       "rank": 309,
+      "name": "Никита Калинин",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 310,
       "name": "vitaliy",
       "value": 0,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
@@ -1872,7 +1878,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 58
+      "value": 56
     },
     {
       "rank": 4,
@@ -1941,12 +1947,12 @@
     },
     {
       "rank": 17,
-      "name": "Синдбад Мореход",
-      "value": 19
+      "name": "Vitaliy",
+      "value": 18
     },
     {
       "rank": 18,
-      "name": "Vitaliy",
+      "name": "Синдбад Мореход",
       "value": 18
     },
     {
@@ -2123,13 +2129,13 @@
     },
     {
       "rank": 3,
-      "name": "Archie",
-      "value": 14
+      "name": "Viktor",
+      "value": 13
     },
     {
       "rank": 4,
-      "name": "Viktor",
-      "value": 13
+      "name": "Archie",
+      "value": 10
     },
     {
       "rank": 5,
