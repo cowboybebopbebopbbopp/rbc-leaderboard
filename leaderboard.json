@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T16:01:07+00:00",
+  "updated": "2026-11-27T17:01:12+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
@@ -1897,7 +1897,7 @@
     {
       "rank": 8,
       "name": "Igor",
-      "value": 36
+      "value": 35
     },
     {
       "rank": 9,
@@ -2114,12 +2114,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 53
+      "value": 52
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 25
+      "value": 23
     },
     {
       "rank": 3,
@@ -2134,7 +2134,7 @@
     {
       "rank": 5,
       "name": "Серхио Ле'Трас",
-      "value": 10
+      "value": 8
     },
     {
       "rank": 6,
@@ -2223,61 +2223,56 @@
     },
     {
       "rank": 23,
-      "name": "Oleg Maksimov",
-      "value": 2
-    },
-    {
-      "rank": 24,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 26,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 1
-    },
-    {
-      "rank": 27,
+      "rank": 25,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 26,
       "name": "AK",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 27,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 28,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 29,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 30,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 31,
+      "name": "Oleg Maksimov",
+      "value": 1
+    },
+    {
+      "rank": 32,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Saflander",
       "value": 1
     }
