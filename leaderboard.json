@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-27T17:01:12+00:00",
+  "updated": "2026-11-27T18:01:18+00:00",
   "count": 309,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5959,
+      "value": 5961,
       "move": 0
     },
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1999,
+      "value": 2000,
       "move": 0
     },
     {
@@ -1862,7 +1862,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 178
+      "value": 180
     },
     {
       "rank": 2,
@@ -1897,7 +1897,7 @@
     {
       "rank": 8,
       "name": "Igor",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 9,
@@ -1912,7 +1912,7 @@
     {
       "rank": 11,
       "name": "Zero-sum Gamer",
-      "value": 29
+      "value": 28
     },
     {
       "rank": 12,
@@ -1922,7 +1922,7 @@
     {
       "rank": 13,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 27
+      "value": 26
     },
     {
       "rank": 14,
@@ -1976,18 +1976,18 @@
     },
     {
       "rank": 24,
-      "name": "Manis Love",
-      "value": 14
-    },
-    {
-      "rank": 25,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 14
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Ponemonec",
       "value": 14
+    },
+    {
+      "rank": 26,
+      "name": "Manis Love",
+      "value": 13
     },
     {
       "rank": 27,
@@ -2114,12 +2114,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 52
+      "value": 54
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 3,
@@ -2213,66 +2213,61 @@
     },
     {
       "rank": 21,
-      "name": "Zero-sum Gamer",
-      "value": 2
-    },
-    {
-      "rank": 22,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 26,
-      "name": "AK",
-      "value": 1
-    },
-    {
-      "rank": 27,
+      "rank": 25,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 26,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 27,
+      "name": "Zero-sum Gamer",
+      "value": 1
+    },
+    {
+      "rank": 28,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Oleg Maksimov",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Saflander",
       "value": 1
     }
