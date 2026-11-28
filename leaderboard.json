@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T23:01:43+00:00",
+  "updated": "2026-11-28T00:01:48+00:00",
   "count": 310,
   "has_movement": true,
   "all": [
@@ -499,7 +499,7 @@
       "rank": 83,
       "name": "Don Michele Corleone",
       "value": 27,
-      "move": 4
+      "move": 2
     },
     {
       "rank": 84,
@@ -517,13 +517,13 @@
       "rank": 86,
       "name": "Petia Piatov",
       "value": 24,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 87,
       "name": "ilya Kalashnikov",
       "value": 23,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 88,
@@ -1843,13 +1843,13 @@
       "rank": 307,
       "name": "GoldMove Manager",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 308,
       "name": "R'One",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 309,
@@ -1861,7 +1861,7 @@
       "rank": 310,
       "name": "vitaliy",
       "value": 0,
-      "move": -3
+      "move": -1
     }
   ],
   "month": [
