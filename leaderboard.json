@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T08:02:28+00:00",
+  "updated": "2026-11-28T09:02:33+00:00",
   "count": 310,
   "has_movement": true,
   "all": [
@@ -2125,7 +2125,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 3,
@@ -2169,32 +2169,32 @@
     },
     {
       "rank": 11,
-      "name": "Серхио Ле'Трас",
-      "value": 3
-    },
-    {
-      "rank": 12,
       "name": "L G",
       "value": 3
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "SPM",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Алехандро)🍅 Белов🍅",
+      "value": 2
+    },
+    {
+      "rank": 16,
+      "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
@@ -2229,41 +2229,36 @@
     },
     {
       "rank": 23,
-      "name": "Eugene",
-      "value": 1
-    },
-    {
-      "rank": 24,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Saflander",
       "value": 1
     }
