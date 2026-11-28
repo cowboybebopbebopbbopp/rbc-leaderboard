@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T00:52:16+00:00",
+  "updated": "2026-11-28T01:01:53+00:00",
   "count": 310,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 2000,
+      "value": 2001,
       "move": 0
     },
     {
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 752,
+      "value": 753,
       "move": 0
     },
     {
@@ -414,7 +414,7 @@
     {
       "rank": 69,
       "name": "Алехандро)🍅 Белов🍅",
-      "value": 46,
+      "value": 48,
       "move": 0
     },
     {
@@ -1873,7 +1873,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 80
+      "value": 81
     },
     {
       "rank": 3,
@@ -1967,23 +1967,23 @@
     },
     {
       "rank": 21,
-      "name": "Logrus",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 16
     },
     {
       "rank": 22,
-      "name": "@wavesscalper",
+      "name": "Logrus",
       "value": 16
     },
     {
       "rank": 23,
-      "name": "Charlie Shefelman",
-      "value": 15
+      "name": "@wavesscalper",
+      "value": 16
     },
     {
       "rank": 24,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 14
+      "name": "Charlie Shefelman",
+      "value": 15
     },
     {
       "rank": 25,
@@ -2013,7 +2013,7 @@
     {
       "rank": 30,
       "name": "L G",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 31,
@@ -2125,7 +2125,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 3,
@@ -2179,91 +2179,96 @@
     },
     {
       "rank": 13,
+      "name": "L G",
+      "value": 3
+    },
+    {
+      "rank": 14,
       "name": "SPM",
       "value": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 15,
-      "name": "L G",
-      "value": 2
-    },
-    {
       "rank": 16,
-      "name": "Charlie Shefelman",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
       "rank": 17,
-      "name": "Николай Вереск",
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
       "rank": 18,
-      "name": "@wavesscalper",
+      "name": "Николай Вереск",
       "value": 2
     },
     {
       "rank": 19,
-      "name": "Sonic",
+      "name": "@wavesscalper",
       "value": 2
     },
     {
       "rank": 20,
+      "name": "Sonic",
+      "value": 2
+    },
+    {
+      "rank": 21,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Zero-sum Gamer",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Н С",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Saflander",
       "value": 1
     }
