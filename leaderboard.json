@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-28T07:02:23+00:00",
+  "updated": "2026-11-28T08:02:28+00:00",
   "count": 310,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5961,
+      "value": 5962,
       "move": 0
     },
     {
@@ -1868,7 +1868,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 180
+      "value": 181
     },
     {
       "rank": 2,
@@ -2120,12 +2120,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 53
+      "value": 54
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 22
+      "value": 20
     },
     {
       "rank": 3,
@@ -2139,37 +2139,37 @@
     },
     {
       "rank": 5,
-      "name": "Серхио Ле'Трас",
-      "value": 5
-    },
-    {
-      "rank": 6,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Ponemonec",
       "value": 5
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Руслан Иванов",
       "value": 4
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Don Michele Corleone",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "PiratesOfMining",
+      "value": 3
+    },
+    {
+      "rank": 11,
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
