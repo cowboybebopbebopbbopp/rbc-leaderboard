@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T17:03:14+00:00",
+  "updated": "2026-11-28T18:03:19+00:00",
   "count": 311,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 2001,
+      "value": 2002,
       "move": 0
     },
     {
@@ -1879,7 +1879,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 81
+      "value": 82
     },
     {
       "rank": 3,
@@ -1928,33 +1928,33 @@
     },
     {
       "rank": 12,
-      "name": "Igor",
-      "value": 24
-    },
-    {
-      "rank": 13,
       "name": "Анастасия D",
       "value": 24
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 23
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 22
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "iDiklonius",
       "value": 22
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Viktor",
       "value": 21
+    },
+    {
+      "rank": 17,
+      "name": "Igor",
+      "value": 20
     },
     {
       "rank": 18,
@@ -1983,18 +1983,18 @@
     },
     {
       "rank": 23,
-      "name": "Don Michele Corleone",
-      "value": 16
+      "name": "Синдбад Мореход",
+      "value": 15
     },
     {
       "rank": 24,
-      "name": "Charlie Shefelman",
+      "name": "Don Michele Corleone",
       "value": 15
     },
     {
       "rank": 25,
-      "name": "Синдбад Мореход",
-      "value": 15
+      "name": "Charlie Shefelman",
+      "value": 14
     },
     {
       "rank": 26,
@@ -2131,7 +2131,7 @@
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 3,
@@ -2170,17 +2170,17 @@
     },
     {
       "rank": 10,
-      "name": "PiratesOfMining",
-      "value": 3
-    },
-    {
-      "rank": 11,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Aся",
+      "value": 2
+    },
+    {
+      "rank": 12,
+      "name": "PiratesOfMining",
       "value": 2
     },
     {
