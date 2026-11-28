@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T12:02:48+00:00",
+  "updated": "2026-11-28T13:02:53+00:00",
   "count": 310,
   "has_movement": true,
   "all": [
@@ -1912,13 +1912,13 @@
     },
     {
       "rank": 10,
-      "name": "Igor",
+      "name": "Zero-sum Gamer",
       "value": 28
     },
     {
       "rank": 11,
-      "name": "Zero-sum Gamer",
-      "value": 28
+      "name": "Igor",
+      "value": 27
     },
     {
       "rank": 12,
@@ -2120,7 +2120,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 54
+      "value": 51
     },
     {
       "rank": 2,
@@ -2139,17 +2139,17 @@
     },
     {
       "rank": 5,
-      "name": "Ponemonec",
-      "value": 6
-    },
-    {
-      "rank": 6,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 5
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "iDiklonius",
+      "value": 5
+    },
+    {
+      "rank": 7,
+      "name": "Ponemonec",
       "value": 5
     },
     {
@@ -2249,16 +2249,11 @@
     },
     {
       "rank": 27,
-      "name": "Н С",
-      "value": 1
-    },
-    {
-      "rank": 28,
       "name": "M",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Saflander",
       "value": 1
     }
