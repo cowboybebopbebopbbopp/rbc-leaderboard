@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T13:02:53+00:00",
+  "updated": "2026-11-28T14:02:58+00:00",
   "count": 310,
   "has_movement": true,
   "all": [
@@ -2154,32 +2154,32 @@
     },
     {
       "rank": 8,
-      "name": "Manis Love",
-      "value": 4
-    },
-    {
-      "rank": 9,
       "name": "Руслан Иванов",
       "value": 4
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Don Michele Corleone",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "PiratesOfMining",
       "value": 3
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "L G",
       "value": 3
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Алексей",
+      "value": 2
+    },
+    {
+      "rank": 13,
+      "name": "Manis Love",
       "value": 2
     },
     {
@@ -2189,71 +2189,61 @@
     },
     {
       "rank": 15,
-      "name": "Серхио Ле'Трас",
-      "value": 2
-    },
-    {
-      "rank": 16,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Николай Вереск",
       "value": 2
     },
     {
-      "rank": 18,
-      "name": "@wavesscalper",
-      "value": 2
-    },
-    {
-      "rank": 19,
+      "rank": 17,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 18,
       "name": "SPM",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 19,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 20,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 21,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 22,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 23,
       "name": "lefkorosos",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 24,
+      "name": "@wavesscalper",
+      "value": 1
+    },
+    {
+      "rank": 25,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 27,
-      "name": "M",
-      "value": 1
-    },
-    {
-      "rank": 28,
+      "rank": 26,
       "name": "Saflander",
       "value": 1
     }
