@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T11:02:43+00:00",
+  "updated": "2026-11-28T12:02:48+00:00",
   "count": 310,
   "has_movement": true,
   "all": [
@@ -407,15 +407,15 @@
     },
     {
       "rank": 68,
-      "name": "Sergei IVANOV",
-      "value": 49,
-      "move": 0
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 51,
+      "move": 1
     },
     {
       "rank": 69,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 48,
-      "move": 0
+      "name": "Sergei IVANOV",
+      "value": 49,
+      "move": -1
     },
     {
       "rank": 70,
@@ -1913,7 +1913,7 @@
     {
       "rank": 10,
       "name": "Igor",
-      "value": 29
+      "value": 28
     },
     {
       "rank": 11,
@@ -1947,17 +1947,17 @@
     },
     {
       "rank": 17,
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 19
+    },
+    {
+      "rank": 18,
       "name": "Vitaliy",
       "value": 18
     },
     {
-      "rank": 18,
-      "name": "A.",
-      "value": 16
-    },
-    {
       "rank": 19,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "A.",
       "value": 16
     },
     {
@@ -2144,47 +2144,47 @@
     },
     {
       "rank": 6,
-      "name": "iDiklonius",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 5
     },
     {
       "rank": 7,
+      "name": "iDiklonius",
+      "value": 5
+    },
+    {
+      "rank": 8,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Руслан Иванов",
       "value": 4
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Don Michele Corleone",
       "value": 4
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "PiratesOfMining",
       "value": 3
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "L G",
       "value": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 13,
-      "name": "Aся",
-      "value": 2
-    },
-    {
       "rank": 14,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Aся",
       "value": 2
     },
     {
