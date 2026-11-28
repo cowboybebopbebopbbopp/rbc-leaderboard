@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T01:01:53+00:00",
+  "updated": "2026-11-28T02:01:58+00:00",
   "count": 310,
   "has_movement": true,
   "all": [
@@ -1952,27 +1952,27 @@
     },
     {
       "rank": 18,
-      "name": "Синдбад Мореход",
-      "value": 18
-    },
-    {
-      "rank": 19,
       "name": "Don Michele Corleone",
       "value": 17
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "A.",
       "value": 16
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 16
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Logrus",
+      "value": 16
+    },
+    {
+      "rank": 22,
+      "name": "Синдбад Мореход",
       "value": 16
     },
     {
