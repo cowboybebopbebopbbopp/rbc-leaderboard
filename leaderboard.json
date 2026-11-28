@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T10:02:38+00:00",
+  "updated": "2026-11-28T11:02:43+00:00",
   "count": 310,
   "has_movement": true,
   "all": [
@@ -503,15 +503,15 @@
     },
     {
       "rank": 84,
-      "name": "Константин",
-      "value": 25,
-      "move": -1
+      "name": "Ponemonec",
+      "value": 26,
+      "move": 0
     },
     {
       "rank": 85,
-      "name": "Ponemonec",
+      "name": "Константин",
       "value": 25,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 86,
@@ -1888,7 +1888,7 @@
     {
       "rank": 5,
       "name": "SPM",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 6,
@@ -1907,13 +1907,13 @@
     },
     {
       "rank": 9,
-      "name": "Igor",
-      "value": 31
+      "name": "ᴦоᴧод",
+      "value": 30
     },
     {
       "rank": 10,
-      "name": "ᴦоᴧод",
-      "value": 30
+      "name": "Igor",
+      "value": 29
     },
     {
       "rank": 11,
@@ -1988,7 +1988,7 @@
     {
       "rank": 25,
       "name": "Ponemonec",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 26,
@@ -2139,12 +2139,12 @@
     },
     {
       "rank": 5,
-      "name": "iDiklonius",
-      "value": 5
+      "name": "Ponemonec",
+      "value": 6
     },
     {
       "rank": 6,
-      "name": "Ponemonec",
+      "name": "iDiklonius",
       "value": 5
     },
     {
@@ -2179,43 +2179,43 @@
     },
     {
       "rank": 13,
-      "name": "SPM",
-      "value": 2
-    },
-    {
-      "rank": 14,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Николай Вереск",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Sonic",
       "value": 2
+    },
+    {
+      "rank": 20,
+      "name": "SPM",
+      "value": 1
     },
     {
       "rank": 21,
