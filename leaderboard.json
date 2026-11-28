@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T02:01:58+00:00",
+  "updated": "2026-11-28T03:02:03+00:00",
   "count": 310,
   "has_movement": true,
   "all": [
@@ -1972,17 +1972,17 @@
     },
     {
       "rank": 22,
-      "name": "Синдбад Мореход",
-      "value": 16
-    },
-    {
-      "rank": 23,
       "name": "@wavesscalper",
       "value": 16
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Charlie Shefelman",
+      "value": 15
+    },
+    {
+      "rank": 24,
+      "name": "Синдбад Мореход",
       "value": 15
     },
     {
