@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T15:03:03+00:00",
+  "updated": "2026-11-28T16:03:09+00:00",
   "count": 311,
   "has_movement": true,
   "all": [
@@ -1923,13 +1923,13 @@
     },
     {
       "rank": 11,
-      "name": "Igor",
+      "name": "Aся",
       "value": 27
     },
     {
       "rank": 12,
-      "name": "Aся",
-      "value": 27
+      "name": "Igor",
+      "value": 25
     },
     {
       "rank": 13,
@@ -2126,12 +2126,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 50
+      "value": 49
     },
     {
       "rank": 2,
       "name": "🅾🅻🅶🅰",
-      "value": 19
+      "value": 15
     },
     {
       "rank": 3,
@@ -2155,12 +2155,12 @@
     },
     {
       "rank": 7,
-      "name": "Ponemonec",
-      "value": 5
+      "name": "Руслан Иванов",
+      "value": 4
     },
     {
       "rank": 8,
-      "name": "Руслан Иванов",
+      "name": "Ponemonec",
       "value": 4
     },
     {
@@ -2185,37 +2185,37 @@
     },
     {
       "rank": 13,
-      "name": "Manis Love",
-      "value": 2
-    },
-    {
-      "rank": 14,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Николай Вереск",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Sonic",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "SPM",
       "value": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "A.",
+      "value": 1
+    },
+    {
+      "rank": 19,
+      "name": "Manis Love",
       "value": 1
     },
     {
